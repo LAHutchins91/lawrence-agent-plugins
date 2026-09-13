@@ -1,0 +1,15 @@
+{
+  "name": "helm-chart-lab",
+  "displayName": "Helm Chart Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Helm Chart.yaml / values.yaml / templates YAML heuristics — no Helm CLI, cluster, or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "helm", "chart", "kubernetes", "yaml", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["FREE", "zero-auth", "helm", "mcp", "local"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

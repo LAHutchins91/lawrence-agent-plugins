@@ -2136,6 +2136,19 @@
         "codegen",
         "devtools"
       ]
+    },
+    {
+      "name": "helm-chart-lab",
+      "source": "helm-chart-lab",
+      "description": "Helm Chart.yaml/values.yaml parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "helm",
+        "kubernetes",
+        "charts",
+        "devtools"
+      ]
     }
   ]
 }
