@@ -1,0 +1,31 @@
+{
+  "name": "falco-lab",
+  "displayName": "Falco Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Falco rules YAML heuristics \u2014 no falco CLI, kernel/eBPF, network, or filesystem follow.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/falco-lab",
+  "keywords": [
+    "mcp",
+    "falco",
+    "rules",
+    "yaml",
+    "security",
+    "runtime",
+    "developer-tools"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "falco",
+    "rules",
+    "mcp",
+    "local"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

@@ -2386,6 +2386,11 @@
       "name": "stylelint-lab",
       "source": "stylelint-lab",
       "description": "Stylelint rules/extends/overrides heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "falco-lab",
+      "source": "falco-lab",
+      "description": "Falco rules/macros/outputs YAML heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }
