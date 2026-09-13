@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="effect-schema-lab">
+  <rect width="128" height="128" rx="24" fill="#0c1222"/>
+  <path d="M34 88 L64 32 L94 88 Z" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M48 72 H80 M54 60 H74" stroke="#7dd3fc" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="64" cy="48" r="5" fill="#0ea5e9"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="5.5" font-weight="700" fill="#94a3b8">effect-schema-lab</text>
+</svg>

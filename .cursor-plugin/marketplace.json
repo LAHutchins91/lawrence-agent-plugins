@@ -1515,6 +1515,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "effect-schema-lab",
+      "source": "effect-schema-lab",
+      "description": "Effect Schema schemas/fields/transforms parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "effect",
+        "schema",
+        "validation",
+        "devtools"
+      ]
     }
   ]
 }
