@@ -1,0 +1,15 @@
+{
+  "name": "argocd-lab",
+  "displayName": "Argo CD Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Argo CD Application / AppProject / ApplicationSet YAML heuristics — apps listings, source counts, syncPolicy hints, and lite lint — pasted source only, never runs argocd or kubectl, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "argocd", "argo-cd", "kubernetes", "yaml", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "argocd", "argo-cd", "kubernetes", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
