@@ -1528,6 +1528,19 @@
         "validation",
         "devtools"
       ]
+    },
+    {
+      "name": "runtypes-lab",
+      "source": "runtypes-lab",
+      "description": "Runtypes types/fields/constraints parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "runtypes",
+        "validation",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }
