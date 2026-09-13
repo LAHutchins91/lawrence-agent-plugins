@@ -2248,6 +2248,19 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "boundary-lab",
+      "source": "boundary-lab",
+      "description": "HashiCorp Boundary scopes/auths/targets heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "boundary",
+        "hashicorp",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }

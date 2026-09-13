@@ -1,0 +1,15 @@
+{
+  "name": "boundary-lab",
+  "displayName": "Boundary Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Boundary HCL/config heuristics — no boundary CLI, controller/worker, or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "boundary", "hcl", "scope", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["FREE", "zero-auth", "boundary", "hcl", "mcp", "local"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
