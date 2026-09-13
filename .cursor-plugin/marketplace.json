@@ -683,6 +683,18 @@
         "apache",
         "devtools"
       ]
+    },
+    {
+      "name": "graphql-sdl-lab",
+      "source": "graphql-sdl-lab",
+      "description": "Lite GraphQL SDL type/field parse and lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "graphql",
+        "sdl",
+        "devtools"
+      ]
     }
   ]
 }
