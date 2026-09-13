@@ -1,0 +1,15 @@
+{
+  "name": "makefile-lab",
+  "displayName": "Makefile Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Makefile text — list targets, .PHONY names, variable lookup, and lite lint — no make binary, no network, no shell.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "makefile", "make", "phony", "variables", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "makefile", "make", "phony", "variables", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

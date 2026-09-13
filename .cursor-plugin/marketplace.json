@@ -892,6 +892,18 @@
         "kotlin",
         "devtools"
       ]
+    },
+    {
+      "name": "makefile-lab",
+      "source": "makefile-lab",
+      "description": "Makefile targets/PHONY/vars + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "makefile",
+        "make",
+        "devtools"
+      ]
     }
   ]
 }

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="makefile-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="28" y="30" width="72" height="58" rx="8" fill="#1e293b" stroke="#fbbf24" stroke-width="3"/>
+  <text x="64" y="52" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="700" fill="#fcd34d">Makefile</text>
+  <text x="64" y="68" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#e2e8f0">targets</text>
+  <text x="64" y="114" text-anchor="middle" font-family="ui-monospace, monospace" font-size="7" font-weight="700" fill="#94a3b8">makefile-lab</text>
+</svg>
