@@ -1630,6 +1630,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "testdouble-lab",
+      "source": "testdouble-lab",
+      "description": "testdouble.js replacements/when/verify parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "testdouble",
+        "mocking",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }
