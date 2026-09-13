@@ -5409,6 +5409,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "opa-lab",
+      "source": "opa-lab",
+      "description": "OPA Rego packages/rules/tests parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "opa",
+        "rego",
+        "policy",
+        "devtools"
+      ]
     }
   ]
 }

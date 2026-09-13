@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="OPA Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0B1220"/>
+  <rect x="48" y="72" width="160" height="112" rx="14" fill="none" stroke="#00B4D8" stroke-width="12"/>
+  <path d="M72 120 H184 M72 144 H152 M72 168 H168" fill="none" stroke="#90E0EF" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="184" cy="88" r="10" fill="#00B4D8"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#CAF0F8">OPA</text>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "opa-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}
