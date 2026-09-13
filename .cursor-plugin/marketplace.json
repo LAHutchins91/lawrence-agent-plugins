@@ -4,7 +4,7 @@
     "name": "Lawrence Hutchins"
   },
   "metadata": {
-    "description": "Zero-auth local MCP plugins for coding agents: Dev Microtools, Log Fingerprint, Env Contract."
+    "description": "Zero-auth local MCP plugins for coding agents: Dev Microtools, Log Fingerprint, Env Contract, SQL Migration Guard."
   },
   "plugins": [
     {
@@ -12,21 +12,51 @@
       "source": "dev-microtools",
       "description": "Changelog briefs, semver risk, JWT inspect, cron explain, OpenAPI diff, stack parse, env key diff.",
       "category": "developer-tools",
-      "keywords": ["mcp", "devtools", "semver", "openapi", "jwt", "cron"]
+      "keywords": [
+        "mcp",
+        "devtools",
+        "semver",
+        "openapi",
+        "jwt",
+        "cron"
+      ]
     },
     {
       "name": "log-fingerprint",
       "source": "log-fingerprint",
-      "description": "Fingerprint and cluster noisy logs, detect spikes, and brief error budgets — local, zero-auth.",
+      "description": "Fingerprint and cluster noisy logs, detect spikes, and brief error budgets \u2014 local, zero-auth.",
       "category": "developer-tools",
-      "keywords": ["mcp", "logs", "incident", "slo"]
+      "keywords": [
+        "mcp",
+        "logs",
+        "incident",
+        "slo"
+      ]
     },
     {
       "name": "env-contract",
       "source": "env-contract",
       "description": "Infer env contracts, check drift, render safe .env.example, and overlap-check docker-compose env.",
       "category": "developer-tools",
-      "keywords": ["mcp", "env", "dotenv", "docker-compose"]
+      "keywords": [
+        "mcp",
+        "env",
+        "dotenv",
+        "docker-compose"
+      ]
+    },
+    {
+      "name": "sql-migration-guard",
+      "source": "sql-migration-guard",
+      "description": "Heuristic SQL migration risk scanning, order checks, rollback sketches, and lock notes \u2014 local, zero-auth.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "sql",
+        "migrations",
+        "postgres",
+        "mysql"
+      ]
     }
   ]
 }

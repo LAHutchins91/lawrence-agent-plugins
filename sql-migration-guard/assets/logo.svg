@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="sql-migration-guard">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="22" y="30" width="84" height="68" rx="10" fill="#1e293b" stroke="#38bdf8" stroke-width="4"/>
+  <path d="M38 50h52M38 62h36M38 74h44" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="92" cy="92" r="24" fill="#0ea5e9"/>
+  <path d="M80 92h24M92 80v24" fill="none" stroke="#ecfeff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M84 84l16 16M100 84l-16 16" fill="none" stroke="#0f172a" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+</svg>
