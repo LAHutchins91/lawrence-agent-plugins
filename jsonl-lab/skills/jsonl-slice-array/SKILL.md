@@ -1,8 +1,6 @@
 ---
 name: jsonl-slice-array
-description: >
-  Slice JSONL windows and convert to capped arrays with the local zero-auth
-  jsonl-lab MCP. Default slice limit 50 (max 500); to_array 200k bytes / 1000 lines.
+description: Slice JSONL windows and convert to capped arrays with the local zero-auth jsonl-lab MCP. Default slice limit 50 (max 500); to_array 200k bytes / 1000 lines.
 version: 1.0.0
 tags: [jsonl, slice, array, ndjson, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: nginx-parse-listen
-description: >
-  Parse nginx.conf server/location blocks and extract listen ports with the
-  local zero-auth nginx-conf-lab MCP. String-level only — no FS includes or
-  network I/O.
+description: Parse nginx.conf server/location blocks and extract listen ports with the local zero-auth nginx-conf-lab MCP. String-level only — no FS includes or network I/O.
 version: 1.0.0
 tags: [nginx, conf, parse, listen, developer-tools]
 ---

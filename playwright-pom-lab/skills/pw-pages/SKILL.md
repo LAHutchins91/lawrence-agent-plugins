@@ -1,11 +1,6 @@
 ---
 name: pw-pages
-description: >
-  List Page Object / class-style page definitions (Page/POM classes,
-  export const *Page helpers) and getByRole / getByText / getByTestId /
-  getByLabel / getByPlaceholder / .locator( / page.locator counts from
-  pasted Playwright JS/TS. Local only — never runs Playwright or launches
-  a browser, no fetch.
+description: "List Page Object / class-style page definitions (Page/POM classes, export const *Page helpers) and getByRole / getByText / getByTestId / getByLabel / getByPlaceholder / .locator( / page.locator counts from pasted Playwright JS/TS. Local only — never runs Playwright or launches a browser, no fetch."
 version: 1.0.0
 tags: [playwright, pom, page-object, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: pc-includes-plugins
-description: >
-  Extract protoc -I / --proto_path includes, trailing .proto files, and
-  --*_out / --plugin= generators with the local zero-auth protoc-lab MCP.
-  No protoc/protobuf compiler runtime, no network.
+description: "Extract protoc -I / --proto_path includes, trailing .proto files, and --*_out / --plugin= generators with the local zero-auth protoc-lab MCP. No protoc/protobuf compiler runtime, no network."
 version: 1.0.0
 tags: [protoc, protobuf, includes, plugins, cli, developer-tools]
 ---

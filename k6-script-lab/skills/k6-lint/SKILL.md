@@ -1,10 +1,6 @@
 ---
 name: k6-lint
-description: >
-  List k6 thresholds{} (http_req_duration / http_req_failed / checks /
-  custom Rate/Trend/Counter) and lite-lint for missing thresholds,
-  sleep-only pacing, http without check, empty file, and
-  insecureSkipTLSVerify. Local only, never runs k6/load tests, no fetch.
+description: "List k6 thresholds{} (http_req_duration / http_req_failed / checks / custom Rate/Trend/Counter) and lite-lint for missing thresholds, sleep-only pacing, http without check, empty file, and insecureSkipTLSVerify. Local only, never runs k6/load tests, no fetch."
 version: 1.0.0
 tags: [k6, load-testing, lint, local]
 ---

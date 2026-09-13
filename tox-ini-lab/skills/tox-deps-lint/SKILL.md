@@ -1,8 +1,6 @@
 ---
 name: tox-deps-lint
-description: >
-  List tox.ini deps across testenvs and run educational heuristic lite lint
-  with the local zero-auth tox-ini-lab MCP. No tox binary, no network, no venv.
+description: "List tox.ini deps across testenvs and run educational heuristic lite lint with the local zero-auth tox-ini-lab MCP. No tox binary, no network, no venv."
 version: 1.0.0
 tags: [tox, tox.ini, deps, lint, python, developer-tools]
 ---

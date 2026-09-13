@@ -1,9 +1,6 @@
 ---
 name: tf-list
-description: >
-  Parse pasted Terraform HCL text locally with zero-auth MCP tools:
-  list resources, list modules with source, look up variables.
-  Lite regex scanner — not terraform CLI. No network.
+description: "Parse pasted Terraform HCL text locally with zero-auth MCP tools: list resources, list modules with source, look up variables. Lite regex scanner — not terraform CLI. No network."
 version: 1.0.0
 tags: [terraform, hcl, parse, local]
 ---

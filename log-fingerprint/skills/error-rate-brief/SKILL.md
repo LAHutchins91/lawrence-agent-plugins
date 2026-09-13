@@ -1,8 +1,6 @@
 ---
 name: error-rate-brief
-description: >
-  Turn totalRequests + errorCount + a window label into an error-rate and SLO
-  error-budget brief (99.9% / 99.5% / 99%) using error_budget_brief.
+description: "Turn totalRequests + errorCount + a window label into an error-rate and SLO error-budget brief (99.9% / 99.5% / 99%) using error_budget_brief."
 version: 1.0.0
 tags: [slo, error-budget, reliability, incident]
 ---

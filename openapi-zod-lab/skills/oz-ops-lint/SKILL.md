@@ -1,8 +1,6 @@
 ---
 name: oz-ops-lint
-description: >
-  Summarize OpenAPI operations and run educational heuristic lite lint on
-  YAML/JSON text with the local zero-auth openapi-zod-lab MCP. No Zod runtime, no codegen.
+description: "Summarize OpenAPI operations and run educational heuristic lite lint on YAML/JSON text with the local zero-auth openapi-zod-lab MCP. No Zod runtime, no codegen."
 version: 1.0.0
 tags: [openapi, zod, operations, lint, developer-tools]
 ---

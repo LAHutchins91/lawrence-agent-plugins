@@ -1,8 +1,6 @@
 ---
 name: gqlc-scalars-lint
-description: >
-  Extract config.scalars and run educational heuristic lite lint with the local
-  zero-auth graphql-codegen-lab MCP. No codegen runtime, no network.
+description: "Extract config.scalars and run educational heuristic lite lint with the local zero-auth graphql-codegen-lab MCP. No codegen runtime, no network."
 version: 1.0.0
 tags: [graphql-codegen, graphql, scalars, lint, config, developer-tools]
 ---

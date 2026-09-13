@@ -1,8 +1,6 @@
 ---
 name: gqlc-plugins-documents
-description: >
-  Extract GraphQL Code Generator plugins/generates and schema/documents with
-  the local zero-auth graphql-codegen-lab MCP. No codegen runtime, no network.
+description: "Extract GraphQL Code Generator plugins/generates and schema/documents with the local zero-auth graphql-codegen-lab MCP. No codegen runtime, no network."
 version: 1.0.0
 tags: [graphql-codegen, graphql, plugins, documents, schema, developer-tools]
 ---

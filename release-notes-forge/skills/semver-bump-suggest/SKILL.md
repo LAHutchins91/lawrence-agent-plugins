@@ -1,9 +1,6 @@
 ---
 name: semver-bump-suggest
-description: >
-  Suggest the next semver bump (major/minor/patch) from conventional-commit
-  text and currentVersion, with rationale and breaking-change risk — local,
-  zero-auth, no release SaaS.
+description: "Suggest the next semver bump (major/minor/patch) from conventional-commit text and currentVersion, with rationale and breaking-change risk — local, zero-auth, no release SaaS."
 version: 1.0.0
 tags: [semver, version-bump, conventional-commits, release, major-minor-patch]
 ---

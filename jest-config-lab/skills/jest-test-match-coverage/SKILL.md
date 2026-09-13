@@ -1,9 +1,6 @@
 ---
 name: jest-test-match-coverage
-description: >
-  Extract Jest testMatch/testRegex/roots and coverage options from Jest config
-  text with the local zero-auth jest-config-lab MCP. JSONC preferred;
-  JS heuristics; no jest binary or network.
+description: Extract Jest testMatch/testRegex/roots and coverage options from Jest config text with the local zero-auth jest-config-lab MCP. JSONC preferred; JS heuristics; no jest binary or network.
 version: 1.0.0
 tags: [jest, jest-config, testMatch, coverage, developer-tools]
 ---

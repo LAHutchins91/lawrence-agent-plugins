@@ -1,10 +1,6 @@
 ---
 name: tf-lint
-description: >
-  Lite-lint pasted Terraform HCL for duplicate resource addresses,
-  missing required_providers, empty module source, and suspicious
-  hardcoded secrets (password/secret/token key heuristics). Local only,
-  no terraform CLI, no fetch.
+description: "Lite-lint pasted Terraform HCL for duplicate resource addresses, missing required_providers, empty module source, and suspicious hardcoded secrets (password/secret/token key heuristics). Local only, no terraform CLI, no fetch."
 version: 1.0.0
 tags: [terraform, hcl, lint, local]
 ---

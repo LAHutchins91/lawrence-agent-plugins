@@ -1,8 +1,6 @@
 ---
 name: csv-schema-check
-description: >
-  Infer and validate CSV schemas from pasted text, and diff headers between
-  two CSVs — zero-auth, no network, no external CSV libraries.
+description: "Infer and validate CSV schemas from pasted text, and diff headers between two CSVs — zero-auth, no network, no external CSV libraries."
 version: 1.0.0
 tags: [csv, schema, validation, headers, data-quality]
 ---

@@ -1,9 +1,6 @@
 ---
 name: tsc-compiler-paths
-description: >
-  Extract compilerOptions and path aliases from tsconfig.json / JSONC text
-  with the local zero-auth tsconfig-lab MCP. String-level only — no tsc exec
-  or filesystem reads.
+description: Extract compilerOptions and path aliases from tsconfig.json / JSONC text with the local zero-auth tsconfig-lab MCP. String-level only — no tsc exec or filesystem reads.
 version: 1.0.0
 tags: [tsconfig, typescript, compilerOptions, paths, developer-tools]
 ---

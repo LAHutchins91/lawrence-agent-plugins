@@ -1,8 +1,6 @@
 ---
 name: diff-risk-flags
-description: >
-  Light risk heuristics on pasted unified diffs — lockfiles, migrations,
-  secrets-ish filenames, large deletes — zero-auth local only.
+description: "Light risk heuristics on pasted unified diffs — lockfiles, migrations, secrets-ish filenames, large deletes — zero-auth local only."
 version: 1.0.0
 tags: [diff, risk, lockfile, migration, secrets, review]
 ---

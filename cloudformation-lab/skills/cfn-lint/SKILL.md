@@ -1,11 +1,6 @@
 ---
 name: cfn-lint
-description: >
-  List CloudFormation Outputs keys (Outputs / Export / Value / Description /
-  Condition) and lite-lint for missing Resources:, wildcard IAM Action/Resource
-  '*', Password/Secret/Token params without NoEcho, empty file, and hardcoded
-  ami-/12-digit account ids. Local only, never runs AWS CLI or cfn-lint binary,
-  no fetch.
+description: "List CloudFormation Outputs keys (Outputs / Export / Value / Description / Condition) and lite-lint for missing Resources:, wildcard IAM Action/Resource '*', Password/Secret/Token params without NoEcho, empty file, and hardcoded ami-/12-digit account ids. Local only, never runs AWS CLI or cfn-lint binary, no fetch."
 version: 1.0.0
 tags: [cloudformation, aws, cfn, yaml, lint, iam, local]
 ---

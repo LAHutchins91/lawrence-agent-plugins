@@ -1,8 +1,6 @@
 ---
 name: ec-diff-lint
-description: >
-  Diff two .editorconfig texts and run educational heuristic lite lint with the
-  local zero-auth editorconfig-lab MCP. No network or disk walk.
+description: Diff two .editorconfig texts and run educational heuristic lite lint with the local zero-auth editorconfig-lab MCP. No network or disk walk.
 version: 1.0.0
 tags: [editorconfig, diff, lint, developer-tools]
 ---

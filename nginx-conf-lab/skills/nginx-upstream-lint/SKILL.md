@@ -1,9 +1,6 @@
 ---
 name: nginx-upstream-lint
-description: >
-  List nginx upstream blocks and run heuristic conf lint (empty server_name,
-  duplicate locations, missing semicolons, unbalanced braces, root+alias)
-  with the local zero-auth nginx-conf-lab MCP. String-only — no nginx -t / FS.
+description: "List nginx upstream blocks and run heuristic conf lint (empty server_name, duplicate locations, missing semicolons, unbalanced braces, root+alias) with the local zero-auth nginx-conf-lab MCP. String-only — no nginx -t / FS."
 version: 1.0.0
 tags: [nginx, conf, upstream, lint, developer-tools]
 ---

@@ -1,12 +1,6 @@
 ---
 name: k6-scenarios
-description: >
-  List k6 scenarios{} keys and executor types (constant-vus /
-  ramping-vus / per-vu-iterations / shared-iterations /
-  constant-arrival-rate / ramping-arrival-rate /
-  externally-controlled) and check / group / fail / http.get /
-  http.post / http.put / http.del / http.request counts from pasted
-  k6 JS source. Local only — never runs k6 or load tests, no fetch.
+description: "List k6 scenarios{} keys and executor types (constant-vus / ramping-vus / per-vu-iterations / shared-iterations / constant-arrival-rate / ramping-arrival-rate / externally-controlled) and check / group / fail / http.get / http.post / http.put / http.del / http.request counts from pasted k6 JS source. Local only — never runs k6 or load tests, no fetch."
 version: 1.0.0
 tags: [k6, load-testing, scenarios, local]
 ---

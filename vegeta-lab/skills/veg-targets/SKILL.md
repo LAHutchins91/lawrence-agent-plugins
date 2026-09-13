@@ -1,11 +1,6 @@
 ---
 name: veg-targets
-description: >
-  List Vegeta GET/POST/PUT/DELETE target lines / NewStaticTargeter Method/URL
-  values, plus rate/pacer hints (Rate / ConstantPacer / ConstantArrivalRate /
-  -rate / -duration / -connections / -workers / -timeout / attack) from pasted
-  Vegeta shell/Go/targets source. Local only — never runs Vegeta or load tests,
-  no fetch.
+description: "List Vegeta GET/POST/PUT/DELETE target lines / NewStaticTargeter Method/URL values, plus rate/pacer hints (Rate / ConstantPacer / ConstantArrivalRate / -rate / -duration / -connections / -workers / -timeout / attack) from pasted Vegeta shell/Go/targets source. Local only — never runs Vegeta or load tests, no fetch."
 version: 1.0.0
 tags: [vegeta, load-testing, targets, local]
 ---

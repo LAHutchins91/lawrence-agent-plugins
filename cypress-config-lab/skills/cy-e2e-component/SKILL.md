@@ -1,9 +1,6 @@
 ---
 name: cy-e2e-component
-description: >
-  Extract Cypress e2e and component testing blocks from cypress.config text
-  with the local zero-auth cypress-config-lab MCP. JSONC preferred;
-  defineConfig / JS heuristics; no cypress binary or network.
+description: Extract Cypress e2e and component testing blocks from cypress.config text with the local zero-auth cypress-config-lab MCP. JSONC preferred; defineConfig / JS heuristics; no cypress binary or network.
 version: 1.0.0
 tags: [cypress, cypress-config, e2e, component, developer-tools]
 ---

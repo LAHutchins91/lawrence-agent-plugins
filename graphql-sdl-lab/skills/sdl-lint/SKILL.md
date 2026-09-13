@@ -1,8 +1,6 @@
 ---
 name: sdl-lint
-description: >
-  Lite-lint pasted GraphQL SDL for missing Query/Mutation roots, duplicate
-  type names, empty bodies, and reserved name clashes. Local only, no fetch.
+description: "Lite-lint pasted GraphQL SDL for missing Query/Mutation roots, duplicate type names, empty bodies, and reserved name clashes. Local only, no fetch."
 version: 1.0.0
 tags: [graphql, sdl, lint, schema, local]
 ---

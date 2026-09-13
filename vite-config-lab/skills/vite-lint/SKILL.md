@@ -1,9 +1,6 @@
 ---
 name: vite-lint
-description: >
-  Lite-lint pasted vite.config.* for missing root/base notes, server.host true
-  (or 0.0.0.0) caution, empty plugins, and build.outDir missing when build is
-  present. Local only, no vite binary, no fetch.
+description: "Lite-lint pasted vite.config.* for missing root/base notes, server.host true (or 0.0.0.0) caution, empty plugins, and build.outDir missing when build is present. Local only, no vite binary, no fetch."
 version: 1.0.0
 tags: [vite, vite.config, lint, server, build, local]
 ---

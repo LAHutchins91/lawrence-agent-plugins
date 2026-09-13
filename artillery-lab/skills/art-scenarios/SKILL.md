@@ -1,10 +1,6 @@
 ---
 name: art-scenarios
-description: >
-  List Artillery scenarios: / scenario: names and flow: step counts, plus
-  phase hints (duration / arrivalRate / arrivalCount / rampTo / maxVusers /
-  pause) from pasted Artillery YAML/JS source. Local only — never runs
-  Artillery or load tests, no fetch.
+description: "List Artillery scenarios: / scenario: names and flow: step counts, plus phase hints (duration / arrivalRate / arrivalCount / rampTo / maxVusers / pause) from pasted Artillery YAML/JS source. Local only — never runs Artillery or load tests, no fetch."
 version: 1.0.0
 tags: [artillery, load-testing, scenarios, local]
 ---

@@ -1,8 +1,6 @@
 ---
 name: schema-fixture-gen
-description: >
-  Generate deterministic JSON fixtures from a JSON Schema and optionally
-  validate them — local zero-auth MCP for contract/fixture tests.
+description: Generate deterministic JSON fixtures from a JSON Schema and optionally validate them — local zero-auth MCP for contract/fixture tests.
 version: 1.0.0
 tags: [json-schema, fixtures, validation, testing, ajv]
 ---

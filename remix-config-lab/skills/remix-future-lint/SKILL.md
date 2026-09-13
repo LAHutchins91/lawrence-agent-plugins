@@ -1,9 +1,6 @@
 ---
 name: remix-future-lint
-description: >
-  Extract future flags and run educational heuristic lite lint on remix.config
-  / vite remix({…}) text with the local zero-auth remix-config-lab MCP. No remix
-  binary, no network.
+description: "Extract future flags and run educational heuristic lite lint on remix.config / vite remix({…}) text with the local zero-auth remix-config-lab MCP. No remix binary, no network."
 version: 1.0.0
 tags: [remix, remix-config, future, lint, developer-tools]
 ---

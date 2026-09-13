@@ -1,9 +1,6 @@
 ---
 name: har-regression-review
-description: >
-  Compare before/after HTTP Archive (HAR) captures for regressions in status,
-  timing, and payload size. Summarize traffic shape, then diff by method+path
-  and highlight top time/size regressions — local zero-auth MCP, no SaaS.
+description: "Compare before/after HTTP Archive (HAR) captures for regressions in status, timing, and payload size. Summarize traffic shape, then diff by method+path and highlight top time/size regressions — local zero-auth MCP, no SaaS."
 version: 1.0.0
 tags: [har, http-archive, diff, regression, performance, timing, size]
 ---

@@ -1,9 +1,6 @@
 ---
 name: tl-queries-events
-description: >
-  Extract Testing Library queries (getBy*/queryBy*/findBy*/screen.*) and
-  userEvent/fireEvent hints from JS/TS text with the local zero-auth
-  testing-library-lab MCP. No DOM/@testing-library runtime, no network.
+description: "Extract Testing Library queries (getBy*/queryBy*/findBy*/screen.*) and userEvent/fireEvent hints from JS/TS text with the local zero-auth testing-library-lab MCP. No DOM/@testing-library runtime, no network."
 version: 1.0.0
 tags: [testing-library, queries, user-event, developer-tools]
 ---

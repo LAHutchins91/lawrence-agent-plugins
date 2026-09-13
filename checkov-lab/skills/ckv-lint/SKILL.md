@@ -1,10 +1,6 @@
 ---
 name: ckv-lint
-description: >
-  List Checkov skip keyword counts (checkov:skip= / skip_check /
-  soft-fail / quiet / compact / --skip-check) and lite-lint for skip
-  without reason, broad skip-all, empty file, soft-fail only, and
-  missing framework. Local only, never runs checkov CLI, no fetch.
+description: "List Checkov skip keyword counts (checkov:skip= / skip_check / soft-fail / quiet / compact / --skip-check) and lite-lint for skip without reason, broad skip-all, empty file, soft-fail only, and missing framework. Local only, never runs checkov CLI, no fetch."
 version: 1.0.0
 tags: [checkov, iac, lint, skips, local]
 ---

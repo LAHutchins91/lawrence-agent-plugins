@@ -1,8 +1,6 @@
 ---
 name: yaml-secret-redact
-description: >
-  Redact values under password/secret/token/key/credential YAML keys —
-  return masked YAML only; never echo original secret values.
+description: Redact values under password/secret/token/key/credential YAML keys — return masked YAML only; never echo original secret values.
 version: 1.0.0
 tags: [yaml, secrets, redact, password, token, privacy]
 ---

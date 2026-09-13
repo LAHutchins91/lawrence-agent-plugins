@@ -1,9 +1,6 @@
 ---
 name: eslint-extends-rules
-description: >
-  List extends and summarize rule severities from ESLint config text
-  with the local zero-auth eslint-config-lab MCP. JSONC preferred;
-  YAML/JS heuristics; no eslint binary or network.
+description: List extends and summarize rule severities from ESLint config text with the local zero-auth eslint-config-lab MCP. JSONC preferred; YAML/JS heuristics; no eslint binary or network.
 version: 1.0.0
 tags: [eslint, eslint-config, extends, rules, developer-tools]
 ---

@@ -1,8 +1,6 @@
 ---
 name: oz-paths-schemas
-description: >
-  Extract OpenAPI paths and components.schemas Zod mapping hints from YAML/JSON
-  text with the local zero-auth openapi-zod-lab MCP. No Zod runtime, no codegen, no network.
+description: "Extract OpenAPI paths and components.schemas Zod mapping hints from YAML/JSON text with the local zero-auth openapi-zod-lab MCP. No Zod runtime, no codegen, no network."
 version: 1.0.0
 tags: [openapi, zod, schemas, paths, developer-tools]
 ---

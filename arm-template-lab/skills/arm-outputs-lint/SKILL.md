@@ -1,8 +1,6 @@
 ---
 name: arm-outputs-lint
-description: >
-  Extract Azure ARM template outputs and educational lite lint with the local
-  zero-auth arm-template-lab MCP. No az CLI, deploy, or network.
+description: "Extract Azure ARM template outputs and educational lite lint with the local zero-auth arm-template-lab MCP. No az CLI, deploy, or network."
 version: 1.0.0
 tags: [azure, arm, arm-template, outputs, lint, mcp, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: sg-urls-options
-description: >
-  Extract siege URLs (urls.txt / CLI) and options (-c / -r / -t / -d / -f /
-  -i / -b / -g and .siegerc key = value) with the local zero-auth siege-lab MCP.
-  No siege runtime, no network.
+description: "Extract siege URLs (urls.txt / CLI) and options (-c / -r / -t / -d / -f / -i / -b / -g and .siegerc key = value) with the local zero-auth siege-lab MCP. No siege runtime, no network."
 version: 1.0.0
 tags: [siege, cli, urls, options, load-test, developer-tools]
 ---

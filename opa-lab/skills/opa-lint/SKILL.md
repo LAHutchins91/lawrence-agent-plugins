@@ -1,10 +1,6 @@
 ---
 name: opa-lint
-description: >
-  List OPA/Rego test keyword counts (test_rules / with / mock_data) and
-  lite-lint for missing package, bare deny without msg, empty file, import
-  without package, and test without package. Local only, never runs OPA
-  CLI, no fetch.
+description: "List OPA/Rego test keyword counts (test_rules / with / mock_data) and lite-lint for missing package, bare deny without msg, empty file, import without package, and test without package. Local only, never runs OPA CLI, no fetch."
 version: 1.0.0
 tags: [opa, rego, policy, lint, tests, local]
 ---

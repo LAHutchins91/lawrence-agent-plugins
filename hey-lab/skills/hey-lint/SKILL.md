@@ -1,10 +1,6 @@
 ---
 name: hey-lint
-description: >
-  List hey output / summary fields (-o / -csv / summary / latency /
-  Requests/sec / Status code distribution) and lite-lint for missing
-  -n/-z, -c >= -n, http:// target, empty file, and -n without -c. Local
-  only, never runs hey/load tests, no fetch.
+description: "List hey output / summary fields (-o / -csv / summary / latency / Requests/sec / Status code distribution) and lite-lint for missing -n/-z, -c >= -n, http:// target, empty file, and -n without -c. Local only, never runs hey/load tests, no fetch."
 version: 1.0.0
 tags: [hey, load-testing, lint, local]
 ---

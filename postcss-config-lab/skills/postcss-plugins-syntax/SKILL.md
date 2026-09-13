@@ -1,9 +1,6 @@
 ---
 name: postcss-plugins-syntax
-description: >
-  Extract PostCSS plugins and syntax/parser/stringifier from postcss config
-  text with the local zero-auth postcss-config-lab MCP. JSONC preferred;
-  JS heuristics; no postcss binary or network.
+description: Extract PostCSS plugins and syntax/parser/stringifier from postcss config text with the local zero-auth postcss-config-lab MCP. JSONC preferred; JS heuristics; no postcss binary or network.
 version: 1.0.0
 tags: [postcss, postcss-config, plugins, syntax, parser, developer-tools]
 ---

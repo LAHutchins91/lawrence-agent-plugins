@@ -1,8 +1,6 @@
 ---
 name: crash-triage
-description: >
-  Triage a pasted stack trace: detect language, normalize frames with stack_parse,
-  then hypothesize root cause and next debugging steps.
+description: "Triage a pasted stack trace: detect language, normalize frames with stack_parse, then hypothesize root cause and next debugging steps."
 version: 1.0.0
 tags: [debugging, stacktrace, crash, triage]
 ---

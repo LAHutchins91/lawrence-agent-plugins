@@ -1,9 +1,6 @@
 ---
 name: bb-targets-options
-description: >
-  Extract bombardier target URLs and CLI flags (-c / -n / -d / -m / -b / -H /
-  -l / -p / -r) from shell lines with the local zero-auth bombardier-lab MCP.
-  No bombardier runtime, no network.
+description: "Extract bombardier target URLs and CLI flags (-c / -n / -d / -m / -b / -H / -l / -p / -r) from shell lines with the local zero-auth bombardier-lab MCP. No bombardier runtime, no network."
 version: 1.0.0
 tags: [bombardier, cli, targets, options, load-test, developer-tools]
 ---

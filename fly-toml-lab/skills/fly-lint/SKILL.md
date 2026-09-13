@@ -1,9 +1,6 @@
 ---
 name: fly-lint
-description: >
-  Lite-lint pasted fly.toml for missing app, missing [[services]] /
-  [http_service], force_https = false note, and VM size present (info).
-  Local only, no flyctl for tool logic, no fetch.
+description: "Lite-lint pasted fly.toml for missing app, missing [[services]] / [http_service], force_https = false note, and VM size present (info). Local only, no flyctl for tool logic, no fetch."
 version: 1.0.0
 tags: [fly, fly-toml, lint, services, https, vm, local]
 ---

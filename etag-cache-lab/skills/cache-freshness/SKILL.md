@@ -1,8 +1,6 @@
 ---
 name: cache-freshness
-description: >
-  Estimate HTTP cache freshness from Age, Date, Cache-Control max-age,
-  and Expires using a local heuristic MCP tool. Not a full cache simulator.
+description: "Estimate HTTP cache freshness from Age, Date, Cache-Control max-age, and Expires using a local heuristic MCP tool. Not a full cache simulator."
 version: 1.0.0
 tags: [cache-control, age, expires, freshness, http, local]
 ---

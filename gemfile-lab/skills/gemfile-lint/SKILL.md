@@ -1,9 +1,6 @@
 ---
 name: gemfile-lint
-description: >
-  Lite-lint pasted Gemfile for missing source, git/github gems without
-  ref/tag/branch, duplicate gem names, and ruby version directive
-  presence info. Local only, no bundler, no fetch.
+description: "Lite-lint pasted Gemfile for missing source, git/github gems without ref/tag/branch, duplicate gem names, and ruby version directive presence info. Local only, no bundler, no fetch."
 version: 1.0.0
 tags: [ruby, gemfile, bundler, lint, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: cmake-targets
-description: >
-  Parse pasted CMakeLists.txt text locally with zero-auth MCP tools: list
-  targets (add_executable / add_library), find_package calls, and option()
-  declarations. Lite CMake command scanner — not cmake. No network, no cmake binary.
+description: "Parse pasted CMakeLists.txt text locally with zero-auth MCP tools: list targets (add_executable / add_library), find_package calls, and option() declarations. Lite CMake command scanner — not cmake. No network, no cmake binary."
 version: 1.0.0
 tags: [cmake, CMakeLists.txt, targets, find_package, options, parse, local]
 ---

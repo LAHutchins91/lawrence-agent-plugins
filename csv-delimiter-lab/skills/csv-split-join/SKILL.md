@@ -1,8 +1,6 @@
 ---
 name: csv-split-join
-description: >
-  Split one CSV/TSV line into fields or join fields into a quoted line —
-  zero-auth, local, string-level, no network.
+description: "Split one CSV/TSV line into fields or join fields into a quoted line — zero-auth, local, string-level, no network."
 version: 1.0.0
 tags: [csv, split, join, fields, delimiter, local]
 ---

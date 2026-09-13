@@ -1,9 +1,6 @@
 ---
 name: jmx-assertions-lint
-description: >
-  Extract JMeter ResponseAssertion / DurationAssertion / JSONPathAssertion
-  signals and run educational heuristic lite lint on JMX / plan XML text with
-  the local zero-auth jmeter-lab MCP. No JMeter/load-test runtime, no network.
+description: "Extract JMeter ResponseAssertion / DurationAssertion / JSONPathAssertion signals and run educational heuristic lite lint on JMX / plan XML text with the local zero-auth jmeter-lab MCP. No JMeter/load-test runtime, no network."
 version: 1.0.0
 tags: [jmeter, jmx, assertions, lint, developer-tools]
 ---

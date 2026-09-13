@@ -1,9 +1,6 @@
 ---
 name: pulumi-config-lint
-description: >
-  Extract Pulumi config keys (config: / pulumi.Config / config.require / config.get /
-  secret keys) and educational lite lint with the local zero-auth pulumi-lab MCP.
-  No Pulumi CLI, cloud, or network.
+description: "Extract Pulumi config keys (config: / pulumi.Config / config.require / config.get / secret keys) and educational lite lint with the local zero-auth pulumi-lab MCP. No Pulumi CLI, cloud, or network."
 version: 1.0.0
 tags: [pulumi, config, lint, iac, mcp, developer-tools]
 ---

@@ -1,8 +1,6 @@
 ---
 name: jwt-exp-alg-check
-description: >
-  Check JWT exp/nbf against a given time and review educational alg warnings
-  with the local zero-auth jwt-claims-lab MCP. Decode only — no verify/sign.
+description: Check JWT exp/nbf against a given time and review educational alg warnings with the local zero-auth jwt-claims-lab MCP. Decode only — no verify/sign.
 version: 1.0.0
 tags: [jwt, exp, nbf, alg, developer-tools]
 ---

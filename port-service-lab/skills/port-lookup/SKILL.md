@@ -1,8 +1,6 @@
 ---
 name: port-lookup
-description: >
-  Look up common port↔service heuristics and IANA port ranges — zero-auth,
-  local curated map only, no network scans. Not an authoritative IANA dump.
+description: "Look up common port↔service heuristics and IANA port ranges — zero-auth, local curated map only, no network scans. Not an authoritative IANA dump."
 version: 1.0.0
 tags: [ports, services, iana, lookup, local]
 ---

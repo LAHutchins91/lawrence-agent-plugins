@@ -1,11 +1,6 @@
 ---
 name: ppol-lint
-description: >
-  List Pulumi Policy pack keyword counts (PolicyPack / policyPackArgs /
-  policies: / name: / enforcementLevel: / displayName) and lite-lint for
-  missing PolicyPack, no enforcementLevel, empty policies, empty file, and
-  mandatory rules without message/description. Local only, never runs
-  Pulumi CLI, no fetch.
+description: "List Pulumi Policy pack keyword counts (PolicyPack / policyPackArgs / policies: / name: / enforcementLevel: / displayName) and lite-lint for missing PolicyPack, no enforcementLevel, empty policies, empty file, and mandatory rules without message/description. Local only, never runs Pulumi CLI, no fetch."
 version: 1.0.0
 tags: [pulumi, policy, policy-as-code, lint, packs, local]
 ---

@@ -1,10 +1,6 @@
 ---
 name: gomod-require
-description: >
-  Parse pasted go.mod text locally with zero-auth MCP tools:
-  extract module path + go version, list require / require() entries
-  (including // indirect), and list replace directives. Lite line/block
-  parser — not the go command. No network.
+description: "Parse pasted go.mod text locally with zero-auth MCP tools: extract module path + go version, list require / require() entries (including // indirect), and list replace directives. Lite line/block parser — not the go command. No network."
 version: 1.0.0
 tags: [go, gomod, golang, parse, local]
 ---

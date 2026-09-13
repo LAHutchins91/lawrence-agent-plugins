@@ -1,9 +1,6 @@
 ---
 name: gha-secrets-lint
-description: >
-  Extract secrets.NAME references (names only) and run educational heuristic
-  lite lint on GitHub Actions workflow YAML text with the local zero-auth
-  github-actions-lab MCP. No GitHub API/network; never returns secret values.
+description: Extract secrets.NAME references (names only) and run educational heuristic lite lint on GitHub Actions workflow YAML text with the local zero-auth github-actions-lab MCP. No GitHub API/network; never returns secret values.
 version: 1.0.0
 tags: [github-actions, gha, workflow, yaml, secrets, lint, developer-tools]
 ---

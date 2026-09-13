@@ -1,10 +1,6 @@
 ---
 name: ft-targets
-description: >
-  List Fortio load/echo/curl target URLs (fortio load, fortio curl, fortio echo,
-  -url, http(s)://), plus QPS hints (-qps / -c / -t / -n / -r / -p / -H /
-  -payload / -keepalive / -a) from pasted Fortio shell/script source. Local
-  only — never runs Fortio or load tests, no fetch.
+description: "List Fortio load/echo/curl target URLs (fortio load, fortio curl, fortio echo, -url, http(s)://), plus QPS hints (-qps / -c / -t / -n / -r / -p / -H / -payload / -keepalive / -a) from pasted Fortio shell/script source. Local only — never runs Fortio or load tests, no fetch."
 version: 1.0.0
 tags: [fortio, load-testing, targets, local]
 ---

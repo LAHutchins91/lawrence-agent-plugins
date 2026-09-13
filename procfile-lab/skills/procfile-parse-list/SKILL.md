@@ -1,8 +1,6 @@
 ---
 name: procfile-parse-list
-description: >
-  Parse Procfile name: command entries and list process type names with the
-  local zero-auth procfile-lab MCP. No network, no process spawn.
+description: "Parse Procfile name: command entries and list process type names with the local zero-auth procfile-lab MCP. No network, no process spawn."
 version: 1.0.0
 tags: [procfile, heroku, foreman, processes, developer-tools]
 ---

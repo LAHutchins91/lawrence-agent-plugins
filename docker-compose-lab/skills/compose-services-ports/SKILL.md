@@ -1,9 +1,6 @@
 ---
 name: compose-services-ports
-description: >
-  List docker-compose services and extract ports mappings from YAML text with
-  the local zero-auth docker-compose-lab MCP. String/YAML only — no docker daemon
-  or filesystem compose reads.
+description: List docker-compose services and extract ports mappings from YAML text with the local zero-auth docker-compose-lab MCP. String/YAML only — no docker daemon or filesystem compose reads.
 version: 1.0.0
 tags: [docker-compose, yaml, services, ports, developer-tools]
 ---

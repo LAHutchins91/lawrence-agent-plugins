@@ -1,8 +1,6 @@
 ---
 name: tilt-extensions-lint
-description: >
-  Detect Tiltfile load()/load_dynamic()/v1alpha1.extension/tilt_extensions paths and
-  educational lite lint with the local zero-auth tilt-lab MCP. No Tilt CLI, cluster, or network.
+description: "Detect Tiltfile load()/load_dynamic()/v1alpha1.extension/tilt_extensions paths and educational lite lint with the local zero-auth tilt-lab MCP. No Tilt CLI, cluster, or network."
 version: 1.0.0
 tags: [tilt, tiltfile, extensions, lint, mcp, developer-tools]
 ---

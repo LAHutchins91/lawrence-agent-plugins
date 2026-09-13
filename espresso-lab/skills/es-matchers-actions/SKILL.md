@@ -1,9 +1,6 @@
 ---
 name: es-matchers-actions
-description: >
-  Extract Espresso ViewMatchers (withId/withText/isDisplayed/allOf/…) and
-  ViewActions / onView(...).perform( signals from Java/Kotlin test text with
-  the local zero-auth espresso-lab MCP. No Android/Espresso runtime, no network.
+description: "Extract Espresso ViewMatchers (withId/withText/isDisplayed/allOf/…) and ViewActions / onView(...).perform( signals from Java/Kotlin test text with the local zero-auth espresso-lab MCP. No Android/Espresso runtime, no network."
 version: 1.0.0
 tags: [espresso, android, matchers, actions, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: bb-latency-lint
-description: >
-  Extract bombardier latency/print flags (printLatencies / -l / -p) and run
-  educational heuristic lite lint on bombardier CLI text with the local
-  zero-auth bombardier-lab MCP. No bombardier runtime, no network.
+description: "Extract bombardier latency/print flags (printLatencies / -l / -p) and run educational heuristic lite lint on bombardier CLI text with the local zero-auth bombardier-lab MCP. No bombardier runtime, no network."
 version: 1.0.0
 tags: [bombardier, cli, latency, lint, load-test, developer-tools]
 ---

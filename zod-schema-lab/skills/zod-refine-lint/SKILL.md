@@ -1,9 +1,6 @@
 ---
 name: zod-refine-lint
-description: >
-  Extract Zod refine/transform/pipe/brand chains and run educational heuristic
-  lite lint on schema TS/JS text with the local zero-auth zod-schema-lab MCP.
-  No zod runtime, no network.
+description: "Extract Zod refine/transform/pipe/brand chains and run educational heuristic lite lint on schema TS/JS text with the local zero-auth zod-schema-lab MCP. No zod runtime, no network."
 version: 1.0.0
 tags: [zod, refine, lint, validation, developer-tools]
 ---

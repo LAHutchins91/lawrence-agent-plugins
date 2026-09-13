@@ -1,8 +1,6 @@
 ---
 name: retry-cache-heuristics
-description: >
-  Advise HTTP client retry/backoff and cacheability from status codes,
-  including idempotency caution for POST (local zero-auth MCP).
+description: "Advise HTTP client retry/backoff and cacheability from status codes, including idempotency caution for POST (local zero-auth MCP)."
 version: 1.0.0
 tags: [http, retry, backoff, cache, idempotency]
 ---

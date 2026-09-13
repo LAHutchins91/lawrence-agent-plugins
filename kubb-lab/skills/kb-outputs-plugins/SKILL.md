@@ -1,8 +1,6 @@
 ---
 name: kb-outputs-plugins
-description: >
-  Extract Kubb output paths and plugin references with the local zero-auth
-  kubb-lab MCP. No @kubb/cli / codegen runtime, no network.
+description: "Extract Kubb output paths and plugin references with the local zero-auth kubb-lab MCP. No @kubb/cli / codegen runtime, no network."
 version: 1.0.0
 tags: [kubb, openapi, codegen, outputs, plugins, developer-tools]
 ---

@@ -1,8 +1,6 @@
 ---
 name: ss-fields
-description: >
-  List Superstruct export/const names (object({ / type({ / struct() and
-  object field hints from pasted Superstruct JS/TS. Local only — no assert()/validate(), no fetch.
+description: "List Superstruct export/const names (object({ / type({ / struct() and object field hints from pasted Superstruct JS/TS. Local only — no assert()/validate(), no fetch."
 version: 1.0.0
 tags: [superstruct, schema, fields, validation, local]
 ---

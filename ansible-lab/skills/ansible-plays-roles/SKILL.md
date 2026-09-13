@@ -1,10 +1,6 @@
 ---
 name: ansible-plays-roles
-description: >
-  Inventory Ansible playbook plays (name, hosts, become, gather_facts,
-  strategy) and roles (roles:, import_role, include_role, role: name) with
-  the local zero-auth ansible-lab MCP. YAML string only — no ansible CLI,
-  SSH, or network.
+description: "Inventory Ansible playbook plays (name, hosts, become, gather_facts, strategy) and roles (roles:, import_role, include_role, role: name) with the local zero-auth ansible-lab MCP. YAML string only — no ansible CLI, SSH, or network."
 version: 1.0.0
 tags: [ansible, playbook, roles, plays, mcp, developer-tools]
 ---

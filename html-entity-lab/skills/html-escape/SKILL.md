@@ -1,8 +1,6 @@
 ---
 name: html-escape
-description: >
-  Escape or unescape HTML entities and look up names ↔ codepoints
-  (nbsp ↔ U+00A0) — zero-auth, local curated map.
+description: "Escape or unescape HTML entities and look up names ↔ codepoints (nbsp ↔ U+00A0) — zero-auth, local curated map."
 version: 1.0.0
 tags: [html, entities, escape, unescape, local]
 ---

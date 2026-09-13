@@ -1,8 +1,6 @@
 ---
 name: strip-tags
-description: >
-  Naive HTML/XML tag stripper for text extraction. NOT XSS-safe
-  sanitization for untrusted HTML in browsers — local regex heuristic.
+description: Naive HTML/XML tag stripper for text extraction. NOT XSS-safe sanitization for untrusted HTML in browsers — local regex heuristic.
 version: 1.0.0
 tags: [html, strip-tags, text, local]
 ---

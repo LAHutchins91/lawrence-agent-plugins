@@ -1,9 +1,6 @@
 ---
 name: tw-content
-description: >
-  Parse pasted tailwind.config.* text locally with zero-auth MCP tools:
-  list content globs, theme.extend object keys, and plugins (require/call text).
-  Lite JS scanner — not Tailwind CLI. No network, no tailwindcss binary for tool logic.
+description: "Parse pasted tailwind.config.* text locally with zero-auth MCP tools: list content globs, theme.extend object keys, and plugins (require/call text). Lite JS scanner — not Tailwind CLI. No network, no tailwindcss binary for tool logic."
 version: 1.0.0
 tags: [tailwind, content, theme, extend, plugins, parse, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: iots-lint
-description: >
-  Count io-ts t.brand / Brand usage and lite-lint for type vs strict confusion,
-  missing t.exact, empty codec, and no Decoder export hint. Local only, no
-  decode()/encode(), no fetch.
+description: "Count io-ts t.brand / Brand usage and lite-lint for type vs strict confusion, missing t.exact, empty codec, and no Decoder export hint. Local only, no decode()/encode(), no fetch."
 version: 1.0.0
 tags: [io-ts, schema, lint, validation, local]
 ---

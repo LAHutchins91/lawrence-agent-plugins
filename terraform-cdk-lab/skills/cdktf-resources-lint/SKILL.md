@@ -1,9 +1,6 @@
 ---
 name: cdktf-resources-lint
-description: >
-  Heuristic CDKTF resource constructors (S3Bucket, Instance, TerraformResource,
-  HCL synth paste) and educational lite lint with the local zero-auth
-  terraform-cdk-lab MCP. No CDKTF CLI, Terraform apply, or network.
+description: "Heuristic CDKTF resource constructors (S3Bucket, Instance, TerraformResource, HCL synth paste) and educational lite lint with the local zero-auth terraform-cdk-lab MCP. No CDKTF CLI, Terraform apply, or network."
 version: 1.0.0
 tags: [cdktf, terraform, resources, lint, mcp, developer-tools]
 ---

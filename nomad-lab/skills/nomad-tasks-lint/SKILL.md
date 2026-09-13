@@ -1,9 +1,6 @@
 ---
 name: nomad-tasks-lint
-description: >
-  Extract Nomad task blocks (driver docker/exec/java, image, secret-like env
-  key names) plus educational lite lint with the local zero-auth nomad-lab
-  MCP. No nomad CLI, cluster, or network.
+description: "Extract Nomad task blocks (driver docker/exec/java, image, secret-like env key names) plus educational lite lint with the local zero-auth nomad-lab MCP. No nomad CLI, cluster, or network."
 version: 1.0.0
 tags: [nomad, task, docker, lint, mcp, developer-tools]
 ---

@@ -1,10 +1,6 @@
 ---
 name: ab-targets
-description: >
-  List ApacheBench (ab) target URLs (ab ... http(s)://..., -p POST body file
-  implying POST), plus option hints (-n / -c / -t / -p / -T / -H / -A / -P /
-  -X / -k / -g / -e / -r / -s / -w) from pasted ab shell/script source. Local
-  only — never runs ab or load tests, no fetch.
+description: "List ApacheBench (ab) target URLs (ab ... http(s)://..., -p POST body file implying POST), plus option hints (-n / -c / -t / -p / -T / -H / -A / -P / -X / -k / -g / -e / -r / -s / -w) from pasted ab shell/script source. Local only — never runs ab or load tests, no fetch."
 version: 1.0.0
 tags: [apachebench, ab, load-testing, targets, local]
 ---

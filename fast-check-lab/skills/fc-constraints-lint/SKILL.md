@@ -1,9 +1,6 @@
 ---
 name: fc-constraints-lint
-description: >
-  Extract fast-check constraint option keys (minLength, max, seed, numRuns, …)
-  and run educational heuristic lite lint on JS/TS text with the local zero-auth
-  fast-check-lab MCP. No fast-check runtime, no network.
+description: "Extract fast-check constraint option keys (minLength, max, seed, numRuns, …) and run educational heuristic lite lint on JS/TS text with the local zero-auth fast-check-lab MCP. No fast-check runtime, no network."
 version: 1.0.0
 tags: [fast-check, constraints, lint, property-based-testing, developer-tools]
 ---

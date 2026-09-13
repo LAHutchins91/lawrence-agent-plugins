@@ -1,9 +1,6 @@
 ---
 name: st-requests
-description: >
-  Count request(app).get / .post / .put / .delete / .patch method call sites
-  and .expect(status) / .expect('Content-Type'…) hints from pasted Supertest
-  JS/TS. Local only — never sends HTTP, no fetch.
+description: "Count request(app).get / .post / .put / .delete / .patch method call sites and .expect(status) / .expect('Content-Type'…) hints from pasted Supertest JS/TS. Local only — never sends HTTP, no fetch."
 version: 1.0.0
 tags: [supertest, http-test, requests, expects, local]
 ---

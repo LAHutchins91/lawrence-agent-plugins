@@ -1,9 +1,6 @@
 ---
 name: cargo-deps
-description: >
-  Parse pasted Cargo.toml text locally with zero-auth MCP tools:
-  list dependencies (deps/dev/build), features with enables, and bin targets.
-  Lite TOML subset — not cargo CLI. No network.
+description: "Parse pasted Cargo.toml text locally with zero-auth MCP tools: list dependencies (deps/dev/build), features with enables, and bin targets. Lite TOML subset — not cargo CLI. No network."
 version: 1.0.0
 tags: [cargo, toml, rust, parse, local]
 ---

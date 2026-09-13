@@ -1,9 +1,6 @@
 ---
 name: helm-templates-lint
-description: >
-  Hint Kubernetes kinds, .Values. refs, and define/include/tpl helpers in Helm
-  templates text, plus educational lite lint, with the local zero-auth helm-chart-lab MCP.
-  No Helm CLI, cluster, or network.
+description: "Hint Kubernetes kinds, .Values. refs, and define/include/tpl helpers in Helm templates text, plus educational lite lint, with the local zero-auth helm-chart-lab MCP. No Helm CLI, cluster, or network."
 version: 1.0.0
 tags: [helm, templates, lint, kubernetes, yaml, developer-tools]
 ---

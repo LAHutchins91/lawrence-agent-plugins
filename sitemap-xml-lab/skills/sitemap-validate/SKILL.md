@@ -1,8 +1,6 @@
 ---
 name: sitemap-validate
-description: >
-  Lite-validate pasted sitemap XML (root, required loc, URL shape, duplicate
-  locs) and summarize lastmod / changefreq / priority stats. Local only, no fetch.
+description: "Lite-validate pasted sitemap XML (root, required loc, URL shape, duplicate locs) and summarize lastmod / changefreq / priority stats. Local only, no fetch."
 version: 1.0.0
 tags: [sitemap, xml, validate, stats, local]
 ---

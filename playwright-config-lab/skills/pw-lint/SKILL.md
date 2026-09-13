@@ -1,9 +1,6 @@
 ---
 name: pw-lint
-description: >
-  Lite-lint pasted playwright.config.* for missing baseURL when webServer is
-  present, trace/screenshot off notes, no projects and no browserName, and
-  fullyParallel false with high workers. Local only, no playwright binary, no fetch.
+description: "Lite-lint pasted playwright.config.* for missing baseURL when webServer is present, trace/screenshot off notes, no projects and no browserName, and fullyParallel false with high workers. Local only, no playwright binary, no fetch."
 version: 1.0.0
 tags: [playwright, playwright.config, lint, webServer, local]
 ---

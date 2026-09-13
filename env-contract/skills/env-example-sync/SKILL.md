@@ -1,8 +1,6 @@
 ---
 name: env-example-sync
-description: >
-  Keep .env.example (or compose environment placeholders) in sync with an env
-  contract — render safe placeholders, no real secrets, dotenv or docker-compose style.
+description: "Keep .env.example (or compose environment placeholders) in sync with an env contract — render safe placeholders, no real secrets, dotenv or docker-compose style."
 version: 1.0.0
 tags: [env, dotenv, example, placeholders, compose, secrets]
 ---

@@ -1,9 +1,6 @@
 ---
 name: tw-lint
-description: >
-  Lite-lint pasted tailwind.config.* for empty content, missing content,
-  purge leftover (v2), and darkMode missing note when class: used heuristically.
-  Local only, no Tailwind binary for tool logic, no fetch.
+description: "Lite-lint pasted tailwind.config.* for empty content, missing content, purge leftover (v2), and darkMode missing note when class: used heuristically. Local only, no Tailwind binary for tool logic, no fetch."
 version: 1.0.0
 tags: [tailwind, lint, content, purge, darkMode, local]
 ---

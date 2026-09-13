@@ -1,9 +1,6 @@
 ---
 name: packer-provisioners-lint
-description: >
-  Extract Packer provisioners (shell, ansible, file, powershell) and
-  post-processors, plus educational lite lint with the local zero-auth
-  packer-lab MCP. No packer CLI, build/deploy, or network.
+description: "Extract Packer provisioners (shell, ansible, file, powershell) and post-processors, plus educational lite lint with the local zero-auth packer-lab MCP. No packer CLI, build/deploy, or network."
 version: 1.0.0
 tags: [packer, provisioner, lint, mcp, developer-tools]
 ---

@@ -1,10 +1,6 @@
 ---
 name: bicep-lint
-description: >
-  List Bicep module / existing / output / var / targetScope counts and
-  lite-lint for missing targetScope, params without type, http:// module
-  paths, empty file, and Password/Secret/Token params without @secure().
-  Local only, never runs Azure CLI or bicep CLI, no fetch.
+description: "List Bicep module / existing / output / var / targetScope counts and lite-lint for missing targetScope, params without type, http:// module paths, empty file, and Password/Secret/Token params without @secure(). Local only, never runs Azure CLI or bicep CLI, no fetch."
 version: 1.0.0
 tags: [bicep, azure, arm, lint, modules, local]
 ---

@@ -1,8 +1,6 @@
 ---
 name: json-stats
-description: >
-  Inspect the depth, key count, container counts, value type counts, and string
-  length of pasted JSON locally with no authentication or network.
+description: "Inspect the depth, key count, container counts, value type counts, and string length of pasted JSON locally with no authentication or network."
 version: 1.0.0
 tags: [json, stats, structure, count, depth, local]
 ---

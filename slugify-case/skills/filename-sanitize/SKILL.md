@@ -1,8 +1,6 @@
 ---
 name: filename-sanitize
-description: >
-  Sanitize a string into a safe filesystem basename — strip path separators,
-  null bytes, reserved Windows names; optional maxLength — zero-auth local only.
+description: "Sanitize a string into a safe filesystem basename — strip path separators, null bytes, reserved Windows names; optional maxLength — zero-auth local only."
 version: 1.0.0
 tags: [filename, sanitize, filesystem, windows, path]
 ---

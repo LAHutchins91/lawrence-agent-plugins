@@ -1,8 +1,6 @@
 ---
 name: b64-url-codec
-description: >
-  Encode and decode Base64 / Base64URL and URL component or full URI
-  strings with the local zero-auth base64-url-lab MCP.
+description: Encode and decode Base64 / Base64URL and URL component or full URI strings with the local zero-auth base64-url-lab MCP.
 version: 1.0.0
 tags: [base64, base64url, url-encode, codec, developer-tools]
 ---

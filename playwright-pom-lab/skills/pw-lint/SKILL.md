@@ -1,10 +1,6 @@
 ---
 name: pw-lint
-description: >
-  Count Playwright test.extend / test.beforeEach / test.afterEach /
-  test.describe / expect( fixture hints and lite-lint for hard waits,
-  CSS-heavy selectors, missing await, empty file, and networkidle waits.
-  Local only, never runs Playwright/browser, no fetch.
+description: "Count Playwright test.extend / test.beforeEach / test.afterEach / test.describe / expect( fixture hints and lite-lint for hard waits, CSS-heavy selectors, missing await, empty file, and networkidle waits. Local only, never runs Playwright/browser, no fetch."
 version: 1.0.0
 tags: [playwright, pom, lint, local]
 ---

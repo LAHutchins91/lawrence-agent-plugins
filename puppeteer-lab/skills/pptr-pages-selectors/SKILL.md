@@ -1,9 +1,6 @@
 ---
 name: pptr-pages-selectors
-description: >
-  Extract Puppeteer page lifecycle actions (launch/newPage/goto/close) and
-  selector APIs (click/type/$/$eval/waitForSelector) from JS/TS text with the
-  local zero-auth puppeteer-lab MCP. No puppeteer/browser runtime, no network.
+description: "Extract Puppeteer page lifecycle actions (launch/newPage/goto/close) and selector APIs (click/type/$/$eval/waitForSelector) from JS/TS text with the local zero-auth puppeteer-lab MCP. No puppeteer/browser runtime, no network."
 version: 1.0.0
 tags: [puppeteer, pages, selectors, developer-tools]
 ---

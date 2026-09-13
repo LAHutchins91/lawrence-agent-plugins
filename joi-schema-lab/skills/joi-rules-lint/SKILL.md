@@ -1,9 +1,6 @@
 ---
 name: joi-rules-lint
-description: >
-  Extract Joi chained rules (.min/.max/.email/.when/.custom/…) and run educational
-  heuristic lite lint on schema JS/TS text with the local zero-auth joi-schema-lab MCP.
-  No joi runtime, no network.
+description: "Extract Joi chained rules (.min/.max/.email/.when/.custom/…) and run educational heuristic lite lint on schema JS/TS text with the local zero-auth joi-schema-lab MCP. No joi runtime, no network."
 version: 1.0.0
 tags: [joi, rules, lint, validation, developer-tools]
 ---

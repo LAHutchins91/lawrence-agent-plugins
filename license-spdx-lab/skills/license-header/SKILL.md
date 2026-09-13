@@ -1,8 +1,6 @@
 ---
 name: license-header
-description: >
-  Suggest a short SPDX file header comment (and heuristic compatibility notes)
-  locally with zero-auth MCP tools. Never dump full GPL/AGPL text.
+description: Suggest a short SPDX file header comment (and heuristic compatibility notes) locally with zero-auth MCP tools. Never dump full GPL/AGPL text.
 version: 1.0.0
 tags: [spdx, license, header, copyright, compatibility, local]
 ---

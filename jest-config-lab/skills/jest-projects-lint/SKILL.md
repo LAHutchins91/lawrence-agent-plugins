@@ -1,8 +1,6 @@
 ---
 name: jest-projects-lint
-description: >
-  List Jest projects and run educational heuristic lite lint with the local
-  zero-auth jest-config-lab MCP. No jest binary, no network.
+description: "List Jest projects and run educational heuristic lite lint with the local zero-auth jest-config-lab MCP. No jest binary, no network."
 version: 1.0.0
 tags: [jest, jest-config, projects, lint, developer-tools]
 ---

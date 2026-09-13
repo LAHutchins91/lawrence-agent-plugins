@@ -1,9 +1,6 @@
 ---
 name: dockerfile-review
-description: >
-  Review a Dockerfile with local zero-auth MCP heuristics: lint for latest tags,
-  apt cleanup, secrets in ENV/ARG, missing USER/HEALTHCHECK, ADD vs COPY, unpinned
-  pip/npm; map multi-stage FROMs; suggest slimmer base image families.
+description: "Review a Dockerfile with local zero-auth MCP heuristics: lint for latest tags, apt cleanup, secrets in ENV/ARG, missing USER/HEALTHCHECK, ADD vs COPY, unpinned pip/npm; map multi-stage FROMs; suggest slimmer base image families."
 version: 1.0.0
 tags: [dockerfile, docker, lint, multi-stage, base-image, security]
 ---

@@ -1,9 +1,6 @@
 ---
 name: remix-routes-server
-description: >
-  Extract Remix routes / appDirectory / publicPath and server build fields from
-  remix.config or vite remix({…}) text with the local zero-auth remix-config-lab
-  MCP. No remix binary or network.
+description: "Extract Remix routes / appDirectory / publicPath and server build fields from remix.config or vite remix({…}) text with the local zero-auth remix-config-lab MCP. No remix binary or network."
 version: 1.0.0
 tags: [remix, remix-config, routes, server-build, developer-tools]
 ---

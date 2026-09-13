@@ -1,8 +1,6 @@
 ---
 name: hash-text-checksum
-description: >
-  Hash UTF-8 text with SHA-256/SHA-1/MD5 and checksum multiline “file text”
-  with explicit byteLength using the local zero-auth hash-lab MCP.
+description: Hash UTF-8 text with SHA-256/SHA-1/MD5 and checksum multiline “file text” with explicit byteLength using the local zero-auth hash-lab MCP.
 version: 1.0.0
 tags: [hash, sha256, checksum, md5, developer-tools]
 ---

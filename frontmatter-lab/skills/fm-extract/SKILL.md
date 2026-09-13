@@ -1,8 +1,6 @@
 ---
 name: fm-extract
-description: >
-  Extract or strip YAML frontmatter from Markdown/text documents —
-  zero-auth, local, pasted text only, no network.
+description: "Extract or strip YAML frontmatter from Markdown/text documents — zero-auth, local, pasted text only, no network."
 version: 1.0.0
 tags: [frontmatter, yaml, markdown, extract, strip, local]
 ---

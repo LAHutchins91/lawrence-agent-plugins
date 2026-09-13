@@ -1,10 +1,6 @@
 ---
 name: sen-lint
-description: >
-  List HashiCorp Sentinel param keyword counts (param / default / filter / rule /
-  when / as / else) and lite-lint for missing main, unused import, empty file,
-  print leftover, and param without default. Local only, never runs Sentinel
-  CLI, no fetch.
+description: "List HashiCorp Sentinel param keyword counts (param / default / filter / rule / when / as / else) and lite-lint for missing main, unused import, empty file, print leftover, and param without default. Local only, never runs Sentinel CLI, no fetch."
 version: 1.0.0
 tags: [sentinel, hashicorp, policy, lint, params, local]
 ---

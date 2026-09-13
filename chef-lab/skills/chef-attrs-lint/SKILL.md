@@ -1,9 +1,6 @@
 ---
 name: chef-attrs-lint
-description: >
-  Extract Chef default/override/normal / node[...] attribute key paths
-  (flagging secret/password/token key names only) and educational lite lint
-  with the local zero-auth chef-lab MCP. No Chef CLI, knife, or network.
+description: "Extract Chef default/override/normal / node[...] attribute key paths (flagging secret/password/token key names only) and educational lite lint with the local zero-auth chef-lab MCP. No Chef CLI, knife, or network."
 version: 1.0.0
 tags: [chef, attributes, lint, secrets, mcp, developer-tools]
 ---

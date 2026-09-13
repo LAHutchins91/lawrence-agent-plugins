@@ -1,9 +1,6 @@
 ---
 name: helm-charts-values
-description: >
-  Inventory Helm Chart.yaml metadata/dependencies and hint values.yaml top-level
-  keys / nested image-service-ingress paths with the local zero-auth helm-chart-lab MCP.
-  String/YAML only — no Helm CLI, cluster, or network.
+description: "Inventory Helm Chart.yaml metadata/dependencies and hint values.yaml top-level keys / nested image-service-ingress paths with the local zero-auth helm-chart-lab MCP. String/YAML only — no Helm CLI, cluster, or network."
 version: 1.0.0
 tags: [helm, chart, values, yaml, kubernetes, developer-tools]
 ---

@@ -1,8 +1,6 @@
 ---
 name: cron-parse-explain
-description: >
-  Parse and humanize standard 5-field cron expressions (minute hour dayOfMonth
-  month dayOfWeek) using the local zero-auth cron-explain MCP.
+description: Parse and humanize standard 5-field cron expressions (minute hour dayOfMonth month dayOfWeek) using the local zero-auth cron-explain MCP.
 version: 1.0.0
 tags: [cron, schedule, crontab, developer-tools]
 ---

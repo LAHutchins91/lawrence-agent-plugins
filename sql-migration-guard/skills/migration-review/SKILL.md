@@ -1,9 +1,6 @@
 ---
 name: migration-review
-description: >
-  Review SQL migration risk locally: scan for destructive ops and lock hazards,
-  check ordered migrations for drop-then-reference / expand-contract issues,
-  and estimate rewrite vs metadata locks by dialect — zero-auth, no cloud DB.
+description: "Review SQL migration risk locally: scan for destructive ops and lock hazards, check ordered migrations for drop-then-reference / expand-contract issues, and estimate rewrite vs metadata locks by dialect — zero-auth, no cloud DB."
 version: 1.0.0
 tags: [sql, migration, risk, locks, postgres, mysql, sqlite, ddl]
 ---

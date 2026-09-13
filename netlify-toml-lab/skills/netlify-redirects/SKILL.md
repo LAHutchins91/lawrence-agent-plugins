@@ -1,10 +1,6 @@
 ---
 name: netlify-redirects
-description: >
-  Parse pasted netlify.toml text locally with zero-auth MCP tools:
-  list [[redirects]] (from, to, status, force), [[headers]] for/headerKeys,
-  and [build] command/publish/functions/environmentKeys. Lite TOML —
-  not Netlify CLI. No network, no netlify binary for tool logic.
+description: "Parse pasted netlify.toml text locally with zero-auth MCP tools: list [[redirects]] (from, to, status, force), [[headers]] for/headerKeys, and [build] command/publish/functions/environmentKeys. Lite TOML — not Netlify CLI. No network, no netlify binary for tool logic."
 version: 1.0.0
 tags: [netlify, netlify-toml, redirects, headers, build, parse, local]
 ---

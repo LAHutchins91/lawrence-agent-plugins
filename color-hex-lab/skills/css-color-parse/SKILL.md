@@ -1,8 +1,6 @@
 ---
 name: css-color-parse
-description: >
-  Parse CSS colors (hex / rgb / hsl), convert hex↔rgb, and lighten/darken via
-  HSL — zero-auth, pure local TypeScript.
+description: "Parse CSS colors (hex / rgb / hsl), convert hex↔rgb, and lighten/darken via HSL — zero-auth, pure local TypeScript."
 version: 1.0.0
 tags: [color, css, hex, rgb, hsl, local]
 ---

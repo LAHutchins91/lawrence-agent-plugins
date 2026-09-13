@@ -1,9 +1,6 @@
 ---
 name: nock-scopes
-description: >
-  List nock('https://...') base URL scopes and intercept method counts
-  (.get / .post / .put / .delete / .patch / .head / .options) from pasted
-  nock JS/TS. Local only — never activates nock interceptors, no fetch.
+description: "List nock('https://...') base URL scopes and intercept method counts (.get / .post / .put / .delete / .patch / .head / .options) from pasted nock JS/TS. Local only — never activates nock interceptors, no fetch."
 version: 1.0.0
 tags: [nock, http-mock, scopes, intercepts, local]
 ---

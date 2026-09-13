@@ -1,10 +1,6 @@
 ---
 name: vite-alias
-description: >
-  Parse pasted vite.config.* text locally with zero-auth MCP tools:
-  list plugins (nameOrCall), resolve.alias find/replacement map, and
-  server.proxy path/target hints. Lite JS/TS scanner — not Vite CLI. No network,
-  no vite binary.
+description: "Parse pasted vite.config.* text locally with zero-auth MCP tools: list plugins (nameOrCall), resolve.alias find/replacement map, and server.proxy path/target hints. Lite JS/TS scanner — not Vite CLI. No network, no vite binary."
 version: 1.0.0
 tags: [vite, vite.config, plugins, alias, proxy, parse, local]
 ---

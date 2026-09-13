@@ -1,9 +1,6 @@
 ---
 name: expo-scheme-lint
-description: >
-  Extract deep-link schemes / iOS bundle id / Android package and run educational
-  heuristic lite lint on Expo app.json / app.config text with the local zero-auth
-  expo-config-lab MCP. No expo binary, no network.
+description: "Extract deep-link schemes / iOS bundle id / Android package and run educational heuristic lite lint on Expo app.json / app.config text with the local zero-auth expo-config-lab MCP. No expo binary, no network."
 version: 1.0.0
 tags: [expo, app.json, scheme, deep-link, lint, developer-tools]
 ---

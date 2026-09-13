@@ -1,9 +1,6 @@
 ---
 name: svelte-lint
-description: >
-  Lite-lint pasted svelte.config.* for missing kit.adapter on SvelteKit,
-  empty preprocess, csrf/checkOrigin notes if present, and kit.alias hints.
-  Local only, no svelte/vite binary for tool logic, no fetch.
+description: "Lite-lint pasted svelte.config.* for missing kit.adapter on SvelteKit, empty preprocess, csrf/checkOrigin notes if present, and kit.alias hints. Local only, no svelte/vite binary for tool logic, no fetch."
 version: 1.0.0
 tags: [svelte, sveltekit, lint, adapter, preprocess, csrf, alias, local]
 ---

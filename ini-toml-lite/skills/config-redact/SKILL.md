@@ -1,8 +1,6 @@
 ---
 name: config-redact
-description: >
-  Redact secret-like config keys and diff two flat key maps — zero-auth,
-  local only. Never echo original secret values.
+description: "Redact secret-like config keys and diff two flat key maps — zero-auth, local only. Never echo original secret values."
 version: 1.0.0
 tags: [config, redact, secrets, diff, local]
 ---

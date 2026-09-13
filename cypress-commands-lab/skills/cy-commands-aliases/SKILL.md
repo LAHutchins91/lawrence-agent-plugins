@@ -1,9 +1,6 @@
 ---
 name: cy-commands-aliases
-description: >
-  Extract Cypress custom commands (Commands.add/addAll/overwrite) and
-  aliases (.as / @alias) from JS/TS text with the local zero-auth
-  cypress-commands-lab MCP. No Cypress/browser runtime, no network.
+description: "Extract Cypress custom commands (Commands.add/addAll/overwrite) and aliases (.as / @alias) from JS/TS text with the local zero-auth cypress-commands-lab MCP. No Cypress/browser runtime, no network."
 version: 1.0.0
 tags: [cypress, custom-commands, aliases, developer-tools]
 ---

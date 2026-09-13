@@ -1,9 +1,6 @@
 ---
 name: salt-grains-lint
-description: >
-  Detect Salt grain refs (grains[...], grains.get, salt['grains.get'], Jinja
-  grains) and educational lite lint with the local zero-auth salt-lab MCP. No
-  salt CLI, minion/master, or network.
+description: "Detect Salt grain refs (grains[...], grains.get, salt['grains.get'], Jinja grains) and educational lite lint with the local zero-auth salt-lab MCP. No salt CLI, minion/master, or network."
 version: 1.0.0
 tags: [salt, saltstack, grains, lint, mcp, developer-tools]
 ---

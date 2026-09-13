@@ -1,8 +1,6 @@
 ---
 name: cron-next-validate
-description: >
-  Validate cron expressions and compute next UTC fire times with the local
-  zero-auth cron-explain MCP.
+description: Validate cron expressions and compute next UTC fire times with the local zero-auth cron-explain MCP.
 version: 1.0.0
 tags: [cron, schedule, validate, developer-tools]
 ---

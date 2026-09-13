@@ -1,9 +1,6 @@
 ---
 name: vagrant-provisions-lint
-description: >
-  Extract Vagrant provisioners (shell, ansible, chef, puppet, docker, file)
-  and educational lite lint with the local zero-auth vagrant-lab MCP. No
-  vagrant CLI, VM start, or network.
+description: "Extract Vagrant provisioners (shell, ansible, chef, puppet, docker, file) and educational lite lint with the local zero-auth vagrant-lab MCP. No vagrant CLI, VM start, or network."
 version: 1.0.0
 tags: [vagrant, provision, lint, mcp, developer-tools]
 ---

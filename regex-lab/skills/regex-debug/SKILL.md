@@ -1,8 +1,6 @@
 ---
 name: regex-debug
-description: >
-  Test and explain JavaScript RegExp patterns against samples — local
-  zero-auth MCP for regex debugging (no SaaS).
+description: Test and explain JavaScript RegExp patterns against samples — local zero-auth MCP for regex debugging (no SaaS).
 version: 1.0.0
 tags: [regex, regexp, debug, test, explain]
 ---

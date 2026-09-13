@@ -1,12 +1,6 @@
 ---
 name: xcui-lint
-description: >
-  Count XCUITest XCTAssert / XCTAssertEqual / XCTAssertTrue /
-  waitForExistence / expectation / XCTNSPredicateExpectation /
-  XCTWaiter / exists / isHittable expectation hints and lite-lint for
-  hard sleeps, missing waitForExistence around tap, label/staticTexts-
-  heavy usage, empty file, and force unwrap after query subscripts.
-  Local only, never runs XCUITest/Xcode/simulator, no fetch.
+description: "Count XCUITest XCTAssert / XCTAssertEqual / XCTAssertTrue / waitForExistence / expectation / XCTNSPredicateExpectation / XCTWaiter / exists / isHittable expectation hints and lite-lint for hard sleeps, missing waitForExistence around tap, label/staticTexts- heavy usage, empty file, and force unwrap after query subscripts. Local only, never runs XCUITest/Xcode/simulator, no fetch."
 version: 1.0.0
 tags: [xcuitest, ios, lint, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: arm-resources-parameters
-description: >
-  Inventory Azure ARM template resources (type, name, apiVersion, location)
-  and parameters (type / defaultValue / secureString) with the local zero-auth
-  arm-template-lab MCP. JSON string only — no az CLI, deploy, or network.
+description: "Inventory Azure ARM template resources (type, name, apiVersion, location) and parameters (type / defaultValue / secureString) with the local zero-auth arm-template-lab MCP. JSON string only — no az CLI, deploy, or network."
 version: 1.0.0
 tags: [azure, arm, arm-template, resources, parameters, mcp, developer-tools]
 ---

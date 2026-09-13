@@ -1,8 +1,6 @@
 ---
 name: babel-env-lint
-description: >
-  Extract Babel env/targets and run educational heuristic lite lint with the
-  local zero-auth babel-config-lab MCP. No babel binary, no network.
+description: "Extract Babel env/targets and run educational heuristic lite lint with the local zero-auth babel-config-lab MCP. No babel binary, no network."
 version: 1.0.0
 tags: [babel, babel-config, targets, env, lint, developer-tools]
 ---

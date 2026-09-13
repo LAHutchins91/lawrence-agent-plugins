@@ -1,8 +1,6 @@
 ---
 name: qs-parse-stringify
-description: >
-  Parse URL query strings (duplicate keys → arrays) and stringify objects back
-  to encoded query strings with the local zero-auth querystring-lab MCP.
+description: Parse URL query strings (duplicate keys → arrays) and stringify objects back to encoded query strings with the local zero-auth querystring-lab MCP.
 version: 1.0.0
 tags: [querystring, parse, stringify, url, developer-tools]
 ---

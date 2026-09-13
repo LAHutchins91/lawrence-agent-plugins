@@ -1,10 +1,6 @@
 ---
 name: or-lint
-description: >
-  List orval hooks/mode keys (override.mutator / hooks.afterAllFilesWrite /
-  prettier / mock / mode: tags / mode: split / mode: single) and lite-lint
-  for missing input.target, missing output.target, http:// input, empty
-  file, and mock: true without msw. Local only, never runs orval, no fetch.
+description: "List orval hooks/mode keys (override.mutator / hooks.afterAllFilesWrite / prettier / mock / mode: tags / mode: split / mode: single) and lite-lint for missing input.target, missing output.target, http:// input, empty file, and mock: true without msw. Local only, never runs orval, no fetch."
 version: 1.0.0
 tags: [orval, openapi, lint, hooks, local]
 ---

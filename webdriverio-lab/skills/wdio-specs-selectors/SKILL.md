@@ -1,9 +1,6 @@
 ---
 name: wdio-specs-selectors
-description: >
-  Extract WebdriverIO Mocha-style specs/hooks (or config specs: paths) and
-  selector APIs ($/$$/browser.$/custom$) from JS/TS text with the local
-  zero-auth webdriverio-lab MCP. No wdio/browser/WebDriver runtime, no network.
+description: "Extract WebdriverIO Mocha-style specs/hooks (or config specs: paths) and selector APIs ($/$$/browser.$/custom$) from JS/TS text with the local zero-auth webdriverio-lab MCP. No wdio/browser/WebDriver runtime, no network."
 version: 1.0.0
 tags: [webdriverio, wdio, specs, selectors, developer-tools]
 ---

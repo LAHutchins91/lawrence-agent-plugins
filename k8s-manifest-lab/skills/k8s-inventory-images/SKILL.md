@@ -1,9 +1,6 @@
 ---
 name: k8s-inventory-images
-description: >
-  Inventory Kubernetes resources (kinds/names/namespaces) and list container
-  images from multi-doc YAML text with the local zero-auth k8s-manifest-lab MCP.
-  String/YAML only — no kubectl, cluster, or API.
+description: "Inventory Kubernetes resources (kinds/names/namespaces) and list container images from multi-doc YAML text with the local zero-auth k8s-manifest-lab MCP. String/YAML only — no kubectl, cluster, or API."
 version: 1.0.0
 tags: [kubernetes, k8s, yaml, images, inventory, developer-tools]
 ---

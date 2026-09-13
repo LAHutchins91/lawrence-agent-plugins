@@ -1,9 +1,6 @@
 ---
 name: gha-jobs-triggers
-description: >
-  List GitHub Actions jobs and normalize workflow `on:` triggers from workflow
-  YAML text with the local zero-auth github-actions-lab MCP. String/YAML only —
-  no GitHub API or network.
+description: "List GitHub Actions jobs and normalize workflow `on:` triggers from workflow YAML text with the local zero-auth github-actions-lab MCP. String/YAML only — no GitHub API or network."
 version: 1.0.0
 tags: [github-actions, gha, workflow, yaml, jobs, triggers, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: sinon-fakes-lint
-description: >
-  Extract Sinon fakes / fakeTimers / fakeServer / createSandbox hints and run
-  educational heuristic lite lint on JS/TS text with the local zero-auth
-  sinon-stub-lab MCP. No sinon runtime, no network.
+description: "Extract Sinon fakes / fakeTimers / fakeServer / createSandbox hints and run educational heuristic lite lint on JS/TS text with the local zero-auth sinon-stub-lab MCP. No sinon runtime, no network."
 version: 1.0.0
 tags: [sinon, fake, timers, lint, developer-tools]
 ---

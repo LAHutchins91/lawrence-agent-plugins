@@ -1,8 +1,6 @@
 ---
 name: uuid-parse
-description: >
-  Parse RFC4122 UUID version/variant bits and generate UUID v4 or ULID —
-  zero-auth, local only, no network.
+description: "Parse RFC4122 UUID version/variant bits and generate UUID v4 or ULID — zero-auth, local only, no network."
 version: 1.0.0
 tags: [uuid, ulid, rfc4122, generate, parse]
 ---

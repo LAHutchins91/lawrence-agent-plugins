@@ -1,8 +1,6 @@
 ---
 name: regex-harden
-description: >
-  Lint regexes for catastrophic-backtracking smells and preview safer
-  replacements — local zero-auth MCP (nested quantifiers, empty alts, unused captures).
+description: "Lint regexes for catastrophic-backtracking smells and preview safer replacements — local zero-auth MCP (nested quantifiers, empty alts, unused captures)."
 version: 1.0.0
 tags: [regex, redos, lint, replace, security]
 ---

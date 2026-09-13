@@ -1,8 +1,6 @@
 ---
 name: al-negotiate
-description: >
-  Negotiate the best available language from an Accept-Language preference
-  list using basic prefix matching, locally with zero-auth MCP tools.
+description: "Negotiate the best available language from an Accept-Language preference list using basic prefix matching, locally with zero-auth MCP tools."
 version: 1.0.0
 tags: [accept-language, negotiate, i18n, locale, local]
 ---

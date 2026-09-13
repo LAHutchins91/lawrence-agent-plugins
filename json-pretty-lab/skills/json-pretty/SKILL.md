@@ -1,8 +1,6 @@
 ---
 name: json-pretty
-description: >
-  Format, minify, or alphabetically sort keys in pasted JSON using local,
-  zero-auth MCP tools with no network access.
+description: "Format, minify, or alphabetically sort keys in pasted JSON using local, zero-auth MCP tools with no network access."
 version: 1.0.0
 tags: [json, pretty, minify, sort, format, local]
 ---

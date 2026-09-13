@@ -1,9 +1,6 @@
 ---
 name: netlify-lint
-description: >
-  Lite-lint pasted netlify.toml for missing [build].publish, SPA redirect
-  /* → /index.html note, empty redirects, and plugins present (info).
-  Local only, no Netlify CLI for tool logic, no fetch.
+description: "Lite-lint pasted netlify.toml for missing [build].publish, SPA redirect /* → /index.html note, empty redirects, and plugins present (info). Local only, no Netlify CLI for tool logic, no fetch."
 version: 1.0.0
 tags: [netlify, netlify-toml, lint, redirects, build, plugins, local]
 ---

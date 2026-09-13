@@ -1,9 +1,6 @@
 ---
 name: wp-entry-output
-description: >
-  Extract webpack entry points, mode, and output (path/filename/publicPath)
-  from webpack config text with the local zero-auth webpack-config-lab MCP.
-  JSONC preferred; JS/TS heuristics; no webpack binary or network.
+description: "Extract webpack entry points, mode, and output (path/filename/publicPath) from webpack config text with the local zero-auth webpack-config-lab MCP. JSONC preferred; JS/TS heuristics; no webpack binary or network."
 version: 1.0.0
 tags: [webpack, webpack-config, entry, output, developer-tools]
 ---

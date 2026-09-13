@@ -1,9 +1,6 @@
 ---
 name: sdl-parse
-description: >
-  Parse pasted GraphQL SDL locally with zero-auth MCP tools: list types,
-  list fields, find a type. Lite regex scanner — not a full GraphQL spec
-  parser. No network fetch.
+description: "Parse pasted GraphQL SDL locally with zero-auth MCP tools: list types, list fields, find a type. Lite regex scanner — not a full GraphQL spec parser. No network fetch."
 version: 1.0.0
 tags: [graphql, sdl, schema, parse, local]
 ---

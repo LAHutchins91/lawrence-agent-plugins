@@ -1,10 +1,6 @@
 ---
 name: drizzle-lint
-description: >
-  Lite-lint pasted Drizzle schema and/or drizzle.config for missing
-  primary key heuristic, empty schema, config without dialect, and
-  duplicate table names. Local only, no drizzle-kit for tool logic,
-  no fetch.
+description: "Lite-lint pasted Drizzle schema and/or drizzle.config for missing primary key heuristic, empty schema, config without dialect, and duplicate table names. Local only, no drizzle-kit for tool logic, no fetch."
 version: 1.0.0
 tags: [drizzle, schema, lint, primary-key, dialect, local]
 ---

@@ -1,10 +1,6 @@
 ---
 name: consul-services-checks
-description: >
-  Inventory Consul service definitions (name, port, tags, kind) and extract
-  health checks (http, tcp, script, ttl, grpc, interval) with the local
-  zero-auth consul-lab MCP. String/regex only — no consul CLI, agent, or
-  network.
+description: "Inventory Consul service definitions (name, port, tags, kind) and extract health checks (http, tcp, script, ttl, grpc, interval) with the local zero-auth consul-lab MCP. String/regex only — no consul CLI, agent, or network."
 version: 1.0.0
 tags: [consul, hcl, service, check, health, mcp, developer-tools]
 ---

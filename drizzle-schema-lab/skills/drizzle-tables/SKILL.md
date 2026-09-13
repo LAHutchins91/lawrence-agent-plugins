@@ -1,10 +1,6 @@
 ---
 name: drizzle-tables
-description: >
-  List pgTable/mysqlTable/sqliteTable names (with dialect hints) and
-  relations/.references heuristics from pasted Drizzle schema TS/JS.
-  Also drizzle.config dialect/schema/out. Local only — no drizzle-kit,
-  no fetch.
+description: "List pgTable/mysqlTable/sqliteTable names (with dialect hints) and relations/.references heuristics from pasted Drizzle schema TS/JS. Also drizzle.config dialect/schema/out. Local only — no drizzle-kit, no fetch."
 version: 1.0.0
 tags: [drizzle, schema, tables, relations, migrations, local]
 ---

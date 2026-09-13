@@ -1,8 +1,6 @@
 ---
 name: ip-parse-normalize
-description: >
-  Parse and normalize IPv4/IPv6 addresses (version detect, expand/compress,
-  optional zone-id strip) using the local zero-auth ip-cidr-lab MCP.
+description: "Parse and normalize IPv4/IPv6 addresses (version detect, expand/compress, optional zone-id strip) using the local zero-auth ip-cidr-lab MCP."
 version: 1.0.0
 tags: [ip, ipv4, ipv6, networking, developer-tools]
 ---

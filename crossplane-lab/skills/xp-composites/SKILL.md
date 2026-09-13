@@ -1,10 +1,6 @@
 ---
 name: xp-composites
-description: >
-  List Composition / CompositeResourceDefinition (XRD) names and Provider
-  hints (Provider / ProviderConfig / ControllerConfig / DeploymentRuntimeConfig
-  / package: / pkg.crossplane.io) from pasted Crossplane YAML. Local only —
-  never runs crossplane or kubectl, never fetches remote packages, no fetch.
+description: "List Composition / CompositeResourceDefinition (XRD) names and Provider hints (Provider / ProviderConfig / ControllerConfig / DeploymentRuntimeConfig / package: / pkg.crossplane.io) from pasted Crossplane YAML. Local only — never runs crossplane or kubectl, never fetches remote packages, no fetch."
 version: 1.0.0
 tags: [crossplane, xrd, composition, yaml, providers, local]
 ---

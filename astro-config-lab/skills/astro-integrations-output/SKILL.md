@@ -1,9 +1,6 @@
 ---
 name: astro-integrations-output
-description: >
-  Extract Astro integrations and output/adapter/site/base/trailingSlash from
-  astro.config text with the local zero-auth astro-config-lab MCP. defineConfig
-  heuristics; no astro binary or network.
+description: Extract Astro integrations and output/adapter/site/base/trailingSlash from astro.config text with the local zero-auth astro-config-lab MCP. defineConfig heuristics; no astro binary or network.
 version: 1.0.0
 tags: [astro, astro-config, integrations, output, adapter, developer-tools]
 ---

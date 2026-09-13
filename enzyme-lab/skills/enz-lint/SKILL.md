@@ -1,10 +1,6 @@
 ---
 name: enz-lint
-description: >
-  Count Enzyme .setProps( / .setState( / .setContext( / .unmount( /
-  .update( / .dive( / .simulate( lifecycle hints and lite-lint for
-  mount without unmount, simulate without update, empty file, and
-  deprecated enzyme import. Local only, never runs Enzyme/React, no fetch.
+description: "Count Enzyme .setProps( / .setState( / .setContext( / .unmount( / .update( / .dive( / .simulate( lifecycle hints and lite-lint for mount without unmount, simulate without update, empty file, and deprecated enzyme import. Local only, never runs Enzyme/React, no fetch."
 version: 1.0.0
 tags: [enzyme, mount, lint, local]
 ---

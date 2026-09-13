@@ -1,8 +1,6 @@
 ---
 name: api-contract-diff
-description: >
-  Compare OpenAPI/Swagger specs before shipping an API change.
-  Use openapi_diff for a structural path/method summary.
+description: Compare OpenAPI/Swagger specs before shipping an API change. Use openapi_diff for a structural path/method summary.
 version: 1.0.0
 tags: [openapi, swagger, api, contract]
 ---

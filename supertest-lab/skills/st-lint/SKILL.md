@@ -1,9 +1,6 @@
 ---
 name: st-lint
-description: >
-  Count Supertest .set('Authorization'…) / .auth( hints and lite-lint for
-  request without expect, missing await, hard-coded bearer tokens (values
-  redacted), and empty file. Local only, never sends HTTP, no fetch.
+description: "Count Supertest .set('Authorization'…) / .auth( hints and lite-lint for request without expect, missing await, hard-coded bearer tokens (values redacted), and empty file. Local only, never sends HTTP, no fetch."
 version: 1.0.0
 tags: [supertest, http-test, lint, local]
 ---

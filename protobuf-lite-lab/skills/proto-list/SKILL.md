@@ -1,9 +1,6 @@
 ---
 name: proto-list
-description: >
-  Parse pasted Protocol Buffer .proto text locally with zero-auth MCP tools:
-  list messages (including nested names), list services/RPCs, look up fields.
-  Lite regex scanner — not protoc. No network, no codegen.
+description: "Parse pasted Protocol Buffer .proto text locally with zero-auth MCP tools: list messages (including nested names), list services/RPCs, look up fields. Lite regex scanner — not protoc. No network, no codegen."
 version: 1.0.0
 tags: [protobuf, proto3, proto, parse, local]
 ---

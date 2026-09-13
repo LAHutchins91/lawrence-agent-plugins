@@ -1,9 +1,6 @@
 ---
 name: cdktf-stacks-providers
-description: >
-  Inventory CDKTF stacks/apps (language, app, projectId, terraformProviders)
-  and provider import/constructor hints with the local zero-auth terraform-cdk-lab
-  MCP. JSON/string/regex only — no CDKTF CLI, Terraform apply, or network.
+description: "Inventory CDKTF stacks/apps (language, app, projectId, terraformProviders) and provider import/constructor hints with the local zero-auth terraform-cdk-lab MCP. JSON/string/regex only — no CDKTF CLI, Terraform apply, or network."
 version: 1.0.0
 tags: [cdktf, terraform, stacks, providers, mcp, developer-tools]
 ---

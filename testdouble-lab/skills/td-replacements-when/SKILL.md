@@ -1,8 +1,6 @@
 ---
 name: td-replacements-when
-description: >
-  Extract testdouble.js replacements and td.when stubs from JS/TS text with the
-  local zero-auth testdouble-lab MCP. No testdouble runtime, no network.
+description: "Extract testdouble.js replacements and td.when stubs from JS/TS text with the local zero-auth testdouble-lab MCP. No testdouble runtime, no network."
 version: 1.0.0
 tags: [testdouble, td, replace, when, developer-tools]
 ---

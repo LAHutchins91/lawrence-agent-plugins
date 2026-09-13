@@ -1,9 +1,6 @@
 ---
 name: wp-loaders-plugins-lint
-description: >
-  Summarize webpack module.rules loaders, list plugin constructor names, and
-  run educational heuristic lite lint with the local zero-auth
-  webpack-config-lab MCP. No webpack binary, no network.
+description: "Summarize webpack module.rules loaders, list plugin constructor names, and run educational heuristic lite lint with the local zero-auth webpack-config-lab MCP. No webpack binary, no network."
 version: 1.0.0
 tags: [webpack, webpack-config, loaders, plugins, lint, developer-tools]
 ---

@@ -1,8 +1,6 @@
 ---
 name: detect-eol
-description: >
-  Detect LF / CRLF / CR / mixed line endings and report counts —
-  zero-auth, local, no network.
+description: "Detect LF / CRLF / CR / mixed line endings and report counts — zero-auth, local, no network."
 version: 1.0.0
 tags: [eol, lf, crlf, cr, line-endings, local]
 ---

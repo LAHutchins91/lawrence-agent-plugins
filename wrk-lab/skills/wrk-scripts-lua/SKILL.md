@@ -1,10 +1,6 @@
 ---
 name: wrk-scripts-lua
-description: >
-  Extract wrk/wrk2 Lua hook function definitions (setup / init / request /
-  response / done) and wrk.* API uses (wrk.method / wrk.headers / wrk.body /
-  wrk.format) from Lua script text with the local zero-auth wrk-lab MCP.
-  No wrk runtime, no network, no Lua VM.
+description: "Extract wrk/wrk2 Lua hook function definitions (setup / init / request / response / done) and wrk.* API uses (wrk.method / wrk.headers / wrk.body / wrk.format) from Lua script text with the local zero-auth wrk-lab MCP. No wrk runtime, no network, no Lua VM."
 version: 1.0.0
 tags: [wrk, wrk2, lua, hooks, load-test, developer-tools]
 ---

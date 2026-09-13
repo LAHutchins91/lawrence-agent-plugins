@@ -1,11 +1,6 @@
 ---
 name: ppol-policies
-description: >
-  List Pulumi Policy as Code PolicyPack / policies array names (name + kind)
-  and rule method counts (validateResource / validateStack /
-  ResourceValidationPolicy / StackValidationPolicy / enforcementLevel /
-  advisory / mandatory) from pasted TS/JS/Python. Local only — never runs
-  Pulumi CLI, no fetch.
+description: "List Pulumi Policy as Code PolicyPack / policies array names (name + kind) and rule method counts (validateResource / validateStack / ResourceValidationPolicy / StackValidationPolicy / enforcementLevel / advisory / mandatory) from pasted TS/JS/Python. Local only — never runs Pulumi CLI, no fetch."
 version: 1.0.0
 tags: [pulumi, policy, policy-as-code, policies, rules, local]
 ---

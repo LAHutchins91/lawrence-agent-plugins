@@ -1,11 +1,6 @@
 ---
 name: argo-lint
-description: >
-  List Argo CD syncPolicy keys (syncPolicy / automated / prune / selfHeal /
-  syncOptions / CreateNamespace / ServerSideApply / retry) and lite-lint for
-  missing destination, missing source/sources, automated without prune, empty
-  file, and insecure http:// repoURL. Local only, never runs argocd/kubectl,
-  no fetch.
+description: "List Argo CD syncPolicy keys (syncPolicy / automated / prune / selfHeal / syncOptions / CreateNamespace / ServerSideApply / retry) and lite-lint for missing destination, missing source/sources, automated without prune, empty file, and insecure http:// repoURL. Local only, never runs argocd/kubectl, no fetch."
 version: 1.0.0
 tags: [argocd, argo-cd, yaml, lint, sync, local]
 ---

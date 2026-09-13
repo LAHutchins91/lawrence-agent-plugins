@@ -1,11 +1,6 @@
 ---
 name: ghz-targets
-description: >
-  List ghz host/call targets (ghz --insecure host:port, --call /
-  -n package.Service/Method), plus proto hints (-proto / --protoset /
-  --proto / -i / --import-paths / -d / --data / -D / --data-file / -m /
-  --metadata) from pasted ghz shell/config source. Local only — never runs
-  ghz or gRPC load tests, no fetch.
+description: "List ghz host/call targets (ghz --insecure host:port, --call / -n package.Service/Method), plus proto hints (-proto / --protoset / --proto / -i / --import-paths / -d / --data / -D / --data-file / -m / --metadata) from pasted ghz shell/config source. Local only — never runs ghz or gRPC load tests, no fetch."
 version: 1.0.0
 tags: [ghz, grpc, load-testing, targets, local]
 ---

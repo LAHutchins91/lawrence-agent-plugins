@@ -1,8 +1,6 @@
 ---
 name: tox-envlist-commands
-description: >
-  Parse tox.ini envlist (with simple factor expansion) and map per-testenv
-  commands with the local zero-auth tox-ini-lab MCP. No tox binary, no network, no venv.
+description: "Parse tox.ini envlist (with simple factor expansion) and map per-testenv commands with the local zero-auth tox-ini-lab MCP. No tox binary, no network, no venv."
 version: 1.0.0
 tags: [tox, tox.ini, envlist, commands, python, developer-tools]
 ---

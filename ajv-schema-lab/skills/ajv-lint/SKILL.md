@@ -1,9 +1,6 @@
 ---
 name: ajv-lint
-description: >
-  Lite-lint pasted JSON Schema / AJV schema JSON for missing $schema,
-  additionalProperties missing on objects, empty required arrays, and draft
-  mismatch heuristics. Local only — JSON.parse, no AJV compile/validate, no fetch.
+description: "Lite-lint pasted JSON Schema / AJV schema JSON for missing $schema, additionalProperties missing on objects, empty required arrays, and draft mismatch heuristics. Local only — JSON.parse, no AJV compile/validate, no fetch."
 version: 1.0.0
 tags: [ajv, json-schema, schema, lint, validation, local]
 ---

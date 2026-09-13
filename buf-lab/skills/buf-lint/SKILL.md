@@ -1,11 +1,6 @@
 ---
 name: buf-lint
-description: >
-  List buf lint/breaking config keys (use: / except: / ignore: /
-  enum_zero_value_suffix / rpc_allow_same_request_response / SERVICE_SUFFIX)
-  and lite-lint for missing name:, deps without buf.lock, many except:,
-  empty file, and buf.gen.yaml without plugins:. Local only, never runs
-  buf CLI, no fetch.
+description: "List buf lint/breaking config keys (use: / except: / ignore: / enum_zero_value_suffix / rpc_allow_same_request_response / SERVICE_SUFFIX) and lite-lint for missing name:, deps without buf.lock, many except:, empty file, and buf.gen.yaml without plugins:. Local only, never runs buf CLI, no fetch."
 version: 1.0.0
 tags: [buf, protobuf, lint, local]
 ---

@@ -1,8 +1,6 @@
 ---
 name: etag-check
-description: >
-  Normalize ETags, compare weak vs strong entity-tags, and check
-  If-None-Match conditional requests locally with zero-auth MCP tools. No network.
+description: "Normalize ETags, compare weak vs strong entity-tags, and check If-None-Match conditional requests locally with zero-auth MCP tools. No network."
 version: 1.0.0
 tags: [etag, if-none-match, http, cache, headers, local]
 ---

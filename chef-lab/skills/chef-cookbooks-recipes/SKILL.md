@@ -1,11 +1,6 @@
 ---
 name: chef-cookbooks-recipes
-description: >
-  Inventory Chef cookbooks (metadata.rb / Policyfile / Berksfile name,
-  version, depends, supports) and recipe resources (package, service,
-  template, file, directory, execute, include_recipe) with the local
-  zero-auth chef-lab MCP. Ruby DSL string only — no Chef CLI, knife, or
-  network.
+description: "Inventory Chef cookbooks (metadata.rb / Policyfile / Berksfile name, version, depends, supports) and recipe resources (package, service, template, file, directory, execute, include_recipe) with the local zero-auth chef-lab MCP. Ruby DSL string only — no Chef CLI, knife, or network."
 version: 1.0.0
 tags: [chef, cookbook, recipe, resources, mcp, developer-tools]
 ---

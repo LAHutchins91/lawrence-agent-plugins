@@ -1,9 +1,6 @@
 ---
 name: heroku-lint
-description: >
-  Lite-lint pasted Heroku app.json for missing name/description, empty
-  scripts, buildpacks present (info), and success_url missing note.
-  Local only, no Heroku API/CLI for tool logic, no fetch.
+description: "Lite-lint pasted Heroku app.json for missing name/description, empty scripts, buildpacks present (info), and success_url missing note. Local only, no Heroku API/CLI for tool logic, no fetch."
 version: 1.0.0
 tags: [heroku, app-json, lint, name, scripts, buildpacks, success-url, local]
 ---

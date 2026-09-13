@@ -1,11 +1,6 @@
 ---
 name: art-lint
-description: >
-  List Artillery plugins/engines (ensure / expect / metrics-by-endpoint /
-  publish-metrics / apdex / playwright / socketio / ws) and lite-lint for
-  missing phases, http without expect/ensure, high arrivalRate without
-  maxVusers, empty file, and target http://. Local only, never runs
-  Artillery/load tests, no fetch.
+description: "List Artillery plugins/engines (ensure / expect / metrics-by-endpoint / publish-metrics / apdex / playwright / socketio / ws) and lite-lint for missing phases, http without expect/ensure, high arrivalRate without maxVusers, empty file, and target http://. Local only, never runs Artillery/load tests, no fetch."
 version: 1.0.0
 tags: [artillery, load-testing, lint, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: chai-lint
-description: >
-  Count Chai chai.use( / chai-as-promised / sinon-chai plugin hints and
-  lite-lint for mixed expect+assert styles, == near expect, empty file,
-  and missing chai import. Local only, never executes assertions, no fetch.
+description: "Count Chai chai.use( / chai-as-promised / sinon-chai plugin hints and lite-lint for mixed expect+assert styles, == near expect, empty file, and missing chai import. Local only, never executes assertions, no fetch."
 version: 1.0.0
 tags: [chai, assert, lint, local]
 ---

@@ -1,8 +1,6 @@
 ---
 name: md-heading-link-lint
-description: >
-  Lint Markdown ATX heading structure and scan inline links for empty,
-  javascript:, or bare-hash hrefs (local zero-auth MCP).
+description: "Lint Markdown ATX heading structure and scan inline links for empty, javascript:, or bare-hash hrefs (local zero-auth MCP)."
 version: 1.0.0
 tags: [markdown, lint, headings, links, security]
 ---

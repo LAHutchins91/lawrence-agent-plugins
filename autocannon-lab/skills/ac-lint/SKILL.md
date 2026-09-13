@@ -1,11 +1,6 @@
 ---
 name: ac-lint
-description: >
-  List autocannon metrics / handlers (latency / requests / throughput /
-  errors / timeouts / non2xx / 2xx / statusCodeStats / on('done' /
-  .then(result) and lite-lint for missing duration/amount, high
-  connections without workers, http:// target, empty file, and no result
-  handler. Local only, never runs autocannon/load tests, no fetch.
+description: "List autocannon metrics / handlers (latency / requests / throughput / errors / timeouts / non2xx / 2xx / statusCodeStats / on('done' / .then(result) and lite-lint for missing duration/amount, high connections without workers, http:// target, empty file, and no result handler. Local only, never runs autocannon/load tests, no fetch."
 version: 1.0.0
 tags: [autocannon, load-testing, lint, local]
 ---

@@ -1,8 +1,6 @@
 ---
 name: color-contrast
-description: >
-  Check WCAG 2.x contrast ratio between two colors (hex or rgb) with AA/AAA
-  pass for normal and large text — zero-auth, local relative luminance.
+description: "Check WCAG 2.x contrast ratio between two colors (hex or rgb) with AA/AAA pass for normal and large text — zero-auth, local relative luminance."
 version: 1.0.0
 tags: [color, contrast, wcag, a11y, hex, local]
 ---

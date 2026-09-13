@@ -1,10 +1,6 @@
 ---
 name: next-rewrites
-description: >
-  Parse pasted next.config.* text locally with zero-auth MCP tools:
-  list rewrites, redirects, and images.domains / remotePatterns hostnames.
-  Lite JS scanner — not Next.js CLI. Async functions may only partially extract.
-  No network, no next binary for tool logic.
+description: "Parse pasted next.config.* text locally with zero-auth MCP tools: list rewrites, redirects, and images.domains / remotePatterns hostnames. Lite JS scanner — not Next.js CLI. Async functions may only partially extract. No network, no next binary for tool logic."
 version: 1.0.0
 tags: [next, nextjs, rewrites, redirects, images, domains, parse, local]
 ---

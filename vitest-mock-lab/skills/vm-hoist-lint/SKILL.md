@@ -1,9 +1,6 @@
 ---
 name: vm-hoist-lint
-description: >
-  Extract Vitest vi.hoisted / doMock / unmock / resetModules hints and run
-  educational heuristic lite lint on JS/TS text with the local zero-auth
-  vitest-mock-lab MCP. No vitest runtime, no network.
+description: "Extract Vitest vi.hoisted / doMock / unmock / resetModules hints and run educational heuristic lite lint on JS/TS text with the local zero-auth vitest-mock-lab MCP. No vitest runtime, no network."
 version: 1.0.0
 tags: [vitest, hoist, mock, lint, developer-tools]
 ---

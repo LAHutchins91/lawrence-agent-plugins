@@ -1,9 +1,6 @@
 ---
 name: rt-lint
-description: >
-  Count Runtypes .withConstraint( / Constraint( / .withGuard usage and lite-lint
-  for empty Record, missing Static export, Optional vs required clarity, and
-  deprecated Intersect. Local only, never .check()/.guard(), no fetch.
+description: "Count Runtypes .withConstraint( / Constraint( / .withGuard usage and lite-lint for empty Record, missing Static export, Optional vs required clarity, and deprecated Intersect. Local only, never .check()/.guard(), no fetch."
 version: 1.0.0
 tags: [runtypes, schema, lint, validation, local]
 ---

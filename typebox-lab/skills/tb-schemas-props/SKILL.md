@@ -1,8 +1,6 @@
 ---
 name: tb-schemas-props
-description: >
-  Extract TypeBox schema assignments and Type.Object property hints from TS/JS text
-  with the local zero-auth typebox-lab MCP. No @sinclair/typebox runtime, no network.
+description: "Extract TypeBox schema assignments and Type.Object property hints from TS/JS text with the local zero-auth typebox-lab MCP. No @sinclair/typebox runtime, no network."
 version: 1.0.0
 tags: [typebox, schema, properties, validation, developer-tools]
 ---

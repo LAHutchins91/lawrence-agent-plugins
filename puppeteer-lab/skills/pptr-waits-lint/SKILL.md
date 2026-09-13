@@ -1,9 +1,6 @@
 ---
 name: pptr-waits-lint
-description: >
-  Extract Puppeteer wait helpers and run educational heuristic lite lint on
-  script JS/TS text with the local zero-auth puppeteer-lab MCP. No
-  puppeteer/browser runtime, no network.
+description: "Extract Puppeteer wait helpers and run educational heuristic lite lint on script JS/TS text with the local zero-auth puppeteer-lab MCP. No puppeteer/browser runtime, no network."
 version: 1.0.0
 tags: [puppeteer, waits, lint, developer-tools]
 ---

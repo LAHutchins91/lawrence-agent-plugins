@@ -1,9 +1,6 @@
 ---
 name: cv-dtos-decorators
-description: >
-  Extract class-validator DTO classes and per-property decorator hints from
-  TypeScript text with the local zero-auth class-validator-lab MCP.
-  No class-validator runtime, no network.
+description: "Extract class-validator DTO classes and per-property decorator hints from TypeScript text with the local zero-auth class-validator-lab MCP. No class-validator runtime, no network."
 version: 1.0.0
 tags: [class-validator, dto, decorators, validation, developer-tools]
 ---

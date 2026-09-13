@@ -1,8 +1,6 @@
 ---
 name: gi-parse-merge
-description: >
-  Parse .gitignore text into structured rules and merge multiple pattern lists
-  with the local zero-auth gitignore-lab MCP. Skips blanks and # comments.
+description: "Parse .gitignore text into structured rules and merge multiple pattern lists with the local zero-auth gitignore-lab MCP. Skips blanks and # comments."
 version: 1.0.0
 tags: [gitignore, parse, merge, developer-tools]
 ---

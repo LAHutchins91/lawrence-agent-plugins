@@ -1,9 +1,6 @@
 ---
 name: cdk8s-charts-resources
-description: >
-  Inventory cdk8s charts/apps (name, apiVersion, language/runtime) and heuristic
-  resource constructors from program or synth YAML with the local zero-auth
-  cdk8s-lab MCP. YAML/string/regex only — no cdk8s CLI, cluster, or network.
+description: "Inventory cdk8s charts/apps (name, apiVersion, language/runtime) and heuristic resource constructors from program or synth YAML with the local zero-auth cdk8s-lab MCP. YAML/string/regex only — no cdk8s CLI, cluster, or network."
 version: 1.0.0
 tags: [cdk8s, charts, resources, kubernetes, mcp, developer-tools]
 ---

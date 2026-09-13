@@ -1,8 +1,6 @@
 ---
 name: eff-schemas-fields
-description: >
-  Extract Effect Schema assignments and Schema.Struct field hints from TS/JS text
-  with the local zero-auth effect-schema-lab MCP. No Effect runtime, no network.
+description: "Extract Effect Schema assignments and Schema.Struct field hints from TS/JS text with the local zero-auth effect-schema-lab MCP. No Effect runtime, no network."
 version: 1.0.0
 tags: [effect, schema, fields, validation, developer-tools]
 ---

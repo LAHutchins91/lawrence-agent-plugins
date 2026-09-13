@@ -1,9 +1,6 @@
 ---
 name: gc-metadata-lint
-description: >
-  Extract grpcurl -H / -rpc-header / -reflect-metadata flags (auth redacted)
-  and run educational heuristic lite lint with the local zero-auth grpcurl-lab MCP.
-  No grpcurl/gRPC runtime, no network.
+description: "Extract grpcurl -H / -rpc-header / -reflect-metadata flags (auth redacted) and run educational heuristic lite lint with the local zero-auth grpcurl-lab MCP. No grpcurl/gRPC runtime, no network."
 version: 1.0.0
 tags: [grpcurl, grpc, metadata, headers, lint, developer-tools]
 ---

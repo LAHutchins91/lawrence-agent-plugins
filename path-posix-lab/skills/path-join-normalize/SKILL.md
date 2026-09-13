@@ -1,8 +1,6 @@
 ---
 name: path-join-normalize
-description: >
-  Join POSIX path segments and normalize `.` / `..` with the local zero-auth
-  path-posix-lab MCP. String ops only — no filesystem access.
+description: "Join POSIX path segments and normalize `.` / `..` with the local zero-auth path-posix-lab MCP. String ops only — no filesystem access."
 version: 1.0.0
 tags: [path, posix, join, normalize, developer-tools]
 ---

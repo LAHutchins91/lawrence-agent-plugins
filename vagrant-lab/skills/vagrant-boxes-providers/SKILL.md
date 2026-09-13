@@ -1,10 +1,6 @@
 ---
 name: vagrant-boxes-providers
-description: >
-  Inventory Vagrantfile boxes (`vm.box`, `box_version`, `vm.define` names) and
-  detect providers (virtualbox, vmware, libvirt, docker, hyperv) with the local
-  zero-auth vagrant-lab MCP. String/regex only — no vagrant CLI, VM start, or
-  network.
+description: "Inventory Vagrantfile boxes (`vm.box`, `box_version`, `vm.define` names) and detect providers (virtualbox, vmware, libvirt, docker, hyperv) with the local zero-auth vagrant-lab MCP. String/regex only — no vagrant CLI, VM start, or network."
 version: 1.0.0
 tags: [vagrant, vagrantfile, box, provider, mcp, developer-tools]
 ---

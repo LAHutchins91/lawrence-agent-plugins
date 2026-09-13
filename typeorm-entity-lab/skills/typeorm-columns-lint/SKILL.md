@@ -1,9 +1,6 @@
 ---
 name: typeorm-columns-lint
-description: >
-  Extract TypeORM column decorator hints and run educational heuristic lite lint
-  on entity / DataSource TS/JS text with the local zero-auth typeorm-entity-lab
-  MCP. No TypeORM CLI, no network, no DB.
+description: "Extract TypeORM column decorator hints and run educational heuristic lite lint on entity / DataSource TS/JS text with the local zero-auth typeorm-entity-lab MCP. No TypeORM CLI, no network, no DB."
 version: 1.0.0
 tags: [typeorm, columns, lint, datasource, developer-tools]
 ---

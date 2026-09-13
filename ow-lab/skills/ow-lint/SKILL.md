@@ -1,9 +1,6 @@
 ---
 name: ow-lint
-description: >
-  Count ow .minLength/.maxLength/.is/.validate modifiers and lite-lint for
-  ow() without label, empty file, deprecated patterns, and missing isNode
-  check. Local only, never ow() assert, no fetch.
+description: "Count ow .minLength/.maxLength/.is/.validate modifiers and lite-lint for ow() without label, empty file, deprecated patterns, and missing isNode check. Local only, never ow() assert, no fetch."
 version: 1.0.0
 tags: [ow, sindresorhus, lint, validation, local]
 ---

@@ -1,8 +1,6 @@
 ---
 name: joi-schemas-fields
-description: >
-  Extract Joi schema assignments and Joi.object field hints from JS/TS text with
-  the local zero-auth joi-schema-lab MCP. No joi runtime, no network.
+description: "Extract Joi schema assignments and Joi.object field hints from JS/TS text with the local zero-auth joi-schema-lab MCP. No joi runtime, no network."
 version: 1.0.0
 tags: [joi, schema, fields, validation, developer-tools]
 ---

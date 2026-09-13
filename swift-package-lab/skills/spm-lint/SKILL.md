@@ -1,9 +1,6 @@
 ---
 name: spm-lint
-description: >
-  Lite-lint pasted Package.swift for missing name:, missing platforms,
-  duplicate target names, and branch-based (unpinned) dependencies.
-  Local only, no swift/xcode, no fetch.
+description: "Lite-lint pasted Package.swift for missing name:, missing platforms, duplicate target names, and branch-based (unpinned) dependencies. Local only, no swift/xcode, no fetch."
 version: 1.0.0
 tags: [swift, swiftpm, Package.swift, spm, lint, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: knex-lint
-description: >
-  Lite-lint pasted Knex migrations/seeds for up without down, dropTable
-  without cascade note, raw SQL presence, and missing schemaName / withSchema.
-  Local only, no knex CLI for tool logic, no fetch.
+description: "Lite-lint pasted Knex migrations/seeds for up without down, dropTable without cascade note, raw SQL presence, and missing schemaName / withSchema. Local only, no knex CLI for tool logic, no fetch."
 version: 1.0.0
 tags: [knex, migrations, lint, cascade, schema, local]
 ---

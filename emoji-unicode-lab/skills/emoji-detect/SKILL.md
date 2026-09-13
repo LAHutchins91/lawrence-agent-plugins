@@ -1,8 +1,6 @@
 ---
 name: emoji-detect
-description: >
-  Scan text for emoji including ZWJ sequences and variation selectors —
-  zero-auth, compact local heuristic (no network / no huge tables).
+description: "Scan text for emoji including ZWJ sequences and variation selectors — zero-auth, compact local heuristic (no network / no huge tables)."
 version: 1.0.0
 tags: [emoji, zwj, unicode, detect, local]
 ---

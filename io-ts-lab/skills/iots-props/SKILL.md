@@ -1,9 +1,6 @@
 ---
 name: iots-props
-description: >
-  List io-ts export/const codecs (t.type / t.interface / t.partial / t.array /
-  t.union / t.intersection / t.strict) and prop hints from pasted io-ts TypeScript.
-  Local only — no decode()/encode(), no fetch.
+description: "List io-ts export/const codecs (t.type / t.interface / t.partial / t.array / t.union / t.intersection / t.strict) and prop hints from pasted io-ts TypeScript. Local only — no decode()/encode(), no fetch."
 version: 1.0.0
 tags: [io-ts, schema, props, validation, local]
 ---

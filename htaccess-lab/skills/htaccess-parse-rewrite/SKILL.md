@@ -1,8 +1,6 @@
 ---
 name: htaccess-parse-rewrite
-description: >
-  Parse .htaccess directives/rewrites and explain RewriteRule lines with the
-  local zero-auth htaccess-lab MCP. String-level only — no Apache exec or FS.
+description: Parse .htaccess directives/rewrites and explain RewriteRule lines with the local zero-auth htaccess-lab MCP. String-level only — no Apache exec or FS.
 version: 1.0.0
 tags: [htaccess, apache, rewrite, parse, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: ma-flows-commands
-description: >
-  Extract Maestro flow meta (appId/name/tags) plus ordered command steps and
-  command frequency from YAML text with the local zero-auth maestro-lab MCP.
-  No Maestro/device runtime, no network.
+description: "Extract Maestro flow meta (appId/name/tags) plus ordered command steps and command frequency from YAML text with the local zero-auth maestro-lab MCP. No Maestro/device runtime, no network."
 version: 1.0.0
 tags: [maestro, yaml, flows, commands, developer-tools]
 ---

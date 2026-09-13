@@ -1,9 +1,6 @@
 ---
 name: ark-lint
-description: >
-  Count ArkType .narrow( / narrow( usage and lite-lint for empty type, string
-  definition heavy note, missing .configure, and no infer export hint. Local
-  only, never type().assert(), no fetch.
+description: "Count ArkType .narrow( / narrow( usage and lite-lint for empty type, string definition heavy note, missing .configure, and no infer export hint. Local only, never type().assert(), no fetch."
 version: 1.0.0
 tags: [arktype, schema, lint, validation, local]
 ---

@@ -1,10 +1,6 @@
 ---
 name: ng-projects
-description: >
-  Parse pasted angular.json text locally with zero-auth MCP tools:
-  list projects (name, projectType, root, sourceRoot), architect targets
-  with builders, and build options styles/scripts arrays. JSON-only —
-  not Angular CLI. No network, no ng binary for tool logic.
+description: "Parse pasted angular.json text locally with zero-auth MCP tools: list projects (name, projectType, root, sourceRoot), architect targets with builders, and build options styles/scripts arrays. JSON-only — not Angular CLI. No network, no ng binary for tool logic."
 version: 1.0.0
 tags: [angular, angular-json, projects, architect, styles, scripts, parse, local]
 ---

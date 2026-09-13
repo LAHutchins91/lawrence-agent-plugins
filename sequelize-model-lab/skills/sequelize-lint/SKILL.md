@@ -1,9 +1,6 @@
 ---
 name: sequelize-lint
-description: >
-  Lite-lint pasted Sequelize models for missing primaryKey heuristic,
-  timestamps: false notes, underscored mixed naming, and duplicate model
-  names. Local only, no sequelize CLI for tool logic, no fetch.
+description: "Lite-lint pasted Sequelize models for missing primaryKey heuristic, timestamps: false notes, underscored mixed naming, and duplicate model names. Local only, no sequelize CLI for tool logic, no fetch."
 version: 1.0.0
 tags: [sequelize, models, lint, primary-key, timestamps, local]
 ---

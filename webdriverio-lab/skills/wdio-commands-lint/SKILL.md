@@ -1,9 +1,6 @@
 ---
 name: wdio-commands-lint
-description: >
-  Extract common WebdriverIO browser./element. commands and run educational
-  heuristic lite lint on JS/TS text with the local zero-auth webdriverio-lab
-  MCP. No wdio/browser/WebDriver runtime, no network.
+description: "Extract common WebdriverIO browser./element. commands and run educational heuristic lite lint on JS/TS text with the local zero-auth webdriverio-lab MCP. No wdio/browser/WebDriver runtime, no network."
 version: 1.0.0
 tags: [webdriverio, wdio, commands, lint, developer-tools]
 ---

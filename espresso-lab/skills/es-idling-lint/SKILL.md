@@ -1,10 +1,6 @@
 ---
 name: es-idling-lint
-description: >
-  Extract IdlingResource / CountingIdlingResource / registerIdlingResources
-  signals and run educational heuristic lite lint on Espresso Java/Kotlin test
-  text with the local zero-auth espresso-lab MCP. No Android/Espresso runtime,
-  no network.
+description: "Extract IdlingResource / CountingIdlingResource / registerIdlingResources signals and run educational heuristic lite lint on Espresso Java/Kotlin test text with the local zero-auth espresso-lab MCP. No Android/Espresso runtime, no network."
 version: 1.0.0
 tags: [espresso, android, idling, lint, developer-tools]
 ---

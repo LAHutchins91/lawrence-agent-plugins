@@ -1,8 +1,6 @@
 ---
 name: openapi-mock
-description: >
-  Load an OpenAPI 3.x spec and generate mock response bodies from examples
-  or schemas — local zero-auth MCP for contract and stub tests.
+description: Load an OpenAPI 3.x spec and generate mock response bodies from examples or schemas — local zero-auth MCP for contract and stub tests.
 version: 1.0.0
 tags: [openapi, mock, fixtures, testing, api]
 ---

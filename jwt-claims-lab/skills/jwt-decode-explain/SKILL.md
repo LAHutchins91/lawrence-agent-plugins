@@ -1,8 +1,6 @@
 ---
 name: jwt-decode-explain
-description: >
-  Decode JWTs (header + payload only) and explain common claims using the local
-  zero-auth jwt-claims-lab MCP. Never verifies signatures or mints tokens.
+description: Decode JWTs (header + payload only) and explain common claims using the local zero-auth jwt-claims-lab MCP. Never verifies signatures or mints tokens.
 version: 1.0.0
 tags: [jwt, claims, decode, developer-tools]
 ---

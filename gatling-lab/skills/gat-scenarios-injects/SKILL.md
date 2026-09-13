@@ -1,10 +1,6 @@
 ---
 name: gat-scenarios-injects
-description: >
-  Extract Gatling scenario("...") names, http.baseUrl / protocol defs, and
-  inject( / atOnceUsers / rampUsers / constantUsersPerSec / stressPeakUsers
-  signals from Scala/Java simulation text with the local zero-auth gatling-lab
-  MCP. No Gatling/load-test runtime, no network.
+description: "Extract Gatling scenario(\"...\") names, http.baseUrl / protocol defs, and inject( / atOnceUsers / rampUsers / constantUsersPerSec / stressPeakUsers signals from Scala/Java simulation text with the local zero-auth gatling-lab MCP. No Gatling/load-test runtime, no network."
 version: 1.0.0
 tags: [gatling, scala, java, scenarios, inject, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: esbuild-lint
-description: >
-  Lite-lint pasted esbuild build options for missing outfile/outdir, bundle false
-  with multiple entryPoints, format missing when platform is browser, and minify
-  without sourcemap note. Local only, no esbuild binary for tool logic, no fetch.
+description: "Lite-lint pasted esbuild build options for missing outfile/outdir, bundle false with multiple entryPoints, format missing when platform is browser, and minify without sourcemap note. Local only, no esbuild binary for tool logic, no fetch."
 version: 1.0.0
 tags: [esbuild, lint, outfile, outdir, bundle, format, minify, local]
 ---

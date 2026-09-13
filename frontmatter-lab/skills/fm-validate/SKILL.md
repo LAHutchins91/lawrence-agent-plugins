@@ -1,8 +1,6 @@
 ---
 name: fm-validate
-description: >
-  Merge patch keys into Markdown YAML frontmatter and validate required /
-  forbidden top-level keys — zero-auth, local, no network.
+description: "Merge patch keys into Markdown YAML frontmatter and validate required / forbidden top-level keys — zero-auth, local, no network."
 version: 1.0.0
 tags: [frontmatter, yaml, validate, merge, markdown, local]
 ---

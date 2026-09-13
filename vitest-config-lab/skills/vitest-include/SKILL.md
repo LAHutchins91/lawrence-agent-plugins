@@ -1,10 +1,6 @@
 ---
 name: vitest-include
-description: >
-  Parse pasted vitest.config.*/vite.config.* text locally with zero-auth MCP tools:
-  list test include/exclude globs, coverage provider/reporters/thresholds, and
-  workspace/projects entries. Lite JS/TS scanner — not vitest CLI. No network,
-  no vitest/vite binary.
+description: "Parse pasted vitest.config.*/vite.config.* text locally with zero-auth MCP tools: list test include/exclude globs, coverage provider/reporters/thresholds, and workspace/projects entries. Lite JS/TS scanner — not vitest CLI. No network, no vitest/vite binary."
 version: 1.0.0
 tags: [vitest, vite, vitest.config, include, exclude, coverage, workspace, parse, local]
 ---

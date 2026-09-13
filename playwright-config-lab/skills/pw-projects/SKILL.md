@@ -1,10 +1,6 @@
 ---
 name: pw-projects
-description: >
-  Parse pasted playwright.config.* text locally with zero-auth MCP tools:
-  list projects (name + browserName), unique browsers, and webServer
-  command/url/reuse hints. Lite JS/TS scanner — not Playwright CLI. No network,
-  no playwright binary.
+description: "Parse pasted playwright.config.* text locally with zero-auth MCP tools: list projects (name + browserName), unique browsers, and webServer command/url/reuse hints. Lite JS/TS scanner — not Playwright CLI. No network, no playwright binary."
 version: 1.0.0
 tags: [playwright, playwright.config, projects, browsers, webServer, parse, local]
 ---

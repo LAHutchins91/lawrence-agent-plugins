@@ -1,9 +1,6 @@
 ---
 name: header-parse-cache
-description: >
-  Parse raw HTTP header blocks (Name: value, fold/duplicates) and explain
-  Cache-Control directives with the local zero-auth http-header-lab MCP.
-  Header string analysis only — no network I/O.
+description: "Parse raw HTTP header blocks (Name: value, fold/duplicates) and explain Cache-Control directives with the local zero-auth http-header-lab MCP. Header string analysis only — no network I/O."
 version: 1.0.0
 tags: [http, headers, cache-control, parse, developer-tools]
 ---

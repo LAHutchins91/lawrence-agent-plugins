@@ -1,9 +1,6 @@
 ---
 name: nock-lint
-description: >
-  Count nock .persist/.times/.once/.twice hints and lite-lint for missing
-  nock.cleanAll/restore, persist without times caution, empty intercepts,
-  and reply without status. Local only, never activates interceptors, no fetch.
+description: "Count nock .persist/.times/.once/.twice hints and lite-lint for missing nock.cleanAll/restore, persist without times caution, empty intercepts, and reply without status. Local only, never activates interceptors, no fetch."
 version: 1.0.0
 tags: [nock, http-mock, lint, local]
 ---

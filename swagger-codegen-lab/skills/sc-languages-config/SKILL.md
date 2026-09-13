@@ -1,9 +1,6 @@
 ---
 name: sc-languages-config
-description: >
-  Extract swagger-codegen / openapi-generator -l/--lang/-g/--generator-name
-  languages and -c/--config/-p/--additional-properties with the local zero-auth
-  swagger-codegen-lab MCP. No codegen runtime, no network.
+description: "Extract swagger-codegen / openapi-generator -l/--lang/-g/--generator-name languages and -c/--config/-p/--additional-properties with the local zero-auth swagger-codegen-lab MCP. No codegen runtime, no network."
 version: 1.0.0
 tags: [swagger-codegen, openapi-generator, languages, config, cli, developer-tools]
 ---

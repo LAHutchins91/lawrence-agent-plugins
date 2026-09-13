@@ -1,10 +1,6 @@
 ---
 name: ct-lint
-description: >
-  List Conftest/Rego input keyword counts (input_dot / input_bracket /
-  with_input_as / conf_test) and lite-lint for missing package, deny without
-  msg, empty file, non-main package (needs -n), and violation+deny mixed.
-  Local only, never runs conftest/OPA CLI, no fetch.
+description: "List Conftest/Rego input keyword counts (input_dot / input_bracket / with_input_as / conf_test) and lite-lint for missing package, deny without msg, empty file, non-main package (needs -n), and violation+deny mixed. Local only, never runs conftest/OPA CLI, no fetch."
 version: 1.0.0
 tags: [conftest, rego, opa, policy, lint, inputs, local]
 ---

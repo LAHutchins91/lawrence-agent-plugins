@@ -1,8 +1,6 @@
 ---
 name: detect-delimiter
-description: >
-  Detect CSV/TSV delimiter (comma/tab/semicolon/pipe) and sniff quote/escape
-  style from pasted sample text — zero-auth, local, no network.
+description: "Detect CSV/TSV delimiter (comma/tab/semicolon/pipe) and sniff quote/escape style from pasted sample text — zero-auth, local, no network."
 version: 1.0.0
 tags: [csv, delimiter, tsv, sniff, quote, local]
 ---

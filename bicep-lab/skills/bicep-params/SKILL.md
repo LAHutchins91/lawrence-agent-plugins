@@ -1,9 +1,6 @@
 ---
 name: bicep-params
-description: >
-  List Bicep param declarations (name + type) and resource Microsoft.*
-  type counts from pasted Bicep. Local only — never runs Azure CLI or
-  bicep CLI, no fetch.
+description: "List Bicep param declarations (name + type) and resource Microsoft.* type counts from pasted Bicep. Local only — never runs Azure CLI or bicep CLI, no fetch."
 version: 1.0.0
 tags: [bicep, azure, arm, params, resources, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: cy-intercepts-lint
-description: >
-  Extract Cypress cy.intercept / cy.route hints and run educational
-  heuristic lite lint on support/commands/spec JS/TS text with the local
-  zero-auth cypress-commands-lab MCP. No Cypress/browser runtime, no network.
+description: "Extract Cypress cy.intercept / cy.route hints and run educational heuristic lite lint on support/commands/spec JS/TS text with the local zero-auth cypress-commands-lab MCP. No Cypress/browser runtime, no network."
 version: 1.0.0
 tags: [cypress, intercept, lint, developer-tools]
 ---

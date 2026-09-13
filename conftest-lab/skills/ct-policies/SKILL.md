@@ -1,10 +1,6 @@
 ---
 name: ct-policies
-description: >
-  List Conftest/Rego policy identifiers (package / deny / violation) and
-  namespace method counts (package_main / package_namespaces /
-  package_namespaces_sub) from pasted Conftest Rego. Local only — never
-  runs conftest/OPA CLI, no fetch.
+description: "List Conftest/Rego policy identifiers (package / deny / violation) and namespace method counts (package_main / package_namespaces / package_namespaces_sub) from pasted Conftest Rego. Local only — never runs conftest/OPA CLI, no fetch."
 version: 1.0.0
 tags: [conftest, rego, opa, policy, namespaces, local]
 ---

@@ -1,8 +1,6 @@
 ---
 name: zod-schemas-fields
-description: >
-  Extract Zod schema assignments and z.object field hints from TS/JS text with
-  the local zero-auth zod-schema-lab MCP. No zod runtime, no network.
+description: "Extract Zod schema assignments and z.object field hints from TS/JS text with the local zero-auth zod-schema-lab MCP. No zod runtime, no network."
 version: 1.0.0
 tags: [zod, schema, fields, validation, developer-tools]
 ---

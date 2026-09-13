@@ -1,9 +1,6 @@
 ---
 name: gc-services-methods
-description: >
-  Extract grpcurl targets/services and fully-qualified methods
-  (package.Service/Method) with the local zero-auth grpcurl-lab MCP.
-  No grpcurl/gRPC runtime, no network.
+description: "Extract grpcurl targets/services and fully-qualified methods (package.Service/Method) with the local zero-auth grpcurl-lab MCP. No grpcurl/gRPC runtime, no network."
 version: 1.0.0
 tags: [grpcurl, grpc, services, methods, cli, developer-tools]
 ---

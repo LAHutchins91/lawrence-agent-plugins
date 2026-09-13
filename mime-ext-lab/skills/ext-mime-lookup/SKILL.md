@@ -1,8 +1,6 @@
 ---
 name: ext-mime-lookup
-description: >
-  Map file extensions to MIME types and MIME types back to canonical extensions
-  (with optional alts) using the local zero-auth mime-ext-lab MCP.
+description: Map file extensions to MIME types and MIME types back to canonical extensions (with optional alts) using the local zero-auth mime-ext-lab MCP.
 version: 1.0.0
 tags: [mime, extension, content-type, developer-tools]
 ---

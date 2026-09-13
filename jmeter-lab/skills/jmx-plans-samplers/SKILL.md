@@ -1,9 +1,6 @@
 ---
 name: jmx-plans-samplers
-description: >
-  Extract JMeter TestPlan / ThreadGroup (num_threads, ramp_time) and
-  HTTPSamplerProxy / JavaSampler (path) signals from JMX / plan XML text with
-  the local zero-auth jmeter-lab MCP. No JMeter/load-test runtime, no network.
+description: "Extract JMeter TestPlan / ThreadGroup (num_threads, ramp_time) and HTTPSamplerProxy / JavaSampler (path) signals from JMX / plan XML text with the local zero-auth jmeter-lab MCP. No JMeter/load-test runtime, no network."
 version: 1.0.0
 tags: [jmeter, jmx, testplan, threadgroup, sampler, developer-tools]
 ---

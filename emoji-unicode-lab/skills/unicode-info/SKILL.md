@@ -1,8 +1,6 @@
 ---
 name: unicode-info
-description: >
-  Inspect Unicode characters/codepoints, escape non-ASCII, and NFKC-normalize —
-  zero-auth, local Node built-ins + small curated name map (not full UCD).
+description: "Inspect Unicode characters/codepoints, escape non-ASCII, and NFKC-normalize — zero-auth, local Node built-ins + small curated name map (not full UCD)."
 version: 1.0.0
 tags: [unicode, codepoint, escape, nfkc, local]
 ---

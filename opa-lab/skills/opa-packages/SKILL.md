@@ -1,9 +1,6 @@
 ---
 name: opa-packages
-description: >
-  List OPA/Rego package declarations (name) and rule method counts
-  (rule_heads / allow / deny / violation / default / import) from pasted
-  Rego. Local only — never runs OPA CLI, no fetch.
+description: "List OPA/Rego package declarations (name) and rule method counts (rule_heads / allow / deny / violation / default / import) from pasted Rego. Local only — never runs OPA CLI, no fetch."
 version: 1.0.0
 tags: [opa, rego, policy, packages, rules, local]
 ---

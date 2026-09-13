@@ -1,9 +1,6 @@
 ---
 name: buf-modules
-description: >
-  List buf module name/path (name: / path: / modules: entries) and deps
-  hints (buf.build/... under deps:) from pasted buf.yaml / buf.work.yaml
-  source. Local only — never runs buf CLI or fetches modules, no fetch.
+description: "List buf module name/path (name: / path: / modules: entries) and deps hints (buf.build/... under deps:) from pasted buf.yaml / buf.work.yaml source. Local only — never runs buf CLI or fetches modules, no fetch."
 version: 1.0.0
 tags: [buf, protobuf, modules, deps, local]
 ---

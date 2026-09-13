@@ -1,9 +1,6 @@
 ---
 name: robots-sitemap-lint
-description: >
-  List Sitemap directives and run heuristic robots.txt lint (empty Disallow,
-  missing User-agent, duplicate sitemaps, non-rooted paths) with the local
-  zero-auth robots-txt-lab MCP. String-only — no HTTP fetch.
+description: "List Sitemap directives and run heuristic robots.txt lint (empty Disallow, missing User-agent, duplicate sitemaps, non-rooted paths) with the local zero-auth robots-txt-lab MCP. String-only — no HTTP fetch."
 version: 1.0.0
 tags: [robots.txt, sitemap, lint, developer-tools]
 ---

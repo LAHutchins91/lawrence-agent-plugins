@@ -1,9 +1,6 @@
 ---
 name: railway-deploy-lint
-description: >
-  Extract Railway deploy/build fields and run educational heuristic lite lint
-  on railway.json / railway.toml text with the local zero-auth railway-json-lab
-  MCP. No Railway API, no network.
+description: "Extract Railway deploy/build fields and run educational heuristic lite lint on railway.json / railway.toml text with the local zero-auth railway-json-lab MCP. No Railway API, no network."
 version: 1.0.0
 tags: [railway, railway.json, railway.toml, deploy, lint, developer-tools]
 ---

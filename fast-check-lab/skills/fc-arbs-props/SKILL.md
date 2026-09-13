@@ -1,8 +1,6 @@
 ---
 name: fc-arbs-props
-description: >
-  Extract fast-check arbitrary assignments and fc.property / fc.assert hints from JS/TS text
-  with the local zero-auth fast-check-lab MCP. No fast-check runtime, no network.
+description: "Extract fast-check arbitrary assignments and fc.property / fc.assert hints from JS/TS text with the local zero-auth fast-check-lab MCP. No fast-check runtime, no network."
 version: 1.0.0
 tags: [fast-check, arbitrary, property-based-testing, developer-tools]
 ---

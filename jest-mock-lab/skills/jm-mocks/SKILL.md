@@ -1,9 +1,6 @@
 ---
 name: jm-mocks
-description: >
-  List jest.mock( / jest.doMock( / jest.unstable_mockModule( sites and
-  jest.spyOn( / jest.fn( counts from pasted Jest JS/TS. Local only —
-  never runs Jest, no fetch.
+description: "List jest.mock( / jest.doMock( / jest.unstable_mockModule( sites and jest.spyOn( / jest.fn( counts from pasted Jest JS/TS. Local only — never runs Jest, no fetch."
 version: 1.0.0
 tags: [jest, mock, spy, local]
 ---

@@ -1,8 +1,6 @@
 ---
 name: make-phony-lint
-description: >
-  Collect .PHONY names and run educational heuristic lite lint on Makefile text
-  with the local zero-auth makefile-lab MCP. No make binary, no network, no shell.
+description: "Collect .PHONY names and run educational heuristic lite lint on Makefile text with the local zero-auth makefile-lab MCP. No make binary, no network, no shell."
 version: 1.0.0
 tags: [makefile, make, phony, lint, developer-tools]
 ---

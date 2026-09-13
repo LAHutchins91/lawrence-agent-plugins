@@ -1,9 +1,6 @@
 ---
 name: vb-actions-lint
-description: >
-  Extract Valibot action usage (email, minLength, transform, check, …) and run
-  educational heuristic lite lint on schema TS/JS text with the local zero-auth
-  valibot-lab MCP. No valibot runtime, no network.
+description: "Extract Valibot action usage (email, minLength, transform, check, …) and run educational heuristic lite lint on schema TS/JS text with the local zero-auth valibot-lab MCP. No valibot runtime, no network."
 version: 1.0.0
 tags: [valibot, actions, lint, validation, developer-tools]
 ---

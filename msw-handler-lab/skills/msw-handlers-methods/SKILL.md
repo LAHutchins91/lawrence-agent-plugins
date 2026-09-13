@@ -1,8 +1,6 @@
 ---
 name: msw-handlers-methods
-description: >
-  Extract MSW http/rest/graphql handlers and method counts from JS/TS text
-  with the local zero-auth msw-handler-lab MCP. No msw runtime, no network.
+description: "Extract MSW http/rest/graphql handlers and method counts from JS/TS text with the local zero-auth msw-handler-lab MCP. No msw runtime, no network."
 version: 1.0.0
 tags: [msw, mock-service-worker, handlers, developer-tools]
 ---

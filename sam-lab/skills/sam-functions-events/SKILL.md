@@ -1,10 +1,6 @@
 ---
 name: sam-functions-events
-description: >
-  Inventory AWS SAM / CloudFormation Lambda functions (Runtime, Handler,
-  Timeout, MemorySize) and Events (Api, HttpApi, S3, SNS, SQS, Schedule,
-  DynamoDB, …) with the local zero-auth sam-lab MCP. YAML string only —
-  no SAM CLI, AWS deploy, or network.
+description: "Inventory AWS SAM / CloudFormation Lambda functions (Runtime, Handler, Timeout, MemorySize) and Events (Api, HttpApi, S3, SNS, SQS, Schedule, DynamoDB, …) with the local zero-auth sam-lab MCP. YAML string only — no SAM CLI, AWS deploy, or network."
 version: 1.0.0
 tags: [aws-sam, sam, lambda, functions, events, mcp, developer-tools]
 ---

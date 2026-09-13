@@ -1,11 +1,6 @@
 ---
 name: loc-lint
-description: >
-  List Locust events / sleep APIs (events.request / events.test_start /
-  events.test_stop / events.quitting / environment.events / gevent.sleep /
-  time.sleep) and lite-lint for missing wait_time, hard sleep, User without
-  @task, empty file, and client without catch_response. Local only, never
-  runs Locust/load tests, no fetch.
+description: "List Locust events / sleep APIs (events.request / events.test_start / events.test_stop / events.quitting / environment.events / gevent.sleep / time.sleep) and lite-lint for missing wait_time, hard sleep, User without @task, empty file, and client without catch_response. Local only, never runs Locust/load tests, no fetch."
 version: 1.0.0
 tags: [locust, load-testing, lint, local]
 ---

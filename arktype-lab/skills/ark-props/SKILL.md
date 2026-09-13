@@ -1,9 +1,6 @@
 ---
 name: ark-props
-description: >
-  List ArkType export/const types (type({ ... }) object / type("...") stringDef)
-  and prop hints from pasted ArkType TypeScript. Local only — never
-  type().assert(), no fetch.
+description: "List ArkType export/const types (type({ ... }) object / type(\"...\") stringDef) and prop hints from pasted ArkType TypeScript. Local only — never type().assert(), no fetch."
 version: 1.0.0
 tags: [arktype, schema, props, validation, local]
 ---

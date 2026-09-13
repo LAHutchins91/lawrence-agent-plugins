@@ -1,10 +1,6 @@
 ---
 name: fly-services
-description: >
-  Parse pasted fly.toml text locally with zero-auth MCP tools:
-  app / primary_region, [[services]] / [http_service] ports, and [env]
-  keys (secret-like values redacted). Lite TOML — not flyctl. No network,
-  no fly binary for tool logic.
+description: "Parse pasted fly.toml text locally with zero-auth MCP tools: app / primary_region, [[services]] / [http_service] ports, and [env] keys (secret-like values redacted). Lite TOML — not flyctl. No network, no fly binary for tool logic."
 version: 1.0.0
 tags: [fly, fly-toml, flyio, services, ports, env, parse, local]
 ---

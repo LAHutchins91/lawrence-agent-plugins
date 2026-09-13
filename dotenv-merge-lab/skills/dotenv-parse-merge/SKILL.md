@@ -1,9 +1,6 @@
 ---
 name: dotenv-parse-merge
-description: >
-  Parse dotenv KEY=VALUE text (comments, export prefix, quotes) and merge
-  base/overlay with last-wins or base-wins using the local zero-auth
-  dotenv-merge-lab MCP. String-level only — no secret-file or network I/O.
+description: "Parse dotenv KEY=VALUE text (comments, export prefix, quotes) and merge base/overlay with last-wins or base-wins using the local zero-auth dotenv-merge-lab MCP. String-level only — no secret-file or network I/O."
 version: 1.0.0
 tags: [dotenv, env, parse, merge, developer-tools]
 ---

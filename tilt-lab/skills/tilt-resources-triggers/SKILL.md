@@ -1,9 +1,6 @@
 ---
 name: tilt-resources-triggers
-description: >
-  Inventory Tiltfile resources (docker_build/custom_build, k8s_yaml/k8s_resource,
-  local_resource, dc_resource/docker_compose) and hint deps/resource_deps/trigger_mode
-  with the local zero-auth tilt-lab MCP. Regex/string only — no Tilt CLI, cluster, or network.
+description: "Inventory Tiltfile resources (docker_build/custom_build, k8s_yaml/k8s_resource, local_resource, dc_resource/docker_compose) and hint deps/resource_deps/trigger_mode with the local zero-auth tilt-lab MCP. Regex/string only — no Tilt CLI, cluster, or network."
 version: 1.0.0
 tags: [tilt, tiltfile, resources, triggers, mcp, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: msw-fixtures-lint
-description: >
-  Extract MSW response fixtures (HttpResponse / ctx.*) and run educational
-  heuristic lite lint on JS/TS text with the local zero-auth msw-handler-lab MCP.
-  No msw runtime, no network.
+description: "Extract MSW response fixtures (HttpResponse / ctx.*) and run educational heuristic lite lint on JS/TS text with the local zero-auth msw-handler-lab MCP. No msw runtime, no network."
 version: 1.0.0
 tags: [msw, fixtures, lint, mock-service-worker, developer-tools]
 ---

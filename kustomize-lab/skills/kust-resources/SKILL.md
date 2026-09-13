@@ -1,11 +1,6 @@
 ---
 name: kust-resources
-description: >
-  List resources: / bases: / components: entries and overlay hints
-  (namespace / namePrefix / nameSuffix / commonLabels / commonAnnotations /
-  images / configMapGenerator / secretGenerator / replicas) from pasted
-  kustomization.yaml. Local only — never runs kustomize or kubectl, never
-  fetches remote resources, no fetch.
+description: "List resources: / bases: / components: entries and overlay hints (namespace / namePrefix / nameSuffix / commonLabels / commonAnnotations / images / configMapGenerator / secretGenerator / replicas) from pasted kustomization.yaml. Local only — never runs kustomize or kubectl, never fetches remote resources, no fetch."
 version: 1.0.0
 tags: [kustomize, kubernetes, resources, overlays, local]
 ---

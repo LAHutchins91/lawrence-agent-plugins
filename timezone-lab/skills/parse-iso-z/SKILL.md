@@ -1,8 +1,6 @@
 ---
 name: parse-iso-z
-description: >
-  Normalize various ISO-8601 datetime strings (Z, offsets, date-only) to a
-  UTC Instant — zero-auth, local, no network.
+description: "Normalize various ISO-8601 datetime strings (Z, offsets, date-only) to a UTC Instant — zero-auth, local, no network."
 version: 1.0.0
 tags: [iso8601, utc, parse, instant, local]
 ---

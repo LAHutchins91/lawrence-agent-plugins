@@ -1,8 +1,6 @@
 ---
 name: gi-match-explain
-description: >
-  Match paths against gitignore-style patterns and explain which rule decided
-  with the local zero-auth gitignore-lab MCP. No FS walks, no network.
+description: "Match paths against gitignore-style patterns and explain which rule decided with the local zero-auth gitignore-lab MCP. No FS walks, no network."
 version: 1.0.0
 tags: [gitignore, glob, match, explain, developer-tools]
 ---

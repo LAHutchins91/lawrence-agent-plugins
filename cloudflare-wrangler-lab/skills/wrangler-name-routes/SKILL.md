@@ -1,9 +1,6 @@
 ---
 name: wrangler-name-routes
-description: >
-  Extract Worker name/main/compatibility_date and routes from wrangler.toml
-  text with the local zero-auth cloudflare-wrangler-lab MCP. No wrangler CLI
-  or network.
+description: Extract Worker name/main/compatibility_date and routes from wrangler.toml text with the local zero-auth cloudflare-wrangler-lab MCP. No wrangler CLI or network.
 version: 1.0.0
 tags: [cloudflare, wrangler, wrangler.toml, workers, routes, developer-tools]
 ---

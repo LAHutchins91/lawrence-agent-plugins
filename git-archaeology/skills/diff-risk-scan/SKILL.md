@@ -1,9 +1,6 @@
 ---
 name: diff-risk-scan
-description: >
-  Review a pasted unified diff for heuristic PR risk (large deletes, lockfiles,
-  migrations, auth paths, secrets-ish names, binaries). Optionally pair with a
-  why-here brief from recent commit log text — local, zero-auth.
+description: "Review a pasted unified diff for heuristic PR risk (large deletes, lockfiles, migrations, auth paths, secrets-ish names, binaries). Optionally pair with a why-here brief from recent commit log text — local, zero-auth."
 version: 1.0.0
 tags: [git, diff, pr, risk, migration, auth, secrets]
 ---

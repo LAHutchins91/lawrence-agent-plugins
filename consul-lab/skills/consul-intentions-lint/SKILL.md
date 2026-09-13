@@ -1,9 +1,6 @@
 ---
 name: consul-intentions-lint
-description: >
-  Extract Consul intentions / service-intentions (source, destination, action
-  allow/deny) plus educational lite lint with the local zero-auth consul-lab
-  MCP. No consul CLI, agent, or network.
+description: "Extract Consul intentions / service-intentions (source, destination, action allow/deny) plus educational lite lint with the local zero-auth consul-lab MCP. No consul CLI, agent, or network."
 version: 1.0.0
 tags: [consul, intention, lint, acl, mcp, developer-tools]
 ---

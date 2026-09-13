@@ -1,9 +1,6 @@
 ---
 name: rollback-sketch
-description: >
-  Sketch best-effort inverse SQL for a migration with confidence labels.
-  Never invent column definitions for DROP TABLE or data restores for
-  DELETE/TRUNCATE — emit TODOs instead. Local zero-auth MCP.
+description: Sketch best-effort inverse SQL for a migration with confidence labels. Never invent column definitions for DROP TABLE or data restores for DELETE/TRUNCATE — emit TODOs instead. Local zero-auth MCP.
 version: 1.0.0
 tags: [sql, migration, rollback, inverse, ddl]
 ---

@@ -1,8 +1,6 @@
 ---
 name: kb-hooks-lint
-description: >
-  Extract Kubb hooks.done / post-generate commands and run educational
-  heuristic lite lint with the local zero-auth kubb-lab MCP. No @kubb/cli, no network.
+description: "Extract Kubb hooks.done / post-generate commands and run educational heuristic lite lint with the local zero-auth kubb-lab MCP. No @kubb/cli, no network."
 version: 1.0.0
 tags: [kubb, openapi, hooks, lint, config, developer-tools]
 ---

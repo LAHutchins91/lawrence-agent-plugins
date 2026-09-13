@@ -1,8 +1,6 @@
 ---
 name: bytes-compare-convert
-description: >
-  Compare two byte sizes and convert between IEC/SI units with the local
-  zero-auth bytes-size-lab MCP. No network.
+description: Compare two byte sizes and convert between IEC/SI units with the local zero-auth bytes-size-lab MCP. No network.
 version: 1.0.0
 tags: [bytes, compare, convert, iec, si, developer-tools]
 ---

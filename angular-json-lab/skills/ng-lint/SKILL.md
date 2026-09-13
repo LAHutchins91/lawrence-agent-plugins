@@ -1,10 +1,6 @@
 ---
 name: ng-lint
-description: >
-  Lite-lint pasted angular.json for missing defaultProject (legacy),
-  empty/missing projects, builder version-ish notes, and budgets missing
-  on production configuration. Local only, no ng binary for tool logic,
-  no fetch.
+description: "Lite-lint pasted angular.json for missing defaultProject (legacy), empty/missing projects, builder version-ish notes, and budgets missing on production configuration. Local only, no ng binary for tool logic, no fetch."
 version: 1.0.0
 tags: [angular, angular-json, lint, budgets, defaultProject, builder, local]
 ---

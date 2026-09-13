@@ -1,9 +1,6 @@
 ---
 name: ansible-vars-lint
-description: >
-  Extract Ansible vars / vars_files / set_fact key names (flagging
-  secret/password/token key names only) and educational lite lint with the
-  local zero-auth ansible-lab MCP. No ansible CLI, SSH, or network.
+description: "Extract Ansible vars / vars_files / set_fact key names (flagging secret/password/token key names only) and educational lite lint with the local zero-auth ansible-lab MCP. No ansible CLI, SSH, or network."
 version: 1.0.0
 tags: [ansible, vars, lint, secrets, mcp, developer-tools]
 ---

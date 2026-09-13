@@ -1,8 +1,6 @@
 ---
 name: vercel-rewrites-redirects
-description: >
-  Extract Vercel rewrites and redirects arrays from vercel.json text with the
-  local zero-auth vercel-json-lab MCP. No vercel CLI or network.
+description: Extract Vercel rewrites and redirects arrays from vercel.json text with the local zero-auth vercel-json-lab MCP. No vercel CLI or network.
 version: 1.0.0
 tags: [vercel, vercel.json, rewrites, redirects, developer-tools]
 ---

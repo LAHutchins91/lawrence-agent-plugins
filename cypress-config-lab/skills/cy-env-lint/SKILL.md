@@ -1,9 +1,6 @@
 ---
 name: cy-env-lint
-description: >
-  List Cypress env keys (with optional secret redaction) and run educational
-  heuristic lite lint with the local zero-auth cypress-config-lab MCP.
-  No cypress binary, no network.
+description: "List Cypress env keys (with optional secret redaction) and run educational heuristic lite lint with the local zero-auth cypress-config-lab MCP. No cypress binary, no network."
 version: 1.0.0
 tags: [cypress, cypress-config, env, lint, developer-tools]
 ---

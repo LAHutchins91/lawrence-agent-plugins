@@ -1,9 +1,6 @@
 ---
 name: sequelize-models
-description: >
-  List sequelize.define / class extends Model names, association hints
-  (hasMany/belongsTo/hasOne/belongsToMany), and attribute/column hints
-  from pasted Sequelize model JS/TS. Local only — no sequelize CLI, no fetch.
+description: "List sequelize.define / class extends Model names, association hints (hasMany/belongsTo/hasOne/belongsToMany), and attribute/column hints from pasted Sequelize model JS/TS. Local only — no sequelize CLI, no fetch."
 version: 1.0.0
 tags: [sequelize, models, associations, columns, orm, local]
 ---

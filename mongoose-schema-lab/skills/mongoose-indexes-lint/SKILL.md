@@ -1,9 +1,6 @@
 ---
 name: mongoose-indexes-lint
-description: >
-  Extract Mongoose index hints and run educational heuristic lite lint on
-  schema/model JS/TS text with the local zero-auth mongoose-schema-lab MCP.
-  No mongoose/mongo runtime, no network.
+description: "Extract Mongoose index hints and run educational heuristic lite lint on schema/model JS/TS text with the local zero-auth mongoose-schema-lab MCP. No mongoose/mongo runtime, no network."
 version: 1.0.0
 tags: [mongoose, indexes, lint, mongodb, developer-tools]
 ---

@@ -1,10 +1,6 @@
 ---
 name: jm-lint
-description: >
-  Count Jest jest.useFakeTimers( / advanceTimersByTime( / runAllTimers(
-  timer hints and lite-lint for mock without clearAllMocks/restoreAllMocks,
-  spy without mockRestore, empty file, and requireActual missing when
-  partial mock. Local only, never runs Jest, no fetch.
+description: "Count Jest jest.useFakeTimers( / advanceTimersByTime( / runAllTimers( timer hints and lite-lint for mock without clearAllMocks/restoreAllMocks, spy without mockRestore, empty file, and requireActual missing when partial mock. Local only, never runs Jest, no fetch."
 version: 1.0.0
 tags: [jest, mock, lint, local]
 ---

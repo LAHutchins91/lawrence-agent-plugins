@@ -1,10 +1,6 @@
 ---
 name: ft-lint
-description: >
-  List Fortio percentile / histogram fields (-json / -p / Percentile / p50 /
-  p75 / p90 / p99 / p999 / histogram / All done) and lite-lint for missing
-  -qps/-n, high -c without -qps, http:// target, empty file, and load without
-  -t. Local only, never runs Fortio/load tests, no fetch.
+description: "List Fortio percentile / histogram fields (-json / -p / Percentile / p50 / p75 / p90 / p99 / p999 / histogram / All done) and lite-lint for missing -qps/-n, high -c without -qps, http:// target, empty file, and load without -t. Local only, never runs Fortio/load tests, no fetch."
 version: 1.0.0
 tags: [fortio, load-testing, lint, local]
 ---

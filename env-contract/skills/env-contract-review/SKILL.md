@@ -1,9 +1,6 @@
 ---
 name: env-contract-review
-description: >
-  Review .env / config drift locally: infer an env contract (kinds, required,
-  secretLikely), check against actual env text, and optionally cross-check
-  docker-compose ${VAR} overlap — redacted, CI-friendly, zero-auth.
+description: "Review .env / config drift locally: infer an env contract (kinds, required, secretLikely), check against actual env text, and optionally cross-check docker-compose ${VAR} overlap — redacted, CI-friendly, zero-auth."
 version: 1.0.0
 tags: [env, dotenv, contract, drift, secrets, compose, ci]
 ---

@@ -1,10 +1,6 @@
 ---
 name: salt-states-pillars
-description: >
-  Inventory Salt SLS state IDs and modules (pkg.installed, service.running,
-  file.managed, etc.) and extract pillar keys (flagging secret/password/token
-  key names) with the local zero-auth salt-lab MCP. YAML/string only — no salt
-  CLI, minion/master, or network.
+description: "Inventory Salt SLS state IDs and modules (pkg.installed, service.running, file.managed, etc.) and extract pillar keys (flagging secret/password/token key names) with the local zero-auth salt-lab MCP. YAML/string only — no salt CLI, minion/master, or network."
 version: 1.0.0
 tags: [salt, saltstack, sls, pillar, states, mcp, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: sk-pipelines-builds
-description: >
-  Inventory skaffold.yaml pipelines/profiles/apiVersion/metadata.name and hint
-  build.artifacts (image/context/dockerfile/builder) with the local zero-auth
-  skaffold-lab MCP. String/YAML only — no Skaffold CLI, cluster, or network.
+description: "Inventory skaffold.yaml pipelines/profiles/apiVersion/metadata.name and hint build.artifacts (image/context/dockerfile/builder) with the local zero-auth skaffold-lab MCP. String/YAML only — no Skaffold CLI, cluster, or network."
 version: 1.0.0
 tags: [skaffold, pipelines, builds, yaml, mcp, developer-tools]
 ---

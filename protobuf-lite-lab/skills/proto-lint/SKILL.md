@@ -1,9 +1,6 @@
 ---
 name: proto-lint
-description: >
-  Lite-lint pasted Protocol Buffer .proto text for missing syntax/package,
-  duplicate field numbers in a message, reserved name issues, and empty
-  services. Local only, no protoc, no fetch.
+description: "Lite-lint pasted Protocol Buffer .proto text for missing syntax/package, duplicate field numbers in a message, reserved name issues, and empty services. Local only, no protoc, no fetch."
 version: 1.0.0
 tags: [protobuf, proto3, proto, lint, local]
 ---

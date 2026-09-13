@@ -1,8 +1,6 @@
 ---
 name: listen-hint
-description: >
-  Bind-address notes for public, private, or local listen intents — zero-auth,
-  advice only, no scanning or connect().
+description: "Bind-address notes for public, private, or local listen intents — zero-auth, advice only, no scanning or connect()."
 version: 1.0.0
 tags: [listen, bind, security, localhost, local]
 ---

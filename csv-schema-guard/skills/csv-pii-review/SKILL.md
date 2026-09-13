@@ -1,8 +1,6 @@
 ---
 name: csv-pii-review
-description: >
-  Heuristically flag email/phone/ssn-like CSV columns and show MASKED samples
-  only — never echo raw PII values from the paste.
+description: Heuristically flag email/phone/ssn-like CSV columns and show MASKED samples only — never echo raw PII values from the paste.
 version: 1.0.0
 tags: [csv, pii, privacy, email, phone, ssn]
 ---

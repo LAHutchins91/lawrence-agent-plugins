@@ -1,10 +1,6 @@
 ---
 name: ab-lint
-description: >
-  List ab concurrency / summary fields (-n / -c / -t / -k / Requests per
-  second / Time per request) and lite-lint for missing -n/-t, -c >= -n,
-  http:// target, empty file, and high -n without -k. Local only, never
-  runs ab/load tests, no fetch.
+description: "List ab concurrency / summary fields (-n / -c / -t / -k / Requests per second / Time per request) and lite-lint for missing -n/-t, -c >= -n, http:// target, empty file, and high -n without -k. Local only, never runs ab/load tests, no fetch."
 version: 1.0.0
 tags: [apachebench, ab, load-testing, lint, local]
 ---

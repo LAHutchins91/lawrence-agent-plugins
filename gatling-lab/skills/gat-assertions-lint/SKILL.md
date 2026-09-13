@@ -1,9 +1,6 @@
 ---
 name: gat-assertions-lint
-description: >
-  Extract Gatling assertions( / global.responseTime / details( / forAll signals
-  and run educational heuristic lite lint on Gatling Scala/Java simulation text
-  with the local zero-auth gatling-lab MCP. No Gatling/load-test runtime, no network.
+description: "Extract Gatling assertions( / global.responseTime / details( / forAll signals and run educational heuristic lite lint on Gatling Scala/Java simulation text with the local zero-auth gatling-lab MCP. No Gatling/load-test runtime, no network."
 version: 1.0.0
 tags: [gatling, scala, java, assertions, lint, developer-tools]
 ---

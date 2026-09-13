@@ -1,11 +1,6 @@
 ---
 name: fb-hosting
-description: >
-  Parse pasted firebase.json text locally with zero-auth MCP tools:
-  list hosting sites (public, site, ignore, rewritesCount), Firestore
-  rules/indexes paths, and functions source/runtime/codebase with
-  predeploy hints. JSON-only — not Firebase CLI. No network, no firebase
-  binary for tool logic.
+description: "Parse pasted firebase.json text locally with zero-auth MCP tools: list hosting sites (public, site, ignore, rewritesCount), Firestore rules/indexes paths, and functions source/runtime/codebase with predeploy hints. JSON-only — not Firebase CLI. No network, no firebase binary for tool logic."
 version: 1.0.0
 tags: [firebase, firebase-json, hosting, firestore, functions, parse, local]
 ---

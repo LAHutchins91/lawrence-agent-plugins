@@ -1,9 +1,6 @@
 ---
 name: prisma-datasource-lint
-description: >
-  Extract Prisma datasource/generator blocks (URL redacted) and run educational
-  heuristic lite lint on schema.prisma text with the local zero-auth
-  prisma-schema-lab MCP. No Prisma CLI, no network, no DB.
+description: "Extract Prisma datasource/generator blocks (URL redacted) and run educational heuristic lite lint on schema.prisma text with the local zero-auth prisma-schema-lab MCP. No Prisma CLI, no network, no DB."
 version: 1.0.0
 tags: [prisma, schema.prisma, datasource, generator, lint, developer-tools]
 ---

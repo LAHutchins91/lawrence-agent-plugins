@@ -1,8 +1,6 @@
 ---
 name: content-type-filename
-description: >
-  Extract MIME from a filename/path and parse Content-Type headers
-  (type + params) with the local zero-auth mime-ext-lab MCP.
+description: Extract MIME from a filename/path and parse Content-Type headers (type + params) with the local zero-auth mime-ext-lab MCP.
 version: 1.0.0
 tags: [mime, filename, content-type, header, developer-tools]
 ---

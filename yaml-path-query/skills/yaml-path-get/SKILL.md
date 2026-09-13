@@ -1,8 +1,6 @@
 ---
 name: yaml-path-get
-description: >
-  Parse-check pasted YAML and fetch values by dot-path (a.b.0.c) — zero-auth,
-  local only, no network or file reads beyond the paste.
+description: "Parse-check pasted YAML and fetch values by dot-path (a.b.0.c) — zero-auth, local only, no network or file reads beyond the paste."
 version: 1.0.0
 tags: [yaml, path, parse, query, config]
 ---

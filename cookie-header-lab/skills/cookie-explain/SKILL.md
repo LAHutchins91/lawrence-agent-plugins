@@ -1,8 +1,6 @@
 ---
 name: cookie-explain
-description: >
-  Educational notes on HttpOnly, Secure, SameSite, Path, and Domain for
-  pasted Set-Cookie headers, locally with zero-auth MCP tools.
+description: "Educational notes on HttpOnly, Secure, SameSite, Path, and Domain for pasted Set-Cookie headers, locally with zero-auth MCP tools."
 version: 1.0.0
 tags: [cookie, set-cookie, httponly, secure, samesite, local]
 ---

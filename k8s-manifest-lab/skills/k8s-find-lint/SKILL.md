@@ -1,8 +1,6 @@
 ---
 name: k8s-find-lint
-description: >
-  Find resources by metadata.name and run heuristic K8s lite lint on multi-doc
-  YAML text with the local zero-auth k8s-manifest-lab MCP. No kubectl/cluster/API.
+description: Find resources by metadata.name and run heuristic K8s lite lint on multi-doc YAML text with the local zero-auth k8s-manifest-lab MCP. No kubectl/cluster/API.
 version: 1.0.0
 tags: [kubernetes, k8s, yaml, lint, find, developer-tools]
 ---

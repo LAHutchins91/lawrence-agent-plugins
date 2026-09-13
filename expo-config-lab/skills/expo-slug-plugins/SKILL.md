@@ -1,9 +1,6 @@
 ---
 name: expo-slug-plugins
-description: >
-  Extract Expo name/slug/version metadata and the plugins array from app.json
-  or app.config text with the local zero-auth expo-config-lab MCP. No expo
-  binary or network.
+description: Extract Expo name/slug/version metadata and the plugins array from app.json or app.config text with the local zero-auth expo-config-lab MCP. No expo binary or network.
 version: 1.0.0
 tags: [expo, app.json, app.config, plugins, slug, developer-tools]
 ---

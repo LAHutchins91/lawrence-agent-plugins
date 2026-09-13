@@ -1,9 +1,6 @@
 ---
 name: ec-parse-resolve
-description: >
-  Parse .editorconfig text into sections and resolve effective properties for a
-  path with the local zero-auth editorconfig-lab MCP. Best-effort EditorConfig
-  globs; no network or disk walk.
+description: Parse .editorconfig text into sections and resolve effective properties for a path with the local zero-auth editorconfig-lab MCP. Best-effort EditorConfig globs; no network or disk walk.
 version: 1.0.0
 tags: [editorconfig, parse, resolve, glob, developer-tools]
 ---

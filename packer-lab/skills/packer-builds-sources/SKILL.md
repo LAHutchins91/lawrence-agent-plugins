@@ -1,10 +1,6 @@
 ---
 name: packer-builds-sources
-description: >
-  Inventory Packer HCL/JSON build and source blocks (amazon-ebs, docker, qemu,
-  etc.) and extract source label hints (ami_name, image, iso_url) with the
-  local zero-auth packer-lab MCP. String/regex only — no packer CLI,
-  build/deploy, or network.
+description: "Inventory Packer HCL/JSON build and source blocks (amazon-ebs, docker, qemu, etc.) and extract source label hints (ami_name, image, iso_url) with the local zero-auth packer-lab MCP. String/regex only — no packer CLI, build/deploy, or network."
 version: 1.0.0
 tags: [packer, hcl, source, build, ami, mcp, developer-tools]
 ---

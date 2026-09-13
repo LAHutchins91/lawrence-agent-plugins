@@ -1,9 +1,6 @@
 ---
 name: sk-deploys-lint
-description: >
-  Hint skaffold.yaml deploy.kubectl/helm/kustomize/statusCheck and educational
-  lite lint with the local zero-auth skaffold-lab MCP. No Skaffold CLI, cluster,
-  or network.
+description: "Hint skaffold.yaml deploy.kubectl/helm/kustomize/statusCheck and educational lite lint with the local zero-auth skaffold-lab MCP. No Skaffold CLI, cluster, or network."
 version: 1.0.0
 tags: [skaffold, deploy, lint, mcp, yaml, developer-tools]
 ---

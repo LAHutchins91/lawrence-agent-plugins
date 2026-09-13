@@ -1,11 +1,6 @@
 ---
 name: xp-lint
-description: >
-  List Crossplane claim keys (claimNames / compositeRef / resourceRef /
-  connectionSecretRef / writeConnectionSecretToRef / compositionRef /
-  compositionSelector) and lite-lint for missing compositionRef/compositionSelector,
-  XRD without claimNames, Provider without ProviderConfig, empty file, and
-  insecure package: http://. Local only, never runs crossplane/kubectl, no fetch.
+description: "List Crossplane claim keys (claimNames / compositeRef / resourceRef / connectionSecretRef / writeConnectionSecretToRef / compositionRef / compositionSelector) and lite-lint for missing compositionRef/compositionSelector, XRD without claimNames, Provider without ProviderConfig, empty file, and insecure package: http://. Local only, never runs crossplane/kubectl, no fetch."
 version: 1.0.0
 tags: [crossplane, xrd, composition, yaml, lint, claims, local]
 ---

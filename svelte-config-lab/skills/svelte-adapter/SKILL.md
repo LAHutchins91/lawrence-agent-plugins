@@ -1,11 +1,6 @@
 ---
 name: svelte-adapter
-description: >
-  Parse pasted svelte.config.* text locally with zero-auth MCP tools:
-  list preprocess entries, kit.adapter call, and vite.plugins / kit.vite.plugins
-  hints. Lite JS/TS scanner — not Svelte/Vite CLI. Function-form export
-  default may only partially extract. No network, no svelte/vite binary for
-  tool logic.
+description: "Parse pasted svelte.config.* text locally with zero-auth MCP tools: list preprocess entries, kit.adapter call, and vite.plugins / kit.vite.plugins hints. Lite JS/TS scanner — not Svelte/Vite CLI. Function-form export default may only partially extract. No network, no svelte/vite binary for tool logic."
 version: 1.0.0
 tags: [svelte, sveltekit, adapter, preprocess, vite, parse, local]
 ---

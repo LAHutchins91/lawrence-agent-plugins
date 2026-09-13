@@ -1,8 +1,6 @@
 ---
 name: make-targets-vars
-description: >
-  List explicit Makefile rule targets and look up simple variable assignments
-  with the local zero-auth makefile-lab MCP. No make binary, no network, no shell.
+description: "List explicit Makefile rule targets and look up simple variable assignments with the local zero-auth makefile-lab MCP. No make binary, no network, no shell."
 version: 1.0.0
 tags: [makefile, make, targets, variables, developer-tools]
 ---

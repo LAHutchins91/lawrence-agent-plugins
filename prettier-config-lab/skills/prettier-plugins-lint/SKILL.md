@@ -1,8 +1,6 @@
 ---
 name: prettier-plugins-lint
-description: >
-  List Prettier plugins and run educational heuristic lite lint on Prettier
-  config text with the local zero-auth prettier-config-lab MCP. No prettier binary.
+description: List Prettier plugins and run educational heuristic lite lint on Prettier config text with the local zero-auth prettier-config-lab MCP. No prettier binary.
 version: 1.0.0
 tags: [prettier, prettier-config, plugins, lint, developer-tools]
 ---

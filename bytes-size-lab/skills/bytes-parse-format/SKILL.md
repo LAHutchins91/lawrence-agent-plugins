@@ -1,8 +1,6 @@
 ---
 name: bytes-parse-format
-description: >
-  Parse human byte-size strings and format byte counts with the local zero-auth
-  bytes-size-lab MCP. IEC (1024^n) vs SI (1000^n); short k/m/g prefer binary.
+description: Parse human byte-size strings and format byte counts with the local zero-auth bytes-size-lab MCP. IEC (1024^n) vs SI (1000^n); short k/m/g prefer binary.
 version: 1.0.0
 tags: [bytes, iec, si, parse, format, developer-tools]
 ---

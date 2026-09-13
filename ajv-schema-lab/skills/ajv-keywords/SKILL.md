@@ -1,9 +1,6 @@
 ---
 name: ajv-keywords
-description: >
-  List JSON Schema / AJV top-level $id/title/type and count keyword presence
-  (type/properties/required/additionalProperties/oneOf/anyOf/allOf/if/then/else/pattern/format)
-  plus $ref values from pasted schema JSON. Local only — JSON.parse, no AJV compile/validate, no fetch.
+description: "List JSON Schema / AJV top-level $id/title/type and count keyword presence (type/properties/required/additionalProperties/oneOf/anyOf/allOf/if/then/else/pattern/format) plus $ref values from pasted schema JSON. Local only — JSON.parse, no AJV compile/validate, no fetch."
 version: 1.0.0
 tags: [ajv, json-schema, schema, keywords, refs, local]
 ---

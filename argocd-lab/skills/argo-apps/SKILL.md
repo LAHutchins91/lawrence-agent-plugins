@@ -1,10 +1,6 @@
 ---
 name: argo-apps
-description: >
-  List Application / AppProject / ApplicationSet names and source hints
-  (repoURL / path / chart / targetRevision / helm / kustomize / directory /
-  sources:) from pasted Argo CD YAML. Local only — never runs argocd or
-  kubectl, never fetches remote repos, no fetch.
+description: "List Application / AppProject / ApplicationSet names and source hints (repoURL / path / chart / targetRevision / helm / kustomize / directory / sources:) from pasted Argo CD YAML. Local only — never runs argocd or kubectl, never fetches remote repos, no fetch."
 version: 1.0.0
 tags: [argocd, argo-cd, yaml, apps, sources, local]
 ---

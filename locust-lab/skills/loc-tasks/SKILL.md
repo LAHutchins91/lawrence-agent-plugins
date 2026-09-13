@@ -1,10 +1,6 @@
 ---
 name: loc-tasks
-description: >
-  List Locust @task / TaskSet / SequentialTaskSet methods and user / wait_time
-  hints (HttpUser / FastHttpUser / User / between / constant /
-  constant_pacing / constant_throughput) from pasted Locust Python source.
-  Local only — never runs Locust or load tests, no fetch.
+description: "List Locust @task / TaskSet / SequentialTaskSet methods and user / wait_time hints (HttpUser / FastHttpUser / User / between / constant / constant_pacing / constant_throughput) from pasted Locust Python source. Local only — never runs Locust or load tests, no fetch."
 version: 1.0.0
 tags: [locust, load-testing, tasks, local]
 ---

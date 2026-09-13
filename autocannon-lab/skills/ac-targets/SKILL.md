@@ -1,11 +1,6 @@
 ---
 name: ac-targets
-description: >
-  List autocannon( / autocannon.track( target url: / title: values, plus
-  options hints (connections / duration / amount / pipelining / workers /
-  timeout / headers / method / body / bailout / overallRate) from pasted
-  autocannon JS source. Local only — never runs autocannon or load tests,
-  no fetch.
+description: "List autocannon( / autocannon.track( target url: / title: values, plus options hints (connections / duration / amount / pipelining / workers / timeout / headers / method / body / bailout / overallRate) from pasted autocannon JS source. Local only — never runs autocannon or load tests, no fetch."
 version: 1.0.0
 tags: [autocannon, load-testing, targets, local]
 ---

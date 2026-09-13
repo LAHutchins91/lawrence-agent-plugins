@@ -1,10 +1,6 @@
 ---
 name: fb-lint
-description: >
-  Lite-lint pasted firebase.json for missing hosting.public, emulators
-  present (info), database rules path missing when the database key
-  exists, and functions without runtime. Local only, no firebase CLI
-  for tool logic, no fetch.
+description: "Lite-lint pasted firebase.json for missing hosting.public, emulators present (info), database rules path missing when the database key exists, and functions without runtime. Local only, no firebase CLI for tool logic, no fetch."
 version: 1.0.0
 tags: [firebase, firebase-json, lint, hosting, emulators, database, functions, local]
 ---

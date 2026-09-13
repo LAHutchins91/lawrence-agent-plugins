@@ -1,12 +1,6 @@
 ---
 name: dx-matchers
-description: >
-  List Detox by.id / by.text / by.label / by.type / by.traits /
-  element(by. matcher call sites and tap / longPress / multiTap /
-  typeText / replaceText / clearText / scroll / scrollTo / swipe /
-  setColumnToValue / setDatePickerDate action counts from pasted
-  Detox JS/TS. Local only — never runs Detox or launches a
-  device/emulator, no fetch.
+description: "List Detox by.id / by.text / by.label / by.type / by.traits / element(by. matcher call sites and tap / longPress / multiTap / typeText / replaceText / clearText / scroll / scrollTo / swipe / setColumnToValue / setDatePickerDate action counts from pasted Detox JS/TS. Local only — never runs Detox or launches a device/emulator, no fetch."
 version: 1.0.0
 tags: [detox, mobile, matchers, local]
 ---

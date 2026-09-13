@@ -1,8 +1,6 @@
 ---
 name: vb-schemas-pipes
-description: >
-  Extract Valibot schema assignments and v.pipe chains from TS/JS text with
-  the local zero-auth valibot-lab MCP. No valibot runtime, no network.
+description: "Extract Valibot schema assignments and v.pipe chains from TS/JS text with the local zero-auth valibot-lab MCP. No valibot runtime, no network."
 version: 1.0.0
 tags: [valibot, schema, pipe, validation, developer-tools]
 ---

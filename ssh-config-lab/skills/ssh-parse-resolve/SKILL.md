@@ -1,9 +1,6 @@
 ---
 name: ssh-parse-resolve
-description: >
-  Parse OpenSSH ssh_config text and resolve Host patterns (*, ?, !negation)
-  with first-value-wins using the local zero-auth ssh-config-lab MCP.
-  Config text analysis only — no SSH execution, network, DNS, FS, or key reads.
+description: "Parse OpenSSH ssh_config text and resolve Host patterns (*, ?, !negation) with first-value-wins using the local zero-auth ssh-config-lab MCP. Config text analysis only — no SSH execution, network, DNS, FS, or key reads."
 version: 1.0.0
 tags: [ssh, ssh-config, parse, resolve, developer-tools]
 ---

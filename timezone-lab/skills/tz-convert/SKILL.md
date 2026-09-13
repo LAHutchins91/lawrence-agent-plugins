@@ -1,8 +1,6 @@
 ---
 name: tz-convert
-description: >
-  Convert ISO datetimes between IANA time zones, read DST-aware offsets,
-  and list common zones — zero-auth, local, Intl only, no network.
+description: "Convert ISO datetimes between IANA time zones, read DST-aware offsets, and list common zones — zero-auth, local, Intl only, no network."
 version: 1.0.0
 tags: [timezone, iana, convert, offset, dst, local]
 ---

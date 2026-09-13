@@ -1,10 +1,6 @@
 ---
 name: kw-lint
-description: >
-  List kiwi hooks keys (hooks / mutator / transformer / afterGenerate /
-  prettier / eslint) and lite-lint for missing schema, missing output,
-  http:// schema URL, empty file, and client without baseUrl. Local only,
-  never runs kiwi, no fetch.
+description: "List kiwi hooks keys (hooks / mutator / transformer / afterGenerate / prettier / eslint) and lite-lint for missing schema, missing output, http:// schema URL, empty file, and client without baseUrl. Local only, never runs kiwi, no fetch."
 version: 1.0.0
 tags: [kiwi, openapi, lint, hooks, local]
 ---

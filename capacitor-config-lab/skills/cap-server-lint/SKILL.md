@@ -1,9 +1,6 @@
 ---
 name: cap-server-lint
-description: >
-  Extract Capacitor server URL / cleartext / allowNavigation / schemes and run
-  educational heuristic lite lint on capacitor.config text with the local
-  zero-auth capacitor-config-lab MCP. No capacitor binary, no network.
+description: "Extract Capacitor server URL / cleartext / allowNavigation / schemes and run educational heuristic lite lint on capacitor.config text with the local zero-auth capacitor-config-lab MCP. No capacitor binary, no network."
 version: 1.0.0
 tags: [capacitor, capacitor.config, server, cleartext, lint, developer-tools]
 ---

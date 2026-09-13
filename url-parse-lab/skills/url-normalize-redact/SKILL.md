@@ -1,8 +1,6 @@
 ---
 name: url-normalize-redact
-description: >
-  Normalize URLs (default ports, optional sorted query) and redact userinfo plus
-  known secret query keys with the local zero-auth url-parse-lab MCP.
+description: "Normalize URLs (default ports, optional sorted query) and redact userinfo plus known secret query keys with the local zero-auth url-parse-lab MCP."
 version: 1.0.0
 tags: [url, normalize, redact, secrets, developer-tools]
 ---

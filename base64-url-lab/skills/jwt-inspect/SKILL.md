@@ -1,8 +1,6 @@
 ---
 name: jwt-inspect
-description: >
-  Inspect JWT header and payload by splitting and base64url-decoding only
-  (no signature verification); secret-like claims are redacted.
+description: Inspect JWT header and payload by splitting and base64url-decoding only (no signature verification); secret-like claims are redacted.
 version: 1.0.0
 tags: [jwt, token, inspect, base64url, developer-tools]
 ---

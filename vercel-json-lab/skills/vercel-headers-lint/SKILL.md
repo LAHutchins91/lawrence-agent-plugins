@@ -1,9 +1,6 @@
 ---
 name: vercel-headers-lint
-description: >
-  Extract Vercel headers rules / unique header keys and run educational
-  heuristic lite lint on vercel.json text with the local zero-auth
-  vercel-json-lab MCP. No vercel CLI, no network.
+description: "Extract Vercel headers rules / unique header keys and run educational heuristic lite lint on vercel.json text with the local zero-auth vercel-json-lab MCP. No vercel CLI, no network."
 version: 1.0.0
 tags: [vercel, vercel.json, headers, lint, developer-tools]
 ---

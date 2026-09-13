@@ -1,10 +1,6 @@
 ---
 name: puppet-params-lint
-description: >
-  Extract Puppet class/define parameters and $facts/$trusted usage
-  (flagging secret/password/token param names only) and educational lite
-  lint with the local zero-auth puppet-lab MCP. No Puppet CLI, agent, or
-  network.
+description: "Extract Puppet class/define parameters and $facts/$trusted usage (flagging secret/password/token param names only) and educational lite lint with the local zero-auth puppet-lab MCP. No Puppet CLI, agent, or network."
 version: 1.0.0
 tags: [puppet, parameters, lint, secrets, mcp, developer-tools]
 ---

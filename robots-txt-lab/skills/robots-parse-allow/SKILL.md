@@ -1,8 +1,6 @@
 ---
 name: robots-parse-allow
-description: >
-  Parse robots.txt User-agent groups and check path allow/disallow with the
-  local zero-auth robots-txt-lab MCP. String-level only — no HTTP fetch.
+description: Parse robots.txt User-agent groups and check path allow/disallow with the local zero-auth robots-txt-lab MCP. String-level only — no HTTP fetch.
 version: 1.0.0
 tags: [robots.txt, parse, allow, disallow, developer-tools]
 ---

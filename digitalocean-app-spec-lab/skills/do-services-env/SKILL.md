@@ -1,9 +1,6 @@
 ---
 name: do-services-env
-description: >
-  Extract DigitalOcean App Spec services/workers/jobs/static_sites and env keys
-  from .do/app.yaml text with the local zero-auth digitalocean-app-spec-lab MCP.
-  No DigitalOcean API or network.
+description: Extract DigitalOcean App Spec services/workers/jobs/static_sites and env keys from .do/app.yaml text with the local zero-auth digitalocean-app-spec-lab MCP. No DigitalOcean API or network.
 version: 1.0.0
 tags: [digitalocean, app-spec, app.yaml, services, env, developer-tools]
 ---

@@ -1,8 +1,6 @@
 ---
 name: breaking-change-scan
-description: >
-  Scan one commit message or a multi-commit log paste for breaking markers
-  ('!' in the type header and BREAKING CHANGE footers) with excerpts.
+description: "Scan one commit message or a multi-commit log paste for breaking markers ('!' in the type header and BREAKING CHANGE footers) with excerpts."
 version: 1.0.0
 tags: [commit, breaking-change, conventional-commits, release]
 ---

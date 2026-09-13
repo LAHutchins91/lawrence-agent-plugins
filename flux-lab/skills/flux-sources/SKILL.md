@@ -1,10 +1,6 @@
 ---
 name: flux-sources
-description: >
-  List GitRepository / HelmRepository / OCIRepository / Bucket names and
-  Kustomization hints (Kustomization / path / sourceRef / prune / interval /
-  healthChecks / dependsOn) from pasted Flux YAML. Local only — never runs
-  flux or kubectl, never fetches remote repos, no fetch.
+description: "List GitRepository / HelmRepository / OCIRepository / Bucket names and Kustomization hints (Kustomization / path / sourceRef / prune / interval / healthChecks / dependsOn) from pasted Flux YAML. Local only — never runs flux or kubectl, never fetches remote repos, no fetch."
 version: 1.0.0
 tags: [flux, fluxcd, gitops, yaml, sources, kustomization, local]
 ---

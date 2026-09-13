@@ -1,8 +1,6 @@
 ---
 name: procfile-env-lint
-description: >
-  Collect $VAR / ${VAR} env refs and run educational heuristic lite lint on
-  Procfile text with the local zero-auth procfile-lab MCP. No network, no process spawn.
+description: "Collect $VAR / ${VAR} env refs and run educational heuristic lite lint on Procfile text with the local zero-auth procfile-lab MCP. No network, no process spawn."
 version: 1.0.0
 tags: [procfile, heroku, env, lint, developer-tools]
 ---

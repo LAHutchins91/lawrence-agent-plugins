@@ -1,9 +1,6 @@
 ---
 name: cfn-resources
-description: >
-  List CloudFormation Resources (logical id + Type) and Parameters
-  (name + Type) from pasted CloudFormation YAML/JSON. Local only —
-  never runs AWS CLI or cfn-lint binary, no fetch.
+description: "List CloudFormation Resources (logical id + Type) and Parameters (name + Type) from pasted CloudFormation YAML/JSON. Local only — never runs AWS CLI or cfn-lint binary, no fetch."
 version: 1.0.0
 tags: [cloudformation, aws, cfn, yaml, json, resources, parameters, local]
 ---

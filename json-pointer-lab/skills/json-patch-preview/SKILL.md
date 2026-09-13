@@ -1,8 +1,6 @@
 ---
 name: json-patch-preview
-description: >
-  Preview RFC6901 set and RFC6902 JSON Patch against pasted JSON on a copy —
-  never writes files; zero-auth local only.
+description: Preview RFC6901 set and RFC6902 JSON Patch against pasted JSON on a copy — never writes files; zero-auth local only.
 version: 1.0.0
 tags: [json, patch, rfc6902, pointer, preview]
 ---

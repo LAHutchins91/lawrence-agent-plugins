@@ -1,8 +1,6 @@
 ---
 name: sitemap-parse
-description: >
-  Parse pasted sitemap urlset or sitemapindex XML locally with zero-auth
-  MCP tools. Lite tag extraction — not a full XML parser. No network fetch.
+description: Parse pasted sitemap urlset or sitemapindex XML locally with zero-auth MCP tools. Lite tag extraction — not a full XML parser. No network fetch.
 version: 1.0.0
 tags: [sitemap, xml, urlset, sitemapindex, parse, local]
 ---

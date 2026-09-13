@@ -1,8 +1,6 @@
 ---
 name: http-status-guide
-description: >
-  Explain and classify HTTP status codes — reason phrases, categories,
-  meanings, and retry guidance (local zero-auth MCP).
+description: "Explain and classify HTTP status codes — reason phrases, categories, meanings, and retry guidance (local zero-auth MCP)."
 version: 1.0.0
 tags: [http, status-codes, rest, api, debug]
 ---

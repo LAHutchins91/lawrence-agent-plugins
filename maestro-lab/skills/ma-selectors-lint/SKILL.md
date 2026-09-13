@@ -1,9 +1,6 @@
 ---
 name: ma-selectors-lint
-description: >
-  Extract Maestro tapOn/assertVisible selectors (id/text/point) and run
-  educational heuristic lite lint on YAML flow text with the local zero-auth
-  maestro-lab MCP. No Maestro/device runtime, no network.
+description: "Extract Maestro tapOn/assertVisible selectors (id/text/point) and run educational heuristic lite lint on YAML flow text with the local zero-auth maestro-lab MCP. No Maestro/device runtime, no network."
 version: 1.0.0
 tags: [maestro, yaml, selectors, lint, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: railway-services-env
-description: >
-  Extract Railway services and env/variable keys from railway.json or
-  railway.toml text with the local zero-auth railway-json-lab MCP. No Railway
-  API or network.
+description: Extract Railway services and env/variable keys from railway.json or railway.toml text with the local zero-auth railway-json-lab MCP. No Railway API or network.
 version: 1.0.0
 tags: [railway, railway.json, railway.toml, services, env, developer-tools]
 ---

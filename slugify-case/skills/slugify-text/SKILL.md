@@ -1,8 +1,6 @@
 ---
 name: slugify-text
-description: >
-  Slugify text and convert/detect camel, snake, kebab, pascal, title case —
-  zero-auth, local only, no network.
+description: "Slugify text and convert/detect camel, snake, kebab, pascal, title case — zero-auth, local only, no network."
 version: 1.0.0
 tags: [slugify, case, camel, snake, kebab, convert]
 ---

@@ -1,9 +1,6 @@
 ---
 name: har-failing-triage
-description: >
-  Triage failing HTTP requests from a HAR capture (status ≥ 400 by default)
-  and scan cookie names for missing Secure/HttpOnly on Set-Cookie — names
-  only, never values. Local zero-auth MCP.
+description: "Triage failing HTTP requests from a HAR capture (status ≥ 400 by default) and scan cookie names for missing Secure/HttpOnly on Set-Cookie — names only, never values. Local zero-auth MCP."
 version: 1.0.0
 tags: [har, http-archive, errors, failing, cookies, security, triage]
 ---

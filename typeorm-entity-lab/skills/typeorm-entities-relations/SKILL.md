@@ -1,8 +1,6 @@
 ---
 name: typeorm-entities-relations
-description: >
-  Extract TypeORM @Entity classes and relation hints from entity TS/JS text with
-  the local zero-auth typeorm-entity-lab MCP. No TypeORM CLI, no network, no DB.
+description: "Extract TypeORM @Entity classes and relation hints from entity TS/JS text with the local zero-auth typeorm-entity-lab MCP. No TypeORM CLI, no network, no DB."
 version: 1.0.0
 tags: [typeorm, entity, relations, orm, developer-tools]
 ---

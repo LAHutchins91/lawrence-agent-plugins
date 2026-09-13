@@ -1,9 +1,6 @@
 ---
 name: supabase-lint
-description: >
-  Lite-lint pasted supabase/config.toml for missing project_id, missing
-  auth site_url, db.major_version present (info), and storage enabled note.
-  Local only, no supabase CLI for tool logic, no fetch.
+description: "Lite-lint pasted supabase/config.toml for missing project_id, missing auth site_url, db.major_version present (info), and storage enabled note. Local only, no supabase CLI for tool logic, no fetch."
 version: 1.0.0
 tags: [supabase, config-toml, lint, auth, db, storage, local]
 ---

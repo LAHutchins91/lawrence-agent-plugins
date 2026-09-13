@@ -1,13 +1,6 @@
 ---
 name: xcui-queries
-description: >
-  List XCUITest buttons / staticTexts / textFields / otherElements /
-  cells / tables / navigationBars / element(matching:) /
-  descendants(matching:) / identifier / label / value query call sites
-  and tap / doubleTap / press / swipeLeft / swipeRight / swipeUp /
-  swipeDown / typeText / clearText / adjustToPickerWheelValue / pinch /
-  rotate action counts from pasted XCUITest Swift/ObjC-ish source.
-  Local only — never runs XCUITest or launches Xcode/simulator, no fetch.
+description: "List XCUITest buttons / staticTexts / textFields / otherElements / cells / tables / navigationBars / element(matching:) / descendants(matching:) / identifier / label / value query call sites and tap / doubleTap / press / swipeLeft / swipeRight / swipeUp / swipeDown / typeText / clearText / adjustToPickerWheelValue / pinch / rotate action counts from pasted XCUITest Swift/ObjC-ish source. Local only — never runs XCUITest or launches Xcode/simulator, no fetch."
 version: 1.0.0
 tags: [xcuitest, ios, queries, local]
 ---

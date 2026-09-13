@@ -1,10 +1,6 @@
 ---
 name: sls-lint
-description: >
-  List Serverless resource keys (resources.Resources / provider.iam / layers /
-  plugins / custom / package / vpc) and lite-lint for missing service:/provider:,
-  wildcard IAM Action/Resource '*', empty file, and EOL nodejs12.x/nodejs14.x.
-  Local only, never runs Serverless Framework CLI or AWS deploy, no fetch.
+description: "List Serverless resource keys (resources.Resources / provider.iam / layers / plugins / custom / package / vpc) and lite-lint for missing service:/provider:, wildcard IAM Action/Resource '*', empty file, and EOL nodejs12.x/nodejs14.x. Local only, never runs Serverless Framework CLI or AWS deploy, no fetch."
 version: 1.0.0
 tags: [serverless, aws-lambda, yaml, lint, iam, local]
 ---

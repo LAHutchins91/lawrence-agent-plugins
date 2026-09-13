@@ -1,9 +1,6 @@
 ---
 name: release-notes-draft
-description: >
-  Draft Keep-a-Changelog style release notes from git log / conventional commits
-  locally: parse commits, group Added/Changed/Fixed/Breaking, and surface risk
-  callouts — zero-auth, no changelog SaaS.
+description: "Draft Keep-a-Changelog style release notes from git log / conventional commits locally: parse commits, group Added/Changed/Fixed/Breaking, and surface risk callouts — zero-auth, no changelog SaaS."
 version: 1.0.0
 tags: [changelog, release-notes, conventional-commits, keep-a-changelog, semver]
 ---

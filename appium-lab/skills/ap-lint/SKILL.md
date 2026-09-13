@@ -1,11 +1,6 @@
 ---
 name: ap-lint
-description: >
-  Count Appium touchAction / performActions / swipe / scroll / tap /
-  longPress / dragAndDrop / multiTouch gesture hints and lite-lint for
-  hard sleeps, XPath-heavy locators, missing platformName, empty file,
-  and deprecated touchAction. Local only, never runs Appium/device,
-  no fetch.
+description: "Count Appium touchAction / performActions / swipe / scroll / tap / longPress / dragAndDrop / multiTouch gesture hints and lite-lint for hard sleeps, XPath-heavy locators, missing platformName, empty file, and deprecated touchAction. Local only, never runs Appium/device, no fetch."
 version: 1.0.0
 tags: [appium, mobile, lint, local]
 ---

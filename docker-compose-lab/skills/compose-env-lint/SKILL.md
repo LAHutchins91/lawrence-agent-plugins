@@ -1,9 +1,6 @@
 ---
 name: compose-env-lint
-description: >
-  Extract environment keys (values redacted; env_file paths as references only)
-  and run heuristic compose lite lint with the local zero-auth docker-compose-lab
-  MCP. YAML text only — no docker daemon or FS reads.
+description: Extract environment keys (values redacted; env_file paths as references only) and run heuristic compose lite lint with the local zero-auth docker-compose-lab MCP. YAML text only — no docker daemon or FS reads.
 version: 1.0.0
 tags: [docker-compose, env, lint, yaml, developer-tools]
 ---

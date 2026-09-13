@@ -1,10 +1,6 @@
 ---
 name: spm-targets
-description: >
-  Parse pasted Package.swift text locally with zero-auth MCP tools: list
-  products (.library/.executable/.plugin), targets (.target/.testTarget/…),
-  and .package dependencies. Lite Swift DSL scanner — not swift package.
-  No network, no swift/xcode.
+description: "Parse pasted Package.swift text locally with zero-auth MCP tools: list products (.library/.executable/.plugin), targets (.target/.testTarget/…), and .package dependencies. Lite Swift DSL scanner — not swift package. No network, no swift/xcode."
 version: 1.0.0
 tags: [swift, swiftpm, Package.swift, spm, products, targets, dependencies, parse, local]
 ---

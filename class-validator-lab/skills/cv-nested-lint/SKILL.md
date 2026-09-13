@@ -1,9 +1,6 @@
 ---
 name: cv-nested-lint
-description: >
-  Extract @ValidateNested / @Type nested DTO hints and run educational
-  heuristic lite lint on class-validator TypeScript with the local zero-auth
-  class-validator-lab MCP. No runtime, no network.
+description: "Extract @ValidateNested / @Type nested DTO hints and run educational heuristic lite lint on class-validator TypeScript with the local zero-auth class-validator-lab MCP. No runtime, no network."
 version: 1.0.0
 tags: [class-validator, nested, lint, class-transformer, developer-tools]
 ---

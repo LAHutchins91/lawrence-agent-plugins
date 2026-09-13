@@ -1,10 +1,6 @@
 ---
 name: sen-policies
-description: >
-  List HashiCorp Sentinel policy rule names (main = / named rules / policy
-  identifiers) and import method counts (tfplan/v2 / tfconfig / tfrun / http /
-  decimal / strings / types) from pasted Sentinel. Local only — never runs
-  Sentinel CLI, no fetch.
+description: "List HashiCorp Sentinel policy rule names (main = / named rules / policy identifiers) and import method counts (tfplan/v2 / tfconfig / tfrun / http / decimal / strings / types) from pasted Sentinel. Local only — never runs Sentinel CLI, no fetch."
 version: 1.0.0
 tags: [sentinel, hashicorp, policy, imports, local]
 ---

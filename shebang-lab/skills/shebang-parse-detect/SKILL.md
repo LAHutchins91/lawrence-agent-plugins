@@ -1,9 +1,6 @@
 ---
 name: shebang-parse-detect
-description: >
-  Parse #! shebang lines and detect interpreter family (node, python, bash, sh,
-  ruby, perl, php, other, none) with the local zero-auth shebang-lab MCP.
-  First-line string analysis only — no exec, no FS.
+description: "Parse #! shebang lines and detect interpreter family (node, python, bash, sh, ruby, perl, php, other, none) with the local zero-auth shebang-lab MCP. First-line string analysis only — no exec, no FS."
 version: 1.0.0
 tags: [shebang, interpreter, parse, detect, developer-tools]
 ---

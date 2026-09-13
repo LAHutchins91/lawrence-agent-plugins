@@ -1,10 +1,6 @@
 ---
 name: heroku-addons
-description: >
-  Parse pasted Heroku app.json text locally with zero-auth MCP tools:
-  list addons (planOrName), env keys with required/redacted (never echo
-  values), and formation process quantity/size. JSON-only — not Heroku
-  API/CLI. No network, no heroku binary for tool logic.
+description: "Parse pasted Heroku app.json text locally with zero-auth MCP tools: list addons (planOrName), env keys with required/redacted (never echo values), and formation process quantity/size. JSON-only — not Heroku API/CLI. No network, no heroku binary for tool logic."
 version: 1.0.0
 tags: [heroku, app-json, addons, env, formation, parse, local]
 ---

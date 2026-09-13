@@ -1,11 +1,6 @@
 ---
 name: ghz-lint
-description: >
-  List ghz concurrency / load flags (-c / --concurrency / -n / --total /
-  -t / --duration / -q / --rps / -z / --connections / --cpus) and lite-lint
-  for missing --call/-n method, missing -proto/--protoset (unless
-  reflection-only), --insecure without TLS, empty file, and high -c without
-  -n/-t. Local only, never runs ghz/load tests, no fetch.
+description: "List ghz concurrency / load flags (-c / --concurrency / -n / --total / -t / --duration / -q / --rps / -z / --connections / --cpus) and lite-lint for missing --call/-n method, missing -proto/--protoset (unless reflection-only), --insecure without TLS, empty file, and high -c without -n/-t. Local only, never runs ghz/load tests, no fetch."
 version: 1.0.0
 tags: [ghz, grpc, load-testing, lint, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: rollup-plugins-lint
-description: >
-  List Rollup plugin constructor/factory names and run educational heuristic
-  lite lint with the local zero-auth rollup-config-lab MCP. No rollup binary,
-  no network.
+description: "List Rollup plugin constructor/factory names and run educational heuristic lite lint with the local zero-auth rollup-config-lab MCP. No rollup binary, no network."
 version: 1.0.0
 tags: [rollup, rollup-config, plugins, lint, developer-tools]
 ---

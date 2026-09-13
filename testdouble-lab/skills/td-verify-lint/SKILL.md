@@ -1,8 +1,6 @@
 ---
 name: td-verify-lint
-description: >
-  Extract td.verify hints and run educational heuristic lite lint on testdouble.js
-  JS/TS text with the local zero-auth testdouble-lab MCP. No testdouble runtime, no network.
+description: "Extract td.verify hints and run educational heuristic lite lint on testdouble.js JS/TS text with the local zero-auth testdouble-lab MCP. No testdouble runtime, no network."
 version: 1.0.0
 tags: [testdouble, td, verify, lint, developer-tools]
 ---

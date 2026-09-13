@@ -1,9 +1,6 @@
 ---
 name: do-routes-lint
-description: >
-  Summarize DigitalOcean App Spec ingress/routes/domains and run educational
-  heuristic lite lint on .do/app.yaml text with the local zero-auth
-  digitalocean-app-spec-lab MCP. No DigitalOcean API, no network.
+description: "Summarize DigitalOcean App Spec ingress/routes/domains and run educational heuristic lite lint on .do/app.yaml text with the local zero-auth digitalocean-app-spec-lab MCP. No DigitalOcean API, no network."
 version: 1.0.0
 tags: [digitalocean, app-spec, app.yaml, routes, ingress, lint, developer-tools]
 ---

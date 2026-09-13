@@ -1,9 +1,6 @@
 ---
 name: disposition-forwarded
-description: >
-  Parse Content-Disposition (filename / filename*) and RFC 7239 Forwarded
-  plus X-Forwarded-For / Proto / Host with the local zero-auth
-  http-header-lab MCP. String analysis only — no network I/O.
+description: "Parse Content-Disposition (filename / filename*) and RFC 7239 Forwarded plus X-Forwarded-For / Proto / Host with the local zero-auth http-header-lab MCP. String analysis only — no network I/O."
 version: 1.0.0
 tags: [http, content-disposition, forwarded, x-forwarded-for, developer-tools]
 ---

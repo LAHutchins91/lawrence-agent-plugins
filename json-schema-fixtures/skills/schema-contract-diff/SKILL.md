@@ -1,8 +1,6 @@
 ---
 name: schema-contract-diff
-description: >
-  Structurally diff two JSON Schemas for added/removed/changed properties
-  (type, enum, required, format) — local zero-auth MCP for contract drift review.
+description: "Structurally diff two JSON Schemas for added/removed/changed properties (type, enum, required, format) — local zero-auth MCP for contract drift review."
 version: 1.0.0
 tags: [json-schema, diff, contract, api, breaking-change]
 ---

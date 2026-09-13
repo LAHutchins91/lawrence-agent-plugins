@@ -1,10 +1,6 @@
 ---
 name: ow-predicates
-description: >
-  List sindresorhus ow predicate counts (ow.string / ow.number / ow.boolean /
-  ow.array / ow.object / ow.any / ow.optional) and shape hints
-  (partialShape / exactShape / ofType) from pasted ow JS/TS.
-  Local only — never ow() assert, no fetch.
+description: "List sindresorhus ow predicate counts (ow.string / ow.number / ow.boolean / ow.array / ow.object / ow.any / ow.optional) and shape hints (partialShape / exactShape / ofType) from pasted ow JS/TS. Local only — never ow() assert, no fetch."
 version: 1.0.0
 tags: [ow, sindresorhus, predicates, validation, local]
 ---

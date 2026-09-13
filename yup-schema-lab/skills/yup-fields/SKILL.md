@@ -1,8 +1,6 @@
 ---
 name: yup-fields
-description: >
-  List Yup schema export/const names (yup.object / object({ / yup.string…) and
-  object field hints from pasted Yup JS/TS. Local only — no Yup validate(), no fetch.
+description: "List Yup schema export/const names (yup.object / object({ / yup.string…) and object field hints from pasted Yup JS/TS. Local only — no Yup validate(), no fetch."
 version: 1.0.0
 tags: [yup, schema, fields, validation, local]
 ---

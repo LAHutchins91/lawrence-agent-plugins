@@ -1,11 +1,6 @@
 ---
 name: or-outputs
-description: >
-  List orval output targets (defineConfig / export default / output: /
-  target: / project keys) and client hints (axios / axios-functions /
-  react-query / solid-query / vue-query / svelte-query / swr / fetch /
-  angular) from pasted orval.config.(js|ts|mjs). Local only — never runs
-  orval or codegen, never fetches specs, no fetch.
+description: "List orval output targets (defineConfig / export default / output: / target: / project keys) and client hints (axios / axios-functions / react-query / solid-query / vue-query / svelte-query / swr / fetch / angular) from pasted orval.config.(js|ts|mjs). Local only — never runs orval or codegen, never fetches specs, no fetch."
 version: 1.0.0
 tags: [orval, openapi, outputs, clients, local]
 ---

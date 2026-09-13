@@ -1,9 +1,6 @@
 ---
 name: nuxt-lint
-description: >
-  Lite-lint pasted nuxt.config.* for ssr: false note, empty modules,
-  missing runtimeConfig.public, and nitro.preset hints if present.
-  Local only, no Nuxt binary for tool logic, no fetch.
+description: "Lite-lint pasted nuxt.config.* for ssr: false note, empty modules, missing runtimeConfig.public, and nitro.preset hints if present. Local only, no Nuxt binary for tool logic, no fetch."
 version: 1.0.0
 tags: [nuxt, nuxtjs, lint, ssr, modules, runtimeConfig, nitro, local]
 ---

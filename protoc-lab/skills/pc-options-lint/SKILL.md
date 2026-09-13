@@ -1,10 +1,6 @@
 ---
 name: pc-options-lint
-description: >
-  Extract other common protoc flags (--descriptor_set_out, --include_imports,
-  --experimental_allow_proto3_optional, etc.) and run educational heuristic
-  lite lint with the local zero-auth protoc-lab MCP.
-  No protoc/protobuf compiler runtime, no network.
+description: "Extract other common protoc flags (--descriptor_set_out, --include_imports, --experimental_allow_proto3_optional, etc.) and run educational heuristic lite lint with the local zero-auth protoc-lab MCP. No protoc/protobuf compiler runtime, no network."
 version: 1.0.0
 tags: [protoc, protobuf, options, lint, cli, developer-tools]
 ---

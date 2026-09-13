@@ -1,10 +1,6 @@
 ---
 name: kw-schemas
-description: >
-  List OpenAPI input schema paths/URLs (input / schema / openapi / spec)
-  and client hints (axios / fetch / ky / got / react-query / swr / graphql)
-  from pasted kiwi.config / OpenAPI client-generator style configs. Local
-  only — never runs kiwi or codegen, never fetches specs, no fetch.
+description: "List OpenAPI input schema paths/URLs (input / schema / openapi / spec) and client hints (axios / fetch / ky / got / react-query / swr / graphql) from pasted kiwi.config / OpenAPI client-generator style configs. Local only — never runs kiwi or codegen, never fetches specs, no fetch."
 version: 1.0.0
 tags: [kiwi, openapi, schemas, clients, local]
 ---

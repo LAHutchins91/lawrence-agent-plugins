@@ -1,9 +1,6 @@
 ---
 name: htaccess-redirect-lint
-description: >
-  List redirects and run heuristic .htaccess lint (RewriteEngine Off with rules,
-  missing L loop smells, bare RewriteBase, duplicates) with the local zero-auth
-  htaccess-lab MCP. String-only — no Apache exec or FS.
+description: "List redirects and run heuristic .htaccess lint (RewriteEngine Off with rules, missing L loop smells, bare RewriteBase, duplicates) with the local zero-auth htaccess-lab MCP. String-only — no Apache exec or FS."
 version: 1.0.0
 tags: [htaccess, redirect, lint, apache, developer-tools]
 ---

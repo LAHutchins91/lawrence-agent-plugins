@@ -1,9 +1,6 @@
 ---
 name: tl-wait-lint
-description: >
-  Extract Testing Library waitFor / waitForElementToBeRemoved / findBy hints
-  and run educational heuristic lite lint on JS/TS text with the local
-  zero-auth testing-library-lab MCP. No DOM/@testing-library runtime, no network.
+description: "Extract Testing Library waitFor / waitForElementToBeRemoved / findBy hints and run educational heuristic lite lint on JS/TS text with the local zero-auth testing-library-lab MCP. No DOM/@testing-library runtime, no network."
 version: 1.0.0
 tags: [testing-library, waitFor, lint, developer-tools]
 ---

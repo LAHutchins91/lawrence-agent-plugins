@@ -1,9 +1,6 @@
 ---
 name: pkg-scripts-deps
-description: >
-  List npm scripts and bucket dependency package-name keys from package.json
-  text with the local zero-auth package-json-lab MCP. JSON string only — no
-  npm install or network.
+description: List npm scripts and bucket dependency package-name keys from package.json text with the local zero-auth package-json-lab MCP. JSON string only — no npm install or network.
 version: 1.0.0
 tags: [package-json, npm, scripts, dependencies, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: pyproject-deps
-description: >
-  Parse pasted pyproject.toml text locally with zero-auth MCP tools:
-  list project dependencies (incl. optional extras), console/GUI scripts,
-  and build-system backend. Lite TOML subset — not pip/poetry/uv. No network.
+description: "Parse pasted pyproject.toml text locally with zero-auth MCP tools: list project dependencies (incl. optional extras), console/GUI scripts, and build-system backend. Lite TOML subset — not pip/poetry/uv. No network."
 version: 1.0.0
 tags: [pyproject, toml, python, parse, local]
 ---

@@ -1,10 +1,6 @@
 ---
 name: gemfile-gems
-description: >
-  Parse pasted Gemfile text locally with zero-auth MCP tools:
-  list gem 'name' / version / options (require, git, path, groups),
-  list group :x, :y do … end membership, and list source 'url' lines.
-  Lite Ruby DSL line scanner — not Bundler. No network.
+description: "Parse pasted Gemfile text locally with zero-auth MCP tools: list gem 'name' / version / options (require, git, path, groups), list group :x, :y do … end membership, and list source 'url' lines. Lite Ruby DSL line scanner — not Bundler. No network."
 version: 1.0.0
 tags: [ruby, gemfile, bundler, parse, local]
 ---

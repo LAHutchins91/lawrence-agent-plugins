@@ -1,9 +1,6 @@
 ---
 name: md-toc-workflow
-description: >
-  Generate and verify Markdown table-of-contents blocks — GitHub-ish TOC
-  from ATX headings and drift checks against <!-- toc --> markers (local
-  zero-auth MCP).
+description: "Generate and verify Markdown table-of-contents blocks — GitHub-ish TOC from ATX headings and drift checks against <!-- toc --> markers (local zero-auth MCP)."
 version: 1.0.0
 tags: [markdown, toc, headings, docs, readme]
 ---

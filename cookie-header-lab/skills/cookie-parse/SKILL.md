@@ -1,8 +1,6 @@
 ---
 name: cookie-parse
-description: >
-  Parse pasted Cookie / Set-Cookie header text and redact secret values
-  locally with zero-auth MCP tools. No network and no browser access.
+description: Parse pasted Cookie / Set-Cookie header text and redact secret values locally with zero-auth MCP tools. No network and no browser access.
 version: 1.0.0
 tags: [cookie, set-cookie, header, parse, redact, local]
 ---

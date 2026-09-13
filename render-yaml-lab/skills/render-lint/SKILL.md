@@ -1,9 +1,6 @@
 ---
 name: render-lint
-description: >
-  Lite-lint pasted render.yaml for missing services, web without
-  healthCheckPath, missing buildCommand, and autoDeploy false (info).
-  Local only, no Render API for tool logic, no fetch.
+description: "Lite-lint pasted render.yaml for missing services, web without healthCheckPath, missing buildCommand, and autoDeploy false (info). Local only, no Render API for tool logic, no fetch."
 version: 1.0.0
 tags: [render, render-yaml, lint, healthcheck, buildCommand, autoDeploy, local]
 ---

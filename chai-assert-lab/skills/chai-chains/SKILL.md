@@ -1,9 +1,6 @@
 ---
 name: chai-chains
-description: >
-  Count expect( / assert. / should style call sites and .to.equal /
-  .deep.equal / .include / .throw / .eventually chain hints from pasted
-  Chai JS/TS. Local only — never executes assertions, no fetch.
+description: "Count expect( / assert. / should style call sites and .to.equal / .deep.equal / .include / .throw / .eventually chain hints from pasted Chai JS/TS. Local only — never executes assertions, no fetch."
 version: 1.0.0
 tags: [chai, assert, expect, chains, local]
 ---

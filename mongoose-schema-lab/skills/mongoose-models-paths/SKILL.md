@@ -1,8 +1,6 @@
 ---
 name: mongoose-models-paths
-description: >
-  Extract Mongoose models and Schema path hints from JS/TS text with the local
-  zero-auth mongoose-schema-lab MCP. No mongoose/mongo runtime, no network.
+description: "Extract Mongoose models and Schema path hints from JS/TS text with the local zero-auth mongoose-schema-lab MCP. No mongoose/mongo runtime, no network."
 version: 1.0.0
 tags: [mongoose, schema, models, paths, mongodb, developer-tools]
 ---

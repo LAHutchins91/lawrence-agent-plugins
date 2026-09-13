@@ -1,9 +1,6 @@
 ---
 name: sam-globals-lint
-description: >
-  Extract AWS SAM Globals / Transform / Description / Parameters keys and
-  educational lite lint with the local zero-auth sam-lab MCP. No SAM CLI,
-  AWS deploy, or network.
+description: "Extract AWS SAM Globals / Transform / Description / Parameters keys and educational lite lint with the local zero-auth sam-lab MCP. No SAM CLI, AWS deploy, or network."
 version: 1.0.0
 tags: [aws-sam, sam, globals, lint, mcp, developer-tools]
 ---

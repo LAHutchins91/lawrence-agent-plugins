@@ -1,8 +1,6 @@
 ---
 name: diff-stats
-description: >
-  Parse pasted unified diffs for file/add/del/net counts, per-file status lists,
-  and hunk counts — zero-auth, local only, no network or git.
+description: "Parse pasted unified diffs for file/add/del/net counts, per-file status lists, and hunk counts — zero-auth, local only, no network or git."
 version: 1.0.0
 tags: [diff, unified-diff, stats, hunks, review]
 ---

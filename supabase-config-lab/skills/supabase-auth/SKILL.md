@@ -1,10 +1,6 @@
 ---
 name: supabase-auth
-description: >
-  Summarize pasted supabase/config.toml Auth settings: enable_signup,
-  site_url, and additional_redirect_urls count. Also project/api/studio
-  ports and [db] key names (password-like redacted). Local only — no
-  Supabase CLI/API, no fetch.
+description: "Summarize pasted supabase/config.toml Auth settings: enable_signup, site_url, and additional_redirect_urls count. Also project/api/studio ports and [db] key names (password-like redacted). Local only — no Supabase CLI/API, no fetch."
 version: 1.0.0
 tags: [supabase, config-toml, auth, signup, redirects, local]
 ---

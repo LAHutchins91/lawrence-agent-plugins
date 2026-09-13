@@ -1,10 +1,6 @@
 ---
 name: puppet-classes-modules
-description: >
-  Inventory Puppet class/define names and module references (include,
-  require, contain, class { 'foo': }, metadata.json, Puppetfile mod)
-  with the local zero-auth puppet-lab MCP. Manifest string only — no
-  Puppet CLI, agent/apply, or network.
+description: "Inventory Puppet class/define names and module references (include, require, contain, class { 'foo': }, metadata.json, Puppetfile mod) with the local zero-auth puppet-lab MCP. Manifest string only — no Puppet CLI, agent/apply, or network."
 version: 1.0.0
 tags: [puppet, class, define, module, mcp, developer-tools]
 ---

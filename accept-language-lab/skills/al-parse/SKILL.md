@@ -1,8 +1,6 @@
 ---
 name: al-parse
-description: >
-  Parse pasted Accept-Language headers and sort language tags by quality
-  locally with zero-auth MCP tools. No network.
+description: Parse pasted Accept-Language headers and sort language tags by quality locally with zero-auth MCP tools. No network.
 version: 1.0.0
 tags: [accept-language, bcp47, header, parse, i18n, local]
 ---

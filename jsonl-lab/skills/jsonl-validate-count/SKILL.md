@@ -1,8 +1,6 @@
 ---
 name: jsonl-validate-count
-description: >
-  Validate JSON Lines and count lines/valid/invalid JSON with the local
-  zero-auth jsonl-lab MCP. No network.
+description: Validate JSON Lines and count lines/valid/invalid JSON with the local zero-auth jsonl-lab MCP. No network.
 version: 1.0.0
 tags: [jsonl, json-lines, validate, count, developer-tools]
 ---

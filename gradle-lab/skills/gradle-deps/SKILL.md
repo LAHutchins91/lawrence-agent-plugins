@@ -1,9 +1,6 @@
 ---
 name: gradle-deps
-description: >
-  Parse pasted Gradle build.gradle / build.gradle.kts text locally with
-  zero-auth MCP tools: list plugins, dependencies, and task hints.
-  Lite Groovy/Kotlin DSL line scanner — not Gradle. No network, no gradle/gradlew.
+description: "Parse pasted Gradle build.gradle / build.gradle.kts text locally with zero-auth MCP tools: list plugins, dependencies, and task hints. Lite Groovy/Kotlin DSL line scanner — not Gradle. No network, no gradle/gradlew."
 version: 1.0.0
 tags: [gradle, build.gradle, dependencies, plugins, parse, local]
 ---

@@ -1,12 +1,6 @@
 ---
 name: og-generators
-description: >
-  List openapi-generator names (-g / --generator-name / generatorName:)
-  and config flag hints (-i / --input-spec / -o / --output / -c /
-  --config / --additional-properties / --global-property /
-  --skip-validate-spec / --enable-post-process-file) from pasted
-  openapi-generator CLI/config source. Local only — never runs
-  openapi-generator or Java codegen, never fetches specs, no fetch.
+description: "List openapi-generator names (-g / --generator-name / generatorName:) and config flag hints (-i / --input-spec / -o / --output / -c / --config / --additional-properties / --global-property / --skip-validate-spec / --enable-post-process-file) from pasted openapi-generator CLI/config source. Local only — never runs openapi-generator or Java codegen, never fetches specs, no fetch."
 version: 1.0.0
 tags: [openapi-generator, openapi, generators, config, local]
 ---

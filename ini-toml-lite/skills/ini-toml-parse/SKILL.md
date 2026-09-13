@@ -1,8 +1,6 @@
 ---
 name: ini-toml-parse
-description: >
-  Parse pasted INI and a documented TOML subset into nested/flat objects —
-  zero-auth, local only, no network. Not full TOML 1.0.
+description: "Parse pasted INI and a documented TOML subset into nested/flat objects — zero-auth, local only, no network. Not full TOML 1.0."
 version: 1.0.0
 tags: [ini, toml, config, parse, local]
 ---

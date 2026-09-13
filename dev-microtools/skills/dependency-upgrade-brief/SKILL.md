@@ -1,8 +1,6 @@
 ---
 name: dependency-upgrade-brief
-description: >
-  Produce a concise upgrade brief when the user wants to bump an npm package.
-  Use npm_changelog_brief and semver_compare; cite breaking changes and risk.
+description: Produce a concise upgrade brief when the user wants to bump an npm package. Use npm_changelog_brief and semver_compare; cite breaking changes and risk.
 version: 1.0.0
 tags: [npm, semver, dependencies, upgrade]
 ---

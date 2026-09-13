@@ -1,9 +1,6 @@
 ---
 name: dotenv-diff-redact
-description: >
-  Diff two dotenv texts by key set / value equality without dumping secret
-  values, and redact PASSWORD/SECRET/TOKEN/KEY/API_KEY-style values with the
-  local zero-auth dotenv-merge-lab MCP. String-level only — no FS/network.
+description: "Diff two dotenv texts by key set / value equality without dumping secret values, and redact PASSWORD/SECRET/TOKEN/KEY/API_KEY-style values with the local zero-auth dotenv-merge-lab MCP. String-level only — no FS/network."
 version: 1.0.0
 tags: [dotenv, env, diff, redact, developer-tools]
 ---

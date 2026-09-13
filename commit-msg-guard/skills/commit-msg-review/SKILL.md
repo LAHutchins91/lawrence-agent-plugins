@@ -1,8 +1,6 @@
 ---
 name: commit-msg-review
-description: >
-  Parse and lint pasted Conventional Commits messages and check git trailers —
-  zero-auth, no network, no git exec; never invent Signed-off-by identities.
+description: "Parse and lint pasted Conventional Commits messages and check git trailers — zero-auth, no network, no git exec; never invent Signed-off-by identities."
 version: 1.0.0
 tags: [commit, conventional-commits, lint, trailers, review]
 ---

@@ -1,9 +1,6 @@
 ---
 name: vm-mocks-spies
-description: >
-  Extract Vitest vi.mock / jest.mock mocks and vi.spyOn / vi.fn spies from
-  JS/TS text with the local zero-auth vitest-mock-lab MCP. No vitest runtime,
-  no network.
+description: "Extract Vitest vi.mock / jest.mock mocks and vi.spyOn / vi.fn spies from JS/TS text with the local zero-auth vitest-mock-lab MCP. No vitest runtime, no network."
 version: 1.0.0
 tags: [vitest, mock, spy, developer-tools]
 ---

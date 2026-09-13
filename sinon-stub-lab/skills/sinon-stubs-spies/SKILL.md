@@ -1,8 +1,6 @@
 ---
 name: sinon-stubs-spies
-description: >
-  Extract Sinon stubs and spies from JS/TS text with the local zero-auth
-  sinon-stub-lab MCP. No sinon runtime, no network.
+description: "Extract Sinon stubs and spies from JS/TS text with the local zero-auth sinon-stub-lab MCP. No sinon runtime, no network."
 version: 1.0.0
 tags: [sinon, stub, spy, developer-tools]
 ---

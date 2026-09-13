@@ -1,10 +1,6 @@
 ---
 name: nomad-jobs-groups
-description: >
-  Inventory Nomad job HCL (id/name, type service/batch/system, datacenters,
-  namespace) and extract group blocks (name, count, network ports) with the
-  local zero-auth nomad-lab MCP. String/regex only — no nomad CLI, cluster,
-  or network.
+description: "Inventory Nomad job HCL (id/name, type service/batch/system, datacenters, namespace) and extract group blocks (name, count, network ports) with the local zero-auth nomad-lab MCP. String/regex only — no nomad CLI, cluster, or network."
 version: 1.0.0
 tags: [nomad, hcl, job, group, datacenter, mcp, developer-tools]
 ---

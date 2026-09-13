@@ -1,8 +1,6 @@
 ---
 name: normalize-eol
-description: >
-  Normalize line endings to LF or CRLF, count lines with trailing-newline
-  awareness, and strip a UTF-8 BOM — zero-auth, local.
+description: "Normalize line endings to LF or CRLF, count lines with trailing-newline awareness, and strip a UTF-8 BOM — zero-auth, local."
 version: 1.0.0
 tags: [eol, normalize, crlf, lf, bom, lines, local]
 ---

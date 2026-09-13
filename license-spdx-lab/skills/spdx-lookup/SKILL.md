@@ -1,8 +1,6 @@
 ---
 name: spdx-lookup
-description: >
-  Resolve curated SPDX license ids or fuzzy aliases (MIT, Apache 2, GPL-3)
-  locally with zero-auth MCP tools and no network.
+description: "Resolve curated SPDX license ids or fuzzy aliases (MIT, Apache 2, GPL-3) locally with zero-auth MCP tools and no network."
 version: 1.0.0
 tags: [spdx, license, lookup, normalize, local]
 ---

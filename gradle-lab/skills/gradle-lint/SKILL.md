@@ -1,9 +1,6 @@
 ---
 name: gradle-lint
-description: >
-  Lite-lint pasted Gradle build.gradle / build.gradle.kts for missing
-  plugins block, deprecated compile/runtime configurations, dynamic
-  versions (+), and duplicate dependencies. Local only, no gradle, no fetch.
+description: "Lite-lint pasted Gradle build.gradle / build.gradle.kts for missing plugins block, deprecated compile/runtime configurations, dynamic versions (+), and duplicate dependencies. Local only, no gradle, no fetch."
 version: 1.0.0
 tags: [gradle, build.gradle, lint, local]
 ---

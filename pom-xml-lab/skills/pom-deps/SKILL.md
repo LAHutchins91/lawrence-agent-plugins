@@ -1,10 +1,6 @@
 ---
 name: pom-deps
-description: >
-  Parse pasted Maven pom.xml text locally with zero-auth MCP tools:
-  extract project groupId/artifactId/version/packaging/parent,
-  list project dependencies, and list build plugins.
-  Lite XML tag extractor — not Maven. No network, no mvn.
+description: "Parse pasted Maven pom.xml text locally with zero-auth MCP tools: extract project groupId/artifactId/version/packaging/parent, list project dependencies, and list build plugins. Lite XML tag extractor — not Maven. No network, no mvn."
 version: 1.0.0
 tags: [maven, pom, xml, dependencies, parse, local]
 ---

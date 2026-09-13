@@ -1,9 +1,6 @@
 ---
 name: postcss-map-lint
-description: >
-  Extract PostCSS source-map / from / to options and run educational heuristic
-  lite lint with the local zero-auth postcss-config-lab MCP. No postcss binary,
-  no network.
+description: "Extract PostCSS source-map / from / to options and run educational heuristic lite lint with the local zero-auth postcss-config-lab MCP. No postcss binary, no network."
 version: 1.0.0
 tags: [postcss, postcss-config, sourcemap, lint, developer-tools]
 ---

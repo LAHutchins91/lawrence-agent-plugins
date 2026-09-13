@@ -1,10 +1,6 @@
 ---
 name: flux-lint
-description: >
-  List Flux HelmRelease keys (HelmRelease / chart / values / valuesFrom /
-  chartRef / install / upgrade / rollback / test) and lite-lint for missing
-  interval, missing sourceRef/chartRef, prune: false, empty file, and insecure
-  http:// url. Local only, never runs flux/kubectl, no fetch.
+description: "List Flux HelmRelease keys (HelmRelease / chart / values / valuesFrom / chartRef / install / upgrade / rollback / test) and lite-lint for missing interval, missing sourceRef/chartRef, prune: false, empty file, and insecure http:// url. Local only, never runs flux/kubectl, no fetch."
 version: 1.0.0
 tags: [flux, fluxcd, gitops, yaml, lint, helmrelease, local]
 ---

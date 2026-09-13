@@ -1,9 +1,6 @@
 ---
 name: cmake-lint
-description: >
-  Lite-lint pasted CMakeLists.txt for missing cmake_minimum_required,
-  missing project(), duplicate target names, and outdated minimum version
-  below 3.10. Local only, no cmake, no fetch.
+description: "Lite-lint pasted CMakeLists.txt for missing cmake_minimum_required, missing project(), duplicate target names, and outdated minimum version below 3.10. Local only, no cmake, no fetch."
 version: 1.0.0
 tags: [cmake, CMakeLists.txt, lint, local]
 ---

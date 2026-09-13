@@ -1,9 +1,6 @@
 ---
 name: babel-presets-plugins
-description: >
-  Extract Babel presets and plugins from babel config text with the local
-  zero-auth babel-config-lab MCP. JSONC preferred; JS heuristics; no babel
-  binary or network.
+description: Extract Babel presets and plugins from babel config text with the local zero-auth babel-config-lab MCP. JSONC preferred; JS heuristics; no babel binary or network.
 version: 1.0.0
 tags: [babel, babel-config, presets, plugins, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: tb-compose-lint
-description: >
-  Extract TypeBox compose combinators (Union, Intersect, Partial, Pick, Ref, Recursive, …)
-  and run educational heuristic lite lint on schema TS/JS text with the local zero-auth
-  typebox-lab MCP. No @sinclair/typebox runtime, no network.
+description: "Extract TypeBox compose combinators (Union, Intersect, Partial, Pick, Ref, Recursive, …) and run educational heuristic lite lint on schema TS/JS text with the local zero-auth typebox-lab MCP. No @sinclair/typebox runtime, no network."
 version: 1.0.0
 tags: [typebox, schema, compose, lint, validation, developer-tools]
 ---

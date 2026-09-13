@@ -1,9 +1,6 @@
 ---
 name: compose-risk-scan
-description: >
-  Scan docker-compose YAML for high-risk local settings: privileged containers,
-  host networking, floating :latest images, and publishing sensitive ports
-  (22/3306/5432/6379/27017) on 0.0.0.0 — via zero-auth compose_service_scan MCP.
+description: "Scan docker-compose YAML for high-risk local settings: privileged containers, host networking, floating :latest images, and publishing sensitive ports (22/3306/5432/6379/27017) on 0.0.0.0 — via zero-auth compose_service_scan MCP."
 version: 1.0.0
 tags: [docker-compose, compose, privileged, network-mode, ports, security]
 ---

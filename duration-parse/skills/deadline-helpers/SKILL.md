@@ -1,8 +1,6 @@
 ---
 name: deadline-helpers
-description: >
-  Compute UTC deadlines from a duration relative to now, and compare two
-  duration strings, using the local zero-auth duration-parse MCP.
+description: "Compute UTC deadlines from a duration relative to now, and compare two duration strings, using the local zero-auth duration-parse MCP."
 version: 1.0.0
 tags: [deadline, duration, compare, iso8601, developer-tools]
 ---

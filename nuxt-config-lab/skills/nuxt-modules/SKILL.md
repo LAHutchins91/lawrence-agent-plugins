@@ -1,10 +1,6 @@
 ---
 name: nuxt-modules
-description: >
-  Parse pasted nuxt.config.* text locally with zero-auth MCP tools:
-  list modules, runtimeConfig public/private keys, and routeRules path hints.
-  Lite JS/TS scanner — not Nuxt CLI. Function-form defineNuxtConfig may only
-  partially extract. No network, no nuxt binary for tool logic.
+description: "Parse pasted nuxt.config.* text locally with zero-auth MCP tools: list modules, runtimeConfig public/private keys, and routeRules path hints. Lite JS/TS scanner — not Nuxt CLI. Function-form defineNuxtConfig may only partially extract. No network, no nuxt binary for tool logic."
 version: 1.0.0
 tags: [nuxt, nuxtjs, modules, runtimeConfig, routeRules, parse, local]
 ---

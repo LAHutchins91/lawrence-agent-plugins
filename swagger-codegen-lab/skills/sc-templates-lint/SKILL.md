@@ -1,9 +1,6 @@
 ---
 name: sc-templates-lint
-description: >
-  Extract -t/--template-dir and --library, and run educational heuristic lite
-  lint with the local zero-auth swagger-codegen-lab MCP.
-  No codegen runtime, no network.
+description: "Extract -t/--template-dir and --library, and run educational heuristic lite lint with the local zero-auth swagger-codegen-lab MCP. No codegen runtime, no network."
 version: 1.0.0
 tags: [swagger-codegen, openapi-generator, templates, lint, cli, developer-tools]
 ---

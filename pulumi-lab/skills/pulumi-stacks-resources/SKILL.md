@@ -1,9 +1,6 @@
 ---
 name: pulumi-stacks-resources
-description: >
-  Inventory Pulumi.yaml project/stack hints (name, runtime, description, main, backend)
-  and heuristic resource constructors from program text with the local zero-auth
-  pulumi-lab MCP. YAML/string/regex only — no Pulumi CLI, cloud, or network.
+description: "Inventory Pulumi.yaml project/stack hints (name, runtime, description, main, backend) and heuristic resource constructors from program text with the local zero-auth pulumi-lab MCP. YAML/string/regex only — no Pulumi CLI, cloud, or network."
 version: 1.0.0
 tags: [pulumi, stacks, resources, iac, mcp, developer-tools]
 ---

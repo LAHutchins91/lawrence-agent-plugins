@@ -1,8 +1,6 @@
 ---
 name: cidr-private-lab
-description: >
-  Check CIDR membership, explain IPv4 CIDR blocks, and classify private/special
-  IP ranges with the local zero-auth ip-cidr-lab MCP. Educational only.
+description: "Check CIDR membership, explain IPv4 CIDR blocks, and classify private/special IP ranges with the local zero-auth ip-cidr-lab MCP. Educational only."
 version: 1.0.0
 tags: [cidr, ip, private, networking, developer-tools]
 ---

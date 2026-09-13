@@ -1,11 +1,6 @@
 ---
 name: veg-lint
-description: >
-  List Vegeta report / encode / plot APIs (report / encode / NewDecoder /
-  NewEncoder / -output / plot / hdrplot / json / hist) and lite-lint for
-  missing rate/pacer, missing duration, http:// target, empty file, and
-  attack without report/encode. Local only, never runs Vegeta/load tests,
-  no fetch.
+description: "List Vegeta report / encode / plot APIs (report / encode / NewDecoder / NewEncoder / -output / plot / hdrplot / json / hist) and lite-lint for missing rate/pacer, missing duration, http:// target, empty file, and attack without report/encode. Local only, never runs Vegeta/load tests, no fetch."
 version: 1.0.0
 tags: [vegeta, load-testing, lint, local]
 ---

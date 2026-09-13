@@ -1,11 +1,6 @@
 ---
 name: sel-pages
-description: >
-  List Page Object / class-style page definitions (Page/POM classes,
-  export const *Page helpers) and By.id / By.css / By.xpath / By.name /
-  By.className / By.linkText / By.partialLinkText / By.tagName /
-  findElement / findElements counts from pasted Selenium JS/TS. Local
-  only — never runs Selenium or launches a WebDriver/browser, no fetch.
+description: "List Page Object / class-style page definitions (Page/POM classes, export const *Page helpers) and By.id / By.css / By.xpath / By.name / By.className / By.linkText / By.partialLinkText / By.tagName / findElement / findElements counts from pasted Selenium JS/TS. Local only — never runs Selenium or launches a WebDriver/browser, no fetch."
 version: 1.0.0
 tags: [selenium, pom, page-object, local]
 ---

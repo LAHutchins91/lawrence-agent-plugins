@@ -1,8 +1,6 @@
 ---
 name: duration-parse
-description: >
-  Parse human duration strings and ISO-8601 durations to milliseconds, and
-  format ms back to short or long form with the local zero-auth duration-parse MCP.
+description: "Parse human duration strings and ISO-8601 durations to milliseconds, and format ms back to short or long form with the local zero-auth duration-parse MCP."
 version: 1.0.0
 tags: [duration, iso8601, parse, format, developer-tools]
 ---

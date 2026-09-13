@@ -1,10 +1,6 @@
 ---
 name: hey-targets
-description: >
-  List hey target URLs (hey ... https://..., -m METHOD, trailing URL args),
-  plus option hints (-n / -c / -q / -z / -t / -m / -H / -D / -d / -T / -a /
-  -x / -h2 / -disable-keepalive) from pasted hey shell/script source. Local
-  only — never runs hey or load tests, no fetch.
+description: "List hey target URLs (hey ... https://..., -m METHOD, trailing URL args), plus option hints (-n / -c / -q / -z / -t / -m / -H / -D / -d / -T / -a / -x / -h2 / -disable-keepalive) from pasted hey shell/script source. Local only — never runs hey or load tests, no fetch."
 version: 1.0.0
 tags: [hey, load-testing, targets, local]
 ---

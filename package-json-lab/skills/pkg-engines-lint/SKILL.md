@@ -1,9 +1,6 @@
 ---
 name: pkg-engines-lint
-description: >
-  Check engines.node against an optional Node version and run educational
-  heuristic lite lint on package.json text with the local zero-auth
-  package-json-lab MCP. No npm install or network.
+description: Check engines.node against an optional Node version and run educational heuristic lite lint on package.json text with the local zero-auth package-json-lab MCP. No npm install or network.
 version: 1.0.0
 tags: [package-json, npm, engines, semver, lint, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: pyproject-lint
-description: >
-  Lite-lint pasted pyproject.toml for missing project name/version, missing
-  build-system, dynamic version notes, open-ended dependencies (* / unpinned),
-  and tool section presence notes. Local only, no pip/poetry/uv CLI, no fetch.
+description: "Lite-lint pasted pyproject.toml for missing project name/version, missing build-system, dynamic version notes, open-ended dependencies (* / unpinned), and tool section presence notes. Local only, no pip/poetry/uv CLI, no fetch."
 version: 1.0.0
 tags: [pyproject, toml, python, lint, local]
 ---

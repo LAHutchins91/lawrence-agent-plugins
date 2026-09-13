@@ -1,9 +1,6 @@
 ---
 name: tsc-extends-lint
-description: >
-  List declared extends refs (no file fetch) and run educational heuristic
-  lite lint on tsconfig.json / JSONC text with the local zero-auth
-  tsconfig-lab MCP. No tsc exec.
+description: List declared extends refs (no file fetch) and run educational heuristic lite lint on tsconfig.json / JSONC text with the local zero-auth tsconfig-lab MCP. No tsc exec.
 version: 1.0.0
 tags: [tsconfig, typescript, extends, lint, developer-tools]
 ---

@@ -1,11 +1,6 @@
 ---
 name: sel-lint
-description: >
-  Count Selenium WebDriverWait / until / ExpectedConditions /
-  implicitlyWait / sleep / Thread.sleep / setTimeout wait hints and
-  lite-lint for hard sleeps, XPath-heavy locators, missing waits, empty
-  file, and implicit-wait-only. Local only, never runs Selenium/WebDriver,
-  no fetch.
+description: "Count Selenium WebDriverWait / until / ExpectedConditions / implicitlyWait / sleep / Thread.sleep / setTimeout wait hints and lite-lint for hard sleeps, XPath-heavy locators, missing waits, empty file, and implicit-wait-only. Local only, never runs Selenium/WebDriver, no fetch."
 version: 1.0.0
 tags: [selenium, pom, lint, local]
 ---

@@ -1,9 +1,6 @@
 ---
 name: eff-transform-lint
-description: >
-  Extract Effect Schema transform/filter/pipe/optional/NullOr/Union chains and run
-  educational heuristic lite lint on schema TS/JS text with the local zero-auth
-  effect-schema-lab MCP. No Effect runtime, no network.
+description: "Extract Effect Schema transform/filter/pipe/optional/NullOr/Union chains and run educational heuristic lite lint on schema TS/JS text with the local zero-auth effect-schema-lab MCP. No Effect runtime, no network."
 version: 1.0.0
 tags: [effect, schema, transform, lint, validation, developer-tools]
 ---

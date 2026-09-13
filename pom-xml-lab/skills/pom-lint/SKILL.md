@@ -1,9 +1,6 @@
 ---
 name: pom-lint
-description: >
-  Lite-lint pasted Maven pom.xml for missing project coords, SNAPSHOT
-  versions, duplicate dependencies, and missing version on deps not
-  listed in pasted dependencyManagement. Local only, no mvn, no fetch.
+description: "Lite-lint pasted Maven pom.xml for missing project coords, SNAPSHOT versions, duplicate dependencies, and missing version on deps not listed in pasted dependencyManagement. Local only, no mvn, no fetch."
 version: 1.0.0
 tags: [maven, pom, xml, lint, local]
 ---

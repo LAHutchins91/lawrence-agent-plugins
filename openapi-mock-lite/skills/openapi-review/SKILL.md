@@ -1,8 +1,6 @@
 ---
 name: openapi-review
-description: >
-  Review an OpenAPI 3.x spec for coverage gaps (missing descriptions/examples)
-  and mutating endpoints without security — local zero-auth MCP.
+description: Review an OpenAPI 3.x spec for coverage gaps (missing descriptions/examples) and mutating endpoints without security — local zero-auth MCP.
 version: 1.0.0
 tags: [openapi, coverage, security, review, api]
 ---

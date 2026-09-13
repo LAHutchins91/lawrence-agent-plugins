@@ -1,12 +1,6 @@
 ---
 name: dx-lint
-description: >
-  Count Detox waitFor / whileElement / withTimeout / toBeVisible /
-  toExist / toHaveText / toHaveValue / detox.device.reloadReactNative /
-  device.launchApp sync hints and lite-lint for hard sleeps, missing
-  waitFor around tap/typeText, text-matcher-heavy usage, empty file,
-  and reloadReactNative in tests. Local only, never runs Detox/device,
-  no fetch.
+description: "Count Detox waitFor / whileElement / withTimeout / toBeVisible / toExist / toHaveText / toHaveValue / detox.device.reloadReactNative / device.launchApp sync hints and lite-lint for hard sleeps, missing waitFor around tap/typeText, text-matcher-heavy usage, empty file, and reloadReactNative in tests. Local only, never runs Detox/device, no fetch."
 version: 1.0.0
 tags: [detox, mobile, lint, local]
 ---

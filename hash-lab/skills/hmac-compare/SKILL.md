@@ -1,8 +1,6 @@
 ---
 name: hmac-compare
-description: >
-  Compute HMAC-SHA256 and constant-time-ish compare two hex/digest strings
-  with the local zero-auth hash-lab MCP. Warns against pasting production secrets.
+description: Compute HMAC-SHA256 and constant-time-ish compare two hex/digest strings with the local zero-auth hash-lab MCP. Warns against pasting production secrets.
 version: 1.0.0
 tags: [hmac, sha256, compare, digest, developer-tools]
 ---

@@ -1,8 +1,6 @@
 ---
 name: incident-log-triage
-description: >
-  Triage pasted incident logs locally: fingerprint noisy lines, cluster duplicates,
-  and detect volume spikes — then summarize likely failure modes for responders.
+description: "Triage pasted incident logs locally: fingerprint noisy lines, cluster duplicates, and detect volume spikes — then summarize likely failure modes for responders."
 version: 1.0.0
 tags: [incident, logs, fingerprint, clustering, spikes, triage]
 ---

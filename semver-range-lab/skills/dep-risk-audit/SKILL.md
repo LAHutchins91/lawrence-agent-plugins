@@ -1,8 +1,6 @@
 ---
 name: dep-risk-audit
-description: >
-  Audit package.json dependency ranges for risk — wildcards, floating
-  latest/x, caret on 0.x, bare ^N, and wide-open >= (local zero-auth MCP).
+description: "Audit package.json dependency ranges for risk — wildcards, floating latest/x, caret on 0.x, bare ^N, and wide-open >= (local zero-auth MCP)."
 version: 1.0.0
 tags: [semver, dependencies, risk, package.json, audit]
 ---

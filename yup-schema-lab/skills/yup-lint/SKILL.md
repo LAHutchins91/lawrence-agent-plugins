@@ -1,9 +1,6 @@
 ---
 name: yup-lint
-description: >
-  Count Yup test methods (.required/.email/.min/.max/.matches/.oneOf) and
-  lite-lint for object without required fields, deprecated nullable().required()
-  order, empty schema, and missing .strict(). Local only, no Yup validate(), no fetch.
+description: "Count Yup test methods (.required/.email/.min/.max/.matches/.oneOf) and lite-lint for object without required fields, deprecated nullable().required() order, empty schema, and missing .strict(). Local only, no Yup validate(), no fetch."
 version: 1.0.0
 tags: [yup, schema, lint, validation, local]
 ---

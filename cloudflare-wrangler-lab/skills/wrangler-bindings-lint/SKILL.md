@@ -1,9 +1,6 @@
 ---
 name: wrangler-bindings-lint
-description: >
-  Extract KV/R2/D1/service/Durable Object binding names/ids and run educational
-  heuristic lite lint on wrangler.toml text with the local zero-auth
-  cloudflare-wrangler-lab MCP. No wrangler CLI, no network.
+description: "Extract KV/R2/D1/service/Durable Object binding names/ids and run educational heuristic lite lint on wrangler.toml text with the local zero-auth cloudflare-wrangler-lab MCP. No wrangler CLI, no network."
 version: 1.0.0
 tags: [cloudflare, wrangler, wrangler.toml, bindings, lint, developer-tools]
 ---

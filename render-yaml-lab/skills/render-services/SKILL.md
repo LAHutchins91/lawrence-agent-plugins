@@ -1,10 +1,6 @@
 ---
 name: render-services
-description: >
-  Parse pasted render.yaml text locally with zero-auth MCP tools:
-  services list (name/type/env/plan), envVars keys (secret values redacted),
-  and healthCheckPath hints. YAML via `yaml` package — not Render API.
-  No network, no Render CLI for tool logic.
+description: "Parse pasted render.yaml text locally with zero-auth MCP tools: services list (name/type/env/plan), envVars keys (secret values redacted), and healthCheckPath hints. YAML via `yaml` package — not Render API. No network, no Render CLI for tool logic."
 version: 1.0.0
 tags: [render, render-yaml, services, envVars, healthcheck, parse, local]
 ---

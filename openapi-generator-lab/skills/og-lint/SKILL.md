@@ -1,11 +1,6 @@
 ---
 name: og-lint
-description: >
-  List openapi-generator template/package keys (-t / --template-dir /
-  templateDir / supportingFiles / apiPackage / modelPackage /
-  invokerPackage / packageName) and lite-lint for generate without -g,
-  without -i/--input-spec, --skip-validate-spec, empty file, and
-  -o . / output: . Local only, never runs openapi-generator, no fetch.
+description: "List openapi-generator template/package keys (-t / --template-dir / templateDir / supportingFiles / apiPackage / modelPackage / invokerPackage / packageName) and lite-lint for generate without -g, without -i/--input-spec, --skip-validate-spec, empty file, and -o . / output: . Local only, never runs openapi-generator, no fetch."
 version: 1.0.0
 tags: [openapi-generator, openapi, lint, templates, local]
 ---

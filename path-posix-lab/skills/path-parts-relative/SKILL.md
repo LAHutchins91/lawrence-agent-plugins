@@ -1,8 +1,6 @@
 ---
 name: path-parts-relative
-description: >
-  Split a POSIX path into basename/dirname/ext and compute a relative path
-  from→to with the local zero-auth path-posix-lab MCP. No filesystem access.
+description: Split a POSIX path into basename/dirname/ext and compute a relative path from→to with the local zero-auth path-posix-lab MCP. No filesystem access.
 version: 1.0.0
 tags: [path, posix, basename, relative, developer-tools]
 ---

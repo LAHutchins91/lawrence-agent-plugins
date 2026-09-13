@@ -1,9 +1,6 @@
 ---
 name: enz-mounts
-description: >
-  List mount( / shallow( / render( sites and .find( / .findWhere( /
-  .findAll( / .exists( / .contains( / .at( / .first( / .last( counts
-  from pasted Enzyme JS/TS. Local only — never runs Enzyme or React, no fetch.
+description: "List mount( / shallow( / render( sites and .find( / .findWhere( / .findAll( / .exists( / .contains( / .at( / .first( / .last( counts from pasted Enzyme JS/TS. Local only — never runs Enzyme or React, no fetch."
 version: 1.0.0
 tags: [enzyme, mount, shallow, local]
 ---

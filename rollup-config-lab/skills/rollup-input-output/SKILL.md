@@ -1,9 +1,6 @@
 ---
 name: rollup-input-output
-description: >
-  Extract Rollup input entries and output formats (file/dir/format/name/exports)
-  from rollup config text with the local zero-auth rollup-config-lab MCP.
-  JSONC preferred; JS/TS heuristics; no rollup binary or network.
+description: Extract Rollup input entries and output formats (file/dir/format/name/exports) from rollup config text with the local zero-auth rollup-config-lab MCP. JSONC preferred; JS/TS heuristics; no rollup binary or network.
 version: 1.0.0
 tags: [rollup, rollup-config, input, output, formats, developer-tools]
 ---

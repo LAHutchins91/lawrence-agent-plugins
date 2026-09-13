@@ -1,10 +1,6 @@
 ---
 name: ssh-lint-redact
-description: >
-  Lint OpenSSH ssh_config text (duplicate aliases, wildcard order,
-  StrictHostKeyChecking no, missing HostName, malformed lines, identity
-  paths mentioned but never read) and redact ProxyCommand / URL userinfo
-  with the local zero-auth ssh-config-lab MCP. Text only — no SSH I/O.
+description: "Lint OpenSSH ssh_config text (duplicate aliases, wildcard order, StrictHostKeyChecking no, missing HostName, malformed lines, identity paths mentioned but never read) and redact ProxyCommand / URL userinfo with the local zero-auth ssh-config-lab MCP. Text only — no SSH I/O."
 version: 1.0.0
 tags: [ssh, ssh-config, lint, redact, developer-tools]
 ---

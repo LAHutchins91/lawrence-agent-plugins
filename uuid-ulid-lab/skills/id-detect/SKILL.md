@@ -1,8 +1,6 @@
 ---
 name: id-detect
-description: >
-  Heuristically classify pasted identifiers as uuid, ulid, nanoid-ish, or
-  unknown with confidence — zero-auth local only.
+description: "Heuristically classify pasted identifiers as uuid, ulid, nanoid-ish, or unknown with confidence — zero-auth local only."
 version: 1.0.0
 tags: [uuid, ulid, nanoid, detect, classify]
 ---

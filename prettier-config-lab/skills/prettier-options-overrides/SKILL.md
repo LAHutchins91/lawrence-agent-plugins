@@ -1,9 +1,6 @@
 ---
 name: prettier-options-overrides
-description: >
-  Summarize core Prettier options and list overrides from Prettier config text
-  with the local zero-auth prettier-config-lab MCP. JSONC preferred;
-  YAML/JS heuristics; no prettier binary or network.
+description: Summarize core Prettier options and list overrides from Prettier config text with the local zero-auth prettier-config-lab MCP. JSONC preferred; YAML/JS heuristics; no prettier binary or network.
 version: 1.0.0
 tags: [prettier, prettier-config, options, overrides, developer-tools]
 ---

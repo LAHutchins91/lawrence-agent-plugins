@@ -1,9 +1,6 @@
 ---
 name: eslint-env-lint
-description: >
-  Extract env/parser/plugins and run educational heuristic lite lint
-  on ESLint config text with the local zero-auth eslint-config-lab MCP.
-  No eslint binary.
+description: Extract env/parser/plugins and run educational heuristic lite lint on ESLint config text with the local zero-auth eslint-config-lab MCP. No eslint binary.
 version: 1.0.0
 tags: [eslint, eslint-config, env, parser, lint, developer-tools]
 ---

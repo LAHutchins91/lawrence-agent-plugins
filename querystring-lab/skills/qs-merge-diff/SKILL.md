@@ -1,8 +1,6 @@
 ---
 name: qs-merge-diff
-description: >
-  Merge query overrides onto a base and diff two query maps (added/removed/changed)
-  with the local zero-auth querystring-lab MCP.
+description: Merge query overrides onto a base and diff two query maps (added/removed/changed) with the local zero-auth querystring-lab MCP.
 version: 1.0.0
 tags: [querystring, merge, diff, url, developer-tools]
 ---

@@ -1,9 +1,6 @@
 ---
 name: rt-fields
-description: >
-  List Runtypes export/const types (Record({ / Object({ / Array( / Union( /
-  Literal( / String / Number) and field hints from pasted Runtypes TypeScript.
-  Local only — never .check()/.guard(), no fetch.
+description: "List Runtypes export/const types (Record({ / Object({ / Array( / Union( / Literal( / String / Number) and field hints from pasted Runtypes TypeScript. Local only — never .check()/.guard(), no fetch."
 version: 1.0.0
 tags: [runtypes, schema, fields, validation, local]
 ---

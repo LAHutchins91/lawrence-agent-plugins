@@ -1,9 +1,6 @@
 ---
 name: blame-digest
-description: >
-  Answer ownership and churn questions from pasted git text: digest blame into
-  per-file owner rankings, and scan numstat logs for hottest files — zero-auth,
-  no git subprocess.
+description: "Answer ownership and churn questions from pasted git text: digest blame into per-file owner rankings, and scan numstat logs for hottest files — zero-auth, no git subprocess."
 version: 1.0.0
 tags: [git, blame, ownership, churn, hotspot, archaeology]
 ---

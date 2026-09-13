@@ -1,9 +1,6 @@
 ---
 name: sg-concurrency-lint
-description: >
-  Extract siege concurrency / reps / time settings and run educational
-  heuristic lite lint on siege CLI / urls.txt / .siegerc text with the local
-  zero-auth siege-lab MCP. No siege runtime, no network.
+description: "Extract siege concurrency / reps / time settings and run educational heuristic lite lint on siege CLI / urls.txt / .siegerc text with the local zero-auth siege-lab MCP. No siege runtime, no network."
 version: 1.0.0
 tags: [siege, cli, concurrency, lint, load-test, developer-tools]
 ---

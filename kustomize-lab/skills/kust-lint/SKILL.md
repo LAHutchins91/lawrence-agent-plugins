@@ -1,11 +1,6 @@
 ---
 name: kust-lint
-description: >
-  List kustomize patches keys (patches / patchesStrategicMerge /
-  patchesJson6902 / replacements / transformers / crds) and lite-lint for
-  missing resources/bases, secretGenerator plaintext literals, deprecated
-  bases:, empty file, and remote http(s):// resources. Local only, never
-  runs kustomize/kubectl, no fetch.
+description: "List kustomize patches keys (patches / patchesStrategicMerge / patchesJson6902 / replacements / transformers / crds) and lite-lint for missing resources/bases, secretGenerator plaintext literals, deprecated bases:, empty file, and remote http(s):// resources. Local only, never runs kustomize/kubectl, no fetch."
 version: 1.0.0
 tags: [kustomize, kubernetes, lint, patches, local]
 ---

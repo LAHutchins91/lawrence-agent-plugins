@@ -1,9 +1,6 @@
 ---
 name: next-lint
-description: >
-  Lite-lint pasted next.config.* for reactStrictMode missing/false,
-  images.unoptimized true note, experimental flags present (info),
-  and empty rewrites. Local only, no Next binary for tool logic, no fetch.
+description: "Lite-lint pasted next.config.* for reactStrictMode missing/false, images.unoptimized true note, experimental flags present (info), and empty rewrites. Local only, no Next binary for tool logic, no fetch."
 version: 1.0.0
 tags: [next, nextjs, lint, reactStrictMode, images, experimental, rewrites, local]
 ---

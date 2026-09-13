@@ -1,9 +1,6 @@
 ---
 name: astro-vite-lint
-description: >
-  Summarize nested vite block and run educational heuristic lite lint on
-  astro.config text with the local zero-auth astro-config-lab MCP. No astro
-  binary, no network.
+description: "Summarize nested vite block and run educational heuristic lite lint on astro.config text with the local zero-auth astro-config-lab MCP. No astro binary, no network."
 version: 1.0.0
 tags: [astro, astro-config, vite, lint, developer-tools]
 ---

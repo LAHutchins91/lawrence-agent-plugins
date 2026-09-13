@@ -1,9 +1,6 @@
 ---
 name: vitest-lint
-description: >
-  Lite-lint pasted vitest.config.*/vite.config.* for missing test.environment,
-  coverage without thresholds, globals-only setup notes, and empty include.
-  Local only, no vitest/vite binary, no fetch.
+description: "Lite-lint pasted vitest.config.*/vite.config.* for missing test.environment, coverage without thresholds, globals-only setup notes, and empty include. Local only, no vitest/vite binary, no fetch."
 version: 1.0.0
 tags: [vitest, vite, vitest.config, lint, coverage, local]
 ---

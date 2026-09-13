@@ -1,9 +1,6 @@
 ---
 name: shebang-normalize-warn
-description: >
-  Normalize shebang to env or absolute form and lint common pitfalls (CRLF,
-  bare python, missing shebang, odd spaces, BOM) with the local zero-auth
-  shebang-lab MCP. No exec, no FS.
+description: "Normalize shebang to env or absolute form and lint common pitfalls (CRLF, bare python, missing shebang, odd spaces, BOM) with the local zero-auth shebang-lab MCP. No exec, no FS."
 version: 1.0.0
 tags: [shebang, normalize, lint, warn, developer-tools]
 ---

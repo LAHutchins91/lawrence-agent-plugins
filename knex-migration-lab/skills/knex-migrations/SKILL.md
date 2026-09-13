@@ -1,9 +1,6 @@
 ---
 name: knex-migrations
-description: >
-  List Knex migration up/down exports (with multi-file markers), table-op
-  hints (createTable/dropTable/alterTable/renameTable), and seed hints from
-  pasted Knex migration/seed JS. Local only — no knex CLI, no fetch.
+description: "List Knex migration up/down exports (with multi-file markers), table-op hints (createTable/dropTable/alterTable/renameTable), and seed hints from pasted Knex migration/seed JS. Local only — no knex CLI, no fetch."
 version: 1.0.0
 tags: [knex, migrations, seeds, schema, local]
 ---

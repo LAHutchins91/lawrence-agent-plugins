@@ -1,9 +1,6 @@
 ---
 name: gomod-lint
-description: >
-  Lite-lint pasted go.mod for missing module path, missing go version
-  directive, duplicate requires, replace without version notes, and
-  retract presence info. Local only, no go CLI, no fetch.
+description: "Lite-lint pasted go.mod for missing module path, missing go version directive, duplicate requires, replace without version notes, and retract presence info. Local only, no go CLI, no fetch."
 version: 1.0.0
 tags: [go, gomod, golang, lint, local]
 ---

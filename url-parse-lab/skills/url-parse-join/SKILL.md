@@ -1,8 +1,6 @@
 ---
 name: url-parse-join
-description: >
-  Parse absolute URLs and resolve relative URLs against a base using the local
-  zero-auth url-parse-lab MCP (WHATWG URL). No network fetches.
+description: Parse absolute URLs and resolve relative URLs against a base using the local zero-auth url-parse-lab MCP (WHATWG URL). No network fetches.
 version: 1.0.0
 tags: [url, parse, join, whatwg, developer-tools]
 ---

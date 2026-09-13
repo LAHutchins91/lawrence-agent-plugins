@@ -1,9 +1,6 @@
 ---
 name: cargo-lint
-description: >
-  Lite-lint pasted Cargo.toml for missing package name/version, wildcard
-  dependencies (*), path-dep notes, duplicate feature names, and missing
-  edition hint. Local only, no cargo CLI, no fetch.
+description: "Lite-lint pasted Cargo.toml for missing package name/version, wildcard dependencies (*), path-dep notes, duplicate feature names, and missing edition hint. Local only, no cargo CLI, no fetch."
 version: 1.0.0
 tags: [cargo, toml, rust, lint, local]
 ---

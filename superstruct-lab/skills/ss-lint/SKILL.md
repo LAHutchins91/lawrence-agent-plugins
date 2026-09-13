@@ -1,9 +1,6 @@
 ---
 name: ss-lint
-description: >
-  Count Superstruct coerce(/mask(/create( usage and lite-lint for empty object,
-  missing optional vs required clarity, deprecated patterns note, and no Infer
-  type export. Local only, no assert()/validate(), no fetch.
+description: "Count Superstruct coerce(/mask(/create( usage and lite-lint for empty object, missing optional vs required clarity, deprecated patterns note, and no Infer type export. Local only, no assert()/validate(), no fetch."
 version: 1.0.0
 tags: [superstruct, schema, lint, validation, local]
 ---

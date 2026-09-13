@@ -1,13 +1,6 @@
 ---
 name: ap-caps
-description: >
-  List Appium desiredCapabilities / capabilities keys (platformName,
-  deviceName, app, appPackage, appActivity, automationName, udid,
-  browserName, …) and By.accessibilityId / accessibility id / -ios
-  predicate / -android uiautomator / xpath / id / class name / MobileBy /
-  findElement / findElements / $` / $$ counts from pasted Appium JS/TS.
-  Local only — never runs Appium or launches a device/emulator/WebDriver,
-  no fetch.
+description: "List Appium desiredCapabilities / capabilities keys (platformName, deviceName, app, appPackage, appActivity, automationName, udid, browserName, …) and By.accessibilityId / accessibility id / -ios predicate / -android uiautomator / xpath / id / class name / MobileBy / findElement / findElements / $` / $$ counts from pasted Appium JS/TS. Local only — never runs Appium or launches a device/emulator/WebDriver, no fetch."
 version: 1.0.0
 tags: [appium, mobile, capabilities, local]
 ---

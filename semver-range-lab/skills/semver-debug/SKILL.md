@@ -1,8 +1,6 @@
 ---
 name: semver-debug
-description: >
-  Debug npm-style semver ranges — satisfies checks, range intersection,
-  and minimum satisfying version from candidates (local zero-auth MCP).
+description: "Debug npm-style semver ranges — satisfies checks, range intersection, and minimum satisfying version from candidates (local zero-auth MCP)."
 version: 1.0.0
 tags: [semver, ranges, npm, debug, versions]
 ---

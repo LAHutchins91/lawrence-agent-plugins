@@ -1,9 +1,6 @@
 ---
 name: cdk8s-imports-lint
-description: >
-  Detect cdk8s / cdk8s-plus-* / imports/k8s / CRD / ApiObject imports and
-  educational lite lint with the local zero-auth cdk8s-lab MCP.
-  No cdk8s CLI, cluster, or network.
+description: "Detect cdk8s / cdk8s-plus-* / imports/k8s / CRD / ApiObject imports and educational lite lint with the local zero-auth cdk8s-lab MCP. No cdk8s CLI, cluster, or network."
 version: 1.0.0
 tags: [cdk8s, imports, lint, kubernetes, mcp, developer-tools]
 ---

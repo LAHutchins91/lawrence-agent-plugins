@@ -1,10 +1,6 @@
 ---
 name: ckv-checks
-description: >
-  List Checkov CKV_ / CKV2_ check IDs from pasted config/code/comments
-  and framework method counts (terraform / cloudformation / kubernetes /
-  dockerfile / secrets / arm / bicep / helm / github_actions). Local only
-  — never runs checkov CLI, no fetch.
+description: "List Checkov CKV_ / CKV2_ check IDs from pasted config/code/comments and framework method counts (terraform / cloudformation / kubernetes / dockerfile / secrets / arm / bicep / helm / github_actions). Local only — never runs checkov CLI, no fetch."
 version: 1.0.0
 tags: [checkov, iac, checks, frameworks, local]
 ---
