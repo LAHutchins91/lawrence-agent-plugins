@@ -658,6 +658,19 @@
         "seo",
         "devtools"
       ]
+    },
+    {
+      "name": "sitemap-xml-lab",
+      "source": "sitemap-xml-lab",
+      "description": "Parse/validate sitemap XML (urlset + index), stats \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "sitemap",
+        "seo",
+        "xml",
+        "devtools"
+      ]
     }
   ]
 }

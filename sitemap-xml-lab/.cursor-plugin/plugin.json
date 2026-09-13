@@ -1,0 +1,15 @@
+{
+  "name": "sitemap-xml-lab",
+  "displayName": "Sitemap XML Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for sitemap urlset/index parse, lite validation, and stats — pasted XML only, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "sitemap", "xml", "urlset", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "sitemap", "xml", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
