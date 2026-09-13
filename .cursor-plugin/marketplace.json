@@ -2110,6 +2110,19 @@
         "codegen",
         "devtools"
       ]
+    },
+    {
+      "name": "kubb-lab",
+      "source": "kubb-lab",
+      "description": "kubb.config outputs/plugins/hooks parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "kubb",
+        "openapi",
+        "codegen",
+        "devtools"
+      ]
     }
   ]
 }
