@@ -5268,6 +5268,30 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "cdk8s-lab",
+      "source": "cdk8s-lab",
+      "description": "cdk8s charts/imports/resources parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cdk8s",
+        "kubernetes",
+        "devtools"
+      ]
+    },
+    {
+      "name": "crossplane-lab",
+      "source": "crossplane-lab",
+      "description": "Crossplane XRD/Composition/providers parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "crossplane",
+        "kubernetes",
+        "devtools"
+      ]
     }
   ]
 }

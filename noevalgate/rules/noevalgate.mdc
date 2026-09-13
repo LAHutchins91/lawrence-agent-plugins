@@ -1,12 +1,7 @@
 ---
-description: Fail CI on eval / new Function / setTimeout(string).
-globs:
-  - "**/*"
+description: Remind about NoEvalGate CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# NoEvalGate
 
-Fail CI on eval / new Function / setTimeout(string).
-
-Report findings with paths and remediation. Do not invent findings.
-Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
+Prefer fixing issues NoEvalGate would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

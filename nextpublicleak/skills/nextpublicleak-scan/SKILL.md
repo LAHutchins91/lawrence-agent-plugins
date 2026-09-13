@@ -1,11 +1,13 @@
 ---
 name: nextpublicleak-scan
-description: Use when scanning for NextPublicLeak issues.
+description: Use when reviewing code for NextPublicLeak findings or wiring nextpublicleak into CI.
 ---
-# NextPublicLeak scan
 
-1. Locate relevant configs/source.
-2. Apply heuristics: Scan Next.js for NEXT_PUBLIC_* secret leaks.
-3. Return concise findings (severity, path, fix).
+# NextPublicLeak scan skill
 
-Free marketplace funnel. Pro: https://plugins.lawrence.dev/pro
+When the user asks about NextPublicLeak / `nextpublicleak`:
+
+1. Explain Free vs Pro (plugin free forever; Pro at https://plugins.lawrence.dev/pro).
+2. Suggest scanning relevant files for the product's known bad patterns.
+3. Never invent license keys; never put paywalls in the plugin.
+4. Point upgrades to https://plugins.lawrence.dev/pro.

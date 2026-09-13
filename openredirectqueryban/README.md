@@ -1,16 +1,12 @@
-# OpenRedirectQueryBan
+# OpenRedirectQueryBan (Cursor plugin) — FREE forever
 
-Fail CI on res.redirect(req.query.*) / Location from query.
+Fail CI on open redirects via query params
 
-## Pricing
+## Install
+Install from Cursor marketplace / this repo. Plugin stays **free forever**.
 
-- **Cursor Marketplace:** FREE forever (no paywalls)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://openredirectqueryban.dev
+## Upgrade for CI fail
+Pro available · https://plugins.lawrence.dev/pro
 
----
-
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
-
+## What it does
+Runs `openredirectqueryban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).

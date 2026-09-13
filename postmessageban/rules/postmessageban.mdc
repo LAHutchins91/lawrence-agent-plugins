@@ -1,12 +1,7 @@
 ---
-description: Fail CI on postMessage without origin check / targetOrigin '*'.
-globs:
-  - "**/*"
+description: Remind about PostMessageBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# PostMessageBan
 
-Fail CI on postMessage without origin check / targetOrigin '*'.
-
-Report findings with paths and remediation. Do not invent findings.
-Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
+Prefer fixing issues PostMessageBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

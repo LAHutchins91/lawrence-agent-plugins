@@ -1,14 +1,15 @@
 {
   "name": "ownermap",
   "version": "0.1.0",
-  "description": "CODEOWNERS coverage gaps \u2014 find unowned paths before they merge without a pager. Free forever in Cursor.",
+  "description": "CODEOWNERS coverage gaps — unowned paths. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
-    "security",
+    "developer-tools",
     "ci",
+    "codeowners",
     "ownermap",
     "free"
   ]

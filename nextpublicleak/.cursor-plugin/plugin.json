@@ -1,7 +1,7 @@
 {
   "name": "nextpublicleak",
   "version": "0.1.0",
-  "description": "Scan Next.js for NEXT_PUBLIC_* secret leaks. Free forever in Cursor.",
+  "description": "Scan Next.js for secrets via NEXT_PUBLIC_* or client components. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "nextpublicleak",
     "free"
   ]

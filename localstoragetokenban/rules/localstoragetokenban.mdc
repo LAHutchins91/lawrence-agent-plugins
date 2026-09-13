@@ -1,12 +1,7 @@
 ---
-description: Fail CI when auth tokens are stored in localStorage/sessionStorage.
-globs:
-  - "**/*"
+description: Remind about LocalStorageTokenBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# LocalStorageTokenBan
 
-Fail CI when auth tokens are stored in localStorage/sessionStorage.
-
-Report findings with paths and remediation. Do not invent findings.
-Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
+Prefer fixing issues LocalStorageTokenBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

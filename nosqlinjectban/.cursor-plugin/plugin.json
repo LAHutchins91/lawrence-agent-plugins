@@ -1,7 +1,7 @@
 {
   "name": "nosqlinjectban",
   "version": "0.1.0",
-  "description": "Fail CI on Mongo/Mongoose NoSQL injection (req-spread, $where, operator merge). Free forever in Cursor.",
+  "description": "Fail CI on MongoDB/Mongoose queries from unsanitized user input. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "nosqlinjectban",
     "free"
   ]

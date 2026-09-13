@@ -1,12 +1,7 @@
 ---
-description: Fail CI on ORM mass assignment of unsanitized req.body.
-globs:
-  - "**/*"
+description: Remind about MassAssignBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# MassAssignBan
 
-Fail CI on ORM mass assignment of unsanitized req.body.
-
-Report findings with paths and remediation. Do not invent findings.
-Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
+Prefer fixing issues MassAssignBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

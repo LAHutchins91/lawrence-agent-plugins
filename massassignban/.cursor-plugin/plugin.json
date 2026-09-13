@@ -1,7 +1,7 @@
 {
   "name": "massassignban",
   "version": "0.1.0",
-  "description": "Fail CI on ORM mass assignment of unsanitized req.body. Free forever in Cursor.",
+  "description": "Fail CI on mass assignment (unsanitized req.body to Model.create/update). Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "massassignban",
     "free"
   ]

@@ -1,12 +1,7 @@
 ---
-description: Fail CI when logs leak email/SSN/card/phone/password PII.
-globs:
-  - "**/*"
+description: Remind about PiiLogBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# PiiLogBan
 
-Fail CI when logs leak email/SSN/card/phone/password PII.
-
-Report findings with paths and remediation. Do not invent findings.
-Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
+Prefer fixing issues PiiLogBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

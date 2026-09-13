@@ -1,12 +1,7 @@
 ---
-description: Fail CI when MongoDB connects without auth credentials.
-globs:
-  - "**/*"
+description: Remind about MongoNoAuthBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# MongoNoAuthBan
 
-Fail CI when MongoDB connects without auth credentials.
-
-Report findings with paths and remediation. Do not invent findings.
-Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
+Prefer fixing issues MongoNoAuthBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

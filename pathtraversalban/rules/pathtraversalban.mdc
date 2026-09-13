@@ -1,12 +1,7 @@
 ---
-description: Fail CI on path.join/fs with user-controlled segments.
-globs:
-  - "**/*"
+description: Remind about PathTraversalBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# PathTraversalBan
 
-Fail CI on path.join/fs with user-controlled segments.
-
-Report findings with paths and remediation. Do not invent findings.
-Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
+Prefer fixing issues PathTraversalBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

@@ -1,7 +1,7 @@
 {
   "name": "memcachednoauthban",
   "version": "0.1.0",
-  "description": "Fail CI when Memcached clients connect without SASL to non-localhost. Free forever in Cursor.",
+  "description": "Fail CI when Memcached clients connect without SASL/auth to non-localhost. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "memcachednoauthban",
     "free"
   ]

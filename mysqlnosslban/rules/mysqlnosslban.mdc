@@ -1,12 +1,7 @@
 ---
-description: Fail CI when MySQL/MariaDB connections disable TLS.
-globs:
-  - "**/*"
+description: Remind about MysqlNoSslBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# MySqlNoSslBan
 
-Fail CI when MySQL/MariaDB connections disable TLS.
-
-Report findings with paths and remediation. Do not invent findings.
-Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
+Prefer fixing issues MysqlNoSslBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

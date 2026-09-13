@@ -1,7 +1,7 @@
 {
   "name": "postmessageban",
   "version": "0.1.0",
-  "description": "Fail CI on postMessage without origin check / targetOrigin '*'. Free forever in Cursor.",
+  "description": "Fail CI on postMessage without origin check / targetOrigin '*'. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "postmessageban",
     "free"
   ]

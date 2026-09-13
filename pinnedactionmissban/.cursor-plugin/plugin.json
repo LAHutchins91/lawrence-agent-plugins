@@ -1,7 +1,7 @@
 {
   "name": "pinnedactionmissban",
   "version": "0.1.0",
-  "description": "Fail CI when GitHub Actions use unpinned tags. Free forever in Cursor.",
+  "description": "Fail CI when GitHub Actions use unpinned tags. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "pinnedactionmissban",
     "free"
   ]

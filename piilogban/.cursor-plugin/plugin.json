@@ -1,7 +1,7 @@
 {
   "name": "piilogban",
   "version": "0.1.0",
-  "description": "Fail CI when logs leak email/SSN/card/phone/password PII. Free forever in Cursor.",
+  "description": "Fail CI on logging PII. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "piilogban",
     "free"
   ]

@@ -1,7 +1,7 @@
 {
   "name": "neo4jnoauthban",
   "version": "0.1.0",
-  "description": "Fail CI when Neo4j drivers connect without auth. Free forever in Cursor.",
+  "description": "Fail CI when Neo4j drivers connect without auth. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "neo4jnoauthban",
     "free"
   ]

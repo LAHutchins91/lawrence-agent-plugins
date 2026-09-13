@@ -1,12 +1,13 @@
 {
   "name": "npmauditgate",
   "version": "0.1.0",
-  "description": "Markdown brief + CI severity gate for npm audit JSON. Free forever in Cursor.",
+  "description": "Fail CI on npm audit severity thresholds with markdown brief. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
+    "developer-tools",
     "security",
     "ci",
     "npmauditgate",

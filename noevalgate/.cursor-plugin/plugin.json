@@ -1,7 +1,7 @@
 {
   "name": "noevalgate",
   "version": "0.1.0",
-  "description": "Fail CI on eval / new Function / setTimeout(string). Free forever in Cursor.",
+  "description": "Fail CI on eval / new Function / setTimeout(string). Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
@@ -9,6 +9,7 @@
   "keywords": [
     "security",
     "ci",
+    "sast",
     "noevalgate",
     "free"
   ]

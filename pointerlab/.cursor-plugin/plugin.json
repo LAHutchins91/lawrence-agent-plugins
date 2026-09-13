@@ -1,14 +1,15 @@
 {
   "name": "pointerlab",
   "version": "0.1.0",
-  "description": "JSON Pointer get/assert for API payloads. Pull fields from response fixtures with RFC 6901 pointers and gate CI on assert suites so contract drift never ships silently. Free forever in Cursor.",
+  "description": "JSON Pointer get/assert for API payloads. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
-    "security",
-    "ci",
+    "developer-tools",
+    "json",
+    "api",
     "pointerlab",
     "free"
   ]
