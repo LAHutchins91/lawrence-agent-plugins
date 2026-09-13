@@ -719,6 +719,19 @@
         "proto",
         "devtools"
       ]
+    },
+    {
+      "name": "k8s-manifest-lab",
+      "source": "k8s-manifest-lab",
+      "description": "K8s multi-doc YAML kinds/names/images + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "kubernetes",
+        "k8s",
+        "yaml",
+        "devtools"
+      ]
     }
   ]
 }

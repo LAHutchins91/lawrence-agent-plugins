@@ -1,0 +1,15 @@
+{
+  "name": "k8s-manifest-lab",
+  "displayName": "K8s Manifest Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Kubernetes multi-doc YAML text — list kinds, find by name, list images, and lite lint — no kubectl, cluster, or API.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "kubernetes", "k8s", "yaml", "manifests", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "kubernetes", "k8s", "yaml", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
