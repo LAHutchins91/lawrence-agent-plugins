@@ -5474,6 +5474,19 @@
         "images",
         "devtools"
       ]
+    },
+    {
+      "name": "vagrant-lab",
+      "source": "vagrant-lab",
+      "description": "Vagrantfile boxes/providers/provisions parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "vagrant",
+        "hashicorp",
+        "vm",
+        "devtools"
+      ]
     }
   ]
 }
