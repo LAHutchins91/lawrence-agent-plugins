@@ -226,6 +226,18 @@
         "json-pointer",
         "json-patch"
       ]
+    },
+    {
+      "name": "base64-url-lab",
+      "source": "base64-url-lab",
+      "description": "Base64/URL encode-decode and JWT part decode (no verify) \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "base64",
+        "url",
+        "jwt"
+      ]
     }
   ]
 }
