@@ -2188,6 +2188,19 @@
         "kubernetes",
         "devtools"
       ]
+    },
+    {
+      "name": "tilt-lab",
+      "source": "tilt-lab",
+      "description": "Tiltfile resources/triggers/extensions parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "tilt",
+        "kubernetes",
+        "devops",
+        "devtools"
+      ]
     }
   ]
 }
