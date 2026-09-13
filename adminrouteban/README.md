@@ -18,7 +18,7 @@ Install **Admin Route Ban** from the Cursor marketplace, or open this folder as 
 
 This Cursor plugin stays **free forever**. No paywall in the plugin.
 
-Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+Want CI fail-on-finding, SARIF, baselines, and team workflows? That's **Lawrence Plugins Pro** (billed outside Cursor):
 
 → https://plugins.lawrence.dev/pro
 
