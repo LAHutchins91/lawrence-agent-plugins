@@ -2084,6 +2084,19 @@
         "openapi",
         "devtools"
       ]
+    },
+    {
+      "name": "orval-lab",
+      "source": "orval-lab",
+      "description": "orval.config outputs/client/hooks parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "orval",
+        "openapi",
+        "codegen",
+        "devtools"
+      ]
     }
   ]
 }
