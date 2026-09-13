@@ -2391,6 +2391,19 @@
         "secrets",
         "devtools"
       ]
+    },
+    {
+      "name": "infracost-lab",
+      "source": "infracost-lab",
+      "description": "Infracost projects/usage/currency YAML heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "infracost",
+        "cost",
+        "terraform",
+        "devtools"
+      ]
     }
   ]
 }
