@@ -1890,6 +1890,19 @@
         "performance",
         "devtools"
       ]
+    },
+    {
+      "name": "jmeter-lab",
+      "source": "jmeter-lab",
+      "description": "JMeter plans/samplers/assertions parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "jmeter",
+        "load-testing",
+        "jmx",
+        "devtools"
+      ]
     }
   ]
 }
