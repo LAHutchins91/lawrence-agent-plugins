@@ -2469,6 +2469,19 @@
         "lint",
         "devtools"
       ]
+    },
+    {
+      "name": "kube-linter-lab",
+      "source": "kube-linter-lab",
+      "description": "kube-linter checks/config/severity heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "kube-linter",
+        "kubernetes",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
