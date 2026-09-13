@@ -5318,6 +5318,19 @@
         "lambda",
         "devtools"
       ]
+    },
+    {
+      "name": "cloudformation-lab",
+      "source": "cloudformation-lab",
+      "description": "CloudFormation resources/parameters/outputs parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cloudformation",
+        "aws",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "cloudformation-lab",
+  "displayName": "CloudFormation Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for CloudFormation YAML/JSON heuristics — resource listings, parameter/output hints, and lite lint — pasted source only, never runs AWS CLI or cfn-lint binary, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "cloudformation", "aws", "cfn", "yaml", "json", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "cloudformation", "aws", "cfn", "yaml", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
