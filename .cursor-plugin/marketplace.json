@@ -584,6 +584,18 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "cookie-header-lab",
+      "source": "cookie-header-lab",
+      "description": "Parse Cookie/Set-Cookie headers, explain flags, redact values \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cookie",
+        "http",
+        "devtools"
+      ]
     }
   ]
 }

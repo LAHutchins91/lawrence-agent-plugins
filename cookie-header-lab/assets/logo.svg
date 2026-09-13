@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Cookie Header Lab logo">
+  <rect width="256" height="256" rx="48" fill="#171923"/>
+  <circle cx="118" cy="128" r="70" fill="#92400e" stroke="#fbbf24" stroke-width="8"/>
+  <circle cx="96" cy="108" r="10" fill="#451a03"/>
+  <circle cx="136" cy="118" r="8" fill="#451a03"/>
+  <circle cx="108" cy="148" r="7" fill="#451a03"/>
+  <circle cx="142" cy="152" r="6" fill="#451a03"/>
+  <rect x="168" y="72" width="36" height="112" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="6"/>
+  <path d="M176 96h20M176 120h16M176 144h18" stroke="#7dd3fc" stroke-width="6" stroke-linecap="round"/>
+</svg>
