@@ -2456,6 +2456,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "hadolint-lab",
+      "source": "hadolint-lab",
+      "description": "Hadolint Dockerfile rules/ignores/config heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "hadolint",
+        "dockerfile",
+        "lint",
+        "devtools"
+      ]
     }
   ]
 }
