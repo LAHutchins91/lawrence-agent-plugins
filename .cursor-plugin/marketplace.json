@@ -214,6 +214,18 @@
         "docs",
         "toc"
       ]
+    },
+    {
+      "name": "json-pointer-lab",
+      "source": "json-pointer-lab",
+      "description": "JSON Pointer get/set preview, JSON Patch preview, flatten \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "json",
+        "json-pointer",
+        "json-patch"
+      ]
     }
   ]
 }
