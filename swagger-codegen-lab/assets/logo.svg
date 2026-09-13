@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="swagger-codegen-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="26" y="34" width="76" height="52" rx="8" fill="none" stroke="#34d399" stroke-width="4"/>
+  <path d="M40 50 H88 M40 62 H70 M40 74 H78" stroke="#6ee7b7" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="90" cy="62" r="5" fill="#10b981"/>
+  <path d="M48 98 L64 112 L80 98" fill="none" stroke="#a7f3d0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="26" text-anchor="middle" font-family="ui-monospace, monospace" font-size="8" font-weight="700" fill="#6ee7b7">OpenAPI</text>
+  <text x="64" y="124" text-anchor="middle" font-family="ui-monospace, monospace" font-size="6" font-weight="700" fill="#34d399">swagger-codegen-lab</text>
+</svg>

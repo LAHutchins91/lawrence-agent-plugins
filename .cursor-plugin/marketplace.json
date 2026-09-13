@@ -2071,6 +2071,19 @@
         "openapi",
         "devtools"
       ]
+    },
+    {
+      "name": "swagger-codegen-lab",
+      "source": "swagger-codegen-lab",
+      "description": "swagger-codegen languages/config/templates parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "swagger-codegen",
+        "codegen",
+        "openapi",
+        "devtools"
+      ]
     }
   ]
 }
