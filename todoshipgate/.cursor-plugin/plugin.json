@@ -1,15 +1,24 @@
 {
   "name": "todoshipgate",
+  "displayName": "Todo Ship Gate",
   "version": "0.1.0",
-  "description": "Fail CI when TODO/FIXME/HACK exceed policy. Free forever in Cursor.",
+  "description": "Fail CI when TODO/FIXME/HACK exceed policy.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/todoshipgate",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "todoshipgate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

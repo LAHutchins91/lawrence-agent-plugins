@@ -2,14 +2,28 @@
   "name": "terragrunt-lab",
   "displayName": "Terragrunt Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Terragrunt HCL heuristics — no terragrunt CLI, terraform apply, or network.",
+  "description": "Local zero-auth MCP for Terragrunt HCL heuristics \u2014 no terragrunt CLI, terraform apply, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/terragrunt-lab",
   "license": "MIT",
-  "keywords": ["mcp", "terragrunt", "hcl", "hashicorp", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "terragrunt", "hcl", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "terragrunt",
+    "hcl",
+    "hashicorp",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "terragrunt",
+    "hcl",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

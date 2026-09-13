@@ -2,14 +2,30 @@
   "name": "typeorm-entity-lab",
   "displayName": "TypeORM Entity Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for TypeORM entity TS/JS text — entities, relations, columns, and lite lint — no TypeORM CLI, network, or DB.",
+  "description": "Local zero-auth MCP for TypeORM entity TS/JS text \u2014 entities, relations, columns, and lite lint \u2014 no TypeORM CLI, network, or DB.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/typeorm-entity-lab",
   "license": "MIT",
-  "keywords": ["mcp", "typeorm", "entity", "orm", "decorators", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "typeorm", "entity", "orm", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "typeorm",
+    "entity",
+    "orm",
+    "decorators",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "typeorm",
+    "entity",
+    "orm",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,29 @@
   "name": "age-lab",
   "displayName": "age Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for age encryption config heuristics — public recipients, identity path hints, armor/encrypt/decrypt/passphrase rule hints, and lite lint — pasted source only, never runs age CLI, never decrypts, never returns private keys/secret values, no network.",
+  "description": "Local zero-auth MCP for age encryption config heuristics \u2014 public recipients, identity path hints, armor/encrypt/decrypt/passphrase rule hints, and lite lint \u2014 pasted source only, never runs age CLI, never decrypts, never returns private keys/secret values, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/age-lab",
   "license": "MIT",
-  "keywords": ["mcp", "age", "encryption", "recipients", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "age", "encryption", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "age",
+    "encryption",
+    "recipients",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "age",
+    "encryption",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

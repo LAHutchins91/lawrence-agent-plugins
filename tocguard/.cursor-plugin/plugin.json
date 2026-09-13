@@ -1,15 +1,24 @@
 {
   "name": "tocguard",
+  "displayName": "TOC Guard",
   "version": "0.1.0",
-  "description": "Markdown TOC drift / heading lint. Free forever in Cursor.",
+  "description": "Markdown TOC drift / heading lint.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/tocguard",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "tocguard",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

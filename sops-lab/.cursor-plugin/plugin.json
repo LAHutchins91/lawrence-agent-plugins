@@ -2,14 +2,29 @@
   "name": "sops-lab",
   "displayName": "SOPS Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for SOPS config/encryption heuristics — encrypted file markers, key-type hints, creation_rules hints, and lite lint — pasted source only, never runs sops CLI, never decrypts, no network.",
+  "description": "Local zero-auth MCP for SOPS config/encryption heuristics \u2014 encrypted file markers, key-type hints, creation_rules hints, and lite lint \u2014 pasted source only, never runs sops CLI, never decrypts, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/sops-lab",
   "license": "MIT",
-  "keywords": ["mcp", "sops", "secrets", "encryption", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "sops", "secrets", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "sops",
+    "secrets",
+    "encryption",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "sops",
+    "secrets",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

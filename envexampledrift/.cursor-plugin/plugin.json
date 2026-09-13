@@ -1,15 +1,24 @@
 {
   "name": "envexampledrift",
+  "displayName": "Env Example Drift",
   "version": "0.1.0",
-  "description": "Keys-only .env vs .env.example drift (no secret scanning). Free forever in Cursor.",
+  "description": "Keys-only .env vs .env.example drift (no secret scanning).",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/envexampledrift",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "envexampledrift",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

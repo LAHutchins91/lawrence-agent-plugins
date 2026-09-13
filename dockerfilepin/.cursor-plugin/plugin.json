@@ -1,15 +1,24 @@
 {
   "name": "dockerfilepin",
+  "displayName": "Dockerfile Pin",
   "version": "0.1.0",
-  "description": "Require digest/version-pinned FROM lines in Dockerfiles. Free forever in Cursor.",
+  "description": "Require digest/version-pinned FROM lines in Dockerfiles.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/dockerfilepin",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "dockerfilepin",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

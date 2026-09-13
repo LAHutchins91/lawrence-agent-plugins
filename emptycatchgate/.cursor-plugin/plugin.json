@@ -1,15 +1,24 @@
 {
   "name": "emptycatchgate",
+  "displayName": "Empty Catch Gate",
   "version": "0.1.0",
-  "description": "Fail CI on empty catch / swallowed errors. Free forever in Cursor.",
+  "description": "Fail CI on empty catch / swallowed errors.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/emptycatchgate",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "emptycatchgate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

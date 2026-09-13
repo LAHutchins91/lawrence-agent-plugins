@@ -2,14 +2,27 @@
   "name": "tilt-lab",
   "displayName": "Tilt Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Tiltfile heuristics — no Tilt CLI, cluster, or network.",
+  "description": "Local zero-auth MCP for Tiltfile heuristics \u2014 no Tilt CLI, cluster, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/tilt-lab",
   "license": "MIT",
-  "keywords": ["mcp", "tilt", "tiltfile", "kubernetes", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "tilt", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "tilt",
+    "tiltfile",
+    "kubernetes",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "tilt",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,31 @@
   "name": "vitest-mock-lab",
   "displayName": "Vitest Mock Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Vitest vi.mock JS/TS text — mocks, spies, hoist/doMock, and lite lint — no vitest runtime or network.",
+  "description": "Local zero-auth MCP for Vitest vi.mock JS/TS text \u2014 mocks, spies, hoist/doMock, and lite lint \u2014 no vitest runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/vitest-mock-lab",
   "license": "MIT",
-  "keywords": ["mcp", "vitest", "mock", "spy", "hoist", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "vitest", "mock", "spy", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "vitest",
+    "mock",
+    "spy",
+    "hoist",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "vitest",
+    "mock",
+    "spy",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

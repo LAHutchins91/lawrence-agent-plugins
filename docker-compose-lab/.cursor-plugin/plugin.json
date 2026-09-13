@@ -2,14 +2,28 @@
   "name": "docker-compose-lab",
   "displayName": "Docker Compose Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for docker-compose YAML text — list services, ports map, env keys, and lite lint — no docker daemon or filesystem compose reads.",
+  "description": "Local zero-auth MCP for docker-compose YAML text \u2014 list services, ports map, env keys, and lite lint \u2014 no docker daemon or filesystem compose reads.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/docker-compose-lab",
   "license": "MIT",
-  "keywords": ["mcp", "docker-compose", "yaml", "ports", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "docker-compose", "yaml", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "docker-compose",
+    "yaml",
+    "ports",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "docker-compose",
+    "yaml",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

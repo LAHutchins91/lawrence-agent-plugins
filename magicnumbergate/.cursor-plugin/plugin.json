@@ -1,15 +1,24 @@
 {
   "name": "magicnumbergate",
+  "displayName": "Magic Number Gate",
   "version": "0.1.0",
-  "description": "Fail CI on unexplained numeric literals. Free forever in Cursor.",
+  "description": "Fail CI on unexplained numeric literals.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/magicnumbergate",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "magicnumbergate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

@@ -2,14 +2,28 @@
   "name": "chef-lab",
   "displayName": "Chef Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Chef cookbook/recipe heuristics — no Chef CLI, knife, or network.",
+  "description": "Local zero-auth MCP for Chef cookbook/recipe heuristics \u2014 no Chef CLI, knife, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/chef-lab",
   "license": "MIT",
-  "keywords": ["mcp", "chef", "cookbook", "recipe", "ruby", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "chef", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "chef",
+    "cookbook",
+    "recipe",
+    "ruby",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "chef",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

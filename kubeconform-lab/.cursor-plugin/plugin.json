@@ -2,14 +2,28 @@
   "name": "kubeconform-lab",
   "displayName": "Kubeconform Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for kubeconform CLI-flags / config heuristics (schema locations, strict, skip) — no kubeconform CLI, network schema fetch, or filesystem follow.",
+  "description": "Local zero-auth MCP for kubeconform CLI-flags / config heuristics (schema locations, strict, skip) \u2014 no kubeconform CLI, network schema fetch, or filesystem follow.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/kubeconform-lab",
   "license": "MIT",
-  "keywords": ["mcp", "kubeconform", "kubernetes", "k8s", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "kubeconform", "k8s", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "kubeconform",
+    "kubernetes",
+    "k8s",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "kubeconform",
+    "k8s",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

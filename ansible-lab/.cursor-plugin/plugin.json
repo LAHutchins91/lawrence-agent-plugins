@@ -2,14 +2,28 @@
   "name": "ansible-lab",
   "displayName": "Ansible Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Ansible playbook/role YAML heuristics — no ansible CLI, SSH, or network.",
+  "description": "Local zero-auth MCP for Ansible playbook/role YAML heuristics \u2014 no ansible CLI, SSH, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/ansible-lab",
   "license": "MIT",
-  "keywords": ["mcp", "ansible", "playbook", "roles", "yaml", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "ansible", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "ansible",
+    "playbook",
+    "roles",
+    "yaml",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "ansible",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

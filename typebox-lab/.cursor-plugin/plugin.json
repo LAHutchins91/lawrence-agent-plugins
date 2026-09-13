@@ -2,14 +2,30 @@
   "name": "typebox-lab",
   "displayName": "TypeBox Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for TypeBox TS/JS text — schemas, Object props, compose combinators, and lite lint — no @sinclair/typebox runtime or network.",
+  "description": "Local zero-auth MCP for TypeBox TS/JS text \u2014 schemas, Object props, compose combinators, and lite lint \u2014 no @sinclair/typebox runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/typebox-lab",
   "license": "MIT",
-  "keywords": ["mcp", "typebox", "schema", "validation", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "typebox", "schema", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "typebox",
+    "schema",
+    "validation",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "typebox",
+    "schema",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

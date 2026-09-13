@@ -2,14 +2,29 @@
   "name": "gitleaks-lab",
   "displayName": "Gitleaks Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Gitleaks config heuristics — [[rules]] id/description, allowlist path/regex/stopword counts, title/extend/useDefault/entropy/keywords/tags/path config hints, and lite lint — pasted source only, never runs gitleaks CLI, never returns secret values, no network.",
+  "description": "Local zero-auth MCP for Gitleaks config heuristics \u2014 [[rules]] id/description, allowlist path/regex/stopword counts, title/extend/useDefault/entropy/keywords/tags/path config hints, and lite lint \u2014 pasted source only, never runs gitleaks CLI, never returns secret values, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/gitleaks-lab",
   "license": "MIT",
-  "keywords": ["mcp", "gitleaks", "secrets", "config", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "gitleaks", "secrets", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "gitleaks",
+    "secrets",
+    "config",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "gitleaks",
+    "secrets",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

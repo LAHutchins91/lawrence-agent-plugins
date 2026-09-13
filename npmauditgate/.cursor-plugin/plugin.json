@@ -1,10 +1,12 @@
 {
   "name": "npmauditgate",
+  "displayName": "NPM Audit Gate",
   "version": "0.1.0",
-  "description": "Fail CI on npm audit severity thresholds with markdown brief. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI on npm audit severity thresholds with markdown brief.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/npmauditgate",
   "license": "MIT",
   "keywords": [
     "developer-tools",
@@ -12,5 +14,12 @@
     "ci",
     "npmauditgate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

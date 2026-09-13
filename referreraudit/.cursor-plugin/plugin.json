@@ -1,15 +1,24 @@
 {
   "name": "referreraudit",
+  "displayName": "Referrer Audit",
   "version": "0.1.0",
-  "description": "Lint Referrer-Policy for overly leaky values \u2014 catch `unsafe-url` and `no-referrer-when-downgrade` in raw headers, nginx `add_header`, Express / helmet configs, and `<meta name=\"referrer\">`. Free forever in Cursor.",
+  "description": "Lint Referrer-Policy for overly leaky values \u2014 catch `unsafe-url` and `no-referrer-when-downgrade` in raw headers, nginx `add_header`, Express / helmet configs, and `<meta name=\"referrer\">`.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/referreraudit",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "referreraudit",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

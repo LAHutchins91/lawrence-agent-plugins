@@ -2,14 +2,30 @@
   "name": "pulumi-policy-lab",
   "displayName": "Pulumi Policy Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Pulumi Policy as Code heuristics — policy listings, rule/pack hints, and lite lint — pasted source only, never runs Pulumi CLI, no network.",
+  "description": "Local zero-auth MCP for Pulumi Policy as Code heuristics \u2014 policy listings, rule/pack hints, and lite lint \u2014 pasted source only, never runs Pulumi CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/pulumi-policy-lab",
   "license": "MIT",
-  "keywords": ["mcp", "pulumi", "policy", "policy-as-code", "iac", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "pulumi", "policy", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "pulumi",
+    "policy",
+    "policy-as-code",
+    "iac",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "pulumi",
+    "policy",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

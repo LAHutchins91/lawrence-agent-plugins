@@ -2,14 +2,29 @@
   "name": "cosign-lab",
   "displayName": "Cosign Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Cosign config/signing heuristics — sign listings, verify/attest hints, and lite lint — pasted source only, never runs cosign CLI, no network.",
+  "description": "Local zero-auth MCP for Cosign config/signing heuristics \u2014 sign listings, verify/attest hints, and lite lint \u2014 pasted source only, never runs cosign CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/cosign-lab",
   "license": "MIT",
-  "keywords": ["mcp", "cosign", "signing", "sigstore", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "cosign", "signing", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "cosign",
+    "signing",
+    "sigstore",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "cosign",
+    "signing",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

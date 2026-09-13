@@ -2,14 +2,28 @@
   "name": "packer-lab",
   "displayName": "Packer Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Packer HCL/JSON heuristics — no packer CLI, build/deploy, or network.",
+  "description": "Local zero-auth MCP for Packer HCL/JSON heuristics \u2014 no packer CLI, build/deploy, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/packer-lab",
   "license": "MIT",
-  "keywords": ["mcp", "packer", "hcl", "image", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "packer", "hcl", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "packer",
+    "hcl",
+    "image",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "packer",
+    "hcl",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

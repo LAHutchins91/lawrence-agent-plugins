@@ -2,14 +2,29 @@
   "name": "buf-lab",
   "displayName": "Buf Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for buf.yaml / buf.gen.yaml heuristics — module listings, deps hints, lint config counts, and lite lint — pasted source only, never runs buf CLI, no network.",
+  "description": "Local zero-auth MCP for buf.yaml / buf.gen.yaml heuristics \u2014 module listings, deps hints, lint config counts, and lite lint \u2014 pasted source only, never runs buf CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/buf-lab",
   "license": "MIT",
-  "keywords": ["mcp", "buf", "protobuf", "buf-yaml", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "buf", "protobuf", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "buf",
+    "protobuf",
+    "buf-yaml",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "buf",
+    "protobuf",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

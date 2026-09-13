@@ -1,15 +1,24 @@
 {
   "name": "engineguard",
+  "displayName": "Engine Guard",
   "version": "0.1.0",
-  "description": "Enforce `package.json` `engines.node` vs `.nvmrc` / CI \u2014 catch Node version drift before \u201cworks on my machine\u201d hits CI. Free forever in Cursor.",
+  "description": "Enforce `package.json` `engines.node` vs `.nvmrc` / CI \u2014 catch Node version drift before \u201cworks on my machine\u201d hits CI.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/engineguard",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "engineguard",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

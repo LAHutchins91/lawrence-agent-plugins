@@ -2,14 +2,30 @@
   "name": "joi-schema-lab",
   "displayName": "Joi Schema Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Joi schema JS/TS text — schemas, fields, rules, and lite lint — no joi runtime or network.",
+  "description": "Local zero-auth MCP for Joi schema JS/TS text \u2014 schemas, fields, rules, and lite lint \u2014 no joi runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/joi-schema-lab",
   "license": "MIT",
-  "keywords": ["mcp", "joi", "schema", "validation", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "joi", "schema", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "joi",
+    "schema",
+    "validation",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "joi",
+    "schema",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

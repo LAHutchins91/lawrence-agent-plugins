@@ -2,14 +2,31 @@
   "name": "license-spdx-lab",
   "displayName": "License SPDX Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for curated SPDX lookup, fuzzy normalize, heuristic license compatibility hints, and short file headers — no network.",
+  "description": "Local zero-auth MCP for curated SPDX lookup, fuzzy normalize, heuristic license compatibility hints, and short file headers \u2014 no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/license-spdx-lab",
   "license": "MIT",
-  "keywords": ["mcp", "spdx", "license", "header", "compatibility", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "spdx", "license", "header", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "spdx",
+    "license",
+    "header",
+    "compatibility",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "spdx",
+    "license",
+    "header",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

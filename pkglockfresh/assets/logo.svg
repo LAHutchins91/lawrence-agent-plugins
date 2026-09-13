@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Pkg Lock Fresh logo">
+  <rect width="256" height="256" rx="48" fill="#2C290C"/>
+  <path d="M128 44 L200 72 V140 C200 180 128 208 128 208 C128 208 56 180 56 140 V72 Z" fill="none" stroke="#45E425" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M96 120 L118 142 L164 96" fill="none" stroke="#BBBDD3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#E6E5DB">PKGLOCKFRESH</text>
+</svg>

@@ -2,14 +2,32 @@
   "name": "openapi-zod-lab",
   "displayName": "OpenAPI Zod Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for OpenAPI YAML/JSON text → Zod mapping heuristics — paths, schemas, ops, lite lint — no codegen runtime or network.",
+  "description": "Local zero-auth MCP for OpenAPI YAML/JSON text \u2192 Zod mapping heuristics \u2014 paths, schemas, ops, lite lint \u2014 no codegen runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/openapi-zod-lab",
   "license": "MIT",
-  "keywords": ["mcp", "openapi", "zod", "schema", "validation", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "openapi", "zod", "schema", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "openapi",
+    "zod",
+    "schema",
+    "validation",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "openapi",
+    "zod",
+    "schema",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

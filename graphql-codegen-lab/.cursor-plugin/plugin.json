@@ -2,14 +2,31 @@
   "name": "graphql-codegen-lab",
   "displayName": "GraphQL Codegen Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for GraphQL Code Generator YAML/JSON/TS config text — plugins/generates, schema/documents, scalars, and lite lint — no codegen runtime or network.",
+  "description": "Local zero-auth MCP for GraphQL Code Generator YAML/JSON/TS config text \u2014 plugins/generates, schema/documents, scalars, and lite lint \u2014 no codegen runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/graphql-codegen-lab",
   "license": "MIT",
-  "keywords": ["mcp", "graphql-codegen", "graphql", "codegen", "config", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "graphql-codegen", "graphql", "codegen", "config", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "graphql-codegen",
+    "graphql",
+    "codegen",
+    "config",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "graphql-codegen",
+    "graphql",
+    "codegen",
+    "config",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

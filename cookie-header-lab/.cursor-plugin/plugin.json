@@ -2,14 +2,31 @@
   "name": "cookie-header-lab",
   "displayName": "Cookie Header Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Cookie / Set-Cookie parse, educational attribute notes, and value redaction — pasted header text only, no network.",
+  "description": "Local zero-auth MCP for Cookie / Set-Cookie parse, educational attribute notes, and value redaction \u2014 pasted header text only, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/cookie-header-lab",
   "license": "MIT",
-  "keywords": ["mcp", "cookie", "set-cookie", "header", "redact", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "cookie", "header", "redact", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "cookie",
+    "set-cookie",
+    "header",
+    "redact",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "cookie",
+    "header",
+    "redact",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

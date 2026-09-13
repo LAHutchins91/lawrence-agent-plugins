@@ -2,14 +2,30 @@
   "name": "gemfile-lab",
   "displayName": "Gemfile Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Gemfile text — list gems/groups/sources and lite lint — pasted Gemfile only, no bundler, no network.",
+  "description": "Local zero-auth MCP for Gemfile text \u2014 list gems/groups/sources and lite lint \u2014 pasted Gemfile only, no bundler, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/gemfile-lab",
   "license": "MIT",
-  "keywords": ["mcp", "gemfile", "bundler", "ruby", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "gemfile", "bundler", "ruby", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "gemfile",
+    "bundler",
+    "ruby",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "gemfile",
+    "bundler",
+    "ruby",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

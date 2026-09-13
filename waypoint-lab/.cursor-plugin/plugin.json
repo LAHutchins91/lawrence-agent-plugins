@@ -2,14 +2,28 @@
   "name": "waypoint-lab",
   "displayName": "Waypoint Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for HashiCorp Waypoint HCL heuristics — no waypoint CLI, deploy, or network.",
+  "description": "Local zero-auth MCP for HashiCorp Waypoint HCL heuristics \u2014 no waypoint CLI, deploy, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/waypoint-lab",
   "license": "MIT",
-  "keywords": ["mcp", "waypoint", "hcl", "hashicorp", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "waypoint", "hcl", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "waypoint",
+    "hcl",
+    "hashicorp",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "waypoint",
+    "hcl",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,32 @@
   "name": "puppeteer-lab",
   "displayName": "Puppeteer Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Puppeteer script JS/TS text — pages, selectors, waits, and lite lint — no puppeteer/browser runtime or network.",
+  "description": "Local zero-auth MCP for Puppeteer script JS/TS text \u2014 pages, selectors, waits, and lite lint \u2014 no puppeteer/browser runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/puppeteer-lab",
   "license": "MIT",
-  "keywords": ["mcp", "puppeteer", "pages", "selectors", "waits", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "puppeteer", "pages", "selectors", "waits", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "puppeteer",
+    "pages",
+    "selectors",
+    "waits",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "puppeteer",
+    "pages",
+    "selectors",
+    "waits",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

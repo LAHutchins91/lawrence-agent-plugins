@@ -2,14 +2,30 @@
   "name": "prisma-schema-lab",
   "displayName": "Prisma Schema Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Prisma schema.prisma text — models/enums, datasources/generators, relations hints, and lite lint — no Prisma CLI, network, or DB.",
+  "description": "Local zero-auth MCP for Prisma schema.prisma text \u2014 models/enums, datasources/generators, relations hints, and lite lint \u2014 no Prisma CLI, network, or DB.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/prisma-schema-lab",
   "license": "MIT",
-  "keywords": ["mcp", "prisma", "schema.prisma", "orm", "models", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "prisma", "schema.prisma", "orm", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "prisma",
+    "schema.prisma",
+    "orm",
+    "models",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "prisma",
+    "schema.prisma",
+    "orm",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

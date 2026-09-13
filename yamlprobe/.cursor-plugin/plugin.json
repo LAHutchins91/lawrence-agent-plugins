@@ -1,15 +1,24 @@
 {
   "name": "yamlprobe",
+  "displayName": "YAML Probe",
   "version": "0.1.0",
-  "description": "Query/assert YAML paths for CI config drift. Catch replica counts, image tags, and feature flags before they silently diverge. Free forever in Cursor.",
+  "description": "Query/assert YAML paths for CI config drift. Catch replica counts, image tags, and feature flags before they silently diverge.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/yamlprobe",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "yamlprobe",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

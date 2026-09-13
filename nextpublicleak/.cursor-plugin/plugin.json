@@ -1,10 +1,12 @@
 {
   "name": "nextpublicleak",
+  "displayName": "Next Public Leak",
   "version": "0.1.0",
-  "description": "Scan Next.js for secrets via NEXT_PUBLIC_* or client components. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Scan Next.js for secrets via NEXT_PUBLIC_* or client components.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/nextpublicleak",
   "license": "MIT",
   "keywords": [
     "security",
@@ -12,5 +14,12 @@
     "sast",
     "nextpublicleak",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

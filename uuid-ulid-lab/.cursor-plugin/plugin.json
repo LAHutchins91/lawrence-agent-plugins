@@ -2,14 +2,31 @@
   "name": "uuid-ulid-lab",
   "displayName": "UUID / ULID Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for RFC4122 UUID parse/generate, ULID generate, and ID detect — crypto only, no network.",
+  "description": "Local zero-auth MCP for RFC4122 UUID parse/generate, ULID generate, and ID detect \u2014 crypto only, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/uuid-ulid-lab",
   "license": "MIT",
-  "keywords": ["mcp", "uuid", "ulid", "rfc4122", "nanoid", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "uuid", "ulid", "id", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "uuid",
+    "ulid",
+    "rfc4122",
+    "nanoid",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "uuid",
+    "ulid",
+    "id",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,29 @@
   "name": "bytes-size-lab",
   "displayName": "Bytes Size Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for byte-size parse, format, compare, and unit convert — IEC (KiB=1024^n) vs SI (KB=1000^n).",
+  "description": "Local zero-auth MCP for byte-size parse, format, compare, and unit convert \u2014 IEC (KiB=1024^n) vs SI (KB=1000^n).",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/bytes-size-lab",
   "license": "MIT",
-  "keywords": ["mcp", "bytes", "iec", "si", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "bytes", "iec", "si", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "bytes",
+    "iec",
+    "si",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "bytes",
+    "iec",
+    "si",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

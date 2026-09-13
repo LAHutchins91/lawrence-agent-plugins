@@ -1,15 +1,24 @@
 {
   "name": "gitignoreaudit",
+  "displayName": "GitIgnore Audit",
   "version": "0.1.0",
-  "description": "Lint .gitignore for missing secrets/env patterns and dangerous negations. Free forever in Cursor.",
+  "description": "Lint .gitignore for missing secrets/env patterns and dangerous negations.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/gitignoreaudit",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "gitignoreaudit",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

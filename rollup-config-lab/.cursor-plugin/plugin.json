@@ -2,14 +2,30 @@
   "name": "rollup-config-lab",
   "displayName": "Rollup Config Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for rollup config text — input, plugins, output formats, and lite lint — no rollup binary or network.",
+  "description": "Local zero-auth MCP for rollup config text \u2014 input, plugins, output formats, and lite lint \u2014 no rollup binary or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/rollup-config-lab",
   "license": "MIT",
-  "keywords": ["mcp", "rollup", "rollup-config", "bundler", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "rollup", "rollup-config", "bundler", "plugins", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "rollup",
+    "rollup-config",
+    "bundler",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "rollup",
+    "rollup-config",
+    "bundler",
+    "plugins",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

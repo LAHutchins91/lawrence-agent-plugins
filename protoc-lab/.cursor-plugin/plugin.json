@@ -2,14 +2,31 @@
   "name": "protoc-lab",
   "displayName": "Protoc Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for protoc CLI text — includes/protos, plugins/out, options, and lite lint — no protoc/protobuf compiler runtime or network.",
+  "description": "Local zero-auth MCP for protoc CLI text \u2014 includes/protos, plugins/out, options, and lite lint \u2014 no protoc/protobuf compiler runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/protoc-lab",
   "license": "MIT",
-  "keywords": ["mcp", "protoc", "protobuf", "grpc", "cli", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "protoc", "protobuf", "grpc", "cli", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "protoc",
+    "protobuf",
+    "grpc",
+    "cli",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "protoc",
+    "protobuf",
+    "grpc",
+    "cli",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

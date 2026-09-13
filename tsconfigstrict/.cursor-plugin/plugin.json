@@ -1,15 +1,24 @@
 {
   "name": "tsconfigstrict",
+  "displayName": "TSConfig Strict",
   "version": "0.1.0",
-  "description": "Lint tsconfig.json for missing strict flags via policy files. Free forever in Cursor.",
+  "description": "Lint tsconfig.json for missing strict flags via policy files.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/tsconfigstrict",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "tsconfigstrict",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

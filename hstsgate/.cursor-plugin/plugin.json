@@ -1,15 +1,24 @@
 {
   "name": "hstsgate",
+  "displayName": "HSTS Gate",
   "version": "0.1.0",
-  "description": "Fail CI on missing Strict-Transport-Security (companion to HstsAudit). Free forever in Cursor.",
+  "description": "Fail CI on missing Strict-Transport-Security (companion to HstsAudit).",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/hstsgate",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "hstsgate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

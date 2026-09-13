@@ -2,14 +2,31 @@
   "name": "argocd-lab",
   "displayName": "Argo CD Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Argo CD Application / AppProject / ApplicationSet YAML heuristics — apps listings, source counts, syncPolicy hints, and lite lint — pasted source only, never runs argocd or kubectl, no network.",
+  "description": "Local zero-auth MCP for Argo CD Application / AppProject / ApplicationSet YAML heuristics \u2014 apps listings, source counts, syncPolicy hints, and lite lint \u2014 pasted source only, never runs argocd or kubectl, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/argocd-lab",
   "license": "MIT",
-  "keywords": ["mcp", "argocd", "argo-cd", "kubernetes", "yaml", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "argocd", "argo-cd", "kubernetes", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "argocd",
+    "argo-cd",
+    "kubernetes",
+    "yaml",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "argocd",
+    "argo-cd",
+    "kubernetes",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

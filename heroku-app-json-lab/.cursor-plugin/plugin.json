@@ -2,14 +2,30 @@
   "name": "heroku-app-json-lab",
   "displayName": "Heroku App JSON Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Heroku app.json text — addons, env keys (redacted), formation, and lite lint — pasted JSON only, no Heroku API, no network.",
+  "description": "Local zero-auth MCP for Heroku app.json text \u2014 addons, env keys (redacted), formation, and lite lint \u2014 pasted JSON only, no Heroku API, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/heroku-app-json-lab",
   "license": "MIT",
-  "keywords": ["mcp", "heroku", "app-json", "addons", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "heroku", "app-json", "addons", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "heroku",
+    "app-json",
+    "addons",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "heroku",
+    "app-json",
+    "addons",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,28 @@
   "name": "salt-lab",
   "displayName": "Salt Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Salt state/pillar YAML heuristics — no salt CLI, minion/master, or network.",
+  "description": "Local zero-auth MCP for Salt state/pillar YAML heuristics \u2014 no salt CLI, minion/master, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/salt-lab",
   "license": "MIT",
-  "keywords": ["mcp", "salt", "saltstack", "sls", "pillar", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "salt", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "salt",
+    "saltstack",
+    "sls",
+    "pillar",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "salt",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

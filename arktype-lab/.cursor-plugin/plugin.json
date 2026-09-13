@@ -2,14 +2,30 @@
   "name": "arktype-lab",
   "displayName": "ArkType Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for ArkType TypeScript heuristics — types list, props hints, narrow counts, and lite lint — pasted source only, never type().assert(), no network.",
+  "description": "Local zero-auth MCP for ArkType TypeScript heuristics \u2014 types list, props hints, narrow counts, and lite lint \u2014 pasted source only, never type().assert(), no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/arktype-lab",
   "license": "MIT",
-  "keywords": ["mcp", "arktype", "schema", "validation", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "arktype", "schema", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "arktype",
+    "schema",
+    "validation",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "arktype",
+    "schema",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

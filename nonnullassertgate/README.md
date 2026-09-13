@@ -1,16 +1,9 @@
-# NonNullAssertGate
+# Non-Null Assert Gate
 
 Fail CI when TypeScript non-null assertions exceed policy.
 
-## Pricing
+Marketplace install is **free forever** — no paywall in this plugin. Optional Pro CI gates: [plugins.lawrence.dev/pro](https://plugins.lawrence.dev/pro).
 
-- **Cursor Marketplace:** FREE forever (no paywalls)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://nonnullassertgate.dev
+## License
 
----
-
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
-
+MIT

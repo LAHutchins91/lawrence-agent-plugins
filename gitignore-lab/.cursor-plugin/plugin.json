@@ -2,14 +2,27 @@
   "name": "gitignore-lab",
   "displayName": "Gitignore Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for gitignore-style match, parse, explain, and merge — pure TS, no FS walks.",
+  "description": "Local zero-auth MCP for gitignore-style match, parse, explain, and merge \u2014 pure TS, no FS walks.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/gitignore-lab",
   "license": "MIT",
-  "keywords": ["mcp", "gitignore", "glob", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "gitignore", "glob", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "gitignore",
+    "glob",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "gitignore",
+    "glob",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

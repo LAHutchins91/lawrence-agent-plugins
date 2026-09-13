@@ -2,14 +2,31 @@
   "name": "etag-cache-lab",
   "displayName": "ETag Cache Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for ETag normalize, If-None-Match check, weak compare, and cache freshness hints — pasted header text only, no network.",
+  "description": "Local zero-auth MCP for ETag normalize, If-None-Match check, weak compare, and cache freshness hints \u2014 pasted header text only, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/etag-cache-lab",
   "license": "MIT",
-  "keywords": ["mcp", "etag", "cache", "if-none-match", "http", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "etag", "cache", "http", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "etag",
+    "cache",
+    "if-none-match",
+    "http",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "etag",
+    "cache",
+    "http",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

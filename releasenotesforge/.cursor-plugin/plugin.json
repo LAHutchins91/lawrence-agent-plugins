@@ -1,15 +1,24 @@
 {
   "name": "releasenotesforge",
+  "displayName": "Release Notes Forge",
   "version": "0.1.0",
-  "description": "AI-assisted changelog / release notes from commits + PRs. Built for eng managers and release owners Free forever in Cursor.",
+  "description": "AI-assisted changelog / release notes from commits + PRs. Built for eng managers and release owners.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/releasenotesforge",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "releasenotesforge",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

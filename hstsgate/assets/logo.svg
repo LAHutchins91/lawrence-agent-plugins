@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="HSTS Gate logo">
+  <rect width="256" height="256" rx="48" fill="#280B1D"/>
+  <path d="M96 72 H72 V168 H96" fill="none" stroke="#E43825" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160 72 H184 V168 H160" fill="none" stroke="#E43825" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 120 H144" stroke="#BBD3C4" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="128" cy="96" r="8" fill="#BBD3C4"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#E6DBE2">HSTSGATE</text>
+</svg>

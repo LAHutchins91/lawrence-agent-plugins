@@ -1,15 +1,24 @@
 {
   "name": "rangerisk",
+  "displayName": "Range Risk",
   "version": "0.1.0",
-  "description": "npm semver range risk auditor \u2014 caret/tilde traps, wildcards, and duplicate majors. Free forever in Cursor.",
+  "description": "npm semver range risk auditor \u2014 caret/tilde traps, wildcards, and duplicate majors.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/rangerisk",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "rangerisk",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

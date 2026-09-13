@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Owner Map logo">
+  <rect width="256" height="256" rx="48" fill="#1C092A"/>
+  <path d="M64 88 H192 L128 52 Z" fill="none" stroke="#E42558" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M64 128 H192 L128 92 Z" fill="none" stroke="#C5D3BB" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M64 168 H192 L128 132 Z" fill="none" stroke="#E42558" stroke-width="10" stroke-linejoin="round"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#E1DBE6">OWNERMAP</text>
+</svg>

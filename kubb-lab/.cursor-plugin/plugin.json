@@ -2,14 +2,28 @@
   "name": "kubb-lab",
   "displayName": "Kubb Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for kubb.config heuristics (Kubb OpenAPI codegen) — outputs, plugins, hooks, and lite lint — no @kubb/cli or codegen runtime, no network.",
+  "description": "Local zero-auth MCP for kubb.config heuristics (Kubb OpenAPI codegen) \u2014 outputs, plugins, hooks, and lite lint \u2014 no @kubb/cli or codegen runtime, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/kubb-lab",
   "license": "MIT",
-  "keywords": ["mcp", "kubb", "openapi", "codegen", "config", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "kubb", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "kubb",
+    "openapi",
+    "codegen",
+    "config",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "kubb",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

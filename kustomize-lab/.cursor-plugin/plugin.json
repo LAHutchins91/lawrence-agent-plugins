@@ -2,14 +2,29 @@
   "name": "kustomize-lab",
   "displayName": "Kustomize Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for kustomization.yaml heuristics — resources/bases/components listings, overlay counts, patches hints, and lite lint — pasted source only, never runs kustomize or kubectl, no network.",
+  "description": "Local zero-auth MCP for kustomization.yaml heuristics \u2014 resources/bases/components listings, overlay counts, patches hints, and lite lint \u2014 pasted source only, never runs kustomize or kubectl, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/kustomize-lab",
   "license": "MIT",
-  "keywords": ["mcp", "kustomize", "kubernetes", "yaml", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "kustomize", "kubernetes", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "kustomize",
+    "kubernetes",
+    "yaml",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "kustomize",
+    "kubernetes",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

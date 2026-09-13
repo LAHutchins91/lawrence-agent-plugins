@@ -2,14 +2,28 @@
   "name": "regex-lab",
   "displayName": "Regex Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for regex test, explain, replace preview, and catastrophic-backtracking lint — no SaaS product.",
+  "description": "Local zero-auth MCP for regex test, explain, replace preview, and catastrophic-backtracking lint \u2014 no SaaS product.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/regex-lab",
   "license": "MIT",
-  "keywords": ["mcp", "regex", "regexp", "lint", "test", "replace"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "regex", "lint", "zero-auth"],
+  "keywords": [
+    "mcp",
+    "regex",
+    "regexp",
+    "lint",
+    "test",
+    "replace"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "regex",
+    "lint",
+    "zero-auth"
+  ],
   "mcpServers": "./mcp.json"
 }

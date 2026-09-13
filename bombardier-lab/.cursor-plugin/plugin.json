@@ -2,14 +2,31 @@
   "name": "bombardier-lab",
   "displayName": "Bombardier Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for bombardier CLI text — targets, options, latency/print flags, and lite lint — no bombardier runtime or network.",
+  "description": "Local zero-auth MCP for bombardier CLI text \u2014 targets, options, latency/print flags, and lite lint \u2014 no bombardier runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/bombardier-lab",
   "license": "MIT",
-  "keywords": ["mcp", "bombardier", "load-test", "benchmark", "cli", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "bombardier", "load-test", "benchmark", "cli", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "bombardier",
+    "load-test",
+    "benchmark",
+    "cli",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "bombardier",
+    "load-test",
+    "benchmark",
+    "cli",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

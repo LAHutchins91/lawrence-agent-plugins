@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Empty Catch Gate logo">
+  <rect width="256" height="256" rx="48" fill="#2A2D0B"/>
+  <path d="M128 56 L200 120 L128 184 L56 120 Z" fill="none" stroke="#6BE425" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M88 120 H168" stroke="#BDBBD3" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="128" cy="120" r="12" fill="#6BE425"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#E5E6DB">EMPTYCATCHGA</text>
+</svg>

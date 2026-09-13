@@ -2,14 +2,28 @@
   "name": "nock-lab",
   "displayName": "Nock Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for nock JS/TS heuristics — scopes list, intercept method counts, persist/times hints, and lite lint — pasted source only, never activates nock interceptors, no network.",
+  "description": "Local zero-auth MCP for nock JS/TS heuristics \u2014 scopes list, intercept method counts, persist/times hints, and lite lint \u2014 pasted source only, never activates nock interceptors, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/nock-lab",
   "license": "MIT",
-  "keywords": ["mcp", "nock", "http-mock", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "nock", "http-mock", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "nock",
+    "http-mock",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "nock",
+    "http-mock",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

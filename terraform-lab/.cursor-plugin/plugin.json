@@ -2,14 +2,28 @@
   "name": "terraform-lab",
   "displayName": "Terraform Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Terraform HCL heuristics — no terraform CLI, plan/apply, or network.",
+  "description": "Local zero-auth MCP for Terraform HCL heuristics \u2014 no terraform CLI, plan/apply, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/terraform-lab",
   "license": "MIT",
-  "keywords": ["mcp", "terraform", "hcl", "hashicorp", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "terraform", "hcl", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "terraform",
+    "hcl",
+    "hashicorp",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "terraform",
+    "hcl",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

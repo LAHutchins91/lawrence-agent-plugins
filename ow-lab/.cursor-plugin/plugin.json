@@ -2,14 +2,30 @@
   "name": "ow-lab",
   "displayName": "Ow Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for sindresorhus ow JS heuristics — predicates list, shapes hints, modifier counts, and lite lint — pasted source only, never ow() assert, no network.",
+  "description": "Local zero-auth MCP for sindresorhus ow JS heuristics \u2014 predicates list, shapes hints, modifier counts, and lite lint \u2014 pasted source only, never ow() assert, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/ow-lab",
   "license": "MIT",
-  "keywords": ["mcp", "ow", "sindresorhus", "validation", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "ow", "sindresorhus", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "ow",
+    "sindresorhus",
+    "validation",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "ow",
+    "sindresorhus",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

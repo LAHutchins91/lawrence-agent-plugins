@@ -2,14 +2,29 @@
   "name": "hadolint-lab",
   "displayName": "Hadolint Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Hadolint Dockerfile lint heuristics — DL/SC rule ids, ignore= / --ignore / ignored: / trustedRegistries counts, .hadolint.yaml / failure-threshold / override / label-schema / strict-labels / format config hints, and lite lint — pasted source only, never runs hadolint CLI, no network.",
+  "description": "Local zero-auth MCP for Hadolint Dockerfile lint heuristics \u2014 DL/SC rule ids, ignore= / --ignore / ignored: / trustedRegistries counts, .hadolint.yaml / failure-threshold / override / label-schema / strict-labels / format config hints, and lite lint \u2014 pasted source only, never runs hadolint CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/hadolint-lab",
   "license": "MIT",
-  "keywords": ["mcp", "hadolint", "dockerfile", "lint", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "hadolint", "dockerfile", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "hadolint",
+    "dockerfile",
+    "lint",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "hadolint",
+    "dockerfile",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -1,15 +1,24 @@
 {
   "name": "eslintdisableaudit",
+  "displayName": "ESLint Disable Audit",
   "version": "0.1.0",
-  "description": "Find eslint-disable / @ts-ignore sprawl. Free forever in Cursor.",
+  "description": "Find eslint-disable / @ts-ignore sprawl.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/eslintdisableaudit",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "eslintdisableaudit",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

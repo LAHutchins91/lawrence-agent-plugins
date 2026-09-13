@@ -1,15 +1,24 @@
 {
   "name": "pkglockfresh",
+  "displayName": "Pkg Lock Fresh",
   "version": "0.1.0",
-  "description": "Fail CI when lockfile missing or out of sync. Free forever in Cursor.",
+  "description": "Fail CI when lockfile missing or out of sync.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/pkglockfresh",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "pkglockfresh",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

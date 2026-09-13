@@ -1,15 +1,24 @@
 {
   "name": "redosguard",
+  "displayName": "ReDoS Guard",
   "version": "0.1.0",
-  "description": "Fail CI on catastrophic regex (nested quantifiers) applied to user input. Free forever in Cursor.",
+  "description": "Fail CI on catastrophic regex (nested quantifiers) applied to user input.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/redosguard",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "redosguard",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Range Risk logo">
+  <rect width="256" height="256" rx="48" fill="#430F3F"/>
+  <path d="M64 88 H192 L128 52 Z" fill="none" stroke="#E45225" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M64 128 H192 L128 92 Z" fill="none" stroke="#BBD3BD" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M64 168 H192 L128 132 Z" fill="none" stroke="#E45225" stroke-width="10" stroke-linejoin="round"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#E6DBE5">RANGERISK</text>
+</svg>

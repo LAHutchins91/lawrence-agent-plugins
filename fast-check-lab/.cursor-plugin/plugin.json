@@ -2,14 +2,30 @@
   "name": "fast-check-lab",
   "displayName": "Fast-Check Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for fast-check JS/TS text — arbitraries, properties, constraints, and lite lint — no fast-check runtime or network.",
+  "description": "Local zero-auth MCP for fast-check JS/TS text \u2014 arbitraries, properties, constraints, and lite lint \u2014 no fast-check runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/fast-check-lab",
   "license": "MIT",
-  "keywords": ["mcp", "fast-check", "property-based-testing", "arbitrary", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "fast-check", "property-based-testing", "arbitrary", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "fast-check",
+    "property-based-testing",
+    "arbitrary",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "fast-check",
+    "property-based-testing",
+    "arbitrary",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

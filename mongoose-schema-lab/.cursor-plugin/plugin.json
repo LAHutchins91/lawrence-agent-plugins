@@ -2,14 +2,30 @@
   "name": "mongoose-schema-lab",
   "displayName": "Mongoose Schema Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Mongoose schema JS/TS text — models, paths, indexes, and lite lint — no mongoose/mongo runtime or network.",
+  "description": "Local zero-auth MCP for Mongoose schema JS/TS text \u2014 models, paths, indexes, and lite lint \u2014 no mongoose/mongo runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/mongoose-schema-lab",
   "license": "MIT",
-  "keywords": ["mcp", "mongoose", "schema", "mongodb", "orm", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "mongoose", "schema", "mongodb", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "mongoose",
+    "schema",
+    "mongodb",
+    "orm",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "mongoose",
+    "schema",
+    "mongodb",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

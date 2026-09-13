@@ -2,14 +2,35 @@
   "name": "jmeter-lab",
   "displayName": "JMeter Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for JMeter JMX / plan XML text — test plans, thread groups, samplers, assertions, and lite lint — no JMeter/load-test runtime or network.",
+  "description": "Local zero-auth MCP for JMeter JMX / plan XML text \u2014 test plans, thread groups, samplers, assertions, and lite lint \u2014 no JMeter/load-test runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/jmeter-lab",
   "license": "MIT",
-  "keywords": ["mcp", "jmeter", "jmx", "load-test", "thread-group", "sampler", "assertion", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "jmeter", "jmx", "load-test", "thread-group", "sampler", "assertion", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "jmeter",
+    "jmx",
+    "load-test",
+    "thread-group",
+    "sampler",
+    "assertion",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "jmeter",
+    "jmx",
+    "load-test",
+    "thread-group",
+    "sampler",
+    "assertion",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

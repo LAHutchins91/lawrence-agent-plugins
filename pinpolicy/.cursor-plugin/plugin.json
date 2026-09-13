@@ -1,10 +1,12 @@
 {
   "name": "pinpolicy",
+  "displayName": "Pin Policy",
   "version": "0.1.0",
-  "description": "Require pinned versions vs ranges in package.json. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Require pinned versions vs ranges in package.json.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/pinpolicy",
   "license": "MIT",
   "keywords": [
     "developer-tools",
@@ -12,5 +14,12 @@
     "dependencies",
     "pinpolicy",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

@@ -2,14 +2,27 @@
   "name": "ssh-config-lab",
   "displayName": "SSH Config Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for OpenSSH config parse, host resolve, lint, and redact — config text analysis only, no SSH/network/DNS/FS/key reads.",
+  "description": "Local zero-auth MCP for OpenSSH config parse, host resolve, lint, and redact \u2014 config text analysis only, no SSH/network/DNS/FS/key reads.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/ssh-config-lab",
   "license": "MIT",
-  "keywords": ["mcp", "ssh", "ssh-config", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "ssh", "config", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "ssh",
+    "ssh-config",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "ssh",
+    "config",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

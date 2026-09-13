@@ -2,14 +2,30 @@
   "name": "supabase-config-lab",
   "displayName": "Supabase Config Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for supabase/config.toml text — project/api/studio ports, [db] keys (password-like redacted), [auth] hint, and lite lint — pasted TOML only, no Supabase API/CLI, no network.",
+  "description": "Local zero-auth MCP for supabase/config.toml text \u2014 project/api/studio ports, [db] keys (password-like redacted), [auth] hint, and lite lint \u2014 pasted TOML only, no Supabase API/CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/supabase-config-lab",
   "license": "MIT",
-  "keywords": ["mcp", "supabase", "config-toml", "auth", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "supabase", "config-toml", "auth", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "supabase",
+    "config-toml",
+    "auth",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "supabase",
+    "config-toml",
+    "auth",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

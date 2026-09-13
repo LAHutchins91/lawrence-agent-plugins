@@ -1,12 +1,9 @@
-# PinPolicy (Cursor plugin) — FREE forever
+# Pin Policy
 
-Require pinned versions vs ranges in package.json
+Require pinned versions vs ranges in package.json.
 
-## Install
-Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+Marketplace install is **free forever** — no paywall in this plugin. Optional Pro CI gates: [plugins.lawrence.dev/pro](https://plugins.lawrence.dev/pro).
 
-## Upgrade for CI fail
-Pro available · https://plugins.lawrence.dev/pro
+## License
 
-## What it does
-Runs `pinpolicy` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).
+MIT

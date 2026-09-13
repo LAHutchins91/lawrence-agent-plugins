@@ -2,14 +2,33 @@
   "name": "swagger-codegen-lab",
   "displayName": "Swagger Codegen Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for swagger-codegen / openapi-generator CLI text — languages/generators, config/additionalProperties, templates/library, and lite lint — no codegen runtime or network.",
+  "description": "Local zero-auth MCP for swagger-codegen / openapi-generator CLI text \u2014 languages/generators, config/additionalProperties, templates/library, and lite lint \u2014 no codegen runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/swagger-codegen-lab",
   "license": "MIT",
-  "keywords": ["mcp", "swagger-codegen", "openapi-generator", "openapi", "codegen", "cli", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "swagger-codegen", "openapi-generator", "openapi", "codegen", "cli", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "swagger-codegen",
+    "openapi-generator",
+    "openapi",
+    "codegen",
+    "cli",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "swagger-codegen",
+    "openapi-generator",
+    "openapi",
+    "codegen",
+    "cli",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

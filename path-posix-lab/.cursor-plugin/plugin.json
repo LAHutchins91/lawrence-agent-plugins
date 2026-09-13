@@ -2,14 +2,28 @@
   "name": "path-posix-lab",
   "displayName": "Path POSIX Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for POSIX path join, normalize, basename/dirname/ext, and relative — path.posix in-memory, no filesystem.",
+  "description": "Local zero-auth MCP for POSIX path join, normalize, basename/dirname/ext, and relative \u2014 path.posix in-memory, no filesystem.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/path-posix-lab",
   "license": "MIT",
-  "keywords": ["mcp", "path", "posix", "join", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "path", "posix", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "path",
+    "posix",
+    "join",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "path",
+    "posix",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

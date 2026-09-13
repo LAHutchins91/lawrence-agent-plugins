@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Pointer Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0F082B"/>
+  <path d="M128 52 L208 188 H48 Z" fill="none" stroke="#E425CB" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M128 100 V140" stroke="#CFD3BB" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="128" cy="164" r="10" fill="#CFD3BB"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#DDDBE6">POINTERLAB</text>
+</svg>

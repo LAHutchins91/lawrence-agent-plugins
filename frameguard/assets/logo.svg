@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Frame Guard logo">
+  <rect width="256" height="256" rx="48" fill="#23104C"/>
+  <rect x="48" y="72" width="160" height="112" rx="14" fill="none" stroke="#E42585" stroke-width="12"/>
+  <path d="M72 120 H184 M72 144 H152 M72 168 H168" fill="none" stroke="#CBD3BB" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="184" cy="88" r="10" fill="#E42585"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#DEDBE6">FRAMEGUARD</text>
+</svg>

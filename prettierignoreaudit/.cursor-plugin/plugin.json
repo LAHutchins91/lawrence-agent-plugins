@@ -1,15 +1,24 @@
 {
   "name": "prettierignoreaudit",
+  "displayName": "Prettier Ignore Audit",
   "version": "0.1.0",
-  "description": "Lint .prettierignore for missing generated dirs and source negations. Free forever in Cursor.",
+  "description": "Lint .prettierignore for missing generated dirs and source negations.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/prettierignoreaudit",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "prettierignoreaudit",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

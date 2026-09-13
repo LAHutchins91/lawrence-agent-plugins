@@ -1,15 +1,24 @@
 {
   "name": "tworder",
+  "displayName": "TW Order",
   "version": "0.1.0",
-  "description": "Lint Tailwind class order drift in JSX/HTML. Free forever in Cursor.",
+  "description": "Lint Tailwind class order drift in JSX/HTML.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/tworder",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "tworder",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

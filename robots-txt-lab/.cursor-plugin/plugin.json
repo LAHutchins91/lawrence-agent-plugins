@@ -2,14 +2,27 @@
   "name": "robots-txt-lab",
   "displayName": "Robots Txt Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for robots.txt parse, allow checks, sitemap list, and lint — string-level analysis only, no HTTP fetch.",
+  "description": "Local zero-auth MCP for robots.txt parse, allow checks, sitemap list, and lint \u2014 string-level analysis only, no HTTP fetch.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/robots-txt-lab",
   "license": "MIT",
-  "keywords": ["mcp", "robots.txt", "sitemap", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "robots.txt", "sitemap", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "robots.txt",
+    "sitemap",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "robots.txt",
+    "sitemap",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

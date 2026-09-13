@@ -2,14 +2,27 @@
   "name": "pulumi-lab",
   "displayName": "Pulumi Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Pulumi.yaml / program heuristics — no Pulumi CLI, cloud, or network.",
+  "description": "Local zero-auth MCP for Pulumi.yaml / program heuristics \u2014 no Pulumi CLI, cloud, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/pulumi-lab",
   "license": "MIT",
-  "keywords": ["mcp", "pulumi", "iac", "yaml", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "pulumi", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "pulumi",
+    "iac",
+    "yaml",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "pulumi",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

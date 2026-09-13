@@ -2,14 +2,28 @@
   "name": "vegeta-lab",
   "displayName": "Vegeta Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Vegeta attack/report heuristics — target listings, rate/pacer counts, report/encode counts, and lite lint — pasted source only, never runs Vegeta or load tests, no network.",
+  "description": "Local zero-auth MCP for Vegeta attack/report heuristics \u2014 target listings, rate/pacer counts, report/encode counts, and lite lint \u2014 pasted source only, never runs Vegeta or load tests, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/vegeta-lab",
   "license": "MIT",
-  "keywords": ["mcp", "vegeta", "load-testing", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "vegeta", "load-testing", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "vegeta",
+    "load-testing",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "vegeta",
+    "load-testing",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

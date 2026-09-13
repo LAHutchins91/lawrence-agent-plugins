@@ -2,14 +2,30 @@
   "name": "superstruct-lab",
   "displayName": "Superstruct Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Superstruct JS/TS heuristics — structs list, field hints, coercion counts, and lite lint — pasted source only, no Superstruct assert/validate runtime, no network.",
+  "description": "Local zero-auth MCP for Superstruct JS/TS heuristics \u2014 structs list, field hints, coercion counts, and lite lint \u2014 pasted source only, no Superstruct assert/validate runtime, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/superstruct-lab",
   "license": "MIT",
-  "keywords": ["mcp", "superstruct", "schema", "validation", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "superstruct", "schema", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "superstruct",
+    "schema",
+    "validation",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "superstruct",
+    "schema",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

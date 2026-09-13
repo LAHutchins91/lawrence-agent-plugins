@@ -2,14 +2,29 @@
   "name": "kiwi-lab",
   "displayName": "Kiwi Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for kiwi.config / OpenAPI client heuristics — schema listings, client counts, hooks/mutator hints, and lite lint — pasted source only, never runs kiwi or codegen, no network.",
+  "description": "Local zero-auth MCP for kiwi.config / OpenAPI client heuristics \u2014 schema listings, client counts, hooks/mutator hints, and lite lint \u2014 pasted source only, never runs kiwi or codegen, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/kiwi-lab",
   "license": "MIT",
-  "keywords": ["mcp", "kiwi", "openapi", "codegen", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "kiwi", "openapi", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "kiwi",
+    "openapi",
+    "codegen",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "kiwi",
+    "openapi",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

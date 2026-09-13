@@ -2,14 +2,31 @@
   "name": "selenium-pom-lab",
   "displayName": "Selenium POM Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Selenium POM JS/TS heuristics — page listings, locator counts, wait counts, and lite lint — pasted source only, never runs Selenium or a browser, no network.",
+  "description": "Local zero-auth MCP for Selenium POM JS/TS heuristics \u2014 page listings, locator counts, wait counts, and lite lint \u2014 pasted source only, never runs Selenium or a browser, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/selenium-pom-lab",
   "license": "MIT",
-  "keywords": ["mcp", "selenium", "pom", "page-object", "webdriver", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "selenium", "pom", "page-object", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "selenium",
+    "pom",
+    "page-object",
+    "webdriver",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "selenium",
+    "pom",
+    "page-object",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

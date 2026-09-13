@@ -1,16 +1,9 @@
-# FrameGuard (`frameguard`)
+# Frame Guard
 
 Lint X-Frame-Options / CSP frame-ancestors — catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `frame-ancestors *` in raw headers, nginx `add_header`, and Express / helmet configs.
 
-## Pricing
+Marketplace install is **free forever** — no paywall in this plugin. Optional Pro CI gates: [plugins.lawrence.dev/pro](https://plugins.lawrence.dev/pro).
 
-- **Cursor Marketplace:** FREE forever (no paywalls)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://frameguard.dev
+## License
 
----
-
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
-
+MIT

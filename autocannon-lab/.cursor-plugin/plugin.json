@@ -2,14 +2,28 @@
   "name": "autocannon-lab",
   "displayName": "Autocannon Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for autocannon JS heuristics — target URL/title listings, options/metrics counts, and lite lint — pasted source only, never runs autocannon or load tests, no network.",
+  "description": "Local zero-auth MCP for autocannon JS heuristics \u2014 target URL/title listings, options/metrics counts, and lite lint \u2014 pasted source only, never runs autocannon or load tests, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/autocannon-lab",
   "license": "MIT",
-  "keywords": ["mcp", "autocannon", "load-testing", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "autocannon", "load-testing", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "autocannon",
+    "load-testing",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "autocannon",
+    "load-testing",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

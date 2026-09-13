@@ -1,15 +1,24 @@
 {
   "name": "frameguard",
+  "displayName": "Frame Guard",
   "version": "0.1.0",
-  "description": "Lint X-Frame-Options / CSP frame-ancestors \u2014 catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `frame-ancestors *` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor.",
+  "description": "Lint X-Frame-Options / CSP frame-ancestors \u2014 catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `frame-ancestors *` in raw headers, nginx `add_header`, and Express / helmet configs.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/frameguard",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "frameguard",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

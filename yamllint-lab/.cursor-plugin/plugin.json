@@ -2,14 +2,29 @@
   "name": "yamllint-lab",
   "displayName": "yamllint Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for yamllint YAML lint heuristics — rule names from pasted .yamllint config, extends: default / relaxed / /path counts, ignore: / ignore-from-file: / yamllint disable / disable-line / disable-next-line counts, and lite lint — pasted source only, never runs yamllint CLI, no network.",
+  "description": "Local zero-auth MCP for yamllint YAML lint heuristics \u2014 rule names from pasted .yamllint config, extends: default / relaxed / /path counts, ignore: / ignore-from-file: / yamllint disable / disable-line / disable-next-line counts, and lite lint \u2014 pasted source only, never runs yamllint CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/yamllint-lab",
   "license": "MIT",
-  "keywords": ["mcp", "yamllint", "yaml", "lint", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "yamllint", "yaml", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "yamllint",
+    "yaml",
+    "lint",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "yamllint",
+    "yaml",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,27 @@
   "name": "vagrant-lab",
   "displayName": "Vagrant Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Vagrantfile Ruby DSL heuristics — no vagrant CLI, VM start, or network.",
+  "description": "Local zero-auth MCP for Vagrantfile Ruby DSL heuristics \u2014 no vagrant CLI, VM start, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/vagrant-lab",
   "license": "MIT",
-  "keywords": ["mcp", "vagrant", "vagrantfile", "ruby", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "vagrant", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "vagrant",
+    "vagrantfile",
+    "ruby",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "vagrant",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,27 @@
   "name": "skaffold-lab",
   "displayName": "Skaffold Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for skaffold.yaml heuristics — no Skaffold CLI, cluster, or network.",
+  "description": "Local zero-auth MCP for skaffold.yaml heuristics \u2014 no Skaffold CLI, cluster, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/skaffold-lab",
   "license": "MIT",
-  "keywords": ["mcp", "skaffold", "kubernetes", "yaml", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "skaffold", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "skaffold",
+    "kubernetes",
+    "yaml",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "skaffold",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -1,15 +1,24 @@
 {
   "name": "permspolicy",
+  "displayName": "Perms Policy",
   "version": "0.1.0",
-  "description": "Lint Permissions-Policy / Feature-Policy for overly broad * grants. Free forever in Cursor.",
+  "description": "Lint Permissions-Policy / Feature-Policy for overly broad * grants.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/permspolicy",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "permspolicy",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

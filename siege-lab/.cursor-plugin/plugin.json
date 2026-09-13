@@ -2,14 +2,31 @@
   "name": "siege-lab",
   "displayName": "Siege Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for siege CLI / urls.txt / .siegerc text — URLs, options, concurrency, and lite lint — no siege runtime or network.",
+  "description": "Local zero-auth MCP for siege CLI / urls.txt / .siegerc text \u2014 URLs, options, concurrency, and lite lint \u2014 no siege runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/siege-lab",
   "license": "MIT",
-  "keywords": ["mcp", "siege", "load-test", "benchmark", "cli", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "siege", "load-test", "benchmark", "cli", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "siege",
+    "load-test",
+    "benchmark",
+    "cli",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "siege",
+    "load-test",
+    "benchmark",
+    "cli",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,29 @@
   "name": "htaccess-lab",
   "displayName": "Htaccess Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for .htaccess parse, RewriteRule explain, redirect list, and lint — string-level analysis only, no Apache exec or filesystem.",
+  "description": "Local zero-auth MCP for .htaccess parse, RewriteRule explain, redirect list, and lint \u2014 string-level analysis only, no Apache exec or filesystem.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/htaccess-lab",
   "license": "MIT",
-  "keywords": ["mcp", "htaccess", "apache", "rewrite", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "htaccess", "apache", "rewrite", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "htaccess",
+    "apache",
+    "rewrite",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "htaccess",
+    "apache",
+    "rewrite",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

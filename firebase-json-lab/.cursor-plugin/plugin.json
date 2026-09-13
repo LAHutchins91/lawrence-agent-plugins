@@ -2,14 +2,30 @@
   "name": "firebase-json-lab",
   "displayName": "Firebase JSON Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for firebase.json text — hosting sites, firestore rules/indexes, functions runtime, and lite lint — pasted JSON only, no firebase CLI, no network.",
+  "description": "Local zero-auth MCP for firebase.json text \u2014 hosting sites, firestore rules/indexes, functions runtime, and lite lint \u2014 pasted JSON only, no firebase CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/firebase-json-lab",
   "license": "MIT",
-  "keywords": ["mcp", "firebase", "firebase-json", "hosting", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "firebase", "firebase-json", "hosting", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "firebase",
+    "firebase-json",
+    "hosting",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "firebase",
+    "firebase-json",
+    "hosting",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

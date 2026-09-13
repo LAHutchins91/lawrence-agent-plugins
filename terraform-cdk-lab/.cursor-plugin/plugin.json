@@ -2,14 +2,28 @@
   "name": "terraform-cdk-lab",
   "displayName": "Terraform CDK Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for CDKTF (cdktf.json / TypeScript) heuristics — no CDKTF CLI, Terraform apply, or network.",
+  "description": "Local zero-auth MCP for CDKTF (cdktf.json / TypeScript) heuristics \u2014 no CDKTF CLI, Terraform apply, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/terraform-cdk-lab",
   "license": "MIT",
-  "keywords": ["mcp", "cdktf", "terraform", "iac", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "cdktf", "terraform", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "cdktf",
+    "terraform",
+    "iac",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "cdktf",
+    "terraform",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

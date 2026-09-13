@@ -1,15 +1,24 @@
 {
   "name": "semverrangegate",
+  "displayName": "Semver Range Gate",
   "version": "0.1.0",
-  "description": "Fail CI on overly wide package.json ranges. Free forever in Cursor.",
+  "description": "Fail CI on overly wide package.json ranges.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/semverrangegate",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "semverrangegate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

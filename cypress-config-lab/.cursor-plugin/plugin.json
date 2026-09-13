@@ -2,14 +2,33 @@
   "name": "cypress-config-lab",
   "displayName": "Cypress Config Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Cypress config text — e2e summary, component summary, env keys, and lite lint — no cypress binary or network.",
+  "description": "Local zero-auth MCP for Cypress config text \u2014 e2e summary, component summary, env keys, and lite lint \u2014 no cypress binary or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/cypress-config-lab",
   "license": "MIT",
-  "keywords": ["mcp", "cypress", "cypress-config", "e2e", "component", "testing", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "cypress", "cypress-config", "e2e", "component", "testing", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "cypress",
+    "cypress-config",
+    "e2e",
+    "component",
+    "testing",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "cypress",
+    "cypress-config",
+    "e2e",
+    "component",
+    "testing",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

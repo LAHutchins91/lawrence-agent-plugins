@@ -2,14 +2,34 @@
   "name": "webdriverio-lab",
   "displayName": "WebdriverIO Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for WebdriverIO JS/TS text — specs, selectors, commands, and lite lint — no wdio/browser/WebDriver runtime or network.",
+  "description": "Local zero-auth MCP for WebdriverIO JS/TS text \u2014 specs, selectors, commands, and lite lint \u2014 no wdio/browser/WebDriver runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/webdriverio-lab",
   "license": "MIT",
-  "keywords": ["mcp", "webdriverio", "wdio", "specs", "selectors", "commands", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "webdriverio", "wdio", "specs", "selectors", "commands", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "webdriverio",
+    "wdio",
+    "specs",
+    "selectors",
+    "commands",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "webdriverio",
+    "wdio",
+    "specs",
+    "selectors",
+    "commands",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

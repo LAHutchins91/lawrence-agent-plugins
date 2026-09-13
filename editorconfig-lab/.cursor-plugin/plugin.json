@@ -2,14 +2,31 @@
   "name": "editorconfig-lab",
   "displayName": "EditorConfig Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for .editorconfig text — parse sections, resolve path properties, diff configs, and lite lint — no network or disk walk.",
+  "description": "Local zero-auth MCP for .editorconfig text \u2014 parse sections, resolve path properties, diff configs, and lite lint \u2014 no network or disk walk.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/editorconfig-lab",
   "license": "MIT",
-  "keywords": ["mcp", "editorconfig", "ini", "indent", "glob", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "editorconfig", "ini", "indent", "glob", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "editorconfig",
+    "ini",
+    "indent",
+    "glob",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "editorconfig",
+    "ini",
+    "indent",
+    "glob",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

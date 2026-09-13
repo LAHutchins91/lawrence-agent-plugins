@@ -2,14 +2,27 @@
   "name": "http-header-lab",
   "displayName": "HTTP Header Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for HTTP header parse, Cache-Control explain, Content-Disposition parse, and Forwarded / X-Forwarded-* — header string analysis only, no network I/O.",
+  "description": "Local zero-auth MCP for HTTP header parse, Cache-Control explain, Content-Disposition parse, and Forwarded / X-Forwarded-* \u2014 header string analysis only, no network I/O.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/http-header-lab",
   "license": "MIT",
-  "keywords": ["mcp", "http", "headers", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "http", "headers", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "http",
+    "headers",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "http",
+    "headers",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

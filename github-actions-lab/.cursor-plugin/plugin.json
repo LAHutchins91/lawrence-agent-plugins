@@ -2,14 +2,31 @@
   "name": "github-actions-lab",
   "displayName": "GitHub Actions Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for GitHub Actions workflow YAML text — list jobs, normalize triggers, secret refs (names only), and lite lint — no GitHub API or network.",
+  "description": "Local zero-auth MCP for GitHub Actions workflow YAML text \u2014 list jobs, normalize triggers, secret refs (names only), and lite lint \u2014 no GitHub API or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/github-actions-lab",
   "license": "MIT",
-  "keywords": ["mcp", "github-actions", "gha", "workflow", "yaml", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "github-actions", "gha", "workflow", "yaml", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "github-actions",
+    "gha",
+    "workflow",
+    "yaml",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "github-actions",
+    "gha",
+    "workflow",
+    "yaml",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

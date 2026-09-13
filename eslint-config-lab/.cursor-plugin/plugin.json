@@ -2,14 +2,31 @@
   "name": "eslint-config-lab",
   "displayName": "ESLint Config Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for ESLint config text — extends list, rules summary, env/parser/plugins, and lite lint — no eslint binary or network.",
+  "description": "Local zero-auth MCP for ESLint config text \u2014 extends list, rules summary, env/parser/plugins, and lite lint \u2014 no eslint binary or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/eslint-config-lab",
   "license": "MIT",
-  "keywords": ["mcp", "eslint", "eslint-config", "rules", "extends", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "eslint", "eslint-config", "rules", "extends", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "eslint",
+    "eslint-config",
+    "rules",
+    "extends",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "eslint",
+    "eslint-config",
+    "rules",
+    "extends",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

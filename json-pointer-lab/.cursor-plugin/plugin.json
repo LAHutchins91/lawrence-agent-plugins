@@ -2,14 +2,32 @@
   "name": "json-pointer-lab",
   "displayName": "JSON Pointer Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for RFC6901 JSON Pointer get/set preview, RFC6902 JSON Patch preview, and JSON flatten — pasted text only.",
+  "description": "Local zero-auth MCP for RFC6901 JSON Pointer get/set preview, RFC6902 JSON Patch preview, and JSON flatten \u2014 pasted text only.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/json-pointer-lab",
   "license": "MIT",
-  "keywords": ["mcp", "json", "json-pointer", "json-patch", "rfc6901", "rfc6902", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "json", "pointer", "patch", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "json",
+    "json-pointer",
+    "json-patch",
+    "rfc6901",
+    "rfc6902",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "json",
+    "pointer",
+    "patch",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

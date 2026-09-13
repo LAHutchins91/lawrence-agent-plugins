@@ -1,15 +1,24 @@
 {
   "name": "strictts",
+  "displayName": "Strict TS",
   "version": "0.1.0",
-  "description": "Audit `tsconfig.json` for missing `strict` / `noImplicit*` flags \u2014 catch loose TypeScript configs before they ship. Free forever in Cursor.",
+  "description": "Audit `tsconfig.json` for missing `strict` / `noImplicit*` flags \u2014 catch loose TypeScript configs before they ship.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/strictts",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "strictts",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

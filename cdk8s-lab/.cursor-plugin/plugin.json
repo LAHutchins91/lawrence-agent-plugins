@@ -2,14 +2,27 @@
   "name": "cdk8s-lab",
   "displayName": "cdk8s Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for cdk8s app/chart heuristics — no cdk8s CLI, cluster, or network.",
+  "description": "Local zero-auth MCP for cdk8s app/chart heuristics \u2014 no cdk8s CLI, cluster, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/cdk8s-lab",
   "license": "MIT",
-  "keywords": ["mcp", "cdk8s", "kubernetes", "yaml", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "cdk8s", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "cdk8s",
+    "kubernetes",
+    "yaml",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "cdk8s",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

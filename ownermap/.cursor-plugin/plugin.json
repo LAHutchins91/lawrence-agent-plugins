@@ -1,10 +1,12 @@
 {
   "name": "ownermap",
+  "displayName": "Owner Map",
   "version": "0.1.0",
-  "description": "CODEOWNERS coverage gaps — unowned paths. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "CODEOWNERS coverage gaps \u2014 unowned paths.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/ownermap",
   "license": "MIT",
   "keywords": [
     "developer-tools",
@@ -12,5 +14,12 @@
     "codeowners",
     "ownermap",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

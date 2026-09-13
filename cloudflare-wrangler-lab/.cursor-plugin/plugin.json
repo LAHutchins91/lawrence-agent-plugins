@@ -2,14 +2,31 @@
   "name": "cloudflare-wrangler-lab",
   "displayName": "Cloudflare Wrangler Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for wrangler.toml text — name/main, routes, bindings hints, and lite lint — no wrangler CLI or network.",
+  "description": "Local zero-auth MCP for wrangler.toml text \u2014 name/main, routes, bindings hints, and lite lint \u2014 no wrangler CLI or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/cloudflare-wrangler-lab",
   "license": "MIT",
-  "keywords": ["mcp", "cloudflare", "wrangler", "wrangler.toml", "workers", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "cloudflare", "wrangler", "wrangler.toml", "workers", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "cloudflare",
+    "wrangler",
+    "wrangler.toml",
+    "workers",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "cloudflare",
+    "wrangler",
+    "wrangler.toml",
+    "workers",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

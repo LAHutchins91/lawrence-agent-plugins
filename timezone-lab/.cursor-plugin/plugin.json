@@ -2,14 +2,32 @@
   "name": "timezone-lab",
   "displayName": "Timezone Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for IANA timezone convert, offsets, common zones, and ISO→UTC parse — Intl only, no network.",
+  "description": "Local zero-auth MCP for IANA timezone convert, offsets, common zones, and ISO\u2192UTC parse \u2014 Intl only, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/timezone-lab",
   "license": "MIT",
-  "keywords": ["mcp", "timezone", "iana", "iso8601", "dst", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "timezone", "iana", "dst", "iso8601", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "timezone",
+    "iana",
+    "iso8601",
+    "dst",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "timezone",
+    "iana",
+    "dst",
+    "iso8601",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,29 @@
   "name": "trufflehog-lab",
   "displayName": "TruffleHog Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for TruffleHog config/detector heuristics — detector names, exclude-paths / exclude-detectors / filter-entropy / include-paths filter counts, --json / --only-verified / --results / git / github / filesystem / s3 / --concurrency config hints, and lite lint — pasted source only, never runs trufflehog CLI, never returns secret values, no network.",
+  "description": "Local zero-auth MCP for TruffleHog config/detector heuristics \u2014 detector names, exclude-paths / exclude-detectors / filter-entropy / include-paths filter counts, --json / --only-verified / --results / git / github / filesystem / s3 / --concurrency config hints, and lite lint \u2014 pasted source only, never runs trufflehog CLI, never returns secret values, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/trufflehog-lab",
   "license": "MIT",
-  "keywords": ["mcp", "trufflehog", "secrets", "config", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "trufflehog", "secrets", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "trufflehog",
+    "secrets",
+    "config",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "trufflehog",
+    "secrets",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

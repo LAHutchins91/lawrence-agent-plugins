@@ -1,15 +1,24 @@
 {
   "name": "nonnullassertgate",
+  "displayName": "Non-Null Assert Gate",
   "version": "0.1.0",
-  "description": "Fail CI when TypeScript non-null assertions exceed policy. Free forever in Cursor.",
+  "description": "Fail CI when TypeScript non-null assertions exceed policy.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/nonnullassertgate",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "nonnullassertgate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

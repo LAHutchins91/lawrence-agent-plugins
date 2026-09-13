@@ -2,14 +2,28 @@
   "name": "url-parse-lab",
   "displayName": "URL Parse Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for URL parse, join, normalize, and secret redaction — WHATWG URL, no SaaS.",
+  "description": "Local zero-auth MCP for URL parse, join, normalize, and secret redaction \u2014 WHATWG URL, no SaaS.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/url-parse-lab",
   "license": "MIT",
-  "keywords": ["mcp", "url", "whatwg", "parse", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "url", "whatwg", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "url",
+    "whatwg",
+    "parse",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "url",
+    "whatwg",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

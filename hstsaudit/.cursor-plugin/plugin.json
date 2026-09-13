@@ -1,15 +1,24 @@
 {
   "name": "hstsaudit",
+  "displayName": "HSTS Audit",
   "version": "0.1.0",
-  "description": "Lint Strict-Transport-Security headers \u2014 catch missing `max-age`, too-short `max-age` (&lt; 1 year), and missing `includeSubDomains` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor.",
+  "description": "Lint Strict-Transport-Security headers \u2014 catch missing `max-age`, too-short `max-age` (&lt; 1 year), and missing `includeSubDomains` in raw headers, nginx `add_header`, and Express / helmet configs.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/hstsaudit",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "hstsaudit",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

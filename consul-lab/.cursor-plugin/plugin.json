@@ -2,14 +2,28 @@
   "name": "consul-lab",
   "displayName": "Consul Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Consul HCL/JSON heuristics — no consul CLI, agent, or network.",
+  "description": "Local zero-auth MCP for Consul HCL/JSON heuristics \u2014 no consul CLI, agent, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/consul-lab",
   "license": "MIT",
-  "keywords": ["mcp", "consul", "hcl", "service", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "consul", "hcl", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "consul",
+    "hcl",
+    "service",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "consul",
+    "hcl",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

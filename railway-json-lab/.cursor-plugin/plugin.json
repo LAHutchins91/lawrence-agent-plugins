@@ -2,14 +2,30 @@
   "name": "railway-json-lab",
   "displayName": "Railway JSON Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for railway.json / railway.toml text — services, env keys, deploy hints, and lite lint — no Railway API or network.",
+  "description": "Local zero-auth MCP for railway.json / railway.toml text \u2014 services, env keys, deploy hints, and lite lint \u2014 no Railway API or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/railway-json-lab",
   "license": "MIT",
-  "keywords": ["mcp", "railway", "railway.json", "railway.toml", "deploy", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "railway", "railway.json", "railway.toml", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "railway",
+    "railway.json",
+    "railway.toml",
+    "deploy",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "railway",
+    "railway.json",
+    "railway.toml",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

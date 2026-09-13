@@ -2,14 +2,29 @@
   "name": "protobuf-lite-lab",
   "displayName": "Protobuf Lite Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for protobuf .proto message/service list, field lookup, and lite lint — pasted proto text only, no protoc, no network, no codegen.",
+  "description": "Local zero-auth MCP for protobuf .proto message/service list, field lookup, and lite lint \u2014 pasted proto text only, no protoc, no network, no codegen.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/protobuf-lite-lab",
   "license": "MIT",
-  "keywords": ["mcp", "protobuf", "proto3", "proto", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "protobuf", "proto3", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "protobuf",
+    "proto3",
+    "proto",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "protobuf",
+    "proto3",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

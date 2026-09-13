@@ -2,14 +2,32 @@
   "name": "port-service-lab",
   "displayName": "Port Service Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for common port↔service lookup, IANA range checks, and listen bind hints — curated heuristics, no network scans.",
+  "description": "Local zero-auth MCP for common port\u2194service lookup, IANA range checks, and listen bind hints \u2014 curated heuristics, no network scans.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/port-service-lab",
   "license": "MIT",
-  "keywords": ["mcp", "ports", "services", "iana", "listen", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "ports", "services", "iana", "listen", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "ports",
+    "services",
+    "iana",
+    "listen",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "ports",
+    "services",
+    "iana",
+    "listen",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

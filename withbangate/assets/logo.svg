@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="With Ban Gate logo">
+  <rect width="256" height="256" rx="48" fill="#1A310C"/>
+  <path d="M128 48 L196 84 V156 L128 192 L60 156 V84 Z" fill="none" stroke="#25E46B" stroke-width="12" stroke-linejoin="round"/>
+  <circle cx="128" cy="120" r="28" fill="none" stroke="#CABBD3" stroke-width="10"/>
+  <circle cx="128" cy="120" r="10" fill="#25E46B"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#DFE6DB">WITHBANGATE</text>
+</svg>

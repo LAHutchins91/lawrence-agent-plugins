@@ -2,14 +2,30 @@
   "name": "playwright-config-lab",
   "displayName": "Playwright Config Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for playwright.config.* text — projects, browsers, webServer, and lite lint — pasted config only, no playwright binary, no network.",
+  "description": "Local zero-auth MCP for playwright.config.* text \u2014 projects, browsers, webServer, and lite lint \u2014 pasted config only, no playwright binary, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/playwright-config-lab",
   "license": "MIT",
-  "keywords": ["mcp", "playwright", "playwright.config", "e2e", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "playwright", "playwright.config", "e2e", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "playwright",
+    "playwright.config",
+    "e2e",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "playwright",
+    "playwright.config",
+    "e2e",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

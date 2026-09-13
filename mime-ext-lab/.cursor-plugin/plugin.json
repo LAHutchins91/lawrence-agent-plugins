@@ -2,14 +2,30 @@
   "name": "mime-ext-lab",
   "displayName": "MIME Ext Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for extension↔MIME lookup, filename MIME, and Content-Type header parse — hand-maintained map, no SaaS.",
+  "description": "Local zero-auth MCP for extension\u2194MIME lookup, filename MIME, and Content-Type header parse \u2014 hand-maintained map, no SaaS.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/mime-ext-lab",
   "license": "MIT",
-  "keywords": ["mcp", "mime", "content-type", "extension", "filename", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "mime", "content-type", "extension", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "mime",
+    "content-type",
+    "extension",
+    "filename",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "mime",
+    "content-type",
+    "extension",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

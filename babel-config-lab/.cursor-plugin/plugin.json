@@ -2,14 +2,31 @@
   "name": "babel-config-lab",
   "displayName": "Babel Config Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for babel config text — presets, plugins, env/targets, and lite lint — no babel binary or network.",
+  "description": "Local zero-auth MCP for babel config text \u2014 presets, plugins, env/targets, and lite lint \u2014 no babel binary or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/babel-config-lab",
   "license": "MIT",
-  "keywords": ["mcp", "babel", "babel-config", "presets", "plugins", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "babel", "babel-config", "presets", "plugins", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "babel",
+    "babel-config",
+    "presets",
+    "plugins",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "babel",
+    "babel-config",
+    "presets",
+    "plugins",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

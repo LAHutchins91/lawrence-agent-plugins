@@ -2,14 +2,30 @@
   "name": "opa-lab",
   "displayName": "OPA Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for OPA/Rego policy heuristics — package listings, rule/test hints, and lite lint — pasted source only, never runs OPA CLI, no network.",
+  "description": "Local zero-auth MCP for OPA/Rego policy heuristics \u2014 package listings, rule/test hints, and lite lint \u2014 pasted source only, never runs OPA CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/opa-lab",
   "license": "MIT",
-  "keywords": ["mcp", "opa", "rego", "policy", "policy-as-code", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "opa", "rego", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "opa",
+    "rego",
+    "policy",
+    "policy-as-code",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "opa",
+    "rego",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,29 @@
   "name": "xcuitest-lab",
   "displayName": "XCUITest Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for XCUITest Swift/ObjC-ish heuristics — query call sites, action counts, expectation counts, and lite lint — pasted source only, never runs XCUITest or Xcode/simulator, no network.",
+  "description": "Local zero-auth MCP for XCUITest Swift/ObjC-ish heuristics \u2014 query call sites, action counts, expectation counts, and lite lint \u2014 pasted source only, never runs XCUITest or Xcode/simulator, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/xcuitest-lab",
   "license": "MIT",
-  "keywords": ["mcp", "xcuitest", "ios", "mobile", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "xcuitest", "ios", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "xcuitest",
+    "ios",
+    "mobile",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "xcuitest",
+    "ios",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

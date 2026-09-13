@@ -2,14 +2,27 @@
   "name": "shebang-lab",
   "displayName": "Shebang Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for shebang parse, interpreter detect, normalize, and warn — first-line string analysis only, no exec/FS.",
+  "description": "Local zero-auth MCP for shebang parse, interpreter detect, normalize, and warn \u2014 first-line string analysis only, no exec/FS.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/shebang-lab",
   "license": "MIT",
-  "keywords": ["mcp", "shebang", "interpreter", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "shebang", "interpreter", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "shebang",
+    "interpreter",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "shebang",
+    "interpreter",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

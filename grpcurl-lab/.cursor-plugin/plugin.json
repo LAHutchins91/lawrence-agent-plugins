@@ -2,14 +2,31 @@
   "name": "grpcurl-lab",
   "displayName": "Grpcurl Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for grpcurl CLI text — services/targets, methods, metadata headers, and lite lint — no grpcurl/gRPC runtime or network.",
+  "description": "Local zero-auth MCP for grpcurl CLI text \u2014 services/targets, methods, metadata headers, and lite lint \u2014 no grpcurl/gRPC runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/grpcurl-lab",
   "license": "MIT",
-  "keywords": ["mcp", "grpcurl", "grpc", "protobuf", "cli", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "grpcurl", "grpc", "protobuf", "cli", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "grpcurl",
+    "grpc",
+    "protobuf",
+    "cli",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "grpcurl",
+    "grpc",
+    "protobuf",
+    "cli",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

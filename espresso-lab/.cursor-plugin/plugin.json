@@ -2,14 +2,37 @@
   "name": "espresso-lab",
   "displayName": "Espresso Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Espresso Java/Kotlin test text — matchers, actions, idling, and lite lint — no Android/Espresso runtime or network.",
+  "description": "Local zero-auth MCP for Espresso Java/Kotlin test text \u2014 matchers, actions, idling, and lite lint \u2014 no Android/Espresso runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/espresso-lab",
   "license": "MIT",
-  "keywords": ["mcp", "espresso", "android", "kotlin", "java", "matchers", "actions", "idling", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "espresso", "android", "kotlin", "java", "matchers", "actions", "idling", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "espresso",
+    "android",
+    "kotlin",
+    "java",
+    "matchers",
+    "actions",
+    "idling",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "espresso",
+    "android",
+    "kotlin",
+    "java",
+    "matchers",
+    "actions",
+    "idling",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,30 @@
   "name": "runtypes-lab",
   "displayName": "Runtypes Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Runtypes TypeScript heuristics — types list, fields hints, constraint counts, and lite lint — pasted source only, never .check()/.guard(), no network.",
+  "description": "Local zero-auth MCP for Runtypes TypeScript heuristics \u2014 types list, fields hints, constraint counts, and lite lint \u2014 pasted source only, never .check()/.guard(), no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/runtypes-lab",
   "license": "MIT",
-  "keywords": ["mcp", "runtypes", "schema", "validation", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "runtypes", "schema", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "runtypes",
+    "schema",
+    "validation",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "runtypes",
+    "schema",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

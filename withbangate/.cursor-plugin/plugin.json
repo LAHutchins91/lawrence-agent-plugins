@@ -1,15 +1,24 @@
 {
   "name": "withbangate",
+  "displayName": "With Ban Gate",
   "version": "0.1.0",
-  "description": "Fail CI on with (...) statements in JS. Free forever in Cursor.",
+  "description": "Fail CI on with (...) statements in JS.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/withbangate",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "withbangate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

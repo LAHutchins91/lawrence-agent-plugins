@@ -2,14 +2,30 @@
   "name": "zod-schema-lab",
   "displayName": "Zod Schema Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Zod schema TS/JS text — schemas, fields, refinements, and lite lint — no zod runtime or network.",
+  "description": "Local zero-auth MCP for Zod schema TS/JS text \u2014 schemas, fields, refinements, and lite lint \u2014 no zod runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/zod-schema-lab",
   "license": "MIT",
-  "keywords": ["mcp", "zod", "schema", "validation", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "zod", "schema", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "zod",
+    "schema",
+    "validation",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "zod",
+    "schema",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

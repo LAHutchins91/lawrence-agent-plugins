@@ -2,14 +2,30 @@
   "name": "ab-lab",
   "displayName": "ApacheBench Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for ApacheBench (ab) heuristics — target URL listings, option/concurrency counts, and lite lint — pasted source only, never runs ab or load tests, no network.",
+  "description": "Local zero-auth MCP for ApacheBench (ab) heuristics \u2014 target URL listings, option/concurrency counts, and lite lint \u2014 pasted source only, never runs ab or load tests, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/ab-lab",
   "license": "MIT",
-  "keywords": ["mcp", "apachebench", "ab", "load-testing", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "apachebench", "ab", "load-testing", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "apachebench",
+    "ab",
+    "load-testing",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "apachebench",
+    "ab",
+    "load-testing",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,30 @@
   "name": "effect-schema-lab",
   "displayName": "Effect Schema Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Effect Schema TS/JS text — schemas, fields, transforms, and lite lint — no Effect runtime or network.",
+  "description": "Local zero-auth MCP for Effect Schema TS/JS text \u2014 schemas, fields, transforms, and lite lint \u2014 no Effect runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/effect-schema-lab",
   "license": "MIT",
-  "keywords": ["mcp", "effect", "schema", "validation", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "effect", "schema", "validation", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "effect",
+    "schema",
+    "validation",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "effect",
+    "schema",
+    "validation",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

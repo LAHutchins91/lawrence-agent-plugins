@@ -2,14 +2,33 @@
   "name": "package-json-lab",
   "displayName": "Package JSON Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for package.json text — list scripts, bucket deps, check engines.node, and lite lint — no npm install or network.",
+  "description": "Local zero-auth MCP for package.json text \u2014 list scripts, bucket deps, check engines.node, and lite lint \u2014 no npm install or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/package-json-lab",
   "license": "MIT",
-  "keywords": ["mcp", "package-json", "npm", "scripts", "dependencies", "engines", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "package-json", "npm", "scripts", "dependencies", "engines", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "package-json",
+    "npm",
+    "scripts",
+    "dependencies",
+    "engines",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "package-json",
+    "npm",
+    "scripts",
+    "dependencies",
+    "engines",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,31 @@
   "name": "sinon-stub-lab",
   "displayName": "Sinon Stub Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Sinon stub/spy JS/TS text — stubs, spies, fakes, and lite lint — no sinon runtime or network.",
+  "description": "Local zero-auth MCP for Sinon stub/spy JS/TS text \u2014 stubs, spies, fakes, and lite lint \u2014 no sinon runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/sinon-stub-lab",
   "license": "MIT",
-  "keywords": ["mcp", "sinon", "stub", "spy", "fake", "typescript", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "sinon", "stub", "spy", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "sinon",
+    "stub",
+    "spy",
+    "fake",
+    "typescript",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "sinon",
+    "stub",
+    "spy",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

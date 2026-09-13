@@ -2,14 +2,30 @@
   "name": "syft-lab",
   "displayName": "Syft Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Syft SBOM config heuristics — scan listings, format/scope hints, and lite lint — pasted source only, never runs syft CLI, no network.",
+  "description": "Local zero-auth MCP for Syft SBOM config heuristics \u2014 scan listings, format/scope hints, and lite lint \u2014 pasted source only, never runs syft CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/syft-lab",
   "license": "MIT",
-  "keywords": ["mcp", "syft", "sbom", "spdx", "cyclonedx", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "syft", "sbom", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "syft",
+    "sbom",
+    "spdx",
+    "cyclonedx",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "syft",
+    "sbom",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

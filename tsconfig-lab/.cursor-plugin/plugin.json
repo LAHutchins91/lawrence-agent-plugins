@@ -2,14 +2,31 @@
   "name": "tsconfig-lab",
   "displayName": "TSConfig Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for tsconfig.json text — compilerOptions, paths map, extends chain listing, and lite lint — no tsc exec or filesystem extends follow.",
+  "description": "Local zero-auth MCP for tsconfig.json text \u2014 compilerOptions, paths map, extends chain listing, and lite lint \u2014 no tsc exec or filesystem extends follow.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/tsconfig-lab",
   "license": "MIT",
-  "keywords": ["mcp", "tsconfig", "typescript", "compilerOptions", "paths", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "tsconfig", "typescript", "compilerOptions", "paths", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "tsconfig",
+    "typescript",
+    "compilerOptions",
+    "paths",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "tsconfig",
+    "typescript",
+    "compilerOptions",
+    "paths",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

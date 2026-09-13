@@ -1,15 +1,24 @@
 {
   "name": "statusatlas",
+  "displayName": "Status Atlas",
   "version": "0.1.0",
-  "description": "HTTP status / error-code catalog + CI assert for API responses. Free forever in Cursor.",
+  "description": "HTTP status / error-code catalog + CI assert for API responses.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/statusatlas",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "statusatlas",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

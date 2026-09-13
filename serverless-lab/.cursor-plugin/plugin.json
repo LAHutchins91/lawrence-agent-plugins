@@ -2,14 +2,31 @@
   "name": "serverless-lab",
   "displayName": "Serverless Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Serverless Framework YAML/TS heuristics — function listings, event/resource hints, and lite lint — pasted source only, never runs Serverless Framework CLI or AWS deploy, no network.",
+  "description": "Local zero-auth MCP for Serverless Framework YAML/TS heuristics \u2014 function listings, event/resource hints, and lite lint \u2014 pasted source only, never runs Serverless Framework CLI or AWS deploy, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/serverless-lab",
   "license": "MIT",
-  "keywords": ["mcp", "serverless", "serverless-framework", "aws-lambda", "yaml", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "serverless", "aws-lambda", "yaml", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "serverless",
+    "serverless-framework",
+    "aws-lambda",
+    "yaml",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "serverless",
+    "aws-lambda",
+    "yaml",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

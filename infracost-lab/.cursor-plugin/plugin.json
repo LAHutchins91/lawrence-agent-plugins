@@ -2,14 +2,27 @@
   "name": "infracost-lab",
   "displayName": "Infracost Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Infracost YAML config heuristics — no infracost CLI, cloud pricing API, or network.",
+  "description": "Local zero-auth MCP for Infracost YAML config heuristics \u2014 no infracost CLI, cloud pricing API, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/infracost-lab",
   "license": "MIT",
-  "keywords": ["mcp", "infracost", "terraform", "yaml", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "infracost", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "infracost",
+    "terraform",
+    "yaml",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "infracost",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

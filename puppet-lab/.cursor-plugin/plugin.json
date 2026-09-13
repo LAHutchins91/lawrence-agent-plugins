@@ -2,14 +2,27 @@
   "name": "puppet-lab",
   "displayName": "Puppet Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Puppet manifest/module heuristics — no Puppet CLI, agent, or network.",
+  "description": "Local zero-auth MCP for Puppet manifest/module heuristics \u2014 no Puppet CLI, agent, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/puppet-lab",
   "license": "MIT",
-  "keywords": ["mcp", "puppet", "manifest", "module", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "puppet", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "puppet",
+    "manifest",
+    "module",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "puppet",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

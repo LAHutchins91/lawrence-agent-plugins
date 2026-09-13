@@ -2,14 +2,33 @@
   "name": "crossplane-lab",
   "displayName": "Crossplane Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Crossplane XRD/Composition YAML heuristics — Composition/XRD listings, Provider/claim hints, and lite lint — pasted source only, never runs crossplane or kubectl, no network.",
+  "description": "Local zero-auth MCP for Crossplane XRD/Composition YAML heuristics \u2014 Composition/XRD listings, Provider/claim hints, and lite lint \u2014 pasted source only, never runs crossplane or kubectl, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/crossplane-lab",
   "license": "MIT",
-  "keywords": ["mcp", "crossplane", "xrd", "composition", "kubernetes", "yaml", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "crossplane", "xrd", "composition", "kubernetes", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "crossplane",
+    "xrd",
+    "composition",
+    "kubernetes",
+    "yaml",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "crossplane",
+    "xrd",
+    "composition",
+    "kubernetes",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

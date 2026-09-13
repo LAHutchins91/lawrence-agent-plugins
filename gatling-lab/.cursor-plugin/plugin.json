@@ -2,14 +2,37 @@
   "name": "gatling-lab",
   "displayName": "Gatling Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Gatling Scala/Java simulation text — scenarios, injects, assertions, and lite lint — no Gatling/load-test runtime or network.",
+  "description": "Local zero-auth MCP for Gatling Scala/Java simulation text \u2014 scenarios, injects, assertions, and lite lint \u2014 no Gatling/load-test runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/gatling-lab",
   "license": "MIT",
-  "keywords": ["mcp", "gatling", "scala", "java", "load-test", "simulation", "inject", "assertions", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "gatling", "scala", "java", "load-test", "simulation", "inject", "assertions", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "gatling",
+    "scala",
+    "java",
+    "load-test",
+    "simulation",
+    "inject",
+    "assertions",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "gatling",
+    "scala",
+    "java",
+    "load-test",
+    "simulation",
+    "inject",
+    "assertions",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

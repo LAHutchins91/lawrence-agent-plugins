@@ -2,14 +2,27 @@
   "name": "nginx-conf-lab",
   "displayName": "Nginx Conf Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for nginx.conf parse, listen ports, upstreams, and lint — string-level analysis only, no FS includes or network I/O.",
+  "description": "Local zero-auth MCP for nginx.conf parse, listen ports, upstreams, and lint \u2014 string-level analysis only, no FS includes or network I/O.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/nginx-conf-lab",
   "license": "MIT",
-  "keywords": ["mcp", "nginx", "nginx.conf", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "nginx", "conf", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "nginx",
+    "nginx.conf",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "nginx",
+    "conf",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

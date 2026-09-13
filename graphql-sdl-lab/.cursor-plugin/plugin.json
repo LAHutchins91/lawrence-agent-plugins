@@ -2,14 +2,29 @@
   "name": "graphql-sdl-lab",
   "displayName": "GraphQL SDL Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for GraphQL SDL parse, field list, type find, and lite lint — pasted SDL only, no network.",
+  "description": "Local zero-auth MCP for GraphQL SDL parse, field list, type find, and lite lint \u2014 pasted SDL only, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/graphql-sdl-lab",
   "license": "MIT",
-  "keywords": ["mcp", "graphql", "sdl", "schema", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "graphql", "sdl", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "graphql",
+    "sdl",
+    "schema",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "graphql",
+    "sdl",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

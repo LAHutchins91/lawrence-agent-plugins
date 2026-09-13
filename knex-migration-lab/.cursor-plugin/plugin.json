@@ -2,14 +2,30 @@
   "name": "knex-migration-lab",
   "displayName": "Knex Migration Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Knex migration/seed JS heuristics — migrations list, table ops, seed hints, and lite lint — pasted source only, no knex CLI, no network.",
+  "description": "Local zero-auth MCP for Knex migration/seed JS heuristics \u2014 migrations list, table ops, seed hints, and lite lint \u2014 pasted source only, no knex CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/knex-migration-lab",
   "license": "MIT",
-  "keywords": ["mcp", "knex", "migrations", "seeds", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "knex", "migrations", "seeds", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "knex",
+    "migrations",
+    "seeds",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "knex",
+    "migrations",
+    "seeds",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

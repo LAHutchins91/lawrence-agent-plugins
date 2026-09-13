@@ -2,14 +2,28 @@
   "name": "nomad-lab",
   "displayName": "Nomad Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Nomad job HCL heuristics — no nomad CLI, cluster, or network.",
+  "description": "Local zero-auth MCP for Nomad job HCL heuristics \u2014 no nomad CLI, cluster, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/nomad-lab",
   "license": "MIT",
-  "keywords": ["mcp", "nomad", "hcl", "job", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "nomad", "hcl", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "nomad",
+    "hcl",
+    "job",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "nomad",
+    "hcl",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

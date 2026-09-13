@@ -2,14 +2,31 @@
   "name": "ip-cidr-lab",
   "displayName": "IP CIDR Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for IP parse/normalize, CIDR contains/explain, and private-range heuristics — educational networking utils, no SaaS.",
+  "description": "Local zero-auth MCP for IP parse/normalize, CIDR contains/explain, and private-range heuristics \u2014 educational networking utils, no SaaS.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/ip-cidr-lab",
   "license": "MIT",
-  "keywords": ["mcp", "ip", "cidr", "ipv4", "ipv6", "networking", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "ip", "cidr", "networking", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "ip",
+    "cidr",
+    "ipv4",
+    "ipv6",
+    "networking",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "ip",
+    "cidr",
+    "networking",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

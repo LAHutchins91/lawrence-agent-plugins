@@ -2,14 +2,28 @@
   "name": "kube-linter-lab",
   "displayName": "Kube-Linter Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for kube-linter config/check heuristics (.kube-linter.yaml) — no kube-linter CLI, network, or filesystem follow.",
+  "description": "Local zero-auth MCP for kube-linter config/check heuristics (.kube-linter.yaml) \u2014 no kube-linter CLI, network, or filesystem follow.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/kube-linter-lab",
   "license": "MIT",
-  "keywords": ["mcp", "kube-linter", "kubernetes", "k8s", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "kube-linter", "k8s", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "kube-linter",
+    "kubernetes",
+    "k8s",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "kube-linter",
+    "k8s",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

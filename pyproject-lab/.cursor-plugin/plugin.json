@@ -2,14 +2,30 @@
   "name": "pyproject-lab",
   "displayName": "Pyproject Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for pyproject.toml text — list deps/scripts/build-backend and lite lint — pasted TOML only, no pip/poetry/uv CLI, no network.",
+  "description": "Local zero-auth MCP for pyproject.toml text \u2014 list deps/scripts/build-backend and lite lint \u2014 pasted TOML only, no pip/poetry/uv CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/pyproject-lab",
   "license": "MIT",
-  "keywords": ["mcp", "pyproject", "toml", "python", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "pyproject", "toml", "python", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "pyproject",
+    "toml",
+    "python",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "pyproject",
+    "toml",
+    "python",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

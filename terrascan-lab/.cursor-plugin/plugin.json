@@ -2,14 +2,28 @@
   "name": "terrascan-lab",
   "displayName": "Terrascan Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Terrascan policy/config/scan-report heuristics — no terrascan CLI, network, or filesystem follow.",
+  "description": "Local zero-auth MCP for Terrascan policy/config/scan-report heuristics \u2014 no terrascan CLI, network, or filesystem follow.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/terrascan-lab",
   "license": "MIT",
-  "keywords": ["mcp", "terrascan", "iac", "policy", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "terrascan", "iac", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "terrascan",
+    "iac",
+    "policy",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "terrascan",
+    "iac",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,33 @@
   "name": "line-ending-lab",
   "displayName": "Line Ending Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for EOL detect/normalize, line counting, and UTF-8 BOM strip — pure TS, no network.",
+  "description": "Local zero-auth MCP for EOL detect/normalize, line counting, and UTF-8 BOM strip \u2014 pure TS, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/line-ending-lab",
   "license": "MIT",
-  "keywords": ["mcp", "eol", "lf", "crlf", "bom", "line-endings", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "eol", "crlf", "lf", "bom", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "eol",
+    "lf",
+    "crlf",
+    "bom",
+    "line-endings",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "eol",
+    "crlf",
+    "lf",
+    "bom",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

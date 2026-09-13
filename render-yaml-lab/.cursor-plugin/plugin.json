@@ -2,14 +2,30 @@
   "name": "render-yaml-lab",
   "displayName": "Render YAML Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for render.yaml text — services list, envVars keys (secret values redacted), healthCheckPath hints, and lite lint — pasted YAML only, no Render API, no network.",
+  "description": "Local zero-auth MCP for render.yaml text \u2014 services list, envVars keys (secret values redacted), healthCheckPath hints, and lite lint \u2014 pasted YAML only, no Render API, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/render-yaml-lab",
   "license": "MIT",
-  "keywords": ["mcp", "render", "render-yaml", "yaml", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "render", "render-yaml", "yaml", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "render",
+    "render-yaml",
+    "yaml",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "render",
+    "render-yaml",
+    "yaml",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

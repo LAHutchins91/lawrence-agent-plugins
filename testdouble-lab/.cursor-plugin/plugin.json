@@ -2,14 +2,31 @@
   "name": "testdouble-lab",
   "displayName": "Testdouble Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for testdouble.js JS/TS text — replacements, when/verify hints, and lite lint — no testdouble runtime or network.",
+  "description": "Local zero-auth MCP for testdouble.js JS/TS text \u2014 replacements, when/verify hints, and lite lint \u2014 no testdouble runtime or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/testdouble-lab",
   "license": "MIT",
-  "keywords": ["mcp", "testdouble", "td", "replace", "when", "verify", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "testdouble", "td", "mock", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "testdouble",
+    "td",
+    "replace",
+    "when",
+    "verify",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "testdouble",
+    "td",
+    "mock",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

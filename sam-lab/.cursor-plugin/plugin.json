@@ -2,14 +2,29 @@
   "name": "sam-lab",
   "displayName": "SAM Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for AWS SAM template.yaml heuristics — no SAM CLI, AWS deploy, or network.",
+  "description": "Local zero-auth MCP for AWS SAM template.yaml heuristics \u2014 no SAM CLI, AWS deploy, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/sam-lab",
   "license": "MIT",
-  "keywords": ["mcp", "aws-sam", "sam", "lambda", "cloudformation", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "sam", "aws", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "aws-sam",
+    "sam",
+    "lambda",
+    "cloudformation",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "sam",
+    "aws",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

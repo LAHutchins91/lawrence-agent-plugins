@@ -2,14 +2,30 @@
   "name": "base64-url-lab",
   "displayName": "Base64 URL Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Base64/Base64URL encode-decode, URL encode-decode, and JWT part inspection — no SaaS product.",
+  "description": "Local zero-auth MCP for Base64/Base64URL encode-decode, URL encode-decode, and JWT part inspection \u2014 no SaaS product.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/base64-url-lab",
   "license": "MIT",
-  "keywords": ["mcp", "base64", "base64url", "url-encode", "jwt", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "base64", "url", "jwt", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "base64",
+    "base64url",
+    "url-encode",
+    "jwt",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "base64",
+    "url",
+    "jwt",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

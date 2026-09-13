@@ -2,14 +2,29 @@
   "name": "detox-lab",
   "displayName": "Detox Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Detox JS/TS heuristics — matcher call sites, action counts, sync/wait counts, and lite lint — pasted source only, never runs Detox or a device/emulator, no network.",
+  "description": "Local zero-auth MCP for Detox JS/TS heuristics \u2014 matcher call sites, action counts, sync/wait counts, and lite lint \u2014 pasted source only, never runs Detox or a device/emulator, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/detox-lab",
   "license": "MIT",
-  "keywords": ["mcp", "detox", "mobile", "react-native", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "detox", "mobile", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "detox",
+    "mobile",
+    "react-native",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "detox",
+    "mobile",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

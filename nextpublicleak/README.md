@@ -1,12 +1,9 @@
-# NextPublicLeak (Cursor plugin) — FREE forever
+# Next Public Leak
 
-Scan Next.js for secrets via NEXT_PUBLIC_* or client components
+Scan Next.js for secrets via NEXT_PUBLIC_* or client components.
 
-## Install
-Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+Marketplace install is **free forever** — no paywall in this plugin. Optional Pro CI gates: [plugins.lawrence.dev/pro](https://plugins.lawrence.dev/pro).
 
-## Upgrade for CI fail
-Pro available · https://plugins.lawrence.dev/pro
+## License
 
-## What it does
-Runs `nextpublicleak` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).
+MIT

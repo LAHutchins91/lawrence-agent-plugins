@@ -2,14 +2,28 @@
   "name": "kubeval-lab",
   "displayName": "Kubeval Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for kubeval CLI-flags / config heuristics (schema locations, strict, kubernetes/openshift versions) — no kubeval CLI, network schema fetch, or filesystem follow.",
+  "description": "Local zero-auth MCP for kubeval CLI-flags / config heuristics (schema locations, strict, kubernetes/openshift versions) \u2014 no kubeval CLI, network schema fetch, or filesystem follow.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/kubeval-lab",
   "license": "MIT",
-  "keywords": ["mcp", "kubeval", "kubernetes", "k8s", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "kubeval", "k8s", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "kubeval",
+    "kubernetes",
+    "k8s",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "kubeval",
+    "k8s",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

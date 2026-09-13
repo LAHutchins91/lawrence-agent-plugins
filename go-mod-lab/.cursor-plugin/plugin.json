@@ -2,14 +2,30 @@
   "name": "go-mod-lab",
   "displayName": "Go Mod Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for go.mod text — extract module/go, list require/replace, and lite lint — pasted go.mod only, no go CLI, no network.",
+  "description": "Local zero-auth MCP for go.mod text \u2014 extract module/go, list require/replace, and lite lint \u2014 pasted go.mod only, no go CLI, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/go-mod-lab",
   "license": "MIT",
-  "keywords": ["mcp", "go", "gomod", "golang", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "go", "gomod", "golang", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "go",
+    "gomod",
+    "golang",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "go",
+    "gomod",
+    "golang",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

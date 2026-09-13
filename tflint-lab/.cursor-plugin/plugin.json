@@ -2,14 +2,28 @@
   "name": "tflint-lab",
   "displayName": "TFLint Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for TFLint .tflint.hcl heuristics — no tflint CLI, terraform, or network.",
+  "description": "Local zero-auth MCP for TFLint .tflint.hcl heuristics \u2014 no tflint CLI, terraform, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/tflint-lab",
   "license": "MIT",
-  "keywords": ["mcp", "tflint", "terraform", "hcl", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "tflint", "terraform", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "tflint",
+    "terraform",
+    "hcl",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "tflint",
+    "terraform",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,28 @@
   "name": "vault-lab",
   "displayName": "Vault Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Vault HCL policy / auth / secrets-engine config heuristics — no vault CLI, server, or network.",
+  "description": "Local zero-auth MCP for Vault HCL policy / auth / secrets-engine config heuristics \u2014 no vault CLI, server, or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/vault-lab",
   "license": "MIT",
-  "keywords": ["mcp", "vault", "hcl", "policy", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["FREE", "zero-auth", "vault", "hcl", "mcp", "local"],
+  "keywords": [
+    "mcp",
+    "vault",
+    "hcl",
+    "policy",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "vault",
+    "hcl",
+    "mcp",
+    "local"
+  ],
   "mcpServers": "./mcp.json"
 }

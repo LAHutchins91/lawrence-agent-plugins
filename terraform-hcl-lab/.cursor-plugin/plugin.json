@@ -2,14 +2,28 @@
   "name": "terraform-hcl-lab",
   "displayName": "Terraform HCL Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Terraform HCL text — list resources/modules, variable lookup, and lite lint — pasted HCL only, no terraform binary, no network.",
+  "description": "Local zero-auth MCP for Terraform HCL text \u2014 list resources/modules, variable lookup, and lite lint \u2014 pasted HCL only, no terraform binary, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/terraform-hcl-lab",
   "license": "MIT",
-  "keywords": ["mcp", "terraform", "hcl", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "terraform", "hcl", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "terraform",
+    "hcl",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "terraform",
+    "hcl",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

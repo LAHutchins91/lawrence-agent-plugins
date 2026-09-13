@@ -2,14 +2,30 @@
   "name": "nuxt-config-lab",
   "displayName": "Nuxt Config Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for nuxt.config.* text — modules, runtimeConfig keys, routeRules, and lite lint — pasted config only, no Nuxt binary, no network.",
+  "description": "Local zero-auth MCP for nuxt.config.* text \u2014 modules, runtimeConfig keys, routeRules, and lite lint \u2014 pasted config only, no Nuxt binary, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/nuxt-config-lab",
   "license": "MIT",
-  "keywords": ["mcp", "nuxt", "nuxtjs", "nuxt-config", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "nuxt", "nuxtjs", "nuxt-config", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "nuxt",
+    "nuxtjs",
+    "nuxt-config",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "nuxt",
+    "nuxtjs",
+    "nuxt-config",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

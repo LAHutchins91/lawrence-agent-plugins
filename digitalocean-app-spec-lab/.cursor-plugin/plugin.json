@@ -2,14 +2,30 @@
   "name": "digitalocean-app-spec-lab",
   "displayName": "DigitalOcean App Spec Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for DigitalOcean .do/app.yaml App Spec text — services/workers/jobs/static_sites, env keys, routes/ingress hints, and lite lint — no DigitalOcean API or network.",
+  "description": "Local zero-auth MCP for DigitalOcean .do/app.yaml App Spec text \u2014 services/workers/jobs/static_sites, env keys, routes/ingress hints, and lite lint \u2014 no DigitalOcean API or network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/digitalocean-app-spec-lab",
   "license": "MIT",
-  "keywords": ["mcp", "digitalocean", "app-spec", "app.yaml", "yaml", "developer-tools"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "digitalocean", "app-spec", "app.yaml", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "digitalocean",
+    "app-spec",
+    "app.yaml",
+    "yaml",
+    "developer-tools"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "digitalocean",
+    "app-spec",
+    "app.yaml",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

@@ -2,14 +2,30 @@
   "name": "jest-mock-lab",
   "displayName": "Jest Mock Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for Jest mock JS/TS heuristics — mock listings, spy/fn counts, timer counts, and lite lint — pasted source only, never runs Jest, no Jest runtime, no network.",
+  "description": "Local zero-auth MCP for Jest mock JS/TS heuristics \u2014 mock listings, spy/fn counts, timer counts, and lite lint \u2014 pasted source only, never runs Jest, no Jest runtime, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/jest-mock-lab",
   "license": "MIT",
-  "keywords": ["mcp", "jest", "mock", "spy", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "jest", "mock", "spy", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "jest",
+    "mock",
+    "spy",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "jest",
+    "mock",
+    "spy",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }

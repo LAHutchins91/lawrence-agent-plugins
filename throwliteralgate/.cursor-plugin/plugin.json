@@ -1,15 +1,24 @@
 {
   "name": "throwliteralgate",
+  "displayName": "Throw Literal Gate",
   "version": "0.1.0",
-  "description": "Fail CI when code throws string/number literals instead of Error. Free forever in Cursor.",
+  "description": "Fail CI when code throws string/number literals instead of Error.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/throwliteralgate",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "throwliteralgate",
     "free"
+  ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor"
   ]
 }

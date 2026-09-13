@@ -2,14 +2,30 @@
   "name": "angular-json-lab",
   "displayName": "Angular JSON Lab",
   "version": "1.0.0",
-  "description": "Local zero-auth MCP for angular.json text — projects, architect targets, styles/scripts, and lite lint — pasted JSON only, no ng binary, no network.",
+  "description": "Local zero-auth MCP for angular.json text \u2014 projects, architect targets, styles/scripts, and lite lint \u2014 pasted JSON only, no ng binary, no network.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/angular-json-lab",
   "license": "MIT",
-  "keywords": ["mcp", "angular", "angular-json", "workspace", "local", "zero-auth"],
-  "category": "developer-tools",
-  "tags": ["mcp", "local", "angular", "angular-json", "workspace", "zero-auth", "FREE"],
+  "keywords": [
+    "mcp",
+    "angular",
+    "angular-json",
+    "workspace",
+    "local",
+    "zero-auth"
+  ],
   "logo": "assets/logo.svg",
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "angular",
+    "angular-json",
+    "workspace",
+    "zero-auth",
+    "FREE"
+  ],
   "mcpServers": "./mcp.json"
 }
