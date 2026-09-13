@@ -1,0 +1,15 @@
+{
+  "name": "checkov-lab",
+  "displayName": "Checkov Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Checkov config/skip heuristics — check ID listings, framework/skip hints, and lite lint — pasted source only, never runs checkov CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "checkov", "iac", "policy-as-code", "security", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "checkov", "iac", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

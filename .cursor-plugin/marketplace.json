@@ -5513,6 +5513,19 @@
         "devops",
         "devtools"
       ]
+    },
+    {
+      "name": "checkov-lab",
+      "source": "checkov-lab",
+      "description": "Checkov checks/frameworks/skips parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "checkov",
+        "iac",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
