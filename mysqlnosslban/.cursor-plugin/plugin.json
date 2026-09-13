@@ -1,6 +1,6 @@
 {
   "name": "mysqlnosslban",
-  "displayName": "My SQL No SSL Ban",
+  "displayName": "MySQL No SSL Ban",
   "version": "0.1.0",
   "description": "Fail CI when MySQL/MariaDB connections disable TLS.",
   "author": {

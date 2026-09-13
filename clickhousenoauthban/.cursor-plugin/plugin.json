@@ -1,6 +1,6 @@
 {
   "name": "clickhousenoauthban",
-  "displayName": "ClickHouse Noauth Ban",
+  "displayName": "Clickhouse No Auth Ban",
   "version": "0.1.0",
   "description": "Fail CI when ClickHouse clients connect without auth.",
   "author": {

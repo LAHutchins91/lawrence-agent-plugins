@@ -1,6 +1,6 @@
 {
   "name": "githubactionsoidcmissban",
-  "displayName": "Git Hub Actions OIDC Miss Ban",
+  "displayName": "GitHub Actions OIDC Miss Ban",
   "version": "0.1.0",
   "description": "Fail CI when GitHub Actions use long-lived cloud keys instead of OIDC.",
   "author": {

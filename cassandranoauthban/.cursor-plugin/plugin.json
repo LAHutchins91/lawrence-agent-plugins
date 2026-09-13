@@ -1,6 +1,6 @@
 {
   "name": "cassandranoauthban",
-  "displayName": "Cassandra Noauth Ban",
+  "displayName": "Cassandra No Auth Ban",
   "version": "0.1.0",
   "description": "Fail CI when Cassandra/Scylla clients connect without auth.",
   "author": {

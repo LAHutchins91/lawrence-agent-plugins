@@ -1,6 +1,6 @@
 {
   "name": "coepcoopban",
-  "displayName": "COEP COOP Ban",
+  "displayName": "Coep Coop Ban",
   "version": "0.1.0",
   "description": "Fail CI on isolation apps missing COOP/COEP headers.",
   "author": {
