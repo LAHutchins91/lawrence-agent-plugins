@@ -5487,6 +5487,19 @@
         "vm",
         "devtools"
       ]
+    },
+    {
+      "name": "conftest-lab",
+      "source": "conftest-lab",
+      "description": "Conftest/Rego policies/namespaces/inputs parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "conftest",
+        "rego",
+        "policy",
+        "devtools"
+      ]
     }
   ]
 }
