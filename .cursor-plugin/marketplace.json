@@ -1566,6 +1566,18 @@
         "property-testing",
         "devtools"
       ]
+    },
+    {
+      "name": "ow-lab",
+      "source": "ow-lab",
+      "description": "ow predicates/shapes/modifiers parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ow",
+        "validation",
+        "devtools"
+      ]
     }
   ]
 }
