@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="License SPDX Lab logo">
+  <rect width="256" height="256" rx="48" fill="#171923"/>
+  <rect x="62" y="48" width="132" height="160" rx="16" fill="#1e293b" stroke="#a78bfa" stroke-width="10"/>
+  <path d="M92 96h72M92 128h56M92 160h64" stroke="#c4b5fd" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="176" cy="176" r="34" fill="#312e81" stroke="#fbbf24" stroke-width="8"/>
+  <path d="M164 176l8 8 18-20" fill="none" stroke="#fbbf24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

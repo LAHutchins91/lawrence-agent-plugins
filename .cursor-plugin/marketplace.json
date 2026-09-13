@@ -560,6 +560,18 @@
         "headers",
         "devtools"
       ]
+    },
+    {
+      "name": "license-spdx-lab",
+      "source": "license-spdx-lab",
+      "description": "SPDX lookup/normalize, heuristic compat hints, license header suggest \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "spdx",
+        "license",
+        "devtools"
+      ]
     }
   ]
 }
