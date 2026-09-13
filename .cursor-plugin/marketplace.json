@@ -1695,6 +1695,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "enzyme-lab",
+      "source": "enzyme-lab",
+      "description": "Enzyme mounts/finders/lifecycle parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "enzyme",
+        "react",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }

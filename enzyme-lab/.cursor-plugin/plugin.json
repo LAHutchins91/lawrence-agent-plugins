@@ -1,0 +1,15 @@
+{
+  "name": "enzyme-lab",
+  "displayName": "Enzyme Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Enzyme mount/shallow/render JS/TS heuristics — mount listings, finder counts, lifecycle counts, and lite lint — pasted source only, never runs Enzyme or React, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "enzyme", "mount", "shallow", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "enzyme", "mount", "shallow", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
