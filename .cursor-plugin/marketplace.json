@@ -793,6 +793,19 @@
         "tsconfig",
         "devtools"
       ]
+    },
+    {
+      "name": "pyproject-lab",
+      "source": "pyproject-lab",
+      "description": "pyproject.toml deps/scripts/build-backend + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "python",
+        "pyproject",
+        "toml",
+        "devtools"
+      ]
     }
   ]
 }
