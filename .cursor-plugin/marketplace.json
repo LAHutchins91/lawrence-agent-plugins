@@ -1074,6 +1074,18 @@
         "css",
         "devtools"
       ]
+    },
+    {
+      "name": "next-config-lab",
+      "source": "next-config-lab",
+      "description": "Next.js rewrites/redirects/images domains parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "nextjs",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }

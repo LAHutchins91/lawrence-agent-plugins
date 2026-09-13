@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Next Config Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0a0a0a"/>
+  <path d="M64 72h36c28 0 46 16 46 42s-18 42-46 42H88v28H64V72zm24 24v36h12c14 0 22-8 22-18s-8-18-22-18H88z" fill="#ffffff"/>
+  <path d="M168 72h24l40 112h-26l-8-24h-40l-8 24h-26L168 72zm8 28l-14 40h28l-14-40z" fill="#ffffff"/>
+  <circle cx="208" cy="64" r="10" fill="#0070F3"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#E5E7EB">NEXT CONFIG</text>
+</svg>
