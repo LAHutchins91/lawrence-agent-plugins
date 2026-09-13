@@ -1218,6 +1218,19 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "fly-toml-lab",
+      "source": "fly-toml-lab",
+      "description": "fly.toml app/services/env parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "fly",
+        "flyio",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }

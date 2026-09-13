@@ -1,0 +1,15 @@
+{
+  "name": "fly-toml-lab",
+  "displayName": "Fly TOML Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for fly.toml text — app/region, services ports, env keys (secret-like redacted), and lite lint — pasted TOML only, no flyctl, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "fly", "fly-toml", "flyio", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "fly", "fly-toml", "flyio", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
