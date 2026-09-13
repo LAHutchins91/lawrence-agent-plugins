@@ -1,0 +1,15 @@
+{
+  "name": "accept-language-lab",
+  "displayName": "Accept-Language Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Accept-Language parse, BCP47-lite validate, quality sort, and basic language negotiation — pasted header text only, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "accept-language", "bcp47", "i18n", "header", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "accept-language", "bcp47", "i18n", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

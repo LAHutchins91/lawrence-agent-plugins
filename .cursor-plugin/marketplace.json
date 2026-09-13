@@ -608,6 +608,19 @@
         "env",
         "devtools"
       ]
+    },
+    {
+      "name": "accept-language-lab",
+      "source": "accept-language-lab",
+      "description": "Parse/negotiate Accept-Language, BCP47 lite validate, quality sort \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "http",
+        "i18n",
+        "accept-language",
+        "devtools"
+      ]
     }
   ]
 }
