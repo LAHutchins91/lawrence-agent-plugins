@@ -1541,6 +1541,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "typebox-lab",
+      "source": "typebox-lab",
+      "description": "TypeBox schemas/props/compose parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "typebox",
+        "json-schema",
+        "validation",
+        "devtools"
+      ]
     }
   ]
 }
