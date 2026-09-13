@@ -1,0 +1,15 @@
+{
+  "name": "webpack-config-lab",
+  "displayName": "Webpack Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for webpack config text — entry points, loaders, plugins, and lite lint — no webpack binary or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "webpack", "webpack-config", "bundler", "loaders", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "webpack", "webpack-config", "bundler", "loaders", "plugins", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

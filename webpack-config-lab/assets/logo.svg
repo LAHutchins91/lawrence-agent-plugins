@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="webpack-config-lab">
+  <rect width="128" height="128" rx="24" fill="#0b1d2a"/>
+  <polygon points="64,22 102,44 102,84 64,106 26,84 26,44" fill="#1C78C0"/>
+  <polygon points="64,34 90,49 90,79 64,94 38,79 38,49" fill="#8ED6FB"/>
+  <text x="64" y="68" text-anchor="middle" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#0b1d2a">WP</text>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="7" font-weight="700" fill="#94a3b8">webpack-config-lab</text>
+</svg>

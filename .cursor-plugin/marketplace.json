@@ -1002,6 +1002,18 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "webpack-config-lab",
+      "source": "webpack-config-lab",
+      "description": "Webpack entry/loaders/plugins parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "webpack",
+        "bundler",
+        "devtools"
+      ]
     }
   ]
 }
