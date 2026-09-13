@@ -1411,6 +1411,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "joi-schema-lab",
+      "source": "joi-schema-lab",
+      "description": "Joi schemas/fields/rules parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "joi",
+        "validation",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }
