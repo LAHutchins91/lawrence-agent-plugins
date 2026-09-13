@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Knex Migration Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0B1220"/>
+  <rect x="56" y="64" width="144" height="24" rx="6" fill="#22C55E"/>
+  <rect x="56" y="100" width="144" height="24" rx="6" fill="#4ADE80"/>
+  <rect x="56" y="136" width="144" height="24" rx="6" fill="#86EFAC"/>
+  <rect x="56" y="172" width="100" height="24" rx="6" fill="#BBF7D0"/>
+  <path d="M190 176 l18 12 l-18 12 z" fill="#22C55E"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" font-weight="700" fill="#BBF7D0">KNEX MIGRATION</text>
+</svg>

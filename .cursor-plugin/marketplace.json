@@ -1372,6 +1372,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "knex-migration-lab",
+      "source": "knex-migration-lab",
+      "description": "Knex migrations/table ops/seeds parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "knex",
+        "migrations",
+        "sql",
+        "devtools"
+      ]
     }
   ]
 }
