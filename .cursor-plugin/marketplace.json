@@ -5383,6 +5383,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "pulumi-policy-lab",
+      "source": "pulumi-policy-lab",
+      "description": "Pulumi Policy as Code policies/rules/packs parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "pulumi",
+        "policy",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }
