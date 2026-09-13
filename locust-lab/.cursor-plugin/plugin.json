@@ -1,0 +1,15 @@
+{
+  "name": "locust-lab",
+  "displayName": "Locust Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Locust Python heuristics — @task / TaskSet listings, HttpUser wait_time hints, events/sleep counts, and lite lint — pasted source only, never runs Locust or load tests, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "locust", "load-testing", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "locust", "load-testing", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

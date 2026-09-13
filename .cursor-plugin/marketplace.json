@@ -1877,6 +1877,19 @@
         "performance",
         "devtools"
       ]
+    },
+    {
+      "name": "locust-lab",
+      "source": "locust-lab",
+      "description": "Locust tasks/users/events parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "locust",
+        "load-testing",
+        "performance",
+        "devtools"
+      ]
     }
   ]
 }
