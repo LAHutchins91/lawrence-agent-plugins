@@ -1682,6 +1682,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "testing-library-lab",
+      "source": "testing-library-lab",
+      "description": "Testing Library queries/events/wait parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "testing-library",
+        "rtl",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }

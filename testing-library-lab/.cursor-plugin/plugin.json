@@ -1,0 +1,15 @@
+{
+  "name": "testing-library-lab",
+  "displayName": "Testing Library Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Testing Library JS/TS text — queries, events, waits, and lite lint — no DOM/@testing-library runtime or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "testing-library", "queries", "user-event", "waitFor", "typescript", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "testing-library", "queries", "user-event", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

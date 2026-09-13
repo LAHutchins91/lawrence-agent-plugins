@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="testing-library-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="30" y="34" width="68" height="52" rx="8" fill="none" stroke="#38bdf8" stroke-width="5"/>
+  <circle cx="52" cy="56" r="8" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M64 68 L78 52" stroke="#7dd3fc" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="96" cy="42" r="12" fill="#0284c7"/>
+  <path d="M90 42 L94 46 L102 36" fill="none" stroke="#f0f9ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="6.5" font-weight="700" fill="#94a3b8">testing-library-lab</text>
+</svg>
