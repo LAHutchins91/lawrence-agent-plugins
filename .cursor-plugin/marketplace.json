@@ -1244,6 +1244,19 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "render-yaml-lab",
+      "source": "render-yaml-lab",
+      "description": "render.yaml services/env/healthcheck parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "render",
+        "yaml",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
