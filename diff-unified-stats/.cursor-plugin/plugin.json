@@ -1,0 +1,15 @@
+{
+  "name": "diff-unified-stats",
+  "displayName": "Diff Unified Stats",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for unified-diff stats: file/add/del counts, file list with status, hunk counts, and light risk flags — paste text only, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "diff", "unified-diff", "stats", "risk", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "diff", "stats", "risk", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

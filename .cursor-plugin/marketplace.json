@@ -286,6 +286,18 @@
         "sha256",
         "hmac"
       ]
+    },
+    {
+      "name": "diff-unified-stats",
+      "source": "diff-unified-stats",
+      "description": "Unified diff stats, file list, hunk counts, risk flags \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "diff",
+        "git",
+        "code-review"
+      ]
     }
   ]
 }
