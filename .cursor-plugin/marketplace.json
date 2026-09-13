@@ -1825,6 +1825,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "espresso-lab",
+      "source": "espresso-lab",
+      "description": "Espresso matchers/actions/idling parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "espresso",
+        "android",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }
