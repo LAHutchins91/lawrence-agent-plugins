@@ -2443,6 +2443,19 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "terrascan-lab",
+      "source": "terrascan-lab",
+      "description": "Terrascan policies/scans/severity heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "terrascan",
+        "security",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }
