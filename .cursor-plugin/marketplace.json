@@ -2508,6 +2508,32 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "yamllint-lab",
+      "source": "yamllint-lab",
+      "description": "yamllint rules/extends/ignores heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "yamllint",
+        "yaml",
+        "lint",
+        "devtools"
+      ]
+    },
+    {
+      "name": "kubeval-lab",
+      "source": "kubeval-lab",
+      "description": "kubeval schemas/strict/versions heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "kubeval",
+        "kubernetes",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }
