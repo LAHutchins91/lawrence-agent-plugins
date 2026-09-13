@@ -1812,6 +1812,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "xcuitest-lab",
+      "source": "xcuitest-lab",
+      "description": "XCUITest queries/actions/expectations parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "xcuitest",
+        "ios",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }
