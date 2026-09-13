@@ -157,6 +157,18 @@
         "regex",
         "devtools"
       ]
+    },
+    {
+      "name": "semver-range-lab",
+      "source": "semver-range-lab",
+      "description": "Semver range satisfy/intersect/expand + dependency range risk \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "semver",
+        "npm",
+        "dependencies"
+      ]
     }
   ]
 }

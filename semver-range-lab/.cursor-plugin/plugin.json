@@ -1,0 +1,15 @@
+{
+  "name": "semver-range-lab",
+  "displayName": "Semver Range Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for semver satisfies, range intersect, min expand from candidates, and dependency-range risk heuristics — no SaaS product.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "semver", "dependencies", "ranges", "risk", "npm"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "semver", "dependencies", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
