@@ -1,0 +1,15 @@
+{
+  "name": "bicep-lab",
+  "displayName": "Bicep Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Bicep file heuristics — param listings, resource/module hints, and lite lint — pasted source only, never runs Azure CLI or bicep CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "bicep", "azure", "arm", "iac", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "bicep", "azure", "arm", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

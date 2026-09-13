@@ -5357,6 +5357,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "bicep-lab",
+      "source": "bicep-lab",
+      "description": "Bicep params/resources/modules parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "bicep",
+        "azure",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }
