@@ -1122,6 +1122,18 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "svelte-config-lab",
+      "source": "svelte-config-lab",
+      "description": "Svelte preprocess/adapter/vite plugins parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "svelte",
+        "sveltekit",
+        "devtools"
+      ]
     }
   ]
 }
