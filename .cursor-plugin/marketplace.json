@@ -427,6 +427,18 @@
         "entities",
         "devtools"
       ]
+    },
+    {
+      "name": "path-posix-lab",
+      "source": "path-posix-lab",
+      "description": "POSIX path join/normalize/basename/relative \u2014 string ops only, free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "path",
+        "posix",
+        "devtools"
+      ]
     }
   ]
 }

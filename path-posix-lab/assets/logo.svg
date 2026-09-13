@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="path-posix-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <path d="M24 40h28l8 8h44c4.4 0 8 3.6 8 8v40c0 4.4-3.6 8-8 8H24c-4.4 0-8-3.6-8-8V48c0-4.4 3.6-8 8-8z" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+  <text x="64" y="78" text-anchor="middle" font-family="ui-monospace, monospace" font-size="22" font-weight="700" fill="#22c55e">/a/b</text>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="700" fill="#94a3b8">path-posix</text>
+</svg>
