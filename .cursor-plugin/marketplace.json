@@ -5461,6 +5461,19 @@
         "devops",
         "devtools"
       ]
+    },
+    {
+      "name": "packer-lab",
+      "source": "packer-lab",
+      "description": "Packer builds/sources/provisioners parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "packer",
+        "hashicorp",
+        "images",
+        "devtools"
+      ]
     }
   ]
 }
