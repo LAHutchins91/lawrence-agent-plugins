@@ -2341,6 +2341,11 @@
       "name": "kubeval-lab",
       "source": "kubeval-lab",
       "description": "kubeval schemas/strict/versions heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "polaris-lab",
+      "source": "polaris-lab",
+      "description": "Polaris Kubernetes checks/exemptions/severity heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }

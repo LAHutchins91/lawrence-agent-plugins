@@ -1,0 +1,30 @@
+{
+  "name": "polaris-lab",
+  "displayName": "Polaris Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Fairwinds Polaris config heuristics (checks, exemptions, severity) \u2014 no polaris CLI, network, or filesystem follow.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/polaris-lab",
+  "keywords": [
+    "mcp",
+    "polaris",
+    "fairwinds",
+    "kubernetes",
+    "k8s",
+    "developer-tools"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "polaris",
+    "k8s",
+    "mcp",
+    "local"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
