@@ -1158,6 +1158,18 @@
         "react-native",
         "devtools"
       ]
+    },
+    {
+      "name": "angular-json-lab",
+      "source": "angular-json-lab",
+      "description": "angular.json projects/architect/styles parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "angular",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
