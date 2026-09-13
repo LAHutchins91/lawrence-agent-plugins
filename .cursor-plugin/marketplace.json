@@ -1617,6 +1617,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "supertest-lab",
+      "source": "supertest-lab",
+      "description": "Supertest requests/expects/auth parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "supertest",
+        "http",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }

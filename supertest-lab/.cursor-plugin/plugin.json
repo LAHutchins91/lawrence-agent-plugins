@@ -1,0 +1,15 @@
+{
+  "name": "supertest-lab",
+  "displayName": "Supertest Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Supertest JS/TS heuristics — request method counts, expect hints, auth hints, and lite lint — pasted source only, never sends HTTP, no network. Bearer tokens redacted.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "supertest", "http-test", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "supertest", "http-test", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
