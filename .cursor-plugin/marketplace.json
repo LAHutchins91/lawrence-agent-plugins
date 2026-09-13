@@ -868,6 +868,17 @@
         "java",
         "devtools"
       ]
+    },
+    {
+      "name": "editorconfig-lab",
+      "source": "editorconfig-lab",
+      "description": "EditorConfig parse/resolve/diff + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "editorconfig",
+        "devtools"
+      ]
     }
   ]
 }
