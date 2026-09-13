@@ -1643,6 +1643,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "chai-assert-lab",
+      "source": "chai-assert-lab",
+      "description": "Chai asserts/chains/plugins parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "chai",
+        "assertions",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }

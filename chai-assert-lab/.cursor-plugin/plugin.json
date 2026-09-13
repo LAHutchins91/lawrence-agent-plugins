@@ -1,0 +1,15 @@
+{
+  "name": "chai-assert-lab",
+  "displayName": "Chai Assert Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Chai JS/TS heuristics — assert style counts, chain hints, plugin hints, and lite lint — pasted source only, never executes assertions, no chai assert runtime, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "chai", "assert", "expect", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "chai", "assert", "expect", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
