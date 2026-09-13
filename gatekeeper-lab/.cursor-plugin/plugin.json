@@ -1,0 +1,31 @@
+{
+  "name": "gatekeeper-lab",
+  "displayName": "Gatekeeper Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for OPA Gatekeeper ConstraintTemplate / Constraint YAML heuristics \u2014 no gatekeeper CLI, OPA runtime, cluster, or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/gatekeeper-lab",
+  "keywords": [
+    "mcp",
+    "gatekeeper",
+    "opa",
+    "kubernetes",
+    "k8s",
+    "policy",
+    "developer-tools"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "gatekeeper",
+    "k8s",
+    "mcp",
+    "local"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

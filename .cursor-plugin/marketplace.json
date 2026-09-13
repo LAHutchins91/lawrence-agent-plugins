@@ -2371,6 +2371,11 @@
       "name": "prettier-lab",
       "source": "prettier-lab",
       "description": "Prettier options/overrides/ignores heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "gatekeeper-lab",
+      "source": "gatekeeper-lab",
+      "description": "OPA Gatekeeper constraints/templates/violations heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }
