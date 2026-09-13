@@ -1,0 +1,15 @@
+{
+  "name": "git-archaeology",
+  "displayName": "Git Archaeology",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for git archaeology: blame ownership digests, churn hotspots, why-here briefs, and PR diff risk — pasted text only.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "git", "blame", "diff", "churn", "archaeology", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "git", "blame", "diff", "churn", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

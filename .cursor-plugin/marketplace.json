@@ -96,6 +96,19 @@
         "fixtures",
         "testing"
       ]
+    },
+    {
+      "name": "git-archaeology",
+      "source": "git-archaeology",
+      "description": "Blame digests, churn hotspots, why-here briefs, and diff risk heuristics \u2014 local, zero-auth, free.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "git",
+        "blame",
+        "churn",
+        "code-review"
+      ]
     }
   ]
 }
