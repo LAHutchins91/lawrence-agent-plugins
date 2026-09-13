@@ -122,6 +122,18 @@
         "compose",
         "security"
       ]
+    },
+    {
+      "name": "openapi-mock-lite",
+      "source": "openapi-mock-lite",
+      "description": "Load OpenAPI specs, mock responses, find coverage gaps, heuristic security scan \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "openapi",
+        "mock",
+        "api"
+      ]
     }
   ]
 }

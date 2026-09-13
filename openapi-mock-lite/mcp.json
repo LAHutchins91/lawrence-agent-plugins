@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "openapi-mock-lite": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}
