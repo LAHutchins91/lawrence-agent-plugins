@@ -964,6 +964,18 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "jest-config-lab",
+      "source": "jest-config-lab",
+      "description": "Jest testMatch/coverage/projects parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "jest",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "jest-config-lab",
+  "displayName": "Jest Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Jest config text — testMatch summary, coverage summary, projects list, and lite lint — no jest binary or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "jest", "jest-config", "testing", "coverage", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "jest", "jest-config", "testing", "coverage", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
