@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="csv-delimiter-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="22" y="36" width="20" height="56" rx="4" fill="#22d3ee"/>
+  <rect x="48" y="36" width="8" height="56" rx="2" fill="#64748b"/>
+  <rect x="62" y="36" width="20" height="56" rx="4" fill="#38bdf8"/>
+  <rect x="88" y="36" width="8" height="56" rx="2" fill="#64748b"/>
+  <rect x="102" y="36" width="4" height="56" rx="1" fill="#94a3b8"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10" font-weight="700" fill="#94a3b8">CSV</text>
+</svg>

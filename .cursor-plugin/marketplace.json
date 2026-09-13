@@ -512,6 +512,18 @@
         "git",
         "devtools"
       ]
+    },
+    {
+      "name": "csv-delimiter-lab",
+      "source": "csv-delimiter-lab",
+      "description": "CSV delimiter detection/sniffing and string-level split/join \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "csv",
+        "delimiter",
+        "devtools"
+      ]
     }
   ]
 }

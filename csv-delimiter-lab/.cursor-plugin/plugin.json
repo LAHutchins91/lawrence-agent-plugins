@@ -1,0 +1,15 @@
+{
+  "name": "csv-delimiter-lab",
+  "displayName": "CSV Delimiter Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for CSV delimiter detection, quote sniffing, and simple field split/join — string-level, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "csv", "delimiter", "tsv", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "csv", "delimiter", "tsv", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
