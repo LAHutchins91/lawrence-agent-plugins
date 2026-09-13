@@ -1014,6 +1014,18 @@
         "bundler",
         "devtools"
       ]
+    },
+    {
+      "name": "vite-config-lab",
+      "source": "vite-config-lab",
+      "description": "Vite plugins/alias/server proxy parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "vite",
+        "bundler",
+        "devtools"
+      ]
     }
   ]
 }

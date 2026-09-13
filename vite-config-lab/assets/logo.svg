@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Vite Config Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0f172a"/>
+  <polygon points="128,48 208,188 168,188 128,112 88,188 48,188" fill="#646CFF"/>
+  <polygon points="128,88 160,168 140,168 128,140 116,168 96,168" fill="#FFD62E"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#E5E7EB">VITE</text>
+</svg>

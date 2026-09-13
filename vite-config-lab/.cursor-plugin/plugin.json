@@ -1,0 +1,15 @@
+{
+  "name": "vite-config-lab",
+  "displayName": "Vite Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for vite.config.* text — plugins, alias, server.proxy, and lite lint — pasted config only, no vite binary, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "vite", "vite.config", "bundler", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "vite", "vite.config", "bundler", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
