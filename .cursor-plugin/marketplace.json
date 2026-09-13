@@ -976,6 +976,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "cypress-config-lab",
+      "source": "cypress-config-lab",
+      "description": "Cypress e2e/component/env config parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cypress",
+        "testing",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }
