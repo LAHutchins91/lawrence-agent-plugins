@@ -855,6 +855,19 @@
         "bundler",
         "devtools"
       ]
+    },
+    {
+      "name": "pom-xml-lab",
+      "source": "pom-xml-lab",
+      "description": "Maven pom.xml coords/deps/plugins + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "maven",
+        "pom",
+        "java",
+        "devtools"
+      ]
     }
   ]
 }

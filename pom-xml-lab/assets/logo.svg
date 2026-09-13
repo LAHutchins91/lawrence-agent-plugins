@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="POM XML Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0f172a"/>
+  <rect x="56" y="64" width="144" height="112" rx="10" fill="none" stroke="#C71A36" stroke-width="10"/>
+  <path d="M72 96h112M72 120h88M72 144h64" fill="none" stroke="#7ee787" stroke-width="8" stroke-linecap="round"/>
+  <text x="128" y="214" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#C71A36">POM</text>
+</svg>

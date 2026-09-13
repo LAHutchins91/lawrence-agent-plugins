@@ -1,0 +1,15 @@
+{
+  "name": "pom-xml-lab",
+  "displayName": "POM XML Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Maven pom.xml text — coords, deps, plugins, and lite lint — pasted XML only, no Maven CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "pom", "maven", "xml", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "pom", "maven", "xml", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

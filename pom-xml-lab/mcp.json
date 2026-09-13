@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pom-xml-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}
