@@ -2417,6 +2417,19 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "terracost-lab",
+      "source": "terracost-lab",
+      "description": "Terracost providers/usage/plan-cost heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "terracost",
+        "cost",
+        "terraform",
+        "devtools"
+      ]
     }
   ]
 }

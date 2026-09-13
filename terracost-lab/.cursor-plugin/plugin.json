@@ -1,0 +1,15 @@
+{
+  "name": "terracost-lab",
+  "displayName": "Terracost Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Terracost / terraform plan-cost config heuristics — no terracost CLI, cloud pricing API, or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "terracost", "terraform", "yaml", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["FREE", "zero-auth", "terracost", "terraform", "mcp", "local"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
