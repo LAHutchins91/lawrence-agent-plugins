@@ -2225,315 +2225,122 @@
     {
       "name": "tfsec-lab",
       "source": "tfsec-lab",
-      "description": "tfsec checks/ignores/severity parse + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "tfsec",
-        "terraform",
-        "security",
-        "devtools"
-      ]
+      "description": "tfsec checks/ignores/severity parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "vault-lab",
       "source": "vault-lab",
-      "description": "Vault HCL policy/auth/secrets-path heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "vault",
-        "hashicorp",
-        "policy",
-        "security",
-        "devtools"
-      ]
+      "description": "Vault HCL policy/auth/secrets-path heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "boundary-lab",
       "source": "boundary-lab",
-      "description": "HashiCorp Boundary scopes/auths/targets heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "boundary",
-        "hashicorp",
-        "security",
-        "devtools"
-      ]
+      "description": "HashiCorp Boundary scopes/auths/targets heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "trivy-lab",
       "source": "trivy-lab",
-      "description": "Trivy scans/ignores/severity parse + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "trivy",
-        "security",
-        "container",
-        "devtools"
-      ]
+      "description": "Trivy scans/ignores/severity parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "waypoint-lab",
       "source": "waypoint-lab",
-      "description": "HashiCorp Waypoint apps/builds/deploys HCL heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "waypoint",
-        "hashicorp",
-        "deploy",
-        "devtools"
-      ]
+      "description": "HashiCorp Waypoint apps/builds/deploys HCL heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "grype-lab",
       "source": "grype-lab",
-      "description": "Grype scans/ignores/severity parse + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "grype",
-        "security",
-        "vulnerabilities",
-        "devtools"
-      ]
+      "description": "Grype scans/ignores/severity parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "terraform-lab",
       "source": "terraform-lab",
-      "description": "Terraform HCL blocks/providers/modules heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "terraform",
-        "hcl",
-        "iac",
-        "devtools"
-      ]
+      "description": "Terraform HCL blocks/providers/modules heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "syft-lab",
       "source": "syft-lab",
-      "description": "Syft SBOM scans/formats/scope heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "syft",
-        "sbom",
-        "security",
-        "devtools"
-      ]
+      "description": "Syft SBOM scans/formats/scope heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "cosign-lab",
       "source": "cosign-lab",
-      "description": "Cosign sign/verify/attest heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "cosign",
-        "signing",
-        "security",
-        "devtools"
-      ]
+      "description": "Cosign sign/verify/attest heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "terragrunt-lab",
       "source": "terragrunt-lab",
-      "description": "Terragrunt blocks/includes/deps HCL heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "terragrunt",
-        "terraform",
-        "hcl",
-        "devtools"
-      ]
+      "description": "Terragrunt blocks/includes/deps HCL heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "sops-lab",
       "source": "sops-lab",
-      "description": "SOPS files/keys/rules heuristics + lite lint \u2014 free marketplace funnel (no secret values).",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "sops",
-        "secrets",
-        "encryption",
-        "devtools"
-      ]
+      "description": "SOPS files/keys/rules heuristics + lite lint \u2014 free marketplace funnel (no secret values)."
     },
     {
       "name": "tflint-lab",
       "source": "tflint-lab",
-      "description": "TFLint rules/plugins/config heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "tflint",
-        "terraform",
-        "lint",
-        "devtools"
-      ]
+      "description": "TFLint rules/plugins/config heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "age-lab",
       "source": "age-lab",
-      "description": "age recipients/identities/rules heuristics + lite lint \u2014 free marketplace funnel (no private keys).",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "age",
-        "encryption",
-        "secrets",
-        "devtools"
-      ]
+      "description": "age recipients/identities/rules heuristics + lite lint \u2014 free marketplace funnel (no private keys)."
     },
     {
       "name": "infracost-lab",
       "source": "infracost-lab",
-      "description": "Infracost projects/usage/currency YAML heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "infracost",
-        "cost",
-        "terraform",
-        "devtools"
-      ]
+      "description": "Infracost projects/usage/currency YAML heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "gitleaks-lab",
       "source": "gitleaks-lab",
-      "description": "Gitleaks rules/allowlist/config heuristics + lite lint \u2014 free marketplace funnel (no secret values).",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "gitleaks",
-        "secrets",
-        "security",
-        "devtools"
-      ]
+      "description": "Gitleaks rules/allowlist/config heuristics + lite lint \u2014 free marketplace funnel (no secret values)."
     },
     {
       "name": "terracost-lab",
       "source": "terracost-lab",
-      "description": "Terracost providers/usage/plan-cost heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "terracost",
-        "cost",
-        "terraform",
-        "devtools"
-      ]
+      "description": "Terracost providers/usage/plan-cost heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "trufflehog-lab",
       "source": "trufflehog-lab",
-      "description": "TruffleHog detectors/filters/config heuristics + lite lint \u2014 free marketplace funnel (no secret values).",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "trufflehog",
-        "secrets",
-        "security",
-        "devtools"
-      ]
+      "description": "TruffleHog detectors/filters/config heuristics + lite lint \u2014 free marketplace funnel (no secret values)."
     },
     {
       "name": "terrascan-lab",
       "source": "terrascan-lab",
-      "description": "Terrascan policies/scans/severity heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "terrascan",
-        "security",
-        "iac",
-        "devtools"
-      ]
+      "description": "Terrascan policies/scans/severity heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "hadolint-lab",
       "source": "hadolint-lab",
-      "description": "Hadolint Dockerfile rules/ignores/config heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "hadolint",
-        "dockerfile",
-        "lint",
-        "devtools"
-      ]
+      "description": "Hadolint Dockerfile rules/ignores/config heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "kube-linter-lab",
       "source": "kube-linter-lab",
-      "description": "kube-linter checks/config/severity heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "kube-linter",
-        "kubernetes",
-        "security",
-        "devtools"
-      ]
+      "description": "kube-linter checks/config/severity heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "shellcheck-lab",
       "source": "shellcheck-lab",
-      "description": "ShellCheck rules/disables/config heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "shellcheck",
-        "shell",
-        "lint",
-        "devtools"
-      ]
+      "description": "ShellCheck rules/disables/config heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "kubeconform-lab",
       "source": "kubeconform-lab",
-      "description": "kubeconform schemas/strict/skip heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "kubeconform",
-        "kubernetes",
-        "schema",
-        "devtools"
-      ]
+      "description": "kubeconform schemas/strict/skip heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "yamllint-lab",
       "source": "yamllint-lab",
-      "description": "yamllint rules/extends/ignores heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "yamllint",
-        "yaml",
-        "lint",
-        "devtools"
-      ]
+      "description": "yamllint rules/extends/ignores heuristics + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "kubeval-lab",
       "source": "kubeval-lab",
-      "description": "kubeval schemas/strict/versions heuristics + lite lint \u2014 free marketplace funnel.",
-      "category": "developer-tools",
-      "keywords": [
-        "mcp",
-        "kubeval",
-        "kubernetes",
-        "schema",
-        "devtools"
-      ]
+      "description": "kubeval schemas/strict/versions heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }
