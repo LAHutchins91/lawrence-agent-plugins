@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trufflehog-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

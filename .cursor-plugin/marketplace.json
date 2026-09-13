@@ -2430,6 +2430,19 @@
         "terraform",
         "devtools"
       ]
+    },
+    {
+      "name": "trufflehog-lab",
+      "source": "trufflehog-lab",
+      "description": "TruffleHog detectors/filters/config heuristics + lite lint \u2014 free marketplace funnel (no secret values).",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "trufflehog",
+        "secrets",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
