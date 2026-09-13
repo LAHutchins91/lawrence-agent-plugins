@@ -343,6 +343,18 @@
         "ports",
         "networking"
       ]
+    },
+    {
+      "name": "ip-cidr-lab",
+      "source": "ip-cidr-lab",
+      "description": "Parse IPs, CIDR contain/explain, private-range checks \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ip",
+        "cidr",
+        "networking"
+      ]
     }
   ]
 }
