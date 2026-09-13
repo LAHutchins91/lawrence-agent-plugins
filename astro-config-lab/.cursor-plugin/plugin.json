@@ -1,0 +1,15 @@
+{
+  "name": "astro-config-lab",
+  "displayName": "Astro Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for astro.config text — integrations, output/adapter/site/base, vite hint, and lite lint — no astro binary or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "astro", "astro-config", "integrations", "vite", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "astro", "astro-config", "integrations", "vite", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

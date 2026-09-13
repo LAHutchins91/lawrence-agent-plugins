@@ -1110,6 +1110,18 @@
         "vue",
         "devtools"
       ]
+    },
+    {
+      "name": "astro-config-lab",
+      "source": "astro-config-lab",
+      "description": "Astro integrations/output/vite hint parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "astro",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
