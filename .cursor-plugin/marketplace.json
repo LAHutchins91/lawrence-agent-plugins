@@ -5448,6 +5448,19 @@
         "policy",
         "devtools"
       ]
+    },
+    {
+      "name": "salt-lab",
+      "source": "salt-lab",
+      "description": "Salt states/pillars/grains parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "salt",
+        "saltstack",
+        "devops",
+        "devtools"
+      ]
     }
   ]
 }
