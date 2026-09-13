@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yaml-path-query": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

@@ -191,6 +191,17 @@
         "http",
         "status-codes"
       ]
+    },
+    {
+      "name": "yaml-path-query",
+      "source": "yaml-path-query",
+      "description": "YAML parse/get/key-diff and secret redaction \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "yaml",
+        "config"
+      ]
     }
   ]
 }

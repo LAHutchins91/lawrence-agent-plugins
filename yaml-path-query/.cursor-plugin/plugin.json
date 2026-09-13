@@ -1,0 +1,15 @@
+{
+  "name": "yaml-path-query",
+  "displayName": "YAML Path Query",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for YAML parse checks, dot-path gets, nested key diffs, and secret redaction — pasted text only.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "yaml", "path", "diff", "redact", "secrets", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "yaml", "path", "redact", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
