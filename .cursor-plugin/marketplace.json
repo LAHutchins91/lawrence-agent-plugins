@@ -355,6 +355,18 @@
         "cidr",
         "networking"
       ]
+    },
+    {
+      "name": "cron-explain",
+      "source": "cron-explain",
+      "description": "Parse/validate 5-field cron, next fire times, expr diffs \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cron",
+        "schedule",
+        "devtools"
+      ]
     }
   ]
 }
