@@ -1,0 +1,15 @@
+{
+  "name": "openapi-generator-lab",
+  "displayName": "OpenAPI Generator Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for openapi-generator CLI/config heuristics — generator listings, config flag counts, template package hints, and lite lint — pasted source only, never runs openapi-generator or Java codegen, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "openapi-generator", "openapi", "codegen", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "openapi-generator", "openapi", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

@@ -2058,6 +2058,19 @@
         "codegen",
         "devtools"
       ]
+    },
+    {
+      "name": "openapi-generator-lab",
+      "source": "openapi-generator-lab",
+      "description": "openapi-generator generators/config/templates parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "openapi-generator",
+        "codegen",
+        "openapi",
+        "devtools"
+      ]
     }
   ]
 }
