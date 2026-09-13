@@ -1,0 +1,15 @@
+{
+  "name": "postcss-config-lab",
+  "displayName": "PostCSS Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for postcss config text — plugins, syntax/parser/stringifier, map/from/to, and lite lint — no postcss binary or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "postcss", "postcss-config", "plugins", "css", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "postcss", "postcss-config", "plugins", "css", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

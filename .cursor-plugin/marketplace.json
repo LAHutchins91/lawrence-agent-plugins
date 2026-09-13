@@ -1086,6 +1086,18 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "postcss-config-lab",
+      "source": "postcss-config-lab",
+      "description": "PostCSS plugins/syntax/map options parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "postcss",
+        "css",
+        "devtools"
+      ]
     }
   ]
 }
