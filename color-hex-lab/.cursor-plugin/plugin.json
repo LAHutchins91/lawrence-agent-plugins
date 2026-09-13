@@ -1,0 +1,15 @@
+{
+  "name": "color-hex-lab",
+  "displayName": "Color Hex Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for hex/RGB/HSL color parse, WCAG contrast, and lighten/darken — pure TS, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "color", "hex", "rgb", "hsl", "wcag", "contrast", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "color", "hex", "wcag", "contrast", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

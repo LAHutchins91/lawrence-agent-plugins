@@ -391,6 +391,19 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "color-hex-lab",
+      "source": "color-hex-lab",
+      "description": "Hex/RGB convert, WCAG contrast, CSS color parse, lighten/darken \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "color",
+        "css",
+        "a11y",
+        "devtools"
+      ]
     }
   ]
 }
