@@ -744,6 +744,18 @@
         "ci",
         "devtools"
       ]
+    },
+    {
+      "name": "terraform-hcl-lab",
+      "source": "terraform-hcl-lab",
+      "description": "Lite Terraform HCL resources/modules/vars + lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "terraform",
+        "hcl",
+        "devtools"
+      ]
     }
   ]
 }
