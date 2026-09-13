@@ -5396,6 +5396,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "chef-lab",
+      "source": "chef-lab",
+      "description": "Chef cookbooks/recipes/attrs parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "chef",
+        "devops",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }
