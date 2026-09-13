@@ -1591,6 +1591,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "nock-lab",
+      "source": "nock-lab",
+      "description": "nock scopes/intercepts/persist parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "nock",
+        "http",
+        "mocking",
+        "devtools"
+      ]
     }
   ]
 }
