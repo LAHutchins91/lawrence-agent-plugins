@@ -1026,6 +1026,18 @@
         "bundler",
         "devtools"
       ]
+    },
+    {
+      "name": "rollup-config-lab",
+      "source": "rollup-config-lab",
+      "description": "Rollup input/plugins/output formats parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "rollup",
+        "bundler",
+        "devtools"
+      ]
     }
   ]
 }
