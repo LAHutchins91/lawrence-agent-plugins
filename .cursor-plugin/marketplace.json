@@ -806,6 +806,18 @@
         "toml",
         "devtools"
       ]
+    },
+    {
+      "name": "eslint-config-lab",
+      "source": "eslint-config-lab",
+      "description": "ESLint config extends/rules/env parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "eslint",
+        "lint",
+        "devtools"
+      ]
     }
   ]
 }
