@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="protoc-lab">
+  <rect width="128" height="128" rx="24" fill="#1a1a2e"/>
+  <rect x="28" y="36" width="72" height="48" rx="6" fill="none" stroke="#818cf8" stroke-width="4"/>
+  <path d="M40 52 H88 M40 64 H72" stroke="#a5b4fc" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="88" cy="64" r="5" fill="#6366f1"/>
+  <path d="M48 92 L64 108 L80 92" fill="none" stroke="#c7d2fe" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="28" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#a5b4fc">.proto</text>
+  <text x="64" y="122" text-anchor="middle" font-family="ui-monospace, monospace" font-size="7" font-weight="700" fill="#818cf8">protoc-lab</text>
+</svg>

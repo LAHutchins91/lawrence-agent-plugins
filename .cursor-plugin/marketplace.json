@@ -2045,6 +2045,19 @@
         "grpc",
         "devtools"
       ]
+    },
+    {
+      "name": "protoc-lab",
+      "source": "protoc-lab",
+      "description": "protoc includes/plugins/options parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "protoc",
+        "protobuf",
+        "codegen",
+        "devtools"
+      ]
     }
   ]
 }
