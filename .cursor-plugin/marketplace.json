@@ -367,6 +367,18 @@
         "schedule",
         "devtools"
       ]
+    },
+    {
+      "name": "emoji-unicode-lab",
+      "source": "emoji-unicode-lab",
+      "description": "Unicode info, emoji detect, escapes, NFKC normalize \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "unicode",
+        "emoji",
+        "devtools"
+      ]
     }
   ]
 }
