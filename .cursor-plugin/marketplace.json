@@ -1734,6 +1734,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "puppeteer-lab",
+      "source": "puppeteer-lab",
+      "description": "Puppeteer pages/selectors/waits parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "puppeteer",
+        "browser",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }

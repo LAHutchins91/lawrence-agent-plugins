@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="puppeteer-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="28" y="28" width="72" height="52" rx="6" fill="none" stroke="#a78bfa" stroke-width="5"/>
+  <circle cx="48" cy="48" r="6" fill="#c4b5fd"/>
+  <circle cx="80" cy="48" r="6" fill="#c4b5fd"/>
+  <path d="M44 62 Q64 74 84 62" fill="none" stroke="#8b5cf6" stroke-width="3" stroke-linecap="round"/>
+  <rect x="38" y="92" width="52" height="14" rx="4" fill="#7c3aed"/>
+  <text x="64" y="103" text-anchor="middle" font-family="ui-monospace, monospace" font-size="7" font-weight="700" fill="#f5f3ff">pptr</text>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="5.5" font-weight="700" fill="#94a3b8">puppeteer-lab</text>
+</svg>
