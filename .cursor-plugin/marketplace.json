@@ -309,6 +309,17 @@
         "querystring",
         "url"
       ]
+    },
+    {
+      "name": "mime-ext-lab",
+      "source": "mime-ext-lab",
+      "description": "Extension\u2194MIME mapping and Content-Type header parse \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "mime",
+        "content-type"
+      ]
     }
   ]
 }
