@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "csv-schema-guard": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

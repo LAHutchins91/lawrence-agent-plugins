@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="csv-schema-guard">
+  <rect width="128" height="128" rx="24" fill="#0c1a14"/>
+  <rect x="22" y="28" width="84" height="72" rx="8" fill="#14532d" opacity="0.9"/>
+  <path d="M22 48h84M22 68h84M22 88h84M50 28v72M86 28v72" stroke="#22c55e" stroke-width="3" opacity="0.85"/>
+  <circle cx="98" cy="96" r="18" fill="#16a34a"/>
+  <path d="M90 96l5 5 11-12" fill="none" stroke="#ecfdf5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

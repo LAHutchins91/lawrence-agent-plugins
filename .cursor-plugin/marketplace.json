@@ -134,6 +134,29 @@
         "mock",
         "api"
       ]
+    },
+    {
+      "name": "csv-schema-guard",
+      "source": "csv-schema-guard",
+      "description": "Infer/validate CSV schemas, header diffs, heuristic PII column flags \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "csv",
+        "schema",
+        "pii"
+      ]
+    },
+    {
+      "name": "regex-lab",
+      "source": "regex-lab",
+      "description": "Test, explain, preview replace, and lint regexes \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "regex",
+        "devtools"
+      ]
     }
   ]
 }

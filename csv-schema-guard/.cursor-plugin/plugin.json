@@ -1,0 +1,15 @@
+{
+  "name": "csv-schema-guard",
+  "displayName": "CSV Schema Guard",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for CSV schema inference, validation, header diffs, and PII heuristics with masked samples — pasted text only.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "csv", "schema", "validation", "pii", "headers", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "csv", "schema", "pii", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

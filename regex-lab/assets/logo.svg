@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="regex-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <text x="64" y="58" text-anchor="middle" font-family="ui-monospace, monospace" font-size="36" font-weight="700" fill="#38bdf8">/.*</text>
+  <text x="64" y="92" text-anchor="middle" font-family="ui-monospace, monospace" font-size="22" fill="#f472b6">/</text>
+  <circle cx="98" cy="88" r="14" fill="#22c55e" opacity="0.9"/>
+  <path d="M92 88l4 4 8-10" stroke="#ecfdf5" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
