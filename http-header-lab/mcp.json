@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "http-header-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

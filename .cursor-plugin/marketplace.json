@@ -548,6 +548,18 @@
         "format",
         "devtools"
       ]
+    },
+    {
+      "name": "http-header-lab",
+      "source": "http-header-lab",
+      "description": "Parse raw headers, Cache-Control, Content-Disposition, and Forwarded values \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "http",
+        "headers",
+        "devtools"
+      ]
     }
   ]
 }
