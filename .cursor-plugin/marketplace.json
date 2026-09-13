@@ -1359,6 +1359,19 @@
         "models",
         "devtools"
       ]
+    },
+    {
+      "name": "mongoose-schema-lab",
+      "source": "mongoose-schema-lab",
+      "description": "Mongoose models/paths/indexes parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "mongoose",
+        "mongodb",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }
