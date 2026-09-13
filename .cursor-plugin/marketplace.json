@@ -2149,6 +2149,19 @@
         "charts",
         "devtools"
       ]
+    },
+    {
+      "name": "skaffold-lab",
+      "source": "skaffold-lab",
+      "description": "skaffold.yaml pipelines/builds/deploys parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "skaffold",
+        "kubernetes",
+        "devops",
+        "devtools"
+      ]
     }
   ]
 }
