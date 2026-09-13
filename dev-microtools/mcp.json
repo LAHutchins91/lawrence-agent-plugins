@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dev-microtools": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

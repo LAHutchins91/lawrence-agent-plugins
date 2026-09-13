@@ -1,0 +1,15 @@
+{
+  "name": "dev-microtools",
+  "displayName": "Dev Microtools",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP microtools: npm changelog briefs, semver risk, JWT inspect, cron explain, OpenAPI path diffs, stack-trace normalize, and env key drift — no SaaS account required.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "devtools", "semver", "openapi", "jwt", "cron", "changelog", "stack-trace"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "devtools", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

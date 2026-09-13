@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "log-fingerprint": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

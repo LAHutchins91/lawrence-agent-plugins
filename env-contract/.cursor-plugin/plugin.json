@@ -1,0 +1,15 @@
+{
+  "name": "env-contract",
+  "displayName": "Env Contract",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for env/config contracts: .env key schemas, required-vs-optional matrices, CI drift reports, and redacted sample generation.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "env", "dotenv", "contract", "schema", "secrets", "compose"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "env", "contract", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

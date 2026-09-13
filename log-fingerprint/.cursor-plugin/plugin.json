@@ -1,0 +1,15 @@
+{
+  "name": "log-fingerprint",
+  "displayName": "Log Fingerprint",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for clustering/fingerprinting log lines, spike detection, and incident-ready error-budget digests — no SaaS account required.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "logs", "fingerprint", "clustering", "incident", "slo", "error-budget"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "logs", "incident", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
