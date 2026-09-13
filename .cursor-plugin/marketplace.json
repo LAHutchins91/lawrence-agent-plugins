@@ -2356,6 +2356,11 @@
       "name": "popeye-lab",
       "source": "popeye-lab",
       "description": "Popeye Kubernetes scans/sanitizers/excludes heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "markdownlint-lab",
+      "source": "markdownlint-lab",
+      "description": "markdownlint rules/extends/ignores heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "name": "markdownlint-lab",
+  "displayName": "Markdownlint Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for markdownlint heuristics \u2014 MD### rules, extends/config hints, ignore/directive hints, and lite Markdown lint from pasted source only; never runs markdownlint CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/markdownlint-lab",
+  "keywords": [
+    "mcp",
+    "markdownlint",
+    "markdown",
+    "lint",
+    "local",
+    "zero-auth"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "markdownlint",
+    "markdown",
+    "zero-auth",
+    "FREE"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
