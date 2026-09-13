@@ -5305,6 +5305,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "serverless-lab",
+      "source": "serverless-lab",
+      "description": "serverless.yml functions/events/resources parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "serverless",
+        "aws",
+        "lambda",
+        "devtools"
+      ]
     }
   ]
 }
