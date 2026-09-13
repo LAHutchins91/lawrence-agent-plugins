@@ -1,0 +1,16 @@
+{
+  "name": "nplusoneban",
+  "version": "0.1.0",
+  "description": "Fail CI on ORM/DB calls inside loops (N+1). Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "nplusoneban",
+    "free"
+  ]
+}

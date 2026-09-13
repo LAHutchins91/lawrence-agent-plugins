@@ -1,13 +1,7 @@
 ---
-description: Heuristics to flag SSRF-prone server-side fetch patterns.
-globs:
-  - "**/*"
+description: Remind about SsrfFetchBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# ssrffetchban
 
-When reviewing code or CI for this project, apply ssrffetchban checks:
-
-Heuristics to flag SSRF-prone server-side fetch patterns.
-
-Report findings with file paths and concrete remediation. Do not invent findings.
+Prefer fixing issues SsrfFetchBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

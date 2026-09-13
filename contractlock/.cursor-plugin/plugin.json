@@ -1,7 +1,7 @@
 {
   "name": "contractlock",
   "version": "0.1.0",
-  "description": "Env contract freeze + drift CI for teams. Turn `.env.example` into a frozen JSON lockfile, then fail CI when live env files drift. Companion product that pairs with the EnvDrift funnel. Free Cursor plugin funnel. Pro $39/mo at https://contractlock.dev",
+  "description": "Env contract freeze + drift CI for teams. Turn `.env.example` into a frozen JSON lockfile, then fail CI when live env files drift. Companion product that pairs with the EnvDrift funnel. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

@@ -1,5 +1,12 @@
-# insecuretlsban
+# InsecureTlsBan (Cursor plugin) — FREE forever
 
-Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0).
+Fail CI when TLS verification is disabled.
 
-**Free** Cursor marketplace plugin (funnel). Paid Pro/Team is outside the marketplace.
+## Install
+Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+
+## Upgrade for CI fail
+Pro available · https://plugins.lawrence.dev/pro
+
+## What it does
+Runs `insecuretlsban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).

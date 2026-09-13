@@ -1,0 +1,16 @@
+{
+  "name": "jwtnonealgban",
+  "version": "0.1.0",
+  "description": "Fail CI on JWT verify with alg none or missing algorithms. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "jwtnonealgban",
+    "free"
+  ]
+}

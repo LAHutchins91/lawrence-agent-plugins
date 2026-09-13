@@ -1,0 +1,16 @@
+{
+  "name": "licensescan",
+  "version": "0.1.0",
+  "description": "Scan package.json / lockfile-ish inventory for license risk \u2014 GPL/AGPL flags, copyleft, proprietary. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "licensescan",
+    "free"
+  ]
+}

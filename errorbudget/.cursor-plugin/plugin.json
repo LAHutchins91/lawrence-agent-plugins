@@ -1,7 +1,7 @@
 {
   "name": "errorbudget",
   "version": "0.1.0",
-  "description": "Error-rate / error-budget brief for a time window from CSV/JSON metrics. Free Cursor plugin funnel. Pro $49/mo at https://errorbudget.dev",
+  "description": "Error-rate / error-budget brief for a time window from CSV/JSON metrics. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

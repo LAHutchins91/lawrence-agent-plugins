@@ -1,7 +1,7 @@
 {
   "name": "githubactionsoidcmissban",
   "version": "0.1.0",
-  "description": "Flag GitHub Actions cloud deploys missing OIDC/federated credentials. Free Cursor plugin funnel. Pro outside marketplace.",
+  "description": "Fail CI when GitHub Actions use long-lived cloud keys instead of OIDC. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

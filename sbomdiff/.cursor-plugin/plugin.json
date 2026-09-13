@@ -1,7 +1,7 @@
 {
   "name": "sbomdiff",
   "version": "0.1.0",
-  "description": "Compare two CycloneDX or SPDX JSON SBOMs. See added, removed, and upgraded packages. Paste the markdown report into a PR. Free Cursor plugin funnel. Pro $49/mo at https://sbomdiff.dev",
+  "description": "Compare two CycloneDX or SPDX JSON SBOMs. See added, removed, and upgraded packages. Paste the markdown report into a PR. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

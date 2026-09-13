@@ -1,7 +1,7 @@
 {
   "name": "privilegedcontainerban",
   "version": "0.1.0",
-  "description": "Ban privileged containers and dangerous securityContext flags. Free Cursor plugin funnel. Pro outside marketplace.",
+  "description": "Fail CI when containers run privileged or with hostNetwork/hostPID. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

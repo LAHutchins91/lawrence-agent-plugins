@@ -1,0 +1,16 @@
+{
+  "name": "hardcodedsecretban",
+  "version": "0.1.0",
+  "description": "Fail CI on hardcoded passwords/API keys in source (masked). Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "hardcodedsecretban",
+    "free"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "bundlebudget",
   "version": "0.1.0",
-  "description": "Assert JS bundle size budgets from stats JSON/CSV \u2014 with a CI gate for frontend & platform teams. Free Cursor plugin funnel. Pro $39/mo at https://bundlebudget.dev",
+  "description": "Assert JS bundle size budgets from stats JSON/CSV \u2014 with a CI gate for frontend & platform teams. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

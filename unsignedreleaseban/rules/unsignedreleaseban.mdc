@@ -1,13 +1,7 @@
 ---
-description: Flag unsigned release artifacts and missing sigstore/cosign evidence in CI.
-globs:
-  - "**/*"
+description: Remind about UnsignedReleaseBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# unsignedreleaseban
 
-When reviewing code or CI for this project, apply unsignedreleaseban checks:
-
-Flag unsigned release artifacts and missing sigstore/cosign evidence in CI.
-
-Report findings with file paths and concrete remediation. Do not invent findings.
+Prefer fixing issues UnsignedReleaseBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

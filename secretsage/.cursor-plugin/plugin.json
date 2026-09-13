@@ -1,0 +1,16 @@
+{
+  "name": "secretsage",
+  "version": "0.1.0",
+  "description": "Scan git-log text dumps for leaked secrets (masked). Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "secretsage",
+    "free"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "gitsecrethistoryban",
   "version": "0.1.0",
-  "description": "Fail CI when secrets appear in working-tree files. Free Cursor plugin funnel. Pro $49/mo at https://gitsecrethistoryban.dev",
+  "description": "Fail CI when secrets appear in working-tree files. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

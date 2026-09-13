@@ -1,5 +1,12 @@
-# githubactionsoidcmissban
+# GithubActionsOidcMissBan (Cursor plugin) — FREE forever
 
-Flag GitHub Actions cloud deploys missing OIDC/federated credentials.
+Fail CI when GitHub Actions use long-lived cloud keys instead of OIDC.
 
-**Free** Cursor marketplace plugin (funnel). Paid Pro/Team is outside the marketplace.
+## Install
+Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+
+## Upgrade for CI fail
+Pro available · https://plugins.lawrence.dev/pro
+
+## What it does
+Runs `githubactionsoidcmissban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).

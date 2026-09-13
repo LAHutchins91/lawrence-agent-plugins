@@ -1,7 +1,7 @@
 {
   "name": "secretscanskipban",
   "version": "0.1.0",
-  "description": "Detect CI workflows that skip or disable secret scanning. Free Cursor plugin funnel. Pro outside marketplace.",
+  "description": "Fail CI when secret scanners are skipped. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

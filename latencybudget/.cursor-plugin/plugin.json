@@ -1,0 +1,16 @@
+{
+  "name": "latencybudget",
+  "version": "0.1.0",
+  "description": "Assert p95/p99 latency budgets from CSV metrics \u2014 with a CI gate for SRE & platform teams. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "latencybudget",
+    "free"
+  ]
+}

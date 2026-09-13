@@ -1,7 +1,7 @@
 {
   "name": "prismaguard",
   "version": "0.1.0",
-  "description": "Lint Prisma schema & migrations for destructive DROP/delete risks \u2014 before they ship. Free Cursor plugin funnel. Pro $49/mo at https://prismaguard.dev",
+  "description": "Lint Prisma schema & migrations for destructive DROP/delete risks \u2014 before they ship. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

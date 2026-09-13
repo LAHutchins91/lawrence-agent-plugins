@@ -1,0 +1,16 @@
+{
+  "name": "specmock",
+  "version": "0.1.0",
+  "description": "Generate a lightweight mock server stub from OpenAPI \u2014 offline, then run it. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "specmock",
+    "free"
+  ]
+}

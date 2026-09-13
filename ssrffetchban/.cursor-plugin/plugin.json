@@ -1,7 +1,7 @@
 {
   "name": "ssrffetchban",
   "version": "0.1.0",
-  "description": "Heuristics to flag SSRF-prone server-side fetch patterns. Free Cursor plugin funnel. Pro outside marketplace.",
+  "description": "Fail CI when HTTP clients fetch user-controlled URLs without host allowlists. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

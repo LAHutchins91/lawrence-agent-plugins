@@ -1,0 +1,16 @@
+{
+  "name": "ghaudit",
+  "version": "0.1.0",
+  "description": "Lint GitHub Actions workflow YAML for common footguns \u2014 unpinned actions (`@main`/`@master`), `pull_request_target` + checkout, secrets in `echo`, and missing `permissions:` (warn). Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "ghaudit",
+    "free"
+  ]
+}

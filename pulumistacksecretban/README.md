@@ -1,5 +1,12 @@
-# pulumistacksecretban
+# PulumiStackSecretBan (Cursor plugin) — FREE forever
 
-Flag Pulumi stack configs that may leak secrets in plaintext.
+Fail CI when Pulumi stack configs leak secrets.
 
-**Free** Cursor marketplace plugin (funnel). Paid Pro/Team is outside the marketplace.
+## Install
+Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+
+## Upgrade for CI fail
+Pro available · https://plugins.lawrence.dev/pro
+
+## What it does
+Runs `pulumistacksecretban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).

@@ -1,7 +1,7 @@
 {
   "name": "terraformstatesecretsban",
   "version": "0.1.0",
-  "description": "Fail CI when Terraform risks secret leakage in state. Free Cursor plugin funnel. Pro $49/mo at https://terraformstatesecretsban.dev",
+  "description": "Fail CI when Terraform risks secret leakage in state. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

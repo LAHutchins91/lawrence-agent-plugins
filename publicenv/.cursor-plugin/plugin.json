@@ -1,0 +1,16 @@
+{
+  "name": "publicenv",
+  "version": "0.1.0",
+  "description": "Flag `NEXT_PUBLIC_` / `VITE_` secrets that look private \u2014 scan `.env*` for public-prefix keys whose names (or value shapes) scream secret. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "publicenv",
+    "free"
+  ]
+}

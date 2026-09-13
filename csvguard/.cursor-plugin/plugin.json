@@ -1,0 +1,16 @@
+{
+  "name": "csvguard",
+  "version": "0.1.0",
+  "description": "CSV schema / column drift checker \u2014 with a CI gate for data & platform teams. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "csvguard",
+    "free"
+  ]
+}

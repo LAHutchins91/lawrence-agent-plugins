@@ -1,13 +1,7 @@
 ---
-description: Flag GitHub Actions cloud deploys missing OIDC/federated credentials.
-globs:
-  - "**/*"
+description: Remind about GithubActionsOidcMissBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# githubactionsoidcmissban
 
-When reviewing code or CI for this project, apply githubactionsoidcmissban checks:
-
-Flag GitHub Actions cloud deploys missing OIDC/federated credentials.
-
-Report findings with file paths and concrete remediation. Do not invent findings.
+Prefer fixing issues GithubActionsOidcMissBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

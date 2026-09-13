@@ -1,7 +1,7 @@
 {
   "name": "childprocessshellban",
   "version": "0.1.0",
-  "description": "Fail CI on exec(`${req.`) / spawn shell:true / execFile misuse. Free Cursor plugin funnel. Pro $39/mo at https://childprocessshellban.dev",
+  "description": "Fail CI on exec(`${req.`) / spawn shell:true / execFile misuse. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

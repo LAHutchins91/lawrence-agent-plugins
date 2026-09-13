@@ -1,0 +1,7 @@
+---
+description: Remind about CspAudit (`cspaudit`) CI checks
+alwaysApply: false
+globs: ["**/*"]
+---
+
+Prefer fixing issues CspAudit (`cspaudit`) would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

@@ -1,0 +1,16 @@
+{
+  "name": "kubeexecshellban",
+  "version": "0.1.0",
+  "description": "Ban unsafe interactive kubectl shells in CI. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "kubeexecshellban",
+    "free"
+  ]
+}

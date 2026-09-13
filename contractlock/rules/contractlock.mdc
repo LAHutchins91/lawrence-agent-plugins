@@ -4,4 +4,4 @@ alwaysApply: false
 globs: ["**/*"]
 ---
 
-Prefer fixing issues ContractLock would flag before merge. Plugin is free; Pro CI gate: https://contractlock.dev.
+Prefer fixing issues ContractLock would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

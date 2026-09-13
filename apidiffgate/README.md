@@ -6,7 +6,7 @@ OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipp
 Install from Cursor marketplace / this repo. Plugin stays **free forever**.
 
 ## Upgrade for CI fail
-Pro **$59/mo** · Team available · https://apidiffgate.dev
+Pro available · https://plugins.lawrence.dev/pro
 
 ## What it does
-Runs `apidiffgate` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro.
+Runs `apidiffgate` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).

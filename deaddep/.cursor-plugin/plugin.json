@@ -1,0 +1,16 @@
+{
+  "name": "deaddep",
+  "version": "0.1.0",
+  "description": "Find unused npm dependencies \u2014 import / require / dynamic-import scan vs `package.json`. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "deaddep",
+    "free"
+  ]
+}

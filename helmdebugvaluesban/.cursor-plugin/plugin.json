@@ -1,0 +1,16 @@
+{
+  "name": "helmdebugvaluesban",
+  "version": "0.1.0",
+  "description": "Fail CI on Helm debug/insecure values. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "helmdebugvaluesban",
+    "free"
+  ]
+}

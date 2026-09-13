@@ -1,0 +1,16 @@
+{
+  "name": "corsaudit",
+  "version": "0.1.0",
+  "description": "Lint CORS config for overly permissive origins \u2014 catch `origin: '*'` with `credentials: true`, `null` origins, and reflect-all patterns in Express, Next, and JSON. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "corsaudit",
+    "free"
+  ]
+}

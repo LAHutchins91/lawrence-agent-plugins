@@ -1,13 +1,7 @@
 ---
-description: Flag releases missing SLSA provenance attestations.
-globs:
-  - "**/*"
+description: Remind about ProvenanceMissBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# provenancemissban
 
-When reviewing code or CI for this project, apply provenancemissban checks:
-
-Flag releases missing SLSA provenance attestations.
-
-Report findings with file paths and concrete remediation. Do not invent findings.
+Prefer fixing issues ProvenanceMissBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

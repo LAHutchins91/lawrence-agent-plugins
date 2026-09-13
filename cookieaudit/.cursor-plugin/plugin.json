@@ -1,0 +1,16 @@
+{
+  "name": "cookieaudit",
+  "version": "0.1.0",
+  "description": "Lint Set-Cookie / cookie config for missing Secure, HttpOnly, and SameSite. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "cookieaudit",
+    "free"
+  ]
+}

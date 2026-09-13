@@ -1,13 +1,7 @@
 ---
-description: Detect CI pipelines that skip SAST or security scan jobs.
-globs:
-  - "**/*"
+description: Remind about SastSkipCiBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# sastskipciban
 
-When reviewing code or CI for this project, apply sastskipciban checks:
-
-Detect CI pipelines that skip SAST or security scan jobs.
-
-Report findings with file paths and concrete remediation. Do not invent findings.
+Prefer fixing issues SastSkipCiBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

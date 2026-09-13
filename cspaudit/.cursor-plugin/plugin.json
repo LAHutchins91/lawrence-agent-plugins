@@ -1,0 +1,16 @@
+{
+  "name": "cspaudit",
+  "version": "0.1.0",
+  "description": "Lint Content-Security-Policy for unsafe-inline / unsafe-eval / wildcards \u2014 catch `'unsafe-inline'`, `'unsafe-eval'`, host `*`, and scheme wildcards (`https:`, `data:`) in headers, HTML meta, nginx, Next, and JSON. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "cspaudit",
+    "free"
+  ]
+}

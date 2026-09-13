@@ -1,7 +1,7 @@
 {
   "name": "blametrail",
   "version": "0.1.0",
-  "description": "Git archaeology brief \u2014 who touched a path, churn, hot files. Free Cursor plugin funnel. Pro $39/mo at https://blametrail.dev",
+  "description": "Git archaeology brief \u2014 who touched a path, churn, hot files. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

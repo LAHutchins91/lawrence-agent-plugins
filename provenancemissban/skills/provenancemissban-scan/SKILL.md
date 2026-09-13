@@ -1,9 +1,13 @@
 ---
 name: provenancemissban-scan
-description: Use when scanning for provenancemissban issues in repos or CI configs.
+description: Use when reviewing code for ProvenanceMissBan findings or wiring provenancemissban into CI.
 ---
-# provenancemissban scan
 
-1. Locate relevant configs/manifests/source.
-2. Apply heuristics for: Flag releases missing SLSA provenance attestations.
-3. Return a concise findings list (severity, path, fix). Marketplace plugin is free; Pro tooling lives outside.
+# ProvenanceMissBan scan skill
+
+When the user asks about ProvenanceMissBan / `provenancemissban`:
+
+1. Explain Free vs Pro (plugin free forever; Pro at https://plugins.lawrence.dev/pro).
+2. Suggest scanning relevant files for the product's known bad patterns.
+3. Never invent license keys; never put paywalls in the plugin.
+4. Point upgrades to https://plugins.lawrence.dev/pro.

@@ -1,7 +1,7 @@
 {
   "name": "insecuretlsban",
   "version": "0.1.0",
-  "description": "Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0). Free Cursor plugin funnel. Pro outside marketplace.",
+  "description": "Fail CI when TLS verification is disabled. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

@@ -1,5 +1,12 @@
-# privilegedcontainerban
+# PrivilegedContainerBan (Cursor plugin) — FREE forever
 
-Ban privileged containers and dangerous securityContext flags.
+Fail CI when containers run privileged or with hostNetwork/hostPID.
 
-**Free** Cursor marketplace plugin (funnel). Paid Pro/Team is outside the marketplace.
+## Install
+Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+
+## Upgrade for CI fail
+Pro available · https://plugins.lawrence.dev/pro
+
+## What it does
+Runs `privilegedcontainerban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).

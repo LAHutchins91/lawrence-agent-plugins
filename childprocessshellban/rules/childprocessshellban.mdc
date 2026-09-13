@@ -4,4 +4,4 @@ alwaysApply: false
 globs: ["**/*"]
 ---
 
-Prefer fixing issues ChildProcessShellBan would flag before merge. Plugin is free; Pro CI gate: https://childprocessshellban.dev.
+Prefer fixing issues ChildProcessShellBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

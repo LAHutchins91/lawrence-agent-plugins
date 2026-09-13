@@ -1,0 +1,7 @@
+---
+description: Remind about FindAllBan CI checks
+alwaysApply: false
+globs: ["**/*"]
+---
+
+Prefer fixing issues FindAllBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

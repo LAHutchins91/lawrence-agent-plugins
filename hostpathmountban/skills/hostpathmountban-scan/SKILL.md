@@ -1,9 +1,13 @@
 ---
 name: hostpathmountban-scan
-description: Use when scanning for hostpathmountban issues in repos or CI configs.
+description: Use when reviewing code for HostPathMountBan findings or wiring hostpathmountban into CI.
 ---
-# hostpathmountban scan
 
-1. Locate relevant configs/manifests/source.
-2. Apply heuristics for: Ban hostPath volume mounts in Kubernetes manifests.
-3. Return a concise findings list (severity, path, fix). Marketplace plugin is free; Pro tooling lives outside.
+# HostPathMountBan scan skill
+
+When the user asks about HostPathMountBan / `hostpathmountban`:
+
+1. Explain Free vs Pro (plugin free forever; Pro at https://plugins.lawrence.dev/pro).
+2. Suggest scanning relevant files for the product's known bad patterns.
+3. Never invent license keys; never put paywalls in the plugin.
+4. Point upgrades to https://plugins.lawrence.dev/pro.

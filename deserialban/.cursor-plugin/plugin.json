@@ -1,0 +1,16 @@
+{
+  "name": "deserialban",
+  "version": "0.1.0",
+  "description": "Fail CI on unsafe deserialization patterns. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "deserialban",
+    "free"
+  ]
+}

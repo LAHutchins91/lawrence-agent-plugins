@@ -1,13 +1,7 @@
 ---
-description: Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0).
-globs:
-  - "**/*"
+description: Remind about InsecureTlsBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# insecuretlsban
 
-When reviewing code or CI for this project, apply insecuretlsban checks:
-
-Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0).
-
-Report findings with file paths and concrete remediation. Do not invent findings.
+Prefer fixing issues InsecureTlsBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

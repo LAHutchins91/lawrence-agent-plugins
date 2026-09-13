@@ -2205,199 +2205,215 @@
     {
       "name": "apidiffgate",
       "source": "apidiffgate",
-      "description": "OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipping to production \u2014 free marketplace funnel.",
+      "description": "OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipping to production. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "apidiffgate",
         "free"
       ]
     },
     {
       "name": "envdrift",
       "source": "envdrift",
-      "description": "Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship \u2014 free marketplace funnel.",
+      "description": "Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "envdrift",
         "free"
       ]
     },
     {
       "name": "incidentbrief",
       "source": "incidentbrief",
-      "description": "Noisy logs \u2192 spike detection, error shapes, owner handoff brief \u2014 free marketplace funnel.",
+      "description": "Noisy logs \u2192 spike detection, error shapes, owner handoff brief. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "incidentbrief",
         "free"
       ]
     },
     {
       "name": "gitsecrethistoryban",
       "source": "gitsecrethistoryban",
-      "description": "Fail CI when secrets appear in working-tree files \u2014 free marketplace funnel.",
+      "description": "Fail CI when secrets appear in working-tree files. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "gitsecrethistoryban",
         "free"
       ]
     },
     {
       "name": "terraformstatesecretsban",
       "source": "terraformstatesecretsban",
-      "description": "Fail CI when Terraform risks secret leakage in state \u2014 free marketplace funnel.",
+      "description": "Fail CI when Terraform risks secret leakage in state. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "terraformstatesecretsban",
         "free"
       ]
     },
     {
       "name": "adminrouteban",
       "source": "adminrouteban",
-      "description": "Fail CI when /admin routes lack requireAdmin / isAdmin / role checks \u2014 free marketplace funnel.",
+      "description": "Fail CI when /admin routes lack requireAdmin / isAdmin / role checks. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "adminrouteban",
         "free"
       ]
     },
     {
       "name": "hardcodedapikeyban",
       "source": "hardcodedapikeyban",
-      "description": "Fail CI on hardcoded API keys in string literals (sk_, AKIA, ghp_, xoxb_, JWT) \u2014 free marketplace funnel.",
+      "description": "Fail CI on hardcoded API keys in string literals (sk_, AKIA, ghp_, xoxb_, JWT). Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "hardcodedapikeyban",
         "free"
       ]
     },
     {
       "name": "missingauthban",
       "source": "missingauthban",
-      "description": "Fail CI when sensitive Express/Next/Fastify/Hono routes lack auth \u2014 free marketplace funnel.",
+      "description": "Fail CI when sensitive Express/Next/Fastify/Hono routes lack auth. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "missingauthban",
         "free"
       ]
     },
     {
       "name": "errorbudget",
       "source": "errorbudget",
-      "description": "Error-rate / error-budget brief for a time window from CSV/JSON metrics \u2014 free marketplace funnel.",
+      "description": "Error-rate / error-budget brief for a time window from CSV/JSON metrics. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "errorbudget",
         "free"
       ]
     },
     {
       "name": "prismaguard",
       "source": "prismaguard",
-      "description": "Lint Prisma schema & migrations for destructive DROP/delete risks \u2014 before they ship \u2014 free marketplace funnel.",
+      "description": "Lint Prisma schema & migrations for destructive DROP/delete risks \u2014 before they ship. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "prismaguard",
         "free"
       ]
     },
     {
       "name": "rotatewatch",
       "source": "rotatewatch",
-      "description": "Secret age / rotation reminder from a vault-export CSV or a `.env` mtime inventory \u2014 free marketplace funnel.",
+      "description": "Secret age / rotation reminder from a vault-export CSV or a `.env` mtime inventory. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "rotatewatch",
         "free"
       ]
     },
     {
       "name": "sbomdiff",
       "source": "sbomdiff",
-      "description": "Compare two CycloneDX or SPDX JSON SBOMs. See added, removed, and upgraded packages. Paste the markdown report into a PR \u2014 free marketplace funnel.",
+      "description": "Compare two CycloneDX or SPDX JSON SBOMs. See added, removed, and upgraded packages. Paste the markdown report into a PR. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "sbomdiff",
         "free"
       ]
     },
     {
       "name": "sqlmigrationguard",
       "source": "sqlmigrationguard",
-      "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering \u2014 before they ship \u2014 free marketplace funnel.",
+      "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering \u2014 before they ship. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "sqlmigrationguard",
         "free"
       ]
     },
     {
       "name": "ansiblevaultmissban",
       "source": "ansiblevaultmissban",
-      "description": "Fail CI when Ansible secrets aren't vaulted \u2014 free marketplace funnel.",
+      "description": "Fail CI when Ansible secrets aren't vaulted. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "ansiblevaultmissban",
         "free"
       ]
     },
     {
       "name": "branchprotectionmissban",
       "source": "branchprotectionmissban",
-      "description": "Fail CI on weak branch protection patterns \u2014 free marketplace funnel.",
+      "description": "Fail CI on weak branch protection patterns. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "branchprotectionmissban",
         "free"
       ]
     },
     {
       "name": "cisecretsinlogban",
       "source": "cisecretsinlogban",
-      "description": "Fail CI when workflows leak secrets into logs \u2014 free marketplace funnel.",
+      "description": "Fail CI when workflows leak secrets into logs. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
-        "mcp",
         "security",
-        "devtools",
+        "ci",
+        "sast",
+        "cisecretsinlogban",
         "free"
       ]
     },
     {
       "name": "blametrail",
       "source": "blametrail",
-      "description": "Git archaeology brief \u2014 who touched a path, churn, hot files. Free Cursor plugin funnel. Pro $39/mo at https://blametrail.dev",
+      "description": "Git archaeology brief \u2014 who touched a path, churn, hot files. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2410,7 +2426,7 @@
     {
       "name": "bundlebudget",
       "source": "bundlebudget",
-      "description": "Assert JS bundle size budgets from stats JSON/CSV \u2014 with a CI gate for frontend & platform teams. Free Cursor plugin funnel. Pro $39/mo at https://bundlebudget.dev",
+      "description": "Assert JS bundle size budgets from stats JSON/CSV \u2014 with a CI gate for frontend & platform teams. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2423,7 +2439,7 @@
     {
       "name": "childprocessshellban",
       "source": "childprocessshellban",
-      "description": "Fail CI on exec(`${req.`) / spawn shell:true / execFile misuse. Free Cursor plugin funnel. Pro $39/mo at https://childprocessshellban.dev",
+      "description": "Fail CI on exec(`${req.`) / spawn shell:true / execFile misuse. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2436,7 +2452,7 @@
     {
       "name": "contractlock",
       "source": "contractlock",
-      "description": "Env contract freeze + drift CI for teams. Turn `.env.example` into a frozen JSON lockfile, then fail CI when live env files drift. Companion product that pairs with the EnvDrift funnel. Free Cursor plugin funnel. Pro $39/mo at https://contr",
+      "description": "Env contract freeze + drift CI for teams. Turn `.env.example` into a frozen JSON lockfile, then fail CI when live env files drift. Companion product that pairs  Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2449,7 +2465,7 @@
     {
       "name": "unsignedreleaseban",
       "source": "unsignedreleaseban",
-      "description": "Flag unsigned release artifacts and missing sigstore/cosign evidence in CI. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when releases lack signing/attestation. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2462,7 +2478,7 @@
     {
       "name": "provenancemissban",
       "source": "provenancemissban",
-      "description": "Flag releases missing SLSA provenance attestations. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when build provenance is missing. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2475,7 +2491,7 @@
     {
       "name": "secretscanskipban",
       "source": "secretscanskipban",
-      "description": "Detect CI workflows that skip or disable secret scanning. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when secret scanners are skipped. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2488,7 +2504,7 @@
     {
       "name": "githubactionsoidcmissban",
       "source": "githubactionsoidcmissban",
-      "description": "Flag GitHub Actions cloud deploys missing OIDC/federated credentials. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when GitHub Actions use long-lived cloud keys instead of OIDC. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2501,7 +2517,7 @@
     {
       "name": "sastskipciban",
       "source": "sastskipciban",
-      "description": "Detect CI pipelines that skip SAST or security scan jobs. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when SAST scanners are skipped. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2514,7 +2530,7 @@
     {
       "name": "hostpathmountban",
       "source": "hostpathmountban",
-      "description": "Ban hostPath volume mounts in Kubernetes manifests. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when K8s/compose mounts dangerous host paths. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2527,7 +2543,7 @@
     {
       "name": "privilegedcontainerban",
       "source": "privilegedcontainerban",
-      "description": "Ban privileged containers and dangerous securityContext flags. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when containers run privileged or with hostNetwork/hostPID. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2540,7 +2556,7 @@
     {
       "name": "ssrffetchban",
       "source": "ssrffetchban",
-      "description": "Heuristics to flag SSRF-prone server-side fetch patterns. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when HTTP clients fetch user-controlled URLs without host allowlists. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2553,7 +2569,7 @@
     {
       "name": "insecuretlsban",
       "source": "insecuretlsban",
-      "description": "Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0). Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when TLS verification is disabled. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
@@ -2566,13 +2582,923 @@
     {
       "name": "pulumistacksecretban",
       "source": "pulumistacksecretban",
-      "description": "Flag Pulumi stack configs that may leak secrets in plaintext. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Fail CI when Pulumi stack configs leak secrets. Free Cursor plugin funnel. Pro outside marketplace.",
       "category": "developer-tools",
       "keywords": [
         "security",
         "ci",
         "sast",
         "pulumistacksecretban",
+        "free"
+      ]
+    },
+    {
+      "name": "corsreflectban",
+      "source": "corsreflectban",
+      "description": "Fail CI when CORS reflects Origin / origin:true with credentials. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "corsreflectban",
+        "free"
+      ]
+    },
+    {
+      "name": "csrfguard",
+      "source": "csrfguard",
+      "description": "Fail CI on missing CSRF for session apps and SameSite=None cookies. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "csrfguard",
+        "free"
+      ]
+    },
+    {
+      "name": "deserializeban",
+      "source": "deserializeban",
+      "description": "Fail CI on node-serialize / unserialize / cryo.parse of untrusted input. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "deserializeban",
+        "free"
+      ]
+    },
+    {
+      "name": "digestpin",
+      "source": "digestpin",
+      "description": "Require digest-pinned container images in compose/k8s YAML \u2014 catch `:latest`, floating tags, and untagged images before they drift. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "digestpin",
+        "free"
+      ]
+    },
+    {
+      "name": "dnsrebindurlban",
+      "source": "dnsrebindurlban",
+      "description": "Fail CI when fetch URLs are built from user-controlled hostnames. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "dnsrebindurlban",
+        "free"
+      ]
+    },
+    {
+      "name": "dockguard",
+      "source": "dockguard",
+      "description": "Dockerfile lint for secrets, root user, unpinned tags, and large layers. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "dockguard",
+        "free"
+      ]
+    },
+    {
+      "name": "docsecrets",
+      "source": "docsecrets",
+      "description": "Scan markdown/docs for leaked API keys (always masked). Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "docsecrets",
+        "free"
+      ]
+    },
+    {
+      "name": "evalban",
+      "source": "evalban",
+      "description": "Fail CI on eval / new Function / string timers / vm.runIn*. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "evalban",
+        "free"
+      ]
+    },
+    {
+      "name": "exposeddockerdaemonban",
+      "source": "exposeddockerdaemonban",
+      "description": "Fail CI on unsafe Docker daemon exposure. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "exposeddockerdaemonban",
+        "free"
+      ]
+    },
+    {
+      "name": "fileuploadban",
+      "source": "fileuploadban",
+      "description": "Fail CI on unsafe multer/upload handlers (no limits, originalname writes). Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "fileuploadban",
+        "free"
+      ]
+    },
+    {
+      "name": "fingerprintlog",
+      "source": "fingerprintlog",
+      "description": "Normalize log lines into stable fingerprints. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "fingerprintlog",
+        "free"
+      ]
+    },
+    {
+      "name": "hardcodedsecretban",
+      "source": "hardcodedsecretban",
+      "description": "Fail CI on hardcoded passwords/API keys in source (masked). Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "hardcodedsecretban",
+        "free"
+      ]
+    },
+    {
+      "name": "hardiff",
+      "source": "hardiff",
+      "description": "Compare HAR captures / triage slow or failing HTTP traffic. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "hardiff",
+        "free"
+      ]
+    },
+    {
+      "name": "idorguard",
+      "source": "idorguard",
+      "description": "Fail CI on IDOR footguns: findById/update/delete by params id without ownership. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "idorguard",
+        "free"
+      ]
+    },
+    {
+      "name": "jsonschemaguard",
+      "source": "jsonschemaguard",
+      "description": "Validate JSON/YAML payloads against JSON Schema \u2014 with a CI gate for API/platform teams. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "jsonschemaguard",
+        "free"
+      ]
+    },
+    {
+      "name": "jwtexpiryban",
+      "source": "jwtexpiryban",
+      "description": "Fail CI on jwt.sign without expiry / ignoreExpiration / long TTL. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "jwtexpiryban",
+        "free"
+      ]
+    },
+    {
+      "name": "jwtsecrethardcodeban",
+      "source": "jwtsecrethardcodeban",
+      "description": "Fail CI on jwt.sign/jose with hardcoded string secrets. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "jwtsecrethardcodeban",
+        "free"
+      ]
+    },
+    {
+      "name": "latencybudget",
+      "source": "latencybudget",
+      "description": "Assert p95/p99 latency budgets from CSV metrics \u2014 with a CI gate for SRE & platform teams. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "latencybudget",
+        "free"
+      ]
+    },
+    {
+      "name": "licensescan",
+      "source": "licensescan",
+      "description": "Scan package.json / lockfile-ish inventory for license risk \u2014 GPL/AGPL flags, copyleft, proprietary. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "licensescan",
+        "free"
+      ]
+    },
+    {
+      "name": "migrateunsafeban",
+      "source": "migrateunsafeban",
+      "description": "Fail CI on DROP TABLE/COLUMN, TRUNCATE, DELETE without WHERE in migrations. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "migrateunsafeban",
+        "free"
+      ]
+    },
+    {
+      "name": "nplusoneban",
+      "source": "nplusoneban",
+      "description": "Fail CI on ORM/DB calls inside loops (N+1). Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "nplusoneban",
+        "free"
+      ]
+    },
+    {
+      "name": "protopollutionspreadban",
+      "source": "protopollutionspreadban",
+      "description": "Fail CI on {...req.body}, Object.assign/lodash.merge from untrusted input. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "protopollutionspreadban",
+        "free"
+      ]
+    },
+    {
+      "name": "publicenv",
+      "source": "publicenv",
+      "description": "Flag `NEXT_PUBLIC_` / `VITE_` secrets that look private \u2014 scan `.env*` for public-prefix keys whose names (or value shapes) scream secret. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "publicenv",
+        "free"
+      ]
+    },
+    {
+      "name": "raceconditionguard",
+      "source": "raceconditionguard",
+      "description": "Fail CI on TOCTOU / check-then-act races (exists-then-write, RMW, missing CAS). Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "raceconditionguard",
+        "free"
+      ]
+    },
+    {
+      "name": "ratelimitguard",
+      "source": "ratelimitguard",
+      "description": "Fail CI on auth/login/reset/OTP routes without rate limiting. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "ratelimitguard",
+        "free"
+      ]
+    },
+    {
+      "name": "rawqueryban",
+      "source": "rawqueryban",
+      "description": "Fail CI on interpolated $queryRaw / sequelize.query / knex.raw / TypeORM query. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "rawqueryban",
+        "free"
+      ]
+    },
+    {
+      "name": "rollbacksketch",
+      "source": "rollbacksketch",
+      "description": "Best-effort rollback sketches for SQL migrations \u2014 confidence labels, risk notes, and heavy warnings when a DROP cannot be reversed. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "rollbacksketch",
+        "free"
+      ]
+    },
+    {
+      "name": "secretsage",
+      "source": "secretsage",
+      "description": "Scan git-log text dumps for leaked secrets (masked). Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "secretsage",
+        "free"
+      ]
+    },
+    {
+      "name": "specmock",
+      "source": "specmock",
+      "description": "Generate a lightweight mock server stub from OpenAPI \u2014 offline, then run it. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "specmock",
+        "free"
+      ]
+    },
+    {
+      "name": "transactionleakban",
+      "source": "transactionleakban",
+      "description": "Fail CI when DB transactions are unawaited or unclosed. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "transactionleakban",
+        "free"
+      ]
+    },
+    {
+      "name": "capsysadminban",
+      "source": "capsysadminban",
+      "description": "Fail CI when containers add SYS_ADMIN/NET_ADMIN/ALL. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "capsysadminban",
+        "free"
+      ]
+    },
+    {
+      "name": "cassandranoauthban",
+      "source": "cassandranoauthban",
+      "description": "Fail CI when Cassandra/Scylla clients connect without auth. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "cassandranoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "childprocessban",
+      "source": "childprocessban",
+      "description": "Fail CI on child_process.exec/spawn shell:true + command templates. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "childprocessban",
+        "free"
+      ]
+    },
+    {
+      "name": "clickhousenoauthban",
+      "source": "clickhousenoauthban",
+      "description": "Fail CI when ClickHouse clients connect without auth. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "clickhousenoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "commandinjectban",
+      "source": "commandinjectban",
+      "description": "Fail CI on child_process.exec/shell:true and user-input command injection. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "commandinjectban",
+        "free"
+      ]
+    },
+    {
+      "name": "cookieaudit",
+      "source": "cookieaudit",
+      "description": "Lint Set-Cookie / cookie config for missing Secure, HttpOnly, and SameSite. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "cookieaudit",
+        "free"
+      ]
+    },
+    {
+      "name": "cookiesecurefalseban",
+      "source": "cookiesecurefalseban",
+      "description": "Fail CI on secure:false cookies, SameSite=None without Secure, Set-Cookie missing Secure. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "cookiesecurefalseban",
+        "free"
+      ]
+    },
+    {
+      "name": "corsaudit",
+      "source": "corsaudit",
+      "description": "Lint CORS config for overly permissive origins \u2014 catch `origin: '*'` with `credentials: true`, `null` origins, and reflect-all patterns in Express, Next, and JS Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "corsaudit",
+        "free"
+      ]
+    },
+    {
+      "name": "corscredentialsstarban",
+      "source": "corscredentialsstarban",
+      "description": "Ban ACAO * / reflect-origin with credentials:true. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "corscredentialsstarban",
+        "free"
+      ]
+    },
+    {
+      "name": "crashtriage",
+      "source": "crashtriage",
+      "description": "Paste a stack trace / crash log \u2192 normalized triage brief. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "crashtriage",
+        "free"
+      ]
+    },
+    {
+      "name": "cspaudit",
+      "source": "cspaudit",
+      "description": "Lint Content-Security-Policy for unsafe-inline / unsafe-eval / wildcards \u2014 catch `'unsafe-inline'`, `'unsafe-eval'`, host `*`, and scheme wildcards (`https:`, ` Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "cspaudit",
+        "free"
+      ]
+    },
+    {
+      "name": "csvguard",
+      "source": "csvguard",
+      "description": "CSV schema / column drift checker \u2014 with a CI gate for data & platform teams. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "csvguard",
+        "free"
+      ]
+    },
+    {
+      "name": "deaddep",
+      "source": "deaddep",
+      "description": "Find unused npm dependencies \u2014 import / require / dynamic-import scan vs `package.json`. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "deaddep",
+        "free"
+      ]
+    },
+    {
+      "name": "dependabotignoreallban",
+      "source": "dependabotignoreallban",
+      "description": "Fail CI when Dependabot/Renovate is neutered. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "dependabotignoreallban",
+        "free"
+      ]
+    },
+    {
+      "name": "depupgradebrief",
+      "source": "depupgradebrief",
+      "description": "Changelog + semver risk brief when bumping npm packages. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "depupgradebrief",
+        "free"
+      ]
+    },
+    {
+      "name": "deserialban",
+      "source": "deserialban",
+      "description": "Fail CI on unsafe deserialization patterns. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "deserialban",
+        "free"
+      ]
+    },
+    {
+      "name": "dockerfilerootban",
+      "source": "dockerfilerootban",
+      "description": "Fail CI on root Dockerfiles, secret ENV, chmod 777. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "dockerfilerootban",
+        "free"
+      ]
+    },
+    {
+      "name": "eagerloadban",
+      "source": "eagerloadban",
+      "description": "Fail CI on deep ORM include/populate/relations eager-loads. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "eagerloadban",
+        "free"
+      ]
+    },
+    {
+      "name": "elasticsearchnoauthban",
+      "source": "elasticsearchnoauthban",
+      "description": "Ban unauthenticated Elasticsearch/OpenSearch clients. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "elasticsearchnoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "envleaklogban",
+      "source": "envleaklogban",
+      "description": "Fail CI when process.env / secrets are logged or stringified. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "envleaklogban",
+        "free"
+      ]
+    },
+    {
+      "name": "examplesync",
+      "source": "examplesync",
+      "description": "Generate safe `.env.example` from live env contracts. Placeholders only \u2014 never copy real secret values into examples. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "examplesync",
+        "free"
+      ]
+    },
+    {
+      "name": "fetchcredsban",
+      "source": "fetchcredsban",
+      "description": "Fail CI on fetch/axios credentials to third-party origins. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "fetchcredsban",
+        "free"
+      ]
+    },
+    {
+      "name": "findallban",
+      "source": "findallban",
+      "description": "Fail CI on ORM findAll/find/findMany without WHERE. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "findallban",
+        "free"
+      ]
+    },
+    {
+      "name": "floatingpromise",
+      "source": "floatingpromise",
+      "description": "Detect floating promises / missing await. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "floatingpromise",
+        "free"
+      ]
+    },
+    {
+      "name": "fspathjoinban",
+      "source": "fspathjoinban",
+      "description": "Fail CI on path.join/fs with user-controlled path segments. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "fspathjoinban",
+        "free"
+      ]
+    },
+    {
+      "name": "ghaudit",
+      "source": "ghaudit",
+      "description": "Lint GitHub Actions workflow YAML for common footguns \u2014 unpinned actions (`@main`/`@master`), `pull_request_target` + checkout, secrets in `echo`, and missing ` Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "ghaudit",
+        "free"
+      ]
+    },
+    {
+      "name": "graphqlinjectban",
+      "source": "graphqlinjectban",
+      "description": "Fail CI on GraphQL query/mutation string concat without variables. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "graphqlinjectban",
+        "free"
+      ]
+    },
+    {
+      "name": "graphqlintrospectban",
+      "source": "graphqlintrospectban",
+      "description": "Fail CI when GraphQL introspection/playground/GraphiQL ships in prod. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "graphqlintrospectban",
+        "free"
+      ]
+    },
+    {
+      "name": "headerinjectban",
+      "source": "headerinjectban",
+      "description": "Fail CI on HTTP header injection / CRLF from unsanitized user input. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "headerinjectban",
+        "free"
+      ]
+    },
+    {
+      "name": "helmdebugvaluesban",
+      "source": "helmdebugvaluesban",
+      "description": "Fail CI on Helm debug/insecure values. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "helmdebugvaluesban",
+        "free"
+      ]
+    },
+    {
+      "name": "hostheaderban",
+      "source": "hostheaderban",
+      "description": "Fail CI on host-header injection / password-reset poisoning via Host header. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "hostheaderban",
+        "free"
+      ]
+    },
+    {
+      "name": "htmlsanitizermissban",
+      "source": "htmlsanitizermissban",
+      "description": "Fail CI when user HTML is rendered without DOMPurify/sanitize-html. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "htmlsanitizermissban",
+        "free"
+      ]
+    },
+    {
+      "name": "httpparampollutionban",
+      "source": "httpparampollutionban",
+      "description": "Fail CI on qs allowPrototypes / HPP without hpp middleware. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "httpparampollutionban",
+        "free"
+      ]
+    },
+    {
+      "name": "httptohttpsmissban",
+      "source": "httptohttpsmissban",
+      "description": "Fail CI when production configs use plain HTTP. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "httptohttpsmissban",
+        "free"
+      ]
+    },
+    {
+      "name": "innerhtmlban",
+      "source": "innerhtmlban",
+      "description": "Fail CI on .innerHTML / dangerouslySetInnerHTML without sanitizer. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "innerhtmlban",
+        "free"
+      ]
+    },
+    {
+      "name": "insecuretransportban",
+      "source": "insecuretransportban",
+      "description": "Fail CI on cleartext ws://, ftp://, http:// API bases, TLS reject disabled. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "insecuretransportban",
+        "free"
+      ]
+    },
+    {
+      "name": "jwtnonealgban",
+      "source": "jwtnonealgban",
+      "description": "Fail CI on JWT verify with alg none or missing algorithms. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "jwtnonealgban",
+        "free"
+      ]
+    },
+    {
+      "name": "kafkanoauthban",
+      "source": "kafkanoauthban",
+      "description": "Fail CI when Kafka clients lack TLS/SASL. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "kafkanoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "kubeexecshellban",
+      "source": "kubeexecshellban",
+      "description": "Ban unsafe interactive kubectl shells in CI. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "kubeexecshellban",
+        "free"
+      ]
+    },
+    {
+      "name": "latesttagban",
+      "source": "latesttagban",
+      "description": "Ban floating image tags (:latest) in Dockerfile, compose, k8s. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "latesttagban",
         "free"
       ]
     }

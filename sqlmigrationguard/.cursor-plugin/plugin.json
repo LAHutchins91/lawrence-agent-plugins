@@ -1,7 +1,7 @@
 {
   "name": "sqlmigrationguard",
   "version": "0.1.0",
-  "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering \u2014 before they ship. Free Cursor plugin funnel. Pro $49/mo at https://sqlmigrationguard.dev",
+  "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering \u2014 before they ship. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

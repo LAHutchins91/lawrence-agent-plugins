@@ -1,0 +1,16 @@
+{
+  "name": "dependabotignoreallban",
+  "version": "0.1.0",
+  "description": "Fail CI when Dependabot/Renovate is neutered. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "dependabotignoreallban",
+    "free"
+  ]
+}

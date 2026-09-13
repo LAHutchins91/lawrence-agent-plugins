@@ -1,0 +1,16 @@
+{
+  "name": "docsecrets",
+  "version": "0.1.0",
+  "description": "Scan markdown/docs for leaked API keys (always masked). Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "docsecrets",
+    "free"
+  ]
+}

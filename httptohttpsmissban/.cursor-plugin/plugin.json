@@ -1,0 +1,16 @@
+{
+  "name": "httptohttpsmissban",
+  "version": "0.1.0",
+  "description": "Fail CI when production configs use plain HTTP. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "httptohttpsmissban",
+    "free"
+  ]
+}

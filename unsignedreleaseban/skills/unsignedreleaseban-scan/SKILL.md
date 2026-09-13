@@ -1,9 +1,13 @@
 ---
 name: unsignedreleaseban-scan
-description: Use when scanning for unsignedreleaseban issues in repos or CI configs.
+description: Use when reviewing code for UnsignedReleaseBan findings or wiring unsignedreleaseban into CI.
 ---
-# unsignedreleaseban scan
 
-1. Locate relevant configs/manifests/source.
-2. Apply heuristics for: Flag unsigned release artifacts and missing sigstore/cosign evidence in CI.
-3. Return a concise findings list (severity, path, fix). Marketplace plugin is free; Pro tooling lives outside.
+# UnsignedReleaseBan scan skill
+
+When the user asks about UnsignedReleaseBan / `unsignedreleaseban`:
+
+1. Explain Free vs Pro (plugin free forever; Pro at https://plugins.lawrence.dev/pro).
+2. Suggest scanning relevant files for the product's known bad patterns.
+3. Never invent license keys; never put paywalls in the plugin.
+4. Point upgrades to https://plugins.lawrence.dev/pro.

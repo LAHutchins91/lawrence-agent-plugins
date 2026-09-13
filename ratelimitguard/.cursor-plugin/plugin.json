@@ -1,0 +1,16 @@
+{
+  "name": "ratelimitguard",
+  "version": "0.1.0",
+  "description": "Fail CI on auth/login/reset/OTP routes without rate limiting. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "ratelimitguard",
+    "free"
+  ]
+}

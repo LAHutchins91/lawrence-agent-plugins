@@ -1,7 +1,7 @@
 {
   "name": "provenancemissban",
   "version": "0.1.0",
-  "description": "Flag releases missing SLSA provenance attestations. Free Cursor plugin funnel. Pro outside marketplace.",
+  "description": "Fail CI when build provenance is missing. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

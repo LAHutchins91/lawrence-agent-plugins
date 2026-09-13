@@ -1,5 +1,12 @@
-# sastskipciban
+# SastSkipCiBan (Cursor plugin) — FREE forever
 
-Detect CI pipelines that skip SAST or security scan jobs.
+Fail CI when SAST scanners are skipped.
 
-**Free** Cursor marketplace plugin (funnel). Paid Pro/Team is outside the marketplace.
+## Install
+Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+
+## Upgrade for CI fail
+Pro available · https://plugins.lawrence.dev/pro
+
+## What it does
+Runs `sastskipciban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).

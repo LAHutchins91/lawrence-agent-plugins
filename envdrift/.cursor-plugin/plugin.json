@@ -1,7 +1,7 @@
 {
   "name": "envdrift",
   "version": "0.1.0",
-  "description": "Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship. Free Cursor plugin funnel. Pro $49/mo at https://envdrift.dev",
+  "description": "Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

@@ -1,0 +1,16 @@
+{
+  "name": "commandinjectban",
+  "version": "0.1.0",
+  "description": "Fail CI on child_process.exec/shell:true and user-input command injection. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "commandinjectban",
+    "free"
+  ]
+}

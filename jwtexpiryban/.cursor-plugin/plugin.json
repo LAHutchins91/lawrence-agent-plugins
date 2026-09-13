@@ -1,0 +1,16 @@
+{
+  "name": "jwtexpiryban",
+  "version": "0.1.0",
+  "description": "Fail CI on jwt.sign without expiry / ignoreExpiration / long TTL. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "jwtexpiryban",
+    "free"
+  ]
+}

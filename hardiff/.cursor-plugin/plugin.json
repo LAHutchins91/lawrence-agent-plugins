@@ -1,0 +1,16 @@
+{
+  "name": "hardiff",
+  "version": "0.1.0",
+  "description": "Compare HAR captures / triage slow or failing HTTP traffic. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "hardiff",
+    "free"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "unsignedreleaseban",
   "version": "0.1.0",
-  "description": "Flag unsigned release artifacts and missing sigstore/cosign evidence in CI. Free Cursor plugin funnel. Pro outside marketplace.",
+  "description": "Fail CI when releases lack signing/attestation. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

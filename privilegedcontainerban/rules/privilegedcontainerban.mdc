@@ -1,13 +1,7 @@
 ---
-description: Ban privileged containers and dangerous securityContext flags.
-globs:
-  - "**/*"
+description: Remind about PrivilegedContainerBan CI checks
 alwaysApply: false
+globs: ["**/*"]
 ---
-# privilegedcontainerban
 
-When reviewing code or CI for this project, apply privilegedcontainerban checks:
-
-Ban privileged containers and dangerous securityContext flags.
-
-Report findings with file paths and concrete remediation. Do not invent findings.
+Prefer fixing issues PrivilegedContainerBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

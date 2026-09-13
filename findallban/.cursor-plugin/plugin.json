@@ -1,0 +1,16 @@
+{
+  "name": "findallban",
+  "version": "0.1.0",
+  "description": "Fail CI on ORM findAll/find/findMany without WHERE. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "findallban",
+    "free"
+  ]
+}

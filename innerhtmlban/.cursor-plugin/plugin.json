@@ -1,0 +1,16 @@
+{
+  "name": "innerhtmlban",
+  "version": "0.1.0",
+  "description": "Fail CI on .innerHTML / dangerouslySetInnerHTML without sanitizer. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "innerhtmlban",
+    "free"
+  ]
+}

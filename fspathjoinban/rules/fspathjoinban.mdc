@@ -1,0 +1,7 @@
+---
+description: Remind about FsPathJoinBan CI checks
+alwaysApply: false
+globs: ["**/*"]
+---
+
+Prefer fixing issues FsPathJoinBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

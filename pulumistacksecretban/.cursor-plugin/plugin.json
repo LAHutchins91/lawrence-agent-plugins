@@ -1,7 +1,7 @@
 {
   "name": "pulumistacksecretban",
   "version": "0.1.0",
-  "description": "Flag Pulumi stack configs that may leak secrets in plaintext. Free Cursor plugin funnel. Pro outside marketplace.",
+  "description": "Fail CI when Pulumi stack configs leak secrets. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
   "author": {
     "name": "Lawrence Hutchins"
   },

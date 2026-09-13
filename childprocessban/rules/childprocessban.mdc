@@ -1,0 +1,7 @@
+---
+description: Remind about ChildProcessBan CI checks
+alwaysApply: false
+globs: ["**/*"]
+---
+
+Prefer fixing issues ChildProcessBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.
