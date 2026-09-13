@@ -2404,6 +2404,19 @@
         "terraform",
         "devtools"
       ]
+    },
+    {
+      "name": "gitleaks-lab",
+      "source": "gitleaks-lab",
+      "description": "Gitleaks rules/allowlist/config heuristics + lite lint \u2014 free marketplace funnel (no secret values).",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "gitleaks",
+        "secrets",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
