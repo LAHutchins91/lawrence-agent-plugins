@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "terraform-cdk-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

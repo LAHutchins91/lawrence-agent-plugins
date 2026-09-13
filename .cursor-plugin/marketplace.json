@@ -5292,6 +5292,19 @@
         "kubernetes",
         "devtools"
       ]
+    },
+    {
+      "name": "terraform-cdk-lab",
+      "source": "terraform-cdk-lab",
+      "description": "cdktf.json/ts stacks/providers/resources parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cdktf",
+        "terraform",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }
