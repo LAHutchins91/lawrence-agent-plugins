@@ -439,6 +439,19 @@
         "posix",
         "devtools"
       ]
+    },
+    {
+      "name": "line-ending-lab",
+      "source": "line-ending-lab",
+      "description": "Detect/normalize EOL, count lines, strip UTF-8 BOM \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "eol",
+        "bom",
+        "text",
+        "devtools"
+      ]
     }
   ]
 }
