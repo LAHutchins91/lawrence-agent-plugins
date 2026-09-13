@@ -1,0 +1,15 @@
+{
+  "name": "hash-lab",
+  "displayName": "Hash Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for SHA/MD5 hashing, checksums, constant-time-ish digest compare, and HMAC-SHA256 — Node crypto only, no SaaS.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "hash", "sha256", "hmac", "checksum", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "hash", "sha256", "hmac", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

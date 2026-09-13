@@ -274,6 +274,18 @@
         "case",
         "filenames"
       ]
+    },
+    {
+      "name": "hash-lab",
+      "source": "hash-lab",
+      "description": "SHA/MD5 hash, compare digests, checksum text, HMAC-SHA256 \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "hash",
+        "sha256",
+        "hmac"
+      ]
     }
   ]
 }
