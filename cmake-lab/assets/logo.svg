@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="CMake Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0f172a"/>
+  <path d="M72 168 L128 72 L184 168 Z" fill="none" stroke="#064F8C" stroke-width="10" stroke-linejoin="round"/>
+  <circle cx="128" cy="140" r="18" fill="#64B5F6"/>
+  <text x="128" y="214" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#64B5F6">CMAKE</text>
+</svg>

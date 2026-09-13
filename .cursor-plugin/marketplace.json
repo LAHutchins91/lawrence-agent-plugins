@@ -904,6 +904,18 @@
         "make",
         "devtools"
       ]
+    },
+    {
+      "name": "cmake-lab",
+      "source": "cmake-lab",
+      "description": "CMakeLists targets/find_package/options + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cmake",
+        "c++",
+        "devtools"
+      ]
     }
   ]
 }

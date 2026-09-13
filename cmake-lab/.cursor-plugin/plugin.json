@@ -1,0 +1,15 @@
+{
+  "name": "cmake-lab",
+  "displayName": "CMake Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for CMakeLists.txt text — targets, find_package, options, and lite lint — pasted CMake only, no cmake binary, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "cmake", "CMakeLists.txt", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "cmake", "CMakeLists.txt", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
