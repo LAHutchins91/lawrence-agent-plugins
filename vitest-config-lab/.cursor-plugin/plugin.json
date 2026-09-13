@@ -1,0 +1,15 @@
+{
+  "name": "vitest-config-lab",
+  "displayName": "Vitest Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for vitest.config.*/vite.config.* text — include/exclude, coverage, workspace projects, and lite lint — pasted config only, no vitest/vite binary, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "vitest", "vite", "vitest.config", "coverage", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "vitest", "vite", "vitest.config", "coverage", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

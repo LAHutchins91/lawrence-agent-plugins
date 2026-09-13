@@ -952,6 +952,18 @@
         "spm",
         "devtools"
       ]
+    },
+    {
+      "name": "vitest-config-lab",
+      "source": "vitest-config-lab",
+      "description": "Vitest include/coverage/workspace parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "vitest",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }
