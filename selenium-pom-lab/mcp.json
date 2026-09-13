@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "selenium-pom-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}
