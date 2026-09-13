@@ -1,0 +1,15 @@
+{
+  "name": "io-ts-lab",
+  "displayName": "io-ts Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for io-ts TypeScript heuristics — codecs list, props hints, brand counts, and lite lint — pasted source only, no io-ts decode/encode runtime, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "io-ts", "schema", "validation", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "io-ts", "schema", "validation", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

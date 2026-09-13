@@ -1476,6 +1476,19 @@
         "codegen",
         "devtools"
       ]
+    },
+    {
+      "name": "io-ts-lab",
+      "source": "io-ts-lab",
+      "description": "io-ts codecs/props/brands parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "io-ts",
+        "validation",
+        "fp-ts",
+        "devtools"
+      ]
     }
   ]
 }
