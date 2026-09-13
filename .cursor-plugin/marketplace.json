@@ -1981,6 +1981,19 @@
         "load-testing",
         "devtools"
       ]
+    },
+    {
+      "name": "fortio-lab",
+      "source": "fortio-lab",
+      "description": "Fortio targets/qps/percentiles parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "fortio",
+        "load-testing",
+        "performance",
+        "devtools"
+      ]
     }
   ]
 }
