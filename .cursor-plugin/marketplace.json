@@ -879,6 +879,19 @@
         "editorconfig",
         "devtools"
       ]
+    },
+    {
+      "name": "gradle-lab",
+      "source": "gradle-lab",
+      "description": "Gradle plugins/deps/tasks hints + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "gradle",
+        "java",
+        "kotlin",
+        "devtools"
+      ]
     }
   ]
 }

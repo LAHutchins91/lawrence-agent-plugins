@@ -1,0 +1,15 @@
+{
+  "name": "gradle-lab",
+  "displayName": "Gradle Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Gradle build.gradle / build.gradle.kts text — plugins, deps, tasks hint, and lite lint — pasted DSL only, no Gradle daemon, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "gradle", "build.gradle", "kotlin-dsl", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "gradle", "build.gradle", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
