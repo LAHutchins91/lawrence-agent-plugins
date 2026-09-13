@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="url-parse-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <path d="M28 64c0-12 10-22 22-22h8v10h-8c-6.6 0-12 5.4-12 12s5.4 12 12 12h8v10h-8c-12 0-22-10-22-22z" fill="#38bdf8"/>
+  <path d="M100 64c0 12-10 22-22 22h-8V76h8c6.6 0 12-5.4 12-12s-5.4-12-12-12h-8V42h8c12 0 22 10 22 22z" fill="#22c55e"/>
+  <rect x="48" y="58" width="32" height="12" rx="3" fill="#a78bfa"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="700" fill="#94a3b8">url-parse</text>
+</svg>

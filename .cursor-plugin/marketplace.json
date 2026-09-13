@@ -404,6 +404,17 @@
         "a11y",
         "devtools"
       ]
+    },
+    {
+      "name": "url-parse-lab",
+      "source": "url-parse-lab",
+      "description": "Parse/join/normalize URLs and redact userinfo/secret query keys \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "url",
+        "devtools"
+      ]
     }
   ]
 }
