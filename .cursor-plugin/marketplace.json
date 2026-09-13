@@ -5370,6 +5370,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "ansible-lab",
+      "source": "ansible-lab",
+      "description": "Ansible playbook/role/vars parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ansible",
+        "devops",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }
