@@ -2274,6 +2274,19 @@
         "container",
         "devtools"
       ]
+    },
+    {
+      "name": "waypoint-lab",
+      "source": "waypoint-lab",
+      "description": "HashiCorp Waypoint apps/builds/deploys HCL heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "waypoint",
+        "hashicorp",
+        "deploy",
+        "devtools"
+      ]
     }
   ]
 }
