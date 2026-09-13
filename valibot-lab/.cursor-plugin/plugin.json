@@ -1,0 +1,15 @@
+{
+  "name": "valibot-lab",
+  "displayName": "Valibot Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Valibot schema TS/JS text — schemas, pipes, actions, and lite lint — no valibot runtime or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "valibot", "schema", "validation", "typescript", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "valibot", "schema", "validation", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

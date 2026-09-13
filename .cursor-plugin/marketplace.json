@@ -1489,6 +1489,19 @@
         "fp-ts",
         "devtools"
       ]
+    },
+    {
+      "name": "valibot-lab",
+      "source": "valibot-lab",
+      "description": "Valibot schemas/pipes/actions parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "valibot",
+        "validation",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }

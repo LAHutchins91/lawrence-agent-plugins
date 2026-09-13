@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="valibot-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <path d="M32 88 L52 36 L72 88" fill="none" stroke="#34d399" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 88 L84 36 L104 88" fill="none" stroke="#6ee7b7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="96" r="6" fill="#10b981"/>
+  <circle cx="88" cy="96" r="6" fill="#34d399"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="6" font-weight="700" fill="#94a3b8">valibot-lab</text>
+</svg>
