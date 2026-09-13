@@ -1,0 +1,15 @@
+{
+  "name": "hey-lab",
+  "displayName": "hey Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for hey HTTP load heuristics — target URL listings, option/output counts, and lite lint — pasted source only, never runs hey or load tests, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "hey", "load-testing", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "hey", "load-testing", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

@@ -1942,6 +1942,19 @@
         "performance",
         "devtools"
       ]
+    },
+    {
+      "name": "hey-lab",
+      "source": "hey-lab",
+      "description": "hey HTTP load targets/options/output parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "hey",
+        "load-testing",
+        "http",
+        "devtools"
+      ]
     }
   ]
 }
