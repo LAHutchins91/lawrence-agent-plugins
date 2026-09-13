@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Nuxt Config Lab logo">
+  <rect width="256" height="256" rx="48" fill="#020617"/>
+  <path d="M48 176 L104 72 L160 176 Z" fill="none" stroke="#00DC82" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M88 176 L148 64 L208 176 Z" fill="#00DC82"/>
+  <path d="M148 96 L186 168 H110 Z" fill="#020617"/>
+  <circle cx="214" cy="60" r="10" fill="#00DC82"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#E5E7EB">NUXT CONFIG</text>
+</svg>

@@ -1098,6 +1098,18 @@
         "css",
         "devtools"
       ]
+    },
+    {
+      "name": "nuxt-config-lab",
+      "source": "nuxt-config-lab",
+      "description": "Nuxt modules/runtimeConfig/routeRules parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "nuxt",
+        "vue",
+        "devtools"
+      ]
     }
   ]
 }
