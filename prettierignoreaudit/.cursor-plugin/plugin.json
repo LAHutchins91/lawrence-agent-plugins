@@ -1,0 +1,15 @@
+{
+  "name": "prettierignoreaudit",
+  "version": "0.1.0",
+  "description": "Lint .prettierignore for missing generated dirs and source negations. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "prettierignoreaudit",
+    "free"
+  ]
+}

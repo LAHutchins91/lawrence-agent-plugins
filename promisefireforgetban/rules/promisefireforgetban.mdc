@@ -1,0 +1,12 @@
+---
+description: Fail CI on statement-level fire-and-forget promises (fetch/prisma/empty .then).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PromiseFireForgetBan
+
+Fail CI on statement-level fire-and-forget promises (fetch/prisma/empty .then).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

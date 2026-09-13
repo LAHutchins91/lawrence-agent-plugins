@@ -1,0 +1,12 @@
+---
+description: Fail CI when secrets/tokens use === instead of timingSafeEqual.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# TimingSafeEqualBan
+
+Fail CI when secrets/tokens use === instead of timingSafeEqual.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

@@ -1,0 +1,15 @@
+{
+  "name": "frameguard",
+  "version": "0.1.0",
+  "description": "Lint X-Frame-Options / CSP frame-ancestors \u2014 catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `frame-ancestors *` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "frameguard",
+    "free"
+  ]
+}

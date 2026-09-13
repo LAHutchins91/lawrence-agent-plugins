@@ -1,0 +1,12 @@
+---
+description: Lint X-Frame-Options / CSP frame-ancestors — catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `f
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# FrameGuard (`frameguard`)
+
+Lint X-Frame-Options / CSP frame-ancestors — catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `frame-ancestors *` in raw headers, nginx `add_header`, and Express / helmet configs.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

@@ -1,0 +1,12 @@
+---
+description: Lint Permissions-Policy / Feature-Policy for overly broad * grants.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PermsPolicy
+
+Lint Permissions-Policy / Feature-Policy for overly broad * grants.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

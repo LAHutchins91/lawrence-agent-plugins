@@ -1,0 +1,15 @@
+{
+  "name": "throwliteralgate",
+  "version": "0.1.0",
+  "description": "Fail CI when code throws string/number literals instead of Error. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "throwliteralgate",
+    "free"
+  ]
+}

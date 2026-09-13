@@ -1,0 +1,12 @@
+---
+description: Fail CI on missing Document-Policy for js-profiling / force-load-at-top / oversized-images.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# DocumentPolicyBan
+
+Fail CI on missing Document-Policy for js-profiling / force-load-at-top / oversized-images.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

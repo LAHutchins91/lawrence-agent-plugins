@@ -1,0 +1,12 @@
+---
+description: Fail CI on sensitive routes missing Cache-Control: no-store.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# CacheControlBan
+
+Fail CI on sensitive routes missing Cache-Control: no-store.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

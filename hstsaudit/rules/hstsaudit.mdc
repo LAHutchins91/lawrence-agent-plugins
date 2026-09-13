@@ -1,0 +1,12 @@
+---
+description: Lint Strict-Transport-Security headers — catch missing `max-age`, too-short `max-age` (&lt; 1 year), and missing `includ
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# HstsAudit (`hstsaudit`)
+
+Lint Strict-Transport-Security headers — catch missing `max-age`, too-short `max-age` (&lt; 1 year), and missing `includeSubDomains` in raw headers, nginx `add_header`, and Express / helmet configs.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

@@ -1,0 +1,12 @@
+---
+description: Fail CI on md5/sha1, Math.random tokens, createCipher.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# WeakCryptoBan
+
+Fail CI on md5/sha1, Math.random tokens, createCipher.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

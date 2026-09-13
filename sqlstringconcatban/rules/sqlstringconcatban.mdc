@@ -1,0 +1,12 @@
+---
+description: Fail CI on SQL string concat / template query building.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# SqlStringConcatBan
+
+Fail CI on SQL string concat / template query building.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

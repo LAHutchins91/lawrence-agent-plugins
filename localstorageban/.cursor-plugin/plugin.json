@@ -1,0 +1,15 @@
+{
+  "name": "localstorageban",
+  "version": "0.1.0",
+  "description": "Fail CI on localStorage/sessionStorage outside allowlisted modules. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "localstorageban",
+    "free"
+  ]
+}

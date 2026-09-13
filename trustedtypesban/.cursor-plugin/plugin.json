@@ -1,0 +1,15 @@
+{
+  "name": "trustedtypesban",
+  "version": "0.1.0",
+  "description": "Fail CI on DOM sinks without Trusted Types CSP (require-trusted-types-for). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "trustedtypesban",
+    "free"
+  ]
+}

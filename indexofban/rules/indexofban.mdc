@@ -1,0 +1,12 @@
+---
+description: Ban indexOf-for-membership; prefer includes/Set.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# IndexOfBan
+
+Ban indexOf-for-membership; prefer includes/Set.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

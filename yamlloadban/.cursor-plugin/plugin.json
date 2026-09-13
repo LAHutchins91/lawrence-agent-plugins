@@ -1,0 +1,15 @@
+{
+  "name": "yamlloadban",
+  "version": "0.1.0",
+  "description": "Fail CI on unsafe yaml.load / js-yaml load without JSON_SCHEMA. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "yamlloadban",
+    "free"
+  ]
+}

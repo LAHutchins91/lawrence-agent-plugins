@@ -1,0 +1,12 @@
+---
+description: Fail CI on missing X-DNS-Prefetch-Control: off.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# DnsPrefetchBan
+
+Fail CI on missing X-DNS-Prefetch-Control: off.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

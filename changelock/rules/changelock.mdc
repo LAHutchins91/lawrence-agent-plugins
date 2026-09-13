@@ -1,0 +1,12 @@
+---
+description: Require CHANGELOG entries for version bumps — lock `package.json` version to a CHANGELOG heading before the tag ships.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ChangeLock
+
+Require CHANGELOG entries for version bumps — lock `package.json` version to a CHANGELOG heading before the tag ships.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

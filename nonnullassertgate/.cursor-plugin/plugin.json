@@ -1,0 +1,15 @@
+{
+  "name": "nonnullassertgate",
+  "version": "0.1.0",
+  "description": "Fail CI when TypeScript non-null assertions exceed policy. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "nonnullassertgate",
+    "free"
+  ]
+}

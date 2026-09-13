@@ -1,0 +1,12 @@
+---
+description: Fail CI when server entrypoints lack unhandledRejection handlers.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# UnhandledRejectionBan
+
+Fail CI when server entrypoints lack unhandledRejection handlers.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

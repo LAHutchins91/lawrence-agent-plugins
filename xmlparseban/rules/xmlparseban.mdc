@@ -1,0 +1,12 @@
+---
+description: Fail CI on unsafe libxmljs/xml2js/fast-xml-parser / DOMParser XXE risks.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# XmlParseBan
+
+Fail CI on unsafe libxmljs/xml2js/fast-xml-parser / DOMParser XXE risks.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

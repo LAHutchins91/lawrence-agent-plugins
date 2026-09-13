@@ -1,0 +1,12 @@
+---
+description: Require digest/version-pinned FROM lines in Dockerfiles.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# DockerfilePin
+
+Require digest/version-pinned FROM lines in Dockerfiles.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

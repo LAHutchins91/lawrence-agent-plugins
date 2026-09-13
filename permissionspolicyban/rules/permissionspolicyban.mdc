@@ -1,0 +1,12 @@
+---
+description: Fail CI on missing or overly permissive Permissions-Policy.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PermissionsPolicyBan
+
+Fail CI on missing or overly permissive Permissions-Policy.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

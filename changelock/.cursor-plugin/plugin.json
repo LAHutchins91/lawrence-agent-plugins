@@ -1,0 +1,15 @@
+{
+  "name": "changelock",
+  "version": "0.1.0",
+  "description": "Require CHANGELOG entries for version bumps \u2014 lock `package.json` version to a CHANGELOG heading before the tag ships. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "changelock",
+    "free"
+  ]
+}

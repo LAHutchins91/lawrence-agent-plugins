@@ -1,0 +1,12 @@
+---
+description: Fail CI on log injection via unsanitized request data in console/winston/pino.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# LogInjectionBan
+
+Fail CI on log injection via unsanitized request data in console/winston/pino.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

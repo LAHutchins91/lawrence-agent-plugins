@@ -1,0 +1,12 @@
+---
+description: Fail CI on production-shipped DEBUG / NODE_ENV / verbose flags.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# DebugFlagShipBan
+
+Fail CI on production-shipped DEBUG / NODE_ENV / verbose flags.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

@@ -1,0 +1,12 @@
+---
+description: Fail CI on url.parse / new Buffer / createCipher / etc.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# DeprecatedApiBan
+
+Fail CI on url.parse / new Buffer / createCipher / etc.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

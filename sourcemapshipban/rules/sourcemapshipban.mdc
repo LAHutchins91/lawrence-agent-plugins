@@ -1,0 +1,12 @@
+---
+description: Fail CI when prod webpack/vite/CRA configs ship source maps.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# SourceMapShipBan
+
+Fail CI when prod webpack/vite/CRA configs ship source maps.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

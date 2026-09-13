@@ -1,0 +1,15 @@
+{
+  "name": "crossoriginopenerban",
+  "version": "0.1.0",
+  "description": "Fail CI on window.open/target=_blank without noopener (COOP-era tabnabbing). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "crossoriginopenerban",
+    "free"
+  ]
+}

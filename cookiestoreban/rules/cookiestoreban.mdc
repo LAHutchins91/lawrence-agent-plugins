@@ -1,0 +1,12 @@
+---
+description: Fail CI on document.cookie writes outside allowlisted modules.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# CookieStoreBan
+
+Fail CI on document.cookie writes outside allowlisted modules.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

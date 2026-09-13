@@ -1,0 +1,12 @@
+---
+description: HTTP status / error-code catalog + CI assert for API responses.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# StatusAtlas
+
+HTTP status / error-code catalog + CI assert for API responses.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

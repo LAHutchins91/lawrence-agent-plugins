@@ -1,0 +1,15 @@
+{
+  "name": "noconsoleship",
+  "version": "0.1.0",
+  "description": "Fail CI on leftover console.log / debugger. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "noconsoleship",
+    "free"
+  ]
+}

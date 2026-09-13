@@ -1,0 +1,15 @@
+{
+  "name": "indexofban",
+  "version": "0.1.0",
+  "description": "Ban indexOf-for-membership; prefer includes/Set. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "indexofban",
+    "free"
+  ]
+}

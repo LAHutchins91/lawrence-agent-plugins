@@ -1,0 +1,12 @@
+---
+description: Fail CI when lockfile missing or out of sync.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PkgLockFresh
+
+Fail CI when lockfile missing or out of sync.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

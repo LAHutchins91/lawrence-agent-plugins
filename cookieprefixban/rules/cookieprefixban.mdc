@@ -1,0 +1,12 @@
+---
+description: Fail CI on session/auth cookies missing __Host- or __Secure- prefix.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# CookiePrefixBan
+
+Fail CI on session/auth cookies missing __Host- or __Secure- prefix.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

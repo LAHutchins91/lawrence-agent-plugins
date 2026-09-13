@@ -1,0 +1,12 @@
+---
+description: Fail CI on == / != (prefer === / !==).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# EqeqeqGate
+
+Fail CI on == / != (prefer === / !==).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

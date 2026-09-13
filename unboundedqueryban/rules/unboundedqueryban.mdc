@@ -1,0 +1,12 @@
+---
+description: Fail CI on ORM findMany/find without take/limit/pagination.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# UnboundedQueryBan
+
+Fail CI on ORM findMany/find without take/limit/pagination.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

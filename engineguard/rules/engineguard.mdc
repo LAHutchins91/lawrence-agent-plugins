@@ -1,0 +1,12 @@
+---
+description: Enforce `package.json` `engines.node` vs `.nvmrc` / CI — catch Node version drift before “works on my machine” hits CI.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# EngineGuard
+
+Enforce `package.json` `engines.node` vs `.nvmrc` / CI — catch Node version drift before “works on my machine” hits CI.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

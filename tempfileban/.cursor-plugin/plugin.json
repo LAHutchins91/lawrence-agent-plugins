@@ -1,0 +1,15 @@
+{
+  "name": "tempfileban",
+  "version": "0.1.0",
+  "description": "Fail CI on insecure /tmp writes, predictable tmpdir names, mktemp without XXXXXX. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "tempfileban",
+    "free"
+  ]
+}

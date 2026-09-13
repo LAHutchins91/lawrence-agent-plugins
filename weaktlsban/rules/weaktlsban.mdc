@@ -1,0 +1,12 @@
+---
+description: Fail CI on TLS misconfig (rejectUnauthorized false, SSLv3/TLSv1, weak ciphers).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# WeakTlsBan
+
+Fail CI on TLS misconfig (rejectUnauthorized false, SSLv3/TLSv1, weak ciphers).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

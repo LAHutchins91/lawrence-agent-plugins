@@ -1,0 +1,15 @@
+{
+  "name": "dockerfilepin",
+  "version": "0.1.0",
+  "description": "Require digest/version-pinned FROM lines in Dockerfiles. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "dockerfilepin",
+    "free"
+  ]
+}

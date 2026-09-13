@@ -1,0 +1,15 @@
+{
+  "name": "originagentclusterban",
+  "version": "0.1.0",
+  "description": "Fail CI on missing Origin-Agent-Cluster: ?1 for origin-keyed agent clusters. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "originagentclusterban",
+    "free"
+  ]
+}

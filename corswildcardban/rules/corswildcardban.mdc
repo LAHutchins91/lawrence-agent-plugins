@@ -1,0 +1,12 @@
+---
+description: Ban ACAO * + credentials / cors({origin:true}) + credentials.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# CorsWildcardBan
+
+Ban ACAO * + credentials / cors({origin:true}) + credentials.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

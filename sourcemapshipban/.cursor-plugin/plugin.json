@@ -1,0 +1,15 @@
+{
+  "name": "sourcemapshipban",
+  "version": "0.1.0",
+  "description": "Fail CI when prod webpack/vite/CRA configs ship source maps. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sourcemapshipban",
+    "free"
+  ]
+}

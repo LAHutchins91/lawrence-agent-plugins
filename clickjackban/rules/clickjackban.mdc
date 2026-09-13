@@ -1,0 +1,12 @@
+---
+description: Fail CI on missing clickjacking protection (XFO / frame-ancestors / frameguard).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ClickjackBan
+
+Fail CI on missing clickjacking protection (XFO / frame-ancestors / frameguard).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

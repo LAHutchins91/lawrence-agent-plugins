@@ -1,0 +1,15 @@
+{
+  "name": "httponlycookieban",
+  "version": "0.1.0",
+  "description": "Fail CI on session/auth/jwt cookies missing httpOnly. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "httponlycookieban",
+    "free"
+  ]
+}

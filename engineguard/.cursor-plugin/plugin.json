@@ -1,0 +1,15 @@
+{
+  "name": "engineguard",
+  "version": "0.1.0",
+  "description": "Enforce `package.json` `engines.node` vs `.nvmrc` / CI \u2014 catch Node version drift before \u201cworks on my machine\u201d hits CI. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "engineguard",
+    "free"
+  ]
+}

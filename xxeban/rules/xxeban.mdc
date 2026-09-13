@@ -1,0 +1,12 @@
+---
+description: Fail CI on XML external entity / XXE parser misconfig.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# XxeBan
+
+Fail CI on XML external entity / XXE parser misconfig.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

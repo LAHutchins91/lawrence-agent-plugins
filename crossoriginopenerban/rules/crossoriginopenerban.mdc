@@ -1,0 +1,12 @@
+---
+description: Fail CI on window.open/target=_blank without noopener (COOP-era tabnabbing).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# CrossOriginOpenerBan
+
+Fail CI on window.open/target=_blank without noopener (COOP-era tabnabbing).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

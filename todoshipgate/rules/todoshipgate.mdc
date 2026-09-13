@@ -1,0 +1,12 @@
+---
+description: Fail CI when TODO/FIXME/HACK exceed policy.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# TodoShipGate
+
+Fail CI when TODO/FIXME/HACK exceed policy.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

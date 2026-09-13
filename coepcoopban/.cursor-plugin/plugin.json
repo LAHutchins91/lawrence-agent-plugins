@@ -1,0 +1,15 @@
+{
+  "name": "coepcoopban",
+  "version": "0.1.0",
+  "description": "Fail CI on isolation apps missing COOP/COEP headers. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "coepcoopban",
+    "free"
+  ]
+}

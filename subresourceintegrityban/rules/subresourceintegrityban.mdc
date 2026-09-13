@@ -1,0 +1,12 @@
+---
+description: Fail CI on CDN script/link tags without integrity= SRI.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# SubresourceIntegrityBan
+
+Fail CI on CDN script/link tags without integrity= SRI.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

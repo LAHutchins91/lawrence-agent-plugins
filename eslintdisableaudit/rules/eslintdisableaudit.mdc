@@ -1,0 +1,12 @@
+---
+description: Find eslint-disable / @ts-ignore sprawl.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# EslintDisableAudit
+
+Find eslint-disable / @ts-ignore sprawl.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

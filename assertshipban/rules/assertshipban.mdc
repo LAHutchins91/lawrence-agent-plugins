@@ -1,0 +1,12 @@
+---
+description: Fail CI when Node assert / console.assert ships in production code.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# AssertShipBan
+
+Fail CI when Node assert / console.assert ships in production code.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

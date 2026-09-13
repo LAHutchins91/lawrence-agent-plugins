@@ -1,0 +1,15 @@
+{
+  "name": "pkglockfresh",
+  "version": "0.1.0",
+  "description": "Fail CI when lockfile missing or out of sync. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "pkglockfresh",
+    "free"
+  ]
+}

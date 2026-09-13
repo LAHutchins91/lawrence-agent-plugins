@@ -1,0 +1,15 @@
+{
+  "name": "xxeban",
+  "version": "0.1.0",
+  "description": "Fail CI on XML external entity / XXE parser misconfig. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "xxeban",
+    "free"
+  ]
+}

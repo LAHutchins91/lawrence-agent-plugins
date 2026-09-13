@@ -4008,6 +4008,1254 @@
         "selectstarban",
         "free"
       ]
+    },
+    {
+      "name": "sessionfixationban",
+      "source": "sessionfixationban",
+      "description": "Fail CI on session fixation: login without session.regenerate after auth. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sessionfixationban",
+        "free"
+      ]
+    },
+    {
+      "name": "softdeleteleakban",
+      "source": "softdeleteleakban",
+      "description": "Fail CI when ORM find/findMany omits soft-delete exclusion filters. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "softdeleteleakban",
+        "free"
+      ]
+    },
+    {
+      "name": "sqlidentifierban",
+      "source": "sqlidentifierban",
+      "description": "Fail CI on FROM/ORDER BY identifier interpolation from user input. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sqlidentifierban",
+        "free"
+      ]
+    },
+    {
+      "name": "sqlstringconcatban",
+      "source": "sqlstringconcatban",
+      "description": "Fail CI on SQL string concat / template query building. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sqlstringconcatban",
+        "free"
+      ]
+    },
+    {
+      "name": "ssrfurlban",
+      "source": "ssrfurlban",
+      "description": "Fail CI on fetch/axios/request to user-controlled URLs or private IPs. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "ssrfurlban",
+        "free"
+      ]
+    },
+    {
+      "name": "sstiban",
+      "source": "sstiban",
+      "description": "Fail CI on server-side template injection (ejs/handlebars/pug/nunjucks). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sstiban",
+        "free"
+      ]
+    },
+    {
+      "name": "subresourceintegrityban",
+      "source": "subresourceintegrityban",
+      "description": "Fail CI on CDN script/link tags without integrity= SRI. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "subresourceintegrityban",
+        "free"
+      ]
+    },
+    {
+      "name": "tempfileban",
+      "source": "tempfileban",
+      "description": "Fail CI on insecure /tmp writes, predictable tmpdir names, mktemp without XXXXXX. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "tempfileban",
+        "free"
+      ]
+    },
+    {
+      "name": "timingsafeequalban",
+      "source": "timingsafeequalban",
+      "description": "Fail CI when secrets/tokens use === instead of timingSafeEqual. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "timingsafeequalban",
+        "free"
+      ]
+    },
+    {
+      "name": "trivyskipallban",
+      "source": "trivyskipallban",
+      "description": "Fail CI when container scanners are skipped. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "trivyskipallban",
+        "free"
+      ]
+    },
+    {
+      "name": "trustedtypesban",
+      "source": "trustedtypesban",
+      "description": "Fail CI on DOM sinks without Trusted Types CSP (require-trusted-types-for). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "trustedtypesban",
+        "free"
+      ]
+    },
+    {
+      "name": "unboundedconcurrencyban",
+      "source": "unboundedconcurrencyban",
+      "description": "Fail CI on Promise.all(list.map(async)) unbounded fan-out. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "unboundedconcurrencyban",
+        "free"
+      ]
+    },
+    {
+      "name": "unboundedqueryban",
+      "source": "unboundedqueryban",
+      "description": "Fail CI on ORM findMany/find without take/limit/pagination. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "unboundedqueryban",
+        "free"
+      ]
+    },
+    {
+      "name": "weakcryptoban",
+      "source": "weakcryptoban",
+      "description": "Fail CI on md5/sha1, Math.random tokens, createCipher. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "weakcryptoban",
+        "free"
+      ]
+    },
+    {
+      "name": "weaktlsban",
+      "source": "weaktlsban",
+      "description": "Fail CI on TLS misconfig (rejectUnauthorized false, SSLv3/TLSv1, weak ciphers). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "weaktlsban",
+        "free"
+      ]
+    },
+    {
+      "name": "worldwritableban",
+      "source": "worldwritableban",
+      "description": "Fail CI on dangerous world-writable file modes. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "worldwritableban",
+        "free"
+      ]
+    },
+    {
+      "name": "xmlparseban",
+      "source": "xmlparseban",
+      "description": "Fail CI on unsafe libxmljs/xml2js/fast-xml-parser / DOMParser XXE risks. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "xmlparseban",
+        "free"
+      ]
+    },
+    {
+      "name": "xpathinjectban",
+      "source": "xpathinjectban",
+      "description": "Fail CI on XPath query concatenation with user input. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "xpathinjectban",
+        "free"
+      ]
+    },
+    {
+      "name": "xsssinkban",
+      "source": "xsssinkban",
+      "description": "Fail CI on classic XSS sinks (innerHTML, document.write, dangerouslySetInnerHTML). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "xsssinkban",
+        "free"
+      ]
+    },
+    {
+      "name": "xxeban",
+      "source": "xxeban",
+      "description": "Fail CI on XML external entity / XXE parser misconfig. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "xxeban",
+        "free"
+      ]
+    },
+    {
+      "name": "yamlloadban",
+      "source": "yamlloadban",
+      "description": "Fail CI on unsafe yaml.load / js-yaml load without JSON_SCHEMA. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "yamlloadban",
+        "free"
+      ]
+    },
+    {
+      "name": "yamlprobe",
+      "source": "yamlprobe",
+      "description": "Query/assert YAML paths for CI config drift. Catch replica counts, image tags, and feature flags before they silently diverge. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "yamlprobe",
+        "free"
+      ]
+    },
+    {
+      "name": "zipslipban",
+      "source": "zipslipban",
+      "description": "Fail CI on zip-slip / path traversal in archive extract. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "zipslipban",
+        "free"
+      ]
+    },
+    {
+      "name": "anybangate",
+      "source": "anybangate",
+      "description": "Fail CI when TypeScript any counts exceed policy. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "anybangate",
+        "free"
+      ]
+    },
+    {
+      "name": "argumentsban",
+      "source": "argumentsban",
+      "description": "Fail CI on use of the arguments object (prefer rest params). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "argumentsban",
+        "free"
+      ]
+    },
+    {
+      "name": "assertshipban",
+      "source": "assertshipban",
+      "description": "Fail CI when Node assert / console.assert ships in production code. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "assertshipban",
+        "free"
+      ]
+    },
+    {
+      "name": "bufferconcatban",
+      "source": "bufferconcatban",
+      "description": "Fail CI on new Buffer(), unchecked base64 Buffer.from, unsafe buf.write. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "bufferconcatban",
+        "free"
+      ]
+    },
+    {
+      "name": "cachecontrolban",
+      "source": "cachecontrolban",
+      "description": "Fail CI on sensitive routes missing Cache-Control: no-store. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "cachecontrolban",
+        "free"
+      ]
+    },
+    {
+      "name": "changelock",
+      "source": "changelock",
+      "description": "Require CHANGELOG entries for version bumps \u2014 lock `package.json` version to a CHANGELOG heading before the tag ships. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "changelock",
+        "free"
+      ]
+    },
+    {
+      "name": "clearsitedataban",
+      "source": "clearsitedataban",
+      "description": "Fail CI on logout without Clear-Site-Data cookies/storage. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "clearsitedataban",
+        "free"
+      ]
+    },
+    {
+      "name": "clickjackban",
+      "source": "clickjackban",
+      "description": "Fail CI on missing clickjacking protection (XFO / frame-ancestors / frameguard). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "clickjackban",
+        "free"
+      ]
+    },
+    {
+      "name": "codeclab",
+      "source": "codeclab",
+      "description": "Base64 / Base64URL / JWT-segment encode-decode with secret redaction. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "codeclab",
+        "free"
+      ]
+    },
+    {
+      "name": "coepcoopban",
+      "source": "coepcoopban",
+      "description": "Fail CI on isolation apps missing COOP/COEP headers. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "coepcoopban",
+        "free"
+      ]
+    },
+    {
+      "name": "commitmsgguard",
+      "source": "commitmsgguard",
+      "description": "Conventional commit / commit message lint for CI. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "commitmsgguard",
+        "free"
+      ]
+    },
+    {
+      "name": "consolelogshipban",
+      "source": "consolelogshipban",
+      "description": "Fail CI when console.log/debug/info ships in production source. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "consolelogshipban",
+        "free"
+      ]
+    },
+    {
+      "name": "contenttypesniffban",
+      "source": "contenttypesniffban",
+      "description": "Fail CI on missing X-Content-Type-Options: nosniff. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "contenttypesniffban",
+        "free"
+      ]
+    },
+    {
+      "name": "cookieprefixban",
+      "source": "cookieprefixban",
+      "description": "Fail CI on session/auth cookies missing __Host- or __Secure- prefix. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "cookieprefixban",
+        "free"
+      ]
+    },
+    {
+      "name": "cookiestoreban",
+      "source": "cookiestoreban",
+      "description": "Fail CI on document.cookie writes outside allowlisted modules. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "cookiestoreban",
+        "free"
+      ]
+    },
+    {
+      "name": "corpban",
+      "source": "corpban",
+      "description": "Fail CI on missing Cross-Origin-Resource-Policy. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "corpban",
+        "free"
+      ]
+    },
+    {
+      "name": "corswildcardban",
+      "source": "corswildcardban",
+      "description": "Ban ACAO * + credentials / cors({origin:true}) + credentials. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "corswildcardban",
+        "free"
+      ]
+    },
+    {
+      "name": "crossoriginopenerban",
+      "source": "crossoriginopenerban",
+      "description": "Fail CI on window.open/target=_blank without noopener (COOP-era tabnabbing). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "crossoriginopenerban",
+        "free"
+      ]
+    },
+    {
+      "name": "debugflagshipban",
+      "source": "debugflagshipban",
+      "description": "Fail CI on production-shipped DEBUG / NODE_ENV / verbose flags. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "debugflagshipban",
+        "free"
+      ]
+    },
+    {
+      "name": "debuggerstatementban",
+      "source": "debuggerstatementban",
+      "description": "Fail CI on leftover debugger / breakpoint / pdb / binding.pry. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "debuggerstatementban",
+        "free"
+      ]
+    },
+    {
+      "name": "deepequalban",
+      "source": "deepequalban",
+      "description": "Fail CI when lodash.isEqual / deep-equal / JSON.stringify compare patterns appear in hot paths or exceed count. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "deepequalban",
+        "free"
+      ]
+    },
+    {
+      "name": "dependabotguard",
+      "source": "dependabotguard",
+      "description": "Lint .github/dependabot.yml for missing ecosystems / open PR limits. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "dependabotguard",
+        "free"
+      ]
+    },
+    {
+      "name": "deprecatedapiban",
+      "source": "deprecatedapiban",
+      "description": "Fail CI on url.parse / new Buffer / createCipher / etc. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "deprecatedapiban",
+        "free"
+      ]
+    },
+    {
+      "name": "dnsprefetchban",
+      "source": "dnsprefetchban",
+      "description": "Fail CI on missing X-DNS-Prefetch-Control: off. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "dnsprefetchban",
+        "free"
+      ]
+    },
+    {
+      "name": "dockerfilepin",
+      "source": "dockerfilepin",
+      "description": "Require digest/version-pinned FROM lines in Dockerfiles. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "dockerfilepin",
+        "free"
+      ]
+    },
+    {
+      "name": "documentpolicyban",
+      "source": "documentpolicyban",
+      "description": "Fail CI on missing Document-Policy for js-profiling / force-load-at-top / oversized-images. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "documentpolicyban",
+        "free"
+      ]
+    },
+    {
+      "name": "documentwriteban",
+      "source": "documentwriteban",
+      "description": "Fail CI on document.write / writeln. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "documentwriteban",
+        "free"
+      ]
+    },
+    {
+      "name": "editorconfiglint",
+      "source": "editorconfiglint",
+      "description": "Lint .editorconfig for missing keys and conflicting overrides. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "editorconfiglint",
+        "free"
+      ]
+    },
+    {
+      "name": "emptycatchgate",
+      "source": "emptycatchgate",
+      "description": "Fail CI on empty catch / swallowed errors. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "emptycatchgate",
+        "free"
+      ]
+    },
+    {
+      "name": "engineguard",
+      "source": "engineguard",
+      "description": "Enforce `package.json` `engines.node` vs `.nvmrc` / CI \u2014 catch Node version drift before \u201cworks on my machine\u201d hits CI. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "engineguard",
+        "free"
+      ]
+    },
+    {
+      "name": "envexampledrift",
+      "source": "envexampledrift",
+      "description": "Keys-only .env vs .env.example drift (no secret scanning). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "envexampledrift",
+        "free"
+      ]
+    },
+    {
+      "name": "eqeqeqgate",
+      "source": "eqeqeqgate",
+      "description": "Fail CI on == / != (prefer === / !==). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "eqeqeqgate",
+        "free"
+      ]
+    },
+    {
+      "name": "eslintdisableaudit",
+      "source": "eslintdisableaudit",
+      "description": "Find eslint-disable / @ts-ignore sprawl. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "eslintdisableaudit",
+        "free"
+      ]
+    },
+    {
+      "name": "expectctban",
+      "source": "expectctban",
+      "description": "Fail CI on obsolete Expect-CT header (prefer CT monitoring). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "expectctban",
+        "free"
+      ]
+    },
+    {
+      "name": "forinban",
+      "source": "forinban",
+      "description": "Fail CI on for..in over arrays / unfiltered for..in. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "forinban",
+        "free"
+      ]
+    },
+    {
+      "name": "frameguard",
+      "source": "frameguard",
+      "description": "Lint X-Frame-Options / CSP frame-ancestors \u2014 catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `frame-ancestors *` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "frameguard",
+        "free"
+      ]
+    },
+    {
+      "name": "gitignoreaudit",
+      "source": "gitignoreaudit",
+      "description": "Lint .gitignore for missing secrets/env patterns and dangerous negations. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "gitignoreaudit",
+        "free"
+      ]
+    },
+    {
+      "name": "hstsaudit",
+      "source": "hstsaudit",
+      "description": "Lint Strict-Transport-Security headers \u2014 catch missing `max-age`, too-short `max-age` (&lt; 1 year), and missing `includeSubDomains` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "hstsaudit",
+        "free"
+      ]
+    },
+    {
+      "name": "hstsgate",
+      "source": "hstsgate",
+      "description": "Fail CI on missing Strict-Transport-Security (companion to HstsAudit). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "hstsgate",
+        "free"
+      ]
+    },
+    {
+      "name": "httponlycookieban",
+      "source": "httponlycookieban",
+      "description": "Fail CI on session/auth/jwt cookies missing httpOnly. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "httponlycookieban",
+        "free"
+      ]
+    },
+    {
+      "name": "indexofban",
+      "source": "indexofban",
+      "description": "Ban indexOf-for-membership; prefer includes/Set. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "indexofban",
+        "free"
+      ]
+    },
+    {
+      "name": "insecurerandomban",
+      "source": "insecurerandomban",
+      "description": "Fail CI on Math.random / pseudoRandomBytes for security-sensitive identifiers. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "insecurerandomban",
+        "free"
+      ]
+    },
+    {
+      "name": "jsonparseban",
+      "source": "jsonparseban",
+      "description": "Fail CI on unsafe JSON.parse of req.body / event.data / readFile without validation. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "jsonparseban",
+        "free"
+      ]
+    },
+    {
+      "name": "labelbangate",
+      "source": "labelbangate",
+      "description": "Fail CI on labeled statements / labeled break/continue. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "labelbangate",
+        "free"
+      ]
+    },
+    {
+      "name": "localstorageban",
+      "source": "localstorageban",
+      "description": "Fail CI on localStorage/sessionStorage outside allowlisted modules. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "localstorageban",
+        "free"
+      ]
+    },
+    {
+      "name": "loginjectionban",
+      "source": "loginjectionban",
+      "description": "Fail CI on log injection via unsanitized request data in console/winston/pino. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "loginjectionban",
+        "free"
+      ]
+    },
+    {
+      "name": "magicnumbergate",
+      "source": "magicnumbergate",
+      "description": "Fail CI on unexplained numeric literals. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "magicnumbergate",
+        "free"
+      ]
+    },
+    {
+      "name": "mixedcontentban",
+      "source": "mixedcontentban",
+      "description": "Fail CI on http:// URLs in HTTPS contexts / missing upgrade-insecure-requests. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "mixedcontentban",
+        "free"
+      ]
+    },
+    {
+      "name": "nestedternarygate",
+      "source": "nestedternarygate",
+      "description": "Fail CI when nested ternaries exceed depth/count policy. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "nestedternarygate",
+        "free"
+      ]
+    },
+    {
+      "name": "noconsoleship",
+      "source": "noconsoleship",
+      "description": "Fail CI on leftover console.log / debugger. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "noconsoleship",
+        "free"
+      ]
+    },
+    {
+      "name": "nonnullassertgate",
+      "source": "nonnullassertgate",
+      "description": "Fail CI when TypeScript non-null assertions exceed policy. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "nonnullassertgate",
+        "free"
+      ]
+    },
+    {
+      "name": "originagentclusterban",
+      "source": "originagentclusterban",
+      "description": "Fail CI on missing Origin-Agent-Cluster: ?1 for origin-keyed agent clusters. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "originagentclusterban",
+        "free"
+      ]
+    },
+    {
+      "name": "permissionspolicyban",
+      "source": "permissionspolicyban",
+      "description": "Fail CI on missing or overly permissive Permissions-Policy. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "permissionspolicyban",
+        "free"
+      ]
+    },
+    {
+      "name": "permspolicy",
+      "source": "permspolicy",
+      "description": "Lint Permissions-Policy / Feature-Policy for overly broad * grants. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "permspolicy",
+        "free"
+      ]
+    },
+    {
+      "name": "pkglockfresh",
+      "source": "pkglockfresh",
+      "description": "Fail CI when lockfile missing or out of sync. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "pkglockfresh",
+        "free"
+      ]
+    },
+    {
+      "name": "prettierignoreaudit",
+      "source": "prettierignoreaudit",
+      "description": "Lint .prettierignore for missing generated dirs and source negations. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "prettierignoreaudit",
+        "free"
+      ]
+    },
+    {
+      "name": "promisefireforgetban",
+      "source": "promisefireforgetban",
+      "description": "Fail CI on statement-level fire-and-forget promises (fetch/prisma/empty .then). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "promisefireforgetban",
+        "free"
+      ]
+    },
+    {
+      "name": "referreraudit",
+      "source": "referreraudit",
+      "description": "Lint Referrer-Policy for overly leaky values \u2014 catch `unsafe-url` and `no-referrer-when-downgrade` in raw headers, nginx `add_header`, Express / helmet configs, and `<meta name=\"referrer\">`. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "referreraudit",
+        "free"
+      ]
+    },
+    {
+      "name": "referrerpolicyban",
+      "source": "referrerpolicyban",
+      "description": "Fail CI on missing or unsafe Referrer-Policy. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "referrerpolicyban",
+        "free"
+      ]
+    },
+    {
+      "name": "regexforge",
+      "source": "regexforge",
+      "description": "Regex explain/test with sample corpus + CI assert. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "regexforge",
+        "free"
+      ]
+    },
+    {
+      "name": "reportingendpointsban",
+      "source": "reportingendpointsban",
+      "description": "Fail CI on CSP/COOP/Document-Policy without Reporting-Endpoints/Report-To. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "reportingendpointsban",
+        "free"
+      ]
+    },
+    {
+      "name": "samesitecookieban",
+      "source": "samesitecookieban",
+      "description": "Fail CI on session/auth cookies missing SameSite=Strict|Lax. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "samesitecookieban",
+        "free"
+      ]
+    },
+    {
+      "name": "securecookieban",
+      "source": "securecookieban",
+      "description": "Fail CI on cookies missing Secure flag (companion to HttpOnlyCookieBan). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "securecookieban",
+        "free"
+      ]
+    },
+    {
+      "name": "semverrangegate",
+      "source": "semverrangegate",
+      "description": "Fail CI on overly wide package.json ranges. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "semverrangegate",
+        "free"
+      ]
+    },
+    {
+      "name": "serverheaderban",
+      "source": "serverheaderban",
+      "description": "Fail CI on Server header version leaks / missing removal. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "serverheaderban",
+        "free"
+      ]
+    },
+    {
+      "name": "sourcemapshipban",
+      "source": "sourcemapshipban",
+      "description": "Fail CI when prod webpack/vite/CRA configs ship source maps. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sourcemapshipban",
+        "free"
+      ]
+    },
+    {
+      "name": "statusatlas",
+      "source": "statusatlas",
+      "description": "HTTP status / error-code catalog + CI assert for API responses. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "statusatlas",
+        "free"
+      ]
+    },
+    {
+      "name": "strictts",
+      "source": "strictts",
+      "description": "Audit `tsconfig.json` for missing `strict` / `noImplicit*` flags \u2014 catch loose TypeScript configs before they ship. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "strictts",
+        "free"
+      ]
+    },
+    {
+      "name": "targetblankban",
+      "source": "targetblankban",
+      "description": "Fail CI on target=_blank without rel=noopener noreferrer. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "targetblankban",
+        "free"
+      ]
+    },
+    {
+      "name": "throwliteralgate",
+      "source": "throwliteralgate",
+      "description": "Fail CI when code throws string/number literals instead of Error. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "throwliteralgate",
+        "free"
+      ]
+    },
+    {
+      "name": "timingattackban",
+      "source": "timingattackban",
+      "description": "Fail CI on === of secrets/tokens/hashes (prefer timingSafeEqual). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "timingattackban",
+        "free"
+      ]
+    },
+    {
+      "name": "tocguard",
+      "source": "tocguard",
+      "description": "Markdown TOC drift / heading lint. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "tocguard",
+        "free"
+      ]
+    },
+    {
+      "name": "todoshipgate",
+      "source": "todoshipgate",
+      "description": "Fail CI when TODO/FIXME/HACK exceed policy. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "todoshipgate",
+        "free"
+      ]
+    },
+    {
+      "name": "tsconfigstrict",
+      "source": "tsconfigstrict",
+      "description": "Lint tsconfig.json for missing strict flags via policy files. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "tsconfigstrict",
+        "free"
+      ]
+    },
+    {
+      "name": "tworder",
+      "source": "tworder",
+      "description": "Lint Tailwind class order drift in JSX/HTML. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "tworder",
+        "free"
+      ]
+    },
+    {
+      "name": "unhandledrejectionban",
+      "source": "unhandledrejectionban",
+      "description": "Fail CI when server entrypoints lack unhandledRejection handlers. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "unhandledrejectionban",
+        "free"
+      ]
+    },
+    {
+      "name": "varbangate",
+      "source": "varbangate",
+      "description": "Fail CI when var declarations appear in JS/TS. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "varbangate",
+        "free"
+      ]
+    },
+    {
+      "name": "websocketoriginban",
+      "source": "websocketoriginban",
+      "description": "Fail CI on new WebSocket to untrusted hosts / ws:. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "websocketoriginban",
+        "free"
+      ]
+    },
+    {
+      "name": "windowopenban",
+      "source": "windowopenban",
+      "description": "Fail CI on window.open without noopener/noreferrer. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "windowopenban",
+        "free"
+      ]
+    },
+    {
+      "name": "withbangate",
+      "source": "withbangate",
+      "description": "Fail CI on with (...) statements in JS. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "withbangate",
+        "free"
+      ]
+    },
+    {
+      "name": "xpoweredbyban",
+      "source": "xpoweredbyban",
+      "description": "Fail CI on Express/Next leaking X-Powered-By. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "xpoweredbyban",
+        "free"
+      ]
     }
   ]
 }

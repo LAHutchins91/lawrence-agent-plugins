@@ -1,0 +1,12 @@
+---
+description: Fail CI on new Buffer(), unchecked base64 Buffer.from, unsafe buf.write.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# BufferConcatBan
+
+Fail CI on new Buffer(), unchecked base64 Buffer.from, unsafe buf.write.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

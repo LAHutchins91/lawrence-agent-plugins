@@ -1,0 +1,12 @@
+---
+description: Fail CI on Server header version leaks / missing removal.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ServerHeaderBan
+
+Fail CI on Server header version leaks / missing removal.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

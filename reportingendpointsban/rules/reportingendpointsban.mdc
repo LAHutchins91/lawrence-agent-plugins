@@ -1,0 +1,12 @@
+---
+description: Fail CI on CSP/COOP/Document-Policy without Reporting-Endpoints/Report-To.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ReportingEndpointsBan
+
+Fail CI on CSP/COOP/Document-Policy without Reporting-Endpoints/Report-To.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

@@ -1,0 +1,12 @@
+---
+description: Fail CI on Express/Next leaking X-Powered-By.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# XPoweredByBan
+
+Fail CI on Express/Next leaking X-Powered-By.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

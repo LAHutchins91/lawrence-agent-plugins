@@ -1,0 +1,12 @@
+---
+description: Fail CI on leftover console.log / debugger.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# NoConsoleShip
+
+Fail CI on leftover console.log / debugger.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

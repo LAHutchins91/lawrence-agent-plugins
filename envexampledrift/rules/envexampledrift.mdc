@@ -1,0 +1,12 @@
+---
+description: Keys-only .env vs .env.example drift (no secret scanning).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# EnvExampleDrift
+
+Keys-only .env vs .env.example drift (no secret scanning).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

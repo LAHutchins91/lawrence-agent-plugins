@@ -1,0 +1,15 @@
+{
+  "name": "permissionspolicyban",
+  "version": "0.1.0",
+  "description": "Fail CI on missing or overly permissive Permissions-Policy. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "permissionspolicyban",
+    "free"
+  ]
+}

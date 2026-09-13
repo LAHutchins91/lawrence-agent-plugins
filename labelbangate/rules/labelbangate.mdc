@@ -1,0 +1,12 @@
+---
+description: Fail CI on labeled statements / labeled break/continue.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# LabelBanGate
+
+Fail CI on labeled statements / labeled break/continue.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

@@ -1,0 +1,12 @@
+---
+description: Markdown TOC drift / heading lint.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# TocGuard
+
+Markdown TOC drift / heading lint.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

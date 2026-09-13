@@ -1,0 +1,12 @@
+---
+description: Fail CI when container scanners are skipped.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# TrivySkipAllBan
+
+Fail CI when container scanners are skipped.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

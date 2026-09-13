@@ -1,0 +1,12 @@
+---
+description: Fail CI on for..in over arrays / unfiltered for..in.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ForInBan
+
+Fail CI on for..in over arrays / unfiltered for..in.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

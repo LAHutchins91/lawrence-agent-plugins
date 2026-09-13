@@ -1,0 +1,12 @@
+---
+description: Query/assert YAML paths for CI config drift. Catch replica counts, image tags, and feature flags before they silently di
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# YamlProbe
+
+Query/assert YAML paths for CI config drift. Catch replica counts, image tags, and feature flags before they silently diverge.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

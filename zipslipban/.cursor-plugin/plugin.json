@@ -1,0 +1,15 @@
+{
+  "name": "zipslipban",
+  "version": "0.1.0",
+  "description": "Fail CI on zip-slip / path traversal in archive extract. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "zipslipban",
+    "free"
+  ]
+}

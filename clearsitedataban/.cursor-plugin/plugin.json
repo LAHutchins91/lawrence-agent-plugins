@@ -1,0 +1,15 @@
+{
+  "name": "clearsitedataban",
+  "version": "0.1.0",
+  "description": "Fail CI on logout without Clear-Site-Data cookies/storage. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "clearsitedataban",
+    "free"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bufferconcatban",
+  "version": "0.1.0",
+  "description": "Fail CI on new Buffer(), unchecked base64 Buffer.from, unsafe buf.write. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "bufferconcatban",
+    "free"
+  ]
+}

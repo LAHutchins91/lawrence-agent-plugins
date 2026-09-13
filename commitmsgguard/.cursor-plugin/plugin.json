@@ -1,0 +1,15 @@
+{
+  "name": "commitmsgguard",
+  "version": "0.1.0",
+  "description": "Conventional commit / commit message lint for CI. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "commitmsgguard",
+    "free"
+  ]
+}

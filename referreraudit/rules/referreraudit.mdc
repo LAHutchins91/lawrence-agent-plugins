@@ -1,0 +1,12 @@
+---
+description: Lint Referrer-Policy for overly leaky values — catch `unsafe-url` and `no-referrer-when-downgrade` in raw headers, nginx
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ReferrerAudit (`referreraudit`)
+
+Lint Referrer-Policy for overly leaky values — catch `unsafe-url` and `no-referrer-when-downgrade` in raw headers, nginx `add_header`, Express / helmet configs, and `<meta name="referrer">`.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

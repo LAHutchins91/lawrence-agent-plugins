@@ -1,0 +1,15 @@
+{
+  "name": "regexforge",
+  "version": "0.1.0",
+  "description": "Regex explain/test with sample corpus + CI assert. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "regexforge",
+    "free"
+  ]
+}

@@ -1,0 +1,12 @@
+---
+description: Lint .gitignore for missing secrets/env patterns and dangerous negations.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# GitIgnoreAudit
+
+Lint .gitignore for missing secrets/env patterns and dangerous negations.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

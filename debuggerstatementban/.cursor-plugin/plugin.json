@@ -1,0 +1,15 @@
+{
+  "name": "debuggerstatementban",
+  "version": "0.1.0",
+  "description": "Fail CI on leftover debugger / breakpoint / pdb / binding.pry. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "debuggerstatementban",
+    "free"
+  ]
+}

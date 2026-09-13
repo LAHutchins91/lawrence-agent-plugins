@@ -1,0 +1,12 @@
+---
+description: Fail CI on fetch/axios/request to user-controlled URLs or private IPs.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# SsrfUrlBan
+
+Fail CI on fetch/axios/request to user-controlled URLs or private IPs.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

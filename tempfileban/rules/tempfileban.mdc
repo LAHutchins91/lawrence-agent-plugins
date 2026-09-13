@@ -1,0 +1,12 @@
+---
+description: Fail CI on insecure /tmp writes, predictable tmpdir names, mktemp without XXXXXX.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# TempFileBan
+
+Fail CI on insecure /tmp writes, predictable tmpdir names, mktemp without XXXXXX.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

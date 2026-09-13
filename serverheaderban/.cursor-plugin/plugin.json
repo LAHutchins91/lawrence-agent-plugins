@@ -1,0 +1,15 @@
+{
+  "name": "serverheaderban",
+  "version": "0.1.0",
+  "description": "Fail CI on Server header version leaks / missing removal. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "serverheaderban",
+    "free"
+  ]
+}

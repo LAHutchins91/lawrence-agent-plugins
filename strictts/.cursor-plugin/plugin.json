@@ -1,0 +1,15 @@
+{
+  "name": "strictts",
+  "version": "0.1.0",
+  "description": "Audit `tsconfig.json` for missing `strict` / `noImplicit*` flags \u2014 catch loose TypeScript configs before they ship. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "strictts",
+    "free"
+  ]
+}

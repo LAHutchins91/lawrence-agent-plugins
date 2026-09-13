@@ -1,0 +1,15 @@
+{
+  "name": "unboundedconcurrencyban",
+  "version": "0.1.0",
+  "description": "Fail CI on Promise.all(list.map(async)) unbounded fan-out. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "unboundedconcurrencyban",
+    "free"
+  ]
+}

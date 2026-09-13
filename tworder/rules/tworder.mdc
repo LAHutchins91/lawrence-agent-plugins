@@ -1,0 +1,12 @@
+---
+description: Lint Tailwind class order drift in JSX/HTML.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# TwOrder
+
+Lint Tailwind class order drift in JSX/HTML.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

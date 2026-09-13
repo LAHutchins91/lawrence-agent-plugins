@@ -1,0 +1,12 @@
+---
+description: Lint .editorconfig for missing keys and conflicting overrides.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# EditorConfigLint
+
+Lint .editorconfig for missing keys and conflicting overrides.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

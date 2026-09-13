@@ -1,0 +1,15 @@
+{
+  "name": "hstsgate",
+  "version": "0.1.0",
+  "description": "Fail CI on missing Strict-Transport-Security (companion to HstsAudit). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "hstsgate",
+    "free"
+  ]
+}

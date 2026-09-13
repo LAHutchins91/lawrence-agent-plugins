@@ -1,0 +1,12 @@
+---
+description: Fail CI on missing Cross-Origin-Resource-Policy.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# CorpBan
+
+Fail CI on missing Cross-Origin-Resource-Policy.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

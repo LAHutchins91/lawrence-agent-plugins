@@ -1,0 +1,12 @@
+---
+description: Fail CI on obsolete Expect-CT header (prefer CT monitoring).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ExpectCtBan
+
+Fail CI on obsolete Expect-CT header (prefer CT monitoring).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

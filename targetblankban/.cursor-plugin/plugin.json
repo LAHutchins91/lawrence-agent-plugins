@@ -1,0 +1,15 @@
+{
+  "name": "targetblankban",
+  "version": "0.1.0",
+  "description": "Fail CI on target=_blank without rel=noopener noreferrer. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "targetblankban",
+    "free"
+  ]
+}

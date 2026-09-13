@@ -1,0 +1,15 @@
+{
+  "name": "editorconfiglint",
+  "version": "0.1.0",
+  "description": "Lint .editorconfig for missing keys and conflicting overrides. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "editorconfiglint",
+    "free"
+  ]
+}

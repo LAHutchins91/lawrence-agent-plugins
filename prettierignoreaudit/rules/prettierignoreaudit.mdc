@@ -1,0 +1,12 @@
+---
+description: Lint .prettierignore for missing generated dirs and source negations.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PrettierIgnoreAudit
+
+Lint .prettierignore for missing generated dirs and source negations.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

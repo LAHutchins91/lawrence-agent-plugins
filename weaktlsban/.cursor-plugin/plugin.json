@@ -1,0 +1,15 @@
+{
+  "name": "weaktlsban",
+  "version": "0.1.0",
+  "description": "Fail CI on TLS misconfig (rejectUnauthorized false, SSLv3/TLSv1, weak ciphers). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "weaktlsban",
+    "free"
+  ]
+}

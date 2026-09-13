@@ -1,0 +1,12 @@
+---
+description: Lint .github/dependabot.yml for missing ecosystems / open PR limits.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# DependabotGuard
+
+Lint .github/dependabot.yml for missing ecosystems / open PR limits.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

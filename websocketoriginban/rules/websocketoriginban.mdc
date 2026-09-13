@@ -1,0 +1,12 @@
+---
+description: Fail CI on new WebSocket to untrusted hosts / ws:.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# WebSocketOriginBan
+
+Fail CI on new WebSocket to untrusted hosts / ws:.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

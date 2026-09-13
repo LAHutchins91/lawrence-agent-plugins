@@ -1,0 +1,15 @@
+{
+  "name": "loginjectionban",
+  "version": "0.1.0",
+  "description": "Fail CI on log injection via unsanitized request data in console/winston/pino. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "loginjectionban",
+    "free"
+  ]
+}

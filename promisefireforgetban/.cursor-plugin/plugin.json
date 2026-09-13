@@ -1,0 +1,15 @@
+{
+  "name": "promisefireforgetban",
+  "version": "0.1.0",
+  "description": "Fail CI on statement-level fire-and-forget promises (fetch/prisma/empty .then). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "promisefireforgetban",
+    "free"
+  ]
+}

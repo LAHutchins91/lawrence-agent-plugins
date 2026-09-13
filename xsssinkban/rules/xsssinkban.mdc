@@ -1,0 +1,12 @@
+---
+description: Fail CI on classic XSS sinks (innerHTML, document.write, dangerouslySetInnerHTML).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# XssSinkBan
+
+Fail CI on classic XSS sinks (innerHTML, document.write, dangerouslySetInnerHTML).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
