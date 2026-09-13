@@ -5422,6 +5422,19 @@
         "policy",
         "devtools"
       ]
+    },
+    {
+      "name": "puppet-lab",
+      "source": "puppet-lab",
+      "description": "Puppet classes/modules/params parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "puppet",
+        "devops",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }
