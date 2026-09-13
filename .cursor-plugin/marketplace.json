@@ -1864,6 +1864,19 @@
         "performance",
         "devtools"
       ]
+    },
+    {
+      "name": "gatling-lab",
+      "source": "gatling-lab",
+      "description": "Gatling scenarios/injects/assertions parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "gatling",
+        "load-testing",
+        "performance",
+        "devtools"
+      ]
     }
   ]
 }
