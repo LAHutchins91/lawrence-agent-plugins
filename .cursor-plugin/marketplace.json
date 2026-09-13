@@ -15,7 +15,7 @@
     {
       "name": "log-fingerprint",
       "source": "log-fingerprint",
-      "description": "Fingerprint and cluster noisy logs, detect spikes, and brief error budgets — local, zero-auth."
+      "description": "Fingerprint and cluster noisy logs, detect spikes, and brief error budgets \u2014 local, zero-auth."
     },
     {
       "name": "env-contract",
@@ -25,887 +25,887 @@
     {
       "name": "sql-migration-guard",
       "source": "sql-migration-guard",
-      "description": "Heuristic SQL migration risk scanning, order checks, rollback sketches, and lock notes — local, zero-auth."
+      "description": "Heuristic SQL migration risk scanning, order checks, rollback sketches, and lock notes \u2014 local, zero-auth."
     },
     {
       "name": "har-diff",
       "source": "har-diff",
-      "description": "Compare HTTP Archive (HAR) captures for status/timing/size regressions, list failing requests, scan cookie names/flags — local, zero-auth."
+      "description": "Compare HTTP Archive (HAR) captures for status/timing/size regressions, list failing requests, scan cookie names/flags \u2014 local, zero-auth."
     },
     {
       "name": "release-notes-forge",
       "source": "release-notes-forge",
-      "description": "Turn conventional commits into release notes, flag breakings, suggest semver — local, zero-auth, free."
+      "description": "Turn conventional commits into release notes, flag breakings, suggest semver \u2014 local, zero-auth, free."
     },
     {
       "name": "json-schema-fixtures",
       "source": "json-schema-fixtures",
-      "description": "Validate JSON against schemas, generate fixtures, diff schemas — local, zero-auth, free."
+      "description": "Validate JSON against schemas, generate fixtures, diff schemas \u2014 local, zero-auth, free."
     },
     {
       "name": "git-archaeology",
       "source": "git-archaeology",
-      "description": "Blame digests, churn hotspots, why-here briefs, and diff risk heuristics — local, zero-auth, free."
+      "description": "Blame digests, churn hotspots, why-here briefs, and diff risk heuristics \u2014 local, zero-auth, free."
     },
     {
       "name": "dockerfile-lint-lite",
       "source": "dockerfile-lint-lite",
-      "description": "Heuristic Dockerfile and compose risk scans — local, zero-auth, free marketplace funnel."
+      "description": "Heuristic Dockerfile and compose risk scans \u2014 local, zero-auth, free marketplace funnel."
     },
     {
       "name": "openapi-mock-lite",
       "source": "openapi-mock-lite",
-      "description": "Load OpenAPI specs, mock responses, find coverage gaps, heuristic security scan — free marketplace funnel."
+      "description": "Load OpenAPI specs, mock responses, find coverage gaps, heuristic security scan \u2014 free marketplace funnel."
     },
     {
       "name": "csv-schema-guard",
       "source": "csv-schema-guard",
-      "description": "Infer/validate CSV schemas, header diffs, heuristic PII column flags — free marketplace funnel."
+      "description": "Infer/validate CSV schemas, header diffs, heuristic PII column flags \u2014 free marketplace funnel."
     },
     {
       "name": "regex-lab",
       "source": "regex-lab",
-      "description": "Test, explain, preview replace, and lint regexes — free marketplace funnel."
+      "description": "Test, explain, preview replace, and lint regexes \u2014 free marketplace funnel."
     },
     {
       "name": "semver-range-lab",
       "source": "semver-range-lab",
-      "description": "Semver range satisfy/intersect/expand + dependency range risk — free marketplace funnel."
+      "description": "Semver range satisfy/intersect/expand + dependency range risk \u2014 free marketplace funnel."
     },
     {
       "name": "commit-msg-guard",
       "source": "commit-msg-guard",
-      "description": "Conventional commit parse/lint, breaking-change and trailer checks — free marketplace funnel."
+      "description": "Conventional commit parse/lint, breaking-change and trailer checks \u2014 free marketplace funnel."
     },
     {
       "name": "http-status-atlas",
       "source": "http-status-atlas",
-      "description": "HTTP status explain/classify, retry advice, cache hints — free marketplace funnel."
+      "description": "HTTP status explain/classify, retry advice, cache hints \u2014 free marketplace funnel."
     },
     {
       "name": "yaml-path-query",
       "source": "yaml-path-query",
-      "description": "YAML parse/get/key-diff and secret redaction — free marketplace funnel."
+      "description": "YAML parse/get/key-diff and secret redaction \u2014 free marketplace funnel."
     },
     {
       "name": "markdown-toc-lint",
       "source": "markdown-toc-lint",
-      "description": "Markdown TOC generate/check, heading lint, link scan — free marketplace funnel."
+      "description": "Markdown TOC generate/check, heading lint, link scan \u2014 free marketplace funnel."
     },
     {
       "name": "json-pointer-lab",
       "source": "json-pointer-lab",
-      "description": "JSON Pointer get/set preview, JSON Patch preview, flatten — free marketplace funnel."
+      "description": "JSON Pointer get/set preview, JSON Patch preview, flatten \u2014 free marketplace funnel."
     },
     {
       "name": "base64-url-lab",
       "source": "base64-url-lab",
-      "description": "Base64/URL encode-decode and JWT part decode (no verify) — free marketplace funnel."
+      "description": "Base64/URL encode-decode and JWT part decode (no verify) \u2014 free marketplace funnel."
     },
     {
       "name": "uuid-ulid-lab",
       "source": "uuid-ulid-lab",
-      "description": "UUID parse/generate, ULID generate, id detect — free marketplace funnel."
+      "description": "UUID parse/generate, ULID generate, id detect \u2014 free marketplace funnel."
     },
     {
       "name": "duration-parse",
       "source": "duration-parse",
-      "description": "Parse/format durations, deadlines from now, compare — free marketplace funnel."
+      "description": "Parse/format durations, deadlines from now, compare \u2014 free marketplace funnel."
     },
     {
       "name": "slugify-case",
       "source": "slugify-case",
-      "description": "Slugify, case convert/detect, filename sanitize — free marketplace funnel."
+      "description": "Slugify, case convert/detect, filename sanitize \u2014 free marketplace funnel."
     },
     {
       "name": "hash-lab",
       "source": "hash-lab",
-      "description": "SHA/MD5 hash, compare digests, checksum text, HMAC-SHA256 — free marketplace funnel."
+      "description": "SHA/MD5 hash, compare digests, checksum text, HMAC-SHA256 \u2014 free marketplace funnel."
     },
     {
       "name": "diff-unified-stats",
       "source": "diff-unified-stats",
-      "description": "Unified diff stats, file list, hunk counts, risk flags — free marketplace funnel."
+      "description": "Unified diff stats, file list, hunk counts, risk flags \u2014 free marketplace funnel."
     },
     {
       "name": "querystring-lab",
       "source": "querystring-lab",
-      "description": "Query string parse/stringify/merge/diff — free marketplace funnel."
+      "description": "Query string parse/stringify/merge/diff \u2014 free marketplace funnel."
     },
     {
       "name": "mime-ext-lab",
       "source": "mime-ext-lab",
-      "description": "Extension↔MIME mapping and Content-Type header parse — free marketplace funnel."
+      "description": "Extension\u2194MIME mapping and Content-Type header parse \u2014 free marketplace funnel."
     },
     {
       "name": "ini-toml-lite",
       "source": "ini-toml-lite",
-      "description": "INI/TOML-lite parse, config key diff, secret redact — free marketplace funnel."
+      "description": "INI/TOML-lite parse, config key diff, secret redact \u2014 free marketplace funnel."
     },
     {
       "name": "port-service-lab",
       "source": "port-service-lab",
-      "description": "Common port↔service lookup, range class, listen hints — free marketplace funnel (no scanning)."
+      "description": "Common port\u2194service lookup, range class, listen hints \u2014 free marketplace funnel (no scanning)."
     },
     {
       "name": "ip-cidr-lab",
       "source": "ip-cidr-lab",
-      "description": "Parse IPs, CIDR contain/explain, private-range checks — free marketplace funnel."
+      "description": "Parse IPs, CIDR contain/explain, private-range checks \u2014 free marketplace funnel."
     },
     {
       "name": "cron-explain",
       "source": "cron-explain",
-      "description": "Parse/validate 5-field cron, next fire times, expr diffs — free marketplace funnel."
+      "description": "Parse/validate 5-field cron, next fire times, expr diffs \u2014 free marketplace funnel."
     },
     {
       "name": "emoji-unicode-lab",
       "source": "emoji-unicode-lab",
-      "description": "Unicode info, emoji detect, escapes, NFKC normalize — free marketplace funnel."
+      "description": "Unicode info, emoji detect, escapes, NFKC normalize \u2014 free marketplace funnel."
     },
     {
       "name": "jwt-claims-lab",
       "source": "jwt-claims-lab",
-      "description": "Decode-only JWT header/payload, claim explain, exp/nbf check, alg warnings — free marketplace funnel."
+      "description": "Decode-only JWT header/payload, claim explain, exp/nbf check, alg warnings \u2014 free marketplace funnel."
     },
     {
       "name": "color-hex-lab",
       "source": "color-hex-lab",
-      "description": "Hex/RGB convert, WCAG contrast, CSS color parse, lighten/darken — free marketplace funnel."
+      "description": "Hex/RGB convert, WCAG contrast, CSS color parse, lighten/darken \u2014 free marketplace funnel."
     },
     {
       "name": "url-parse-lab",
       "source": "url-parse-lab",
-      "description": "Parse/join/normalize URLs and redact userinfo/secret query keys — free marketplace funnel."
+      "description": "Parse/join/normalize URLs and redact userinfo/secret query keys \u2014 free marketplace funnel."
     },
     {
       "name": "html-entity-lab",
       "source": "html-entity-lab",
-      "description": "HTML escape/unescape, entity lookup, naive strip_tags — free marketplace funnel."
+      "description": "HTML escape/unescape, entity lookup, naive strip_tags \u2014 free marketplace funnel."
     },
     {
       "name": "path-posix-lab",
       "source": "path-posix-lab",
-      "description": "POSIX path join/normalize/basename/relative — string ops only, free marketplace funnel."
+      "description": "POSIX path join/normalize/basename/relative \u2014 string ops only, free marketplace funnel."
     },
     {
       "name": "line-ending-lab",
       "source": "line-ending-lab",
-      "description": "Detect/normalize EOL, count lines, strip UTF-8 BOM — free marketplace funnel."
+      "description": "Detect/normalize EOL, count lines, strip UTF-8 BOM \u2014 free marketplace funnel."
     },
     {
       "name": "bytes-size-lab",
       "source": "bytes-size-lab",
-      "description": "Parse/format byte sizes, compare, unit convert (KiB/MiB/…) — free marketplace funnel."
+      "description": "Parse/format byte sizes, compare, unit convert (KiB/MiB/\u2026) \u2014 free marketplace funnel."
     },
     {
       "name": "timezone-lab",
       "source": "timezone-lab",
-      "description": "IANA timezone convert/offset, common TZ list, ISO Z normalize — free marketplace funnel."
+      "description": "IANA timezone convert/offset, common TZ list, ISO Z normalize \u2014 free marketplace funnel."
     },
     {
       "name": "jsonl-lab",
       "source": "jsonl-lab",
-      "description": "Validate/count/slice JSONL and convert small payloads to arrays — free marketplace funnel."
+      "description": "Validate/count/slice JSONL and convert small payloads to arrays \u2014 free marketplace funnel."
     },
     {
       "name": "frontmatter-lab",
       "source": "frontmatter-lab",
-      "description": "YAML frontmatter extract/merge/validate/strip — free marketplace funnel."
+      "description": "YAML frontmatter extract/merge/validate/strip \u2014 free marketplace funnel."
     },
     {
       "name": "gitignore-lab",
       "source": "gitignore-lab",
-      "description": "Parse/match/explain/merge gitignore patterns (string-only) — free marketplace funnel."
+      "description": "Parse/match/explain/merge gitignore patterns (string-only) \u2014 free marketplace funnel."
     },
     {
       "name": "csv-delimiter-lab",
       "source": "csv-delimiter-lab",
-      "description": "CSV delimiter detection/sniffing and string-level split/join — free marketplace funnel."
+      "description": "CSV delimiter detection/sniffing and string-level split/join \u2014 free marketplace funnel."
     },
     {
       "name": "shebang-lab",
       "source": "shebang-lab",
-      "description": "Parse, detect, normalize, and warn on shebangs — free marketplace funnel."
+      "description": "Parse, detect, normalize, and warn on shebangs \u2014 free marketplace funnel."
     },
     {
       "name": "json-pretty-lab",
       "source": "json-pretty-lab",
-      "description": "Pretty/minify JSON, sort keys, and inspect structural stats — free marketplace funnel."
+      "description": "Pretty/minify JSON, sort keys, and inspect structural stats \u2014 free marketplace funnel."
     },
     {
       "name": "http-header-lab",
       "source": "http-header-lab",
-      "description": "Parse raw headers, Cache-Control, Content-Disposition, and Forwarded values — free marketplace funnel."
+      "description": "Parse raw headers, Cache-Control, Content-Disposition, and Forwarded values \u2014 free marketplace funnel."
     },
     {
       "name": "license-spdx-lab",
       "source": "license-spdx-lab",
-      "description": "SPDX lookup/normalize, heuristic compat hints, license header suggest — free marketplace funnel."
+      "description": "SPDX lookup/normalize, heuristic compat hints, license header suggest \u2014 free marketplace funnel."
     },
     {
       "name": "ssh-config-lab",
       "source": "ssh-config-lab",
-      "description": "Parse/resolve/lint/redact SSH config text — free marketplace funnel."
+      "description": "Parse/resolve/lint/redact SSH config text \u2014 free marketplace funnel."
     },
     {
       "name": "cookie-header-lab",
       "source": "cookie-header-lab",
-      "description": "Parse Cookie/Set-Cookie headers, explain flags, redact values — free marketplace funnel."
+      "description": "Parse Cookie/Set-Cookie headers, explain flags, redact values \u2014 free marketplace funnel."
     },
     {
       "name": "dotenv-merge-lab",
       "source": "dotenv-merge-lab",
-      "description": "Parse/merge/diff/redact .env text — free marketplace funnel."
+      "description": "Parse/merge/diff/redact .env text \u2014 free marketplace funnel."
     },
     {
       "name": "accept-language-lab",
       "source": "accept-language-lab",
-      "description": "Parse/negotiate Accept-Language, BCP47 lite validate, quality sort — free marketplace funnel."
+      "description": "Parse/negotiate Accept-Language, BCP47 lite validate, quality sort \u2014 free marketplace funnel."
     },
     {
       "name": "nginx-conf-lab",
       "source": "nginx-conf-lab",
-      "description": "Lite nginx conf parse, listen ports, upstreams, lint — free marketplace funnel."
+      "description": "Lite nginx conf parse, listen ports, upstreams, lint \u2014 free marketplace funnel."
     },
     {
       "name": "etag-cache-lab",
       "source": "etag-cache-lab",
-      "description": "ETag normalize/compare, If-None-Match check, cache freshness hints — free marketplace funnel."
+      "description": "ETag normalize/compare, If-None-Match check, cache freshness hints \u2014 free marketplace funnel."
     },
     {
       "name": "robots-txt-lab",
       "source": "robots-txt-lab",
-      "description": "Parse robots.txt, allow checks, sitemap list, lint — free marketplace funnel."
+      "description": "Parse robots.txt, allow checks, sitemap list, lint \u2014 free marketplace funnel."
     },
     {
       "name": "sitemap-xml-lab",
       "source": "sitemap-xml-lab",
-      "description": "Parse/validate sitemap XML (urlset + index), stats — free marketplace funnel."
+      "description": "Parse/validate sitemap XML (urlset + index), stats \u2014 free marketplace funnel."
     },
     {
       "name": "htaccess-lab",
       "source": "htaccess-lab",
-      "description": "Lite .htaccess parse, rewrite explain, redirect list, lint — free marketplace funnel."
+      "description": "Lite .htaccess parse, rewrite explain, redirect list, lint \u2014 free marketplace funnel."
     },
     {
       "name": "graphql-sdl-lab",
       "source": "graphql-sdl-lab",
-      "description": "Lite GraphQL SDL type/field parse and lint — free marketplace funnel."
+      "description": "Lite GraphQL SDL type/field parse and lint \u2014 free marketplace funnel."
     },
     {
       "name": "docker-compose-lab",
       "source": "docker-compose-lab",
-      "description": "Compose YAML services/ports/env keys + lite lint — free marketplace funnel."
+      "description": "Compose YAML services/ports/env keys + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "protobuf-lite-lab",
       "source": "protobuf-lite-lab",
-      "description": "Lite .proto messages/services/fields parse and lint — free marketplace funnel."
+      "description": "Lite .proto messages/services/fields parse and lint \u2014 free marketplace funnel."
     },
     {
       "name": "k8s-manifest-lab",
       "source": "k8s-manifest-lab",
-      "description": "K8s multi-doc YAML kinds/names/images + lite lint — free marketplace funnel."
+      "description": "K8s multi-doc YAML kinds/names/images + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "github-actions-lab",
       "source": "github-actions-lab",
-      "description": "GitHub Actions workflow jobs/triggers/secrets refs + lite lint — free marketplace funnel."
+      "description": "GitHub Actions workflow jobs/triggers/secrets refs + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "terraform-hcl-lab",
       "source": "terraform-hcl-lab",
-      "description": "Lite Terraform HCL resources/modules/vars + lint — free marketplace funnel."
+      "description": "Lite Terraform HCL resources/modules/vars + lint \u2014 free marketplace funnel."
     },
     {
       "name": "package-json-lab",
       "source": "package-json-lab",
-      "description": "package.json scripts/deps buckets/engines + lite lint — free marketplace funnel."
+      "description": "package.json scripts/deps buckets/engines + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "cargo-toml-lab",
       "source": "cargo-toml-lab",
-      "description": "Cargo.toml deps/features/bin targets + lite lint — free marketplace funnel."
+      "description": "Cargo.toml deps/features/bin targets + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "tsconfig-lab",
       "source": "tsconfig-lab",
-      "description": "tsconfig compilerOptions/paths/extends + lite lint — free marketplace funnel."
+      "description": "tsconfig compilerOptions/paths/extends + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "pyproject-lab",
       "source": "pyproject-lab",
-      "description": "pyproject.toml deps/scripts/build-backend + lite lint — free marketplace funnel."
+      "description": "pyproject.toml deps/scripts/build-backend + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "eslint-config-lab",
       "source": "eslint-config-lab",
-      "description": "ESLint config extends/rules/env parse + lite lint — free marketplace funnel."
+      "description": "ESLint config extends/rules/env parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "go-mod-lab",
       "source": "go-mod-lab",
-      "description": "go.mod module/require/replace parse + lite lint — free marketplace funnel."
+      "description": "go.mod module/require/replace parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "prettier-config-lab",
       "source": "prettier-config-lab",
-      "description": "Prettier config options/overrides/plugins + lite lint — free marketplace funnel."
+      "description": "Prettier config options/overrides/plugins + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "gemfile-lab",
       "source": "gemfile-lab",
-      "description": "Gemfile gems/groups/sources parse + lite lint — free marketplace funnel."
+      "description": "Gemfile gems/groups/sources parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "pom-xml-lab",
       "source": "pom-xml-lab",
-      "description": "Maven pom.xml coords/deps/plugins + lite lint — free marketplace funnel."
+      "description": "Maven pom.xml coords/deps/plugins + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "editorconfig-lab",
       "source": "editorconfig-lab",
-      "description": "EditorConfig parse/resolve/diff + lite lint — free marketplace funnel."
+      "description": "EditorConfig parse/resolve/diff + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "gradle-lab",
       "source": "gradle-lab",
-      "description": "Gradle plugins/deps/tasks hints + lite lint — free marketplace funnel."
+      "description": "Gradle plugins/deps/tasks hints + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "makefile-lab",
       "source": "makefile-lab",
-      "description": "Makefile targets/PHONY/vars + lite lint — free marketplace funnel."
+      "description": "Makefile targets/PHONY/vars + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "cmake-lab",
       "source": "cmake-lab",
-      "description": "CMakeLists targets/find_package/options + lite lint — free marketplace funnel."
+      "description": "CMakeLists targets/find_package/options + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "procfile-lab",
       "source": "procfile-lab",
-      "description": "Procfile parse/process list/env refs + lite lint — free marketplace funnel."
+      "description": "Procfile parse/process list/env refs + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "tox-ini-lab",
       "source": "tox-ini-lab",
-      "description": "tox.ini envlist/commands/deps + lite lint — free marketplace funnel."
+      "description": "tox.ini envlist/commands/deps + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "swift-package-lab",
       "source": "swift-package-lab",
-      "description": "Swift Package.swift products/targets/deps + lite lint — free marketplace funnel."
+      "description": "Swift Package.swift products/targets/deps + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "vitest-config-lab",
       "source": "vitest-config-lab",
-      "description": "Vitest include/coverage/workspace parse + lite lint — free marketplace funnel."
+      "description": "Vitest include/coverage/workspace parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "jest-config-lab",
       "source": "jest-config-lab",
-      "description": "Jest testMatch/coverage/projects parse + lite lint — free marketplace funnel."
+      "description": "Jest testMatch/coverage/projects parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "cypress-config-lab",
       "source": "cypress-config-lab",
-      "description": "Cypress e2e/component/env config parse + lite lint — free marketplace funnel."
+      "description": "Cypress e2e/component/env config parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "playwright-config-lab",
       "source": "playwright-config-lab",
-      "description": "Playwright projects/browsers/webServer parse + lite lint — free marketplace funnel."
+      "description": "Playwright projects/browsers/webServer parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "webpack-config-lab",
       "source": "webpack-config-lab",
-      "description": "Webpack entry/loaders/plugins parse + lite lint — free marketplace funnel."
+      "description": "Webpack entry/loaders/plugins parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "vite-config-lab",
       "source": "vite-config-lab",
-      "description": "Vite plugins/alias/server proxy parse + lite lint — free marketplace funnel."
+      "description": "Vite plugins/alias/server proxy parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "rollup-config-lab",
       "source": "rollup-config-lab",
-      "description": "Rollup input/plugins/output formats parse + lite lint — free marketplace funnel."
+      "description": "Rollup input/plugins/output formats parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "esbuild-config-lab",
       "source": "esbuild-config-lab",
-      "description": "esbuild entry/loaders/external parse + lite lint — free marketplace funnel."
+      "description": "esbuild entry/loaders/external parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "babel-config-lab",
       "source": "babel-config-lab",
-      "description": "Babel presets/plugins/targets parse + lite lint — free marketplace funnel."
+      "description": "Babel presets/plugins/targets parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "tailwind-config-lab",
       "source": "tailwind-config-lab",
-      "description": "Tailwind content/theme/plugins parse + lite lint — free marketplace funnel."
+      "description": "Tailwind content/theme/plugins parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "next-config-lab",
       "source": "next-config-lab",
-      "description": "Next.js rewrites/redirects/images domains parse + lite lint — free marketplace funnel."
+      "description": "Next.js rewrites/redirects/images domains parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "postcss-config-lab",
       "source": "postcss-config-lab",
-      "description": "PostCSS plugins/syntax/map options parse + lite lint — free marketplace funnel."
+      "description": "PostCSS plugins/syntax/map options parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "nuxt-config-lab",
       "source": "nuxt-config-lab",
-      "description": "Nuxt modules/runtimeConfig/routeRules parse + lite lint — free marketplace funnel."
+      "description": "Nuxt modules/runtimeConfig/routeRules parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "astro-config-lab",
       "source": "astro-config-lab",
-      "description": "Astro integrations/output/vite hint parse + lite lint — free marketplace funnel."
+      "description": "Astro integrations/output/vite hint parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "svelte-config-lab",
       "source": "svelte-config-lab",
-      "description": "Svelte preprocess/adapter/vite plugins parse + lite lint — free marketplace funnel."
+      "description": "Svelte preprocess/adapter/vite plugins parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "remix-config-lab",
       "source": "remix-config-lab",
-      "description": "Remix routes/serverBuild/future flags parse + lite lint — free marketplace funnel."
+      "description": "Remix routes/serverBuild/future flags parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "expo-config-lab",
       "source": "expo-config-lab",
-      "description": "Expo app.json slug/plugins/schemes parse + lite lint — free marketplace funnel."
+      "description": "Expo app.json slug/plugins/schemes parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "angular-json-lab",
       "source": "angular-json-lab",
-      "description": "angular.json projects/architect/styles parse + lite lint — free marketplace funnel."
+      "description": "angular.json projects/architect/styles parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "capacitor-config-lab",
       "source": "capacitor-config-lab",
-      "description": "Capacitor appId/plugins/server URL parse + lite lint — free marketplace funnel."
+      "description": "Capacitor appId/plugins/server URL parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "firebase-json-lab",
       "source": "firebase-json-lab",
-      "description": "firebase.json hosting/firestore/functions parse + lite lint — free marketplace funnel."
+      "description": "firebase.json hosting/firestore/functions parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "vercel-json-lab",
       "source": "vercel-json-lab",
-      "description": "vercel.json rewrites/redirects/headers parse + lite lint — free marketplace funnel."
+      "description": "vercel.json rewrites/redirects/headers parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "netlify-toml-lab",
       "source": "netlify-toml-lab",
-      "description": "netlify.toml redirects/headers/build parse + lite lint — free marketplace funnel."
+      "description": "netlify.toml redirects/headers/build parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "fly-toml-lab",
       "source": "fly-toml-lab",
-      "description": "fly.toml app/services/env parse + lite lint — free marketplace funnel."
+      "description": "fly.toml app/services/env parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "cloudflare-wrangler-lab",
       "source": "cloudflare-wrangler-lab",
-      "description": "wrangler.toml name/routes/bindings parse + lite lint — free marketplace funnel."
+      "description": "wrangler.toml name/routes/bindings parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "render-yaml-lab",
       "source": "render-yaml-lab",
-      "description": "render.yaml services/env/healthcheck parse + lite lint — free marketplace funnel."
+      "description": "render.yaml services/env/healthcheck parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "railway-json-lab",
       "source": "railway-json-lab",
-      "description": "railway.json/toml services/env/deploy parse + lite lint — free marketplace funnel."
+      "description": "railway.json/toml services/env/deploy parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "heroku-app-json-lab",
       "source": "heroku-app-json-lab",
-      "description": "Heroku app.json addons/env/formation parse + lite lint — free marketplace funnel."
+      "description": "Heroku app.json addons/env/formation parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "digitalocean-app-spec-lab",
       "source": "digitalocean-app-spec-lab",
-      "description": ".do/app.yaml services/env/routes parse + lite lint — free marketplace funnel."
+      "description": ".do/app.yaml services/env/routes parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "supabase-config-lab",
       "source": "supabase-config-lab",
-      "description": "Supabase config.toml project/db/auth parse + lite lint — free marketplace funnel."
+      "description": "Supabase config.toml project/db/auth parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "prisma-schema-lab",
       "source": "prisma-schema-lab",
-      "description": "schema.prisma models/datasources/relations parse + lite lint — free marketplace funnel."
+      "description": "schema.prisma models/datasources/relations parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "drizzle-schema-lab",
       "source": "drizzle-schema-lab",
-      "description": "Drizzle schema tables/relations/migrations parse + lite lint — free marketplace funnel."
+      "description": "Drizzle schema tables/relations/migrations parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "typeorm-entity-lab",
       "source": "typeorm-entity-lab",
-      "description": "TypeORM entities/relations/columns parse + lite lint — free marketplace funnel."
+      "description": "TypeORM entities/relations/columns parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "sequelize-model-lab",
       "source": "sequelize-model-lab",
-      "description": "Sequelize models/associations/columns parse + lite lint — free marketplace funnel."
+      "description": "Sequelize models/associations/columns parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "mongoose-schema-lab",
       "source": "mongoose-schema-lab",
-      "description": "Mongoose models/paths/indexes parse + lite lint — free marketplace funnel."
+      "description": "Mongoose models/paths/indexes parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "knex-migration-lab",
       "source": "knex-migration-lab",
-      "description": "Knex migrations/table ops/seeds parse + lite lint — free marketplace funnel."
+      "description": "Knex migrations/table ops/seeds parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "zod-schema-lab",
       "source": "zod-schema-lab",
-      "description": "Zod schemas/fields/refine parse + lite lint — free marketplace funnel."
+      "description": "Zod schemas/fields/refine parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "yup-schema-lab",
       "source": "yup-schema-lab",
-      "description": "Yup schemas/fields/tests parse + lite lint — free marketplace funnel."
+      "description": "Yup schemas/fields/tests parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "joi-schema-lab",
       "source": "joi-schema-lab",
-      "description": "Joi schemas/fields/rules parse + lite lint — free marketplace funnel."
+      "description": "Joi schemas/fields/rules parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "class-validator-lab",
       "source": "class-validator-lab",
-      "description": "class-validator DTOs/decorators/nested parse + lite lint — free marketplace funnel."
+      "description": "class-validator DTOs/decorators/nested parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "ajv-schema-lab",
       "source": "ajv-schema-lab",
-      "description": "AJV/JSON Schema schemas/keywords/refs parse + lite lint — free marketplace funnel."
+      "description": "AJV/JSON Schema schemas/keywords/refs parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "superstruct-lab",
       "source": "superstruct-lab",
-      "description": "Superstruct structs/fields/coercion parse + lite lint — free marketplace funnel."
+      "description": "Superstruct structs/fields/coercion parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "openapi-zod-lab",
       "source": "openapi-zod-lab",
-      "description": "OpenAPI→Zod paths/schemas/ops mapping parse + lite lint — free marketplace funnel."
+      "description": "OpenAPI\u2192Zod paths/schemas/ops mapping parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "io-ts-lab",
       "source": "io-ts-lab",
-      "description": "io-ts codecs/props/brands parse + lite lint — free marketplace funnel."
+      "description": "io-ts codecs/props/brands parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "valibot-lab",
       "source": "valibot-lab",
-      "description": "Valibot schemas/pipes/actions parse + lite lint — free marketplace funnel."
+      "description": "Valibot schemas/pipes/actions parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "arktype-lab",
       "source": "arktype-lab",
-      "description": "ArkType types/props/narrow parse + lite lint — free marketplace funnel."
+      "description": "ArkType types/props/narrow parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "effect-schema-lab",
       "source": "effect-schema-lab",
-      "description": "Effect Schema schemas/fields/transforms parse + lite lint — free marketplace funnel."
+      "description": "Effect Schema schemas/fields/transforms parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "runtypes-lab",
       "source": "runtypes-lab",
-      "description": "Runtypes types/fields/constraints parse + lite lint — free marketplace funnel."
+      "description": "Runtypes types/fields/constraints parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "typebox-lab",
       "source": "typebox-lab",
-      "description": "TypeBox schemas/props/compose parse + lite lint — free marketplace funnel."
+      "description": "TypeBox schemas/props/compose parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "fast-check-lab",
       "source": "fast-check-lab",
-      "description": "fast-check arbitraries/props/constraints parse + lite lint — free marketplace funnel."
+      "description": "fast-check arbitraries/props/constraints parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "ow-lab",
       "source": "ow-lab",
-      "description": "ow predicates/shapes/modifiers parse + lite lint — free marketplace funnel."
+      "description": "ow predicates/shapes/modifiers parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "msw-handler-lab",
       "source": "msw-handler-lab",
-      "description": "MSW handlers/methods/fixtures parse + lite lint — free marketplace funnel."
+      "description": "MSW handlers/methods/fixtures parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "nock-lab",
       "source": "nock-lab",
-      "description": "nock scopes/intercepts/persist parse + lite lint — free marketplace funnel."
+      "description": "nock scopes/intercepts/persist parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "sinon-stub-lab",
       "source": "sinon-stub-lab",
-      "description": "Sinon stubs/spies/fakes parse + lite lint — free marketplace funnel."
+      "description": "Sinon stubs/spies/fakes parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "supertest-lab",
       "source": "supertest-lab",
-      "description": "Supertest requests/expects/auth parse + lite lint — free marketplace funnel."
+      "description": "Supertest requests/expects/auth parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "testdouble-lab",
       "source": "testdouble-lab",
-      "description": "testdouble.js replacements/when/verify parse + lite lint — free marketplace funnel."
+      "description": "testdouble.js replacements/when/verify parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "chai-assert-lab",
       "source": "chai-assert-lab",
-      "description": "Chai asserts/chains/plugins parse + lite lint — free marketplace funnel."
+      "description": "Chai asserts/chains/plugins parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "vitest-mock-lab",
       "source": "vitest-mock-lab",
-      "description": "Vitest vi.mock mocks/spies/hoist parse + lite lint — free marketplace funnel."
+      "description": "Vitest vi.mock mocks/spies/hoist parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "jest-mock-lab",
       "source": "jest-mock-lab",
-      "description": "Jest jest.mock mocks/spies/timers parse + lite lint — free marketplace funnel."
+      "description": "Jest jest.mock mocks/spies/timers parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "testing-library-lab",
       "source": "testing-library-lab",
-      "description": "Testing Library queries/events/wait parse + lite lint — free marketplace funnel."
+      "description": "Testing Library queries/events/wait parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "enzyme-lab",
       "source": "enzyme-lab",
-      "description": "Enzyme mounts/finders/lifecycle parse + lite lint — free marketplace funnel."
+      "description": "Enzyme mounts/finders/lifecycle parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "cypress-commands-lab",
       "source": "cypress-commands-lab",
-      "description": "Cypress custom commands/aliases/intercepts parse + lite lint — free marketplace funnel."
+      "description": "Cypress custom commands/aliases/intercepts parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "playwright-pom-lab",
       "source": "playwright-pom-lab",
-      "description": "Playwright POM pages/locators/fixtures parse + lite lint — free marketplace funnel."
+      "description": "Playwright POM pages/locators/fixtures parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "puppeteer-lab",
       "source": "puppeteer-lab",
-      "description": "Puppeteer pages/selectors/waits parse + lite lint — free marketplace funnel."
+      "description": "Puppeteer pages/selectors/waits parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "selenium-pom-lab",
       "source": "selenium-pom-lab",
-      "description": "Selenium POM pages/locators/waits parse + lite lint — free marketplace funnel."
+      "description": "Selenium POM pages/locators/waits parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "appium-lab",
       "source": "appium-lab",
-      "description": "Appium capabilities/locators/gestures parse + lite lint — free marketplace funnel."
+      "description": "Appium capabilities/locators/gestures parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "webdriverio-lab",
       "source": "webdriverio-lab",
-      "description": "WebdriverIO specs/selectors/commands parse + lite lint — free marketplace funnel."
+      "description": "WebdriverIO specs/selectors/commands parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "maestro-lab",
       "source": "maestro-lab",
-      "description": "Maestro YAML flows/commands/selectors parse + lite lint — free marketplace funnel."
+      "description": "Maestro YAML flows/commands/selectors parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "detox-lab",
       "source": "detox-lab",
-      "description": "Detox matchers/actions/sync parse + lite lint — free marketplace funnel."
+      "description": "Detox matchers/actions/sync parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "xcuitest-lab",
       "source": "xcuitest-lab",
-      "description": "XCUITest queries/actions/expectations parse + lite lint — free marketplace funnel."
+      "description": "XCUITest queries/actions/expectations parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "espresso-lab",
       "source": "espresso-lab",
-      "description": "Espresso matchers/actions/idling parse + lite lint — free marketplace funnel."
+      "description": "Espresso matchers/actions/idling parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "k6-script-lab",
       "source": "k6-script-lab",
-      "description": "k6 scenarios/checks/thresholds parse + lite lint — free marketplace funnel."
+      "description": "k6 scenarios/checks/thresholds parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "artillery-lab",
       "source": "artillery-lab",
-      "description": "Artillery scenarios/phases/plugins parse + lite lint — free marketplace funnel."
+      "description": "Artillery scenarios/phases/plugins parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "gatling-lab",
       "source": "gatling-lab",
-      "description": "Gatling scenarios/injects/assertions parse + lite lint — free marketplace funnel."
+      "description": "Gatling scenarios/injects/assertions parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "locust-lab",
       "source": "locust-lab",
-      "description": "Locust tasks/users/events parse + lite lint — free marketplace funnel."
+      "description": "Locust tasks/users/events parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "jmeter-lab",
       "source": "jmeter-lab",
-      "description": "JMeter plans/samplers/assertions parse + lite lint — free marketplace funnel."
+      "description": "JMeter plans/samplers/assertions parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "autocannon-lab",
       "source": "autocannon-lab",
-      "description": "autocannon targets/options/metrics parse + lite lint — free marketplace funnel."
+      "description": "autocannon targets/options/metrics parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "vegeta-lab",
       "source": "vegeta-lab",
-      "description": "Vegeta targets/rates/reports parse + lite lint — free marketplace funnel."
+      "description": "Vegeta targets/rates/reports parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "wrk-lab",
       "source": "wrk-lab",
-      "description": "wrk/wrk2 scripts/lua/options parse + lite lint — free marketplace funnel."
+      "description": "wrk/wrk2 scripts/lua/options parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "hey-lab",
       "source": "hey-lab",
-      "description": "hey HTTP load targets/options/output parse + lite lint — free marketplace funnel."
+      "description": "hey HTTP load targets/options/output parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "bombardier-lab",
       "source": "bombardier-lab",
-      "description": "bombardier targets/options/latency parse + lite lint — free marketplace funnel."
+      "description": "bombardier targets/options/latency parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "ab-lab",
       "source": "ab-lab",
-      "description": "ApacheBench targets/options/concurrency parse + lite lint — free marketplace funnel."
+      "description": "ApacheBench targets/options/concurrency parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "fortio-lab",
       "source": "fortio-lab",
-      "description": "Fortio targets/qps/percentiles parse + lite lint — free marketplace funnel."
+      "description": "Fortio targets/qps/percentiles parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "siege-lab",
       "source": "siege-lab",
-      "description": "Siege URLs/options/concurrency parse + lite lint — free marketplace funnel."
+      "description": "Siege URLs/options/concurrency parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "ghz-lab",
       "source": "ghz-lab",
-      "description": "ghz gRPC load targets/proto/concurrency parse + lite lint — free marketplace funnel."
+      "description": "ghz gRPC load targets/proto/concurrency parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "grpcurl-lab",
       "source": "grpcurl-lab",
-      "description": "grpcurl services/methods/metadata parse + lite lint — free marketplace funnel."
+      "description": "grpcurl services/methods/metadata parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "buf-lab",
       "source": "buf-lab",
-      "description": "buf.yaml modules/deps/lint config parse + lite lint — free marketplace funnel."
+      "description": "buf.yaml modules/deps/lint config parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "protoc-lab",
       "source": "protoc-lab",
-      "description": "protoc includes/plugins/options parse + lite lint — free marketplace funnel."
+      "description": "protoc includes/plugins/options parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "openapi-generator-lab",
       "source": "openapi-generator-lab",
-      "description": "openapi-generator generators/config/templates parse + lite lint — free marketplace funnel."
+      "description": "openapi-generator generators/config/templates parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "swagger-codegen-lab",
       "source": "swagger-codegen-lab",
-      "description": "swagger-codegen languages/config/templates parse + lite lint — free marketplace funnel."
+      "description": "swagger-codegen languages/config/templates parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "orval-lab",
       "source": "orval-lab",
-      "description": "orval.config outputs/client/hooks parse + lite lint — free marketplace funnel."
+      "description": "orval.config outputs/client/hooks parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "graphql-codegen-lab",
       "source": "graphql-codegen-lab",
-      "description": "GraphQL Code Generator plugins/documents/scalars parse + lite lint — free marketplace funnel."
+      "description": "GraphQL Code Generator plugins/documents/scalars parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "kubb-lab",
       "source": "kubb-lab",
-      "description": "kubb.config outputs/plugins/hooks parse + lite lint — free marketplace funnel."
+      "description": "kubb.config outputs/plugins/hooks parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "kiwi-lab",
       "source": "kiwi-lab",
-      "description": "Kiwi OpenAPI client schemas/hooks parse + lite lint — free marketplace funnel."
+      "description": "Kiwi OpenAPI client schemas/hooks parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "helm-chart-lab",
       "source": "helm-chart-lab",
-      "description": "Helm Chart.yaml/values.yaml parse + lite lint — free marketplace funnel."
+      "description": "Helm Chart.yaml/values.yaml parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "skaffold-lab",
       "source": "skaffold-lab",
-      "description": "skaffold.yaml pipelines/builds/deploys parse + lite lint — free marketplace funnel."
+      "description": "skaffold.yaml pipelines/builds/deploys parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "kustomize-lab",
       "source": "kustomize-lab",
-      "description": "kustomization.yaml resources/overlays/patches parse + lite lint — free marketplace funnel."
+      "description": "kustomization.yaml resources/overlays/patches parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "argocd-lab",
       "source": "argocd-lab",
-      "description": "Argo CD Application/AppProject YAML parse + lite lint — free marketplace funnel."
+      "description": "Argo CD Application/AppProject YAML parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "tilt-lab",
       "source": "tilt-lab",
-      "description": "Tiltfile resources/triggers/extensions parse + lite lint — free marketplace funnel."
+      "description": "Tiltfile resources/triggers/extensions parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "apidiffgate",
       "source": "apidiffgate",
-      "description": "OpenAPI/Swagger contract diff for PRs — catch breaking API changes before they hit production. Free forever in Cursor."
+      "description": "OpenAPI/Swagger contract diff for PRs \u2014 catch breaking API changes before they hit production. Free forever in Cursor."
     },
     {
       "name": "envdrift",
       "source": "envdrift",
-      "description": "Env drift + lite secrets check — catch missing keys and leaked secrets before they ship. Free forever in Cursor."
+      "description": "Env drift + lite secrets check \u2014 catch missing keys and leaked secrets before they ship. Free forever in Cursor."
     },
     {
       "name": "incidentbrief",
       "source": "incidentbrief",
-      "description": "Noisy logs → spike detection and error-shape triage for on-call. Free forever in Cursor."
+      "description": "Noisy logs \u2192 spike detection and error-shape triage for on-call. Free forever in Cursor."
     },
     {
       "name": "gitsecrethistoryban",
       "source": "gitsecrethistoryban",
-      "description": "Scan for secrets in git history patterns — report locally free; gate CI with Pro outside Cursor."
+      "description": "Scan for secrets in git history patterns \u2014 report locally free; gate CI with Pro outside Cursor."
     },
     {
       "name": "terraformstatesecretsban",
@@ -935,7 +935,7 @@
     {
       "name": "prismaguard",
       "source": "prismaguard",
-      "description": "Lint Prisma schema & migrations for destructive DROP/delete risks — before they ship. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Lint Prisma schema & migrations for destructive DROP/delete risks \u2014 before they ship. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "rotatewatch",
@@ -950,7 +950,7 @@
     {
       "name": "sqlmigrationguard",
       "source": "sqlmigrationguard",
-      "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering — before they ship. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering \u2014 before they ship. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "ansiblevaultmissban",
@@ -970,12 +970,12 @@
     {
       "name": "blametrail",
       "source": "blametrail",
-      "description": "Git archaeology brief — who touched a path, churn, hot files. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Git archaeology brief \u2014 who touched a path, churn, hot files. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "bundlebudget",
       "source": "bundlebudget",
-      "description": "Assert JS bundle size budgets from stats JSON/CSV — with a CI gate for frontend & platform teams. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Assert JS bundle size budgets from stats JSON/CSV \u2014 with a CI gate for frontend & platform teams. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "childprocessshellban",
@@ -1055,7 +1055,7 @@
     {
       "name": "digestpin",
       "source": "digestpin",
-      "description": "Require digest-pinned container images in compose/k8s YAML — catch `:latest`, floating tags, and untagged images before they drift. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Require digest-pinned container images in compose/k8s YAML \u2014 catch `:latest`, floating tags, and untagged images before they drift. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "dnsrebindurlban",
@@ -1110,7 +1110,7 @@
     {
       "name": "jsonschemaguard",
       "source": "jsonschemaguard",
-      "description": "Validate JSON/YAML payloads against JSON Schema — with a CI gate for API/platform teams. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Validate JSON/YAML payloads against JSON Schema \u2014 with a CI gate for API/platform teams. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "jwtexpiryban",
@@ -1125,12 +1125,12 @@
     {
       "name": "latencybudget",
       "source": "latencybudget",
-      "description": "Assert p95/p99 latency budgets from CSV metrics — with a CI gate for SRE & platform teams. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Assert p95/p99 latency budgets from CSV metrics \u2014 with a CI gate for SRE & platform teams. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "licensescan",
       "source": "licensescan",
-      "description": "Scan package.json / lockfile-ish inventory for license risk — GPL/AGPL flags, copyleft, proprietary. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Scan package.json / lockfile-ish inventory for license risk \u2014 GPL/AGPL flags, copyleft, proprietary. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "migrateunsafeban",
@@ -1150,7 +1150,7 @@
     {
       "name": "publicenv",
       "source": "publicenv",
-      "description": "Flag `NEXT_PUBLIC_` / `VITE_` secrets that look private — scan `.env*` for public-prefix keys whose names (or value shapes) scream secret. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Flag `NEXT_PUBLIC_` / `VITE_` secrets that look private \u2014 scan `.env*` for public-prefix keys whose names (or value shapes) scream secret. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "raceconditionguard",
@@ -1170,7 +1170,7 @@
     {
       "name": "rollbacksketch",
       "source": "rollbacksketch",
-      "description": "Best-effort rollback sketches for SQL migrations — confidence labels, risk notes, and heavy warnings when a DROP cannot be reversed. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Best-effort rollback sketches for SQL migrations \u2014 confidence labels, risk notes, and heavy warnings when a DROP cannot be reversed. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "secretsage",
@@ -1180,7 +1180,7 @@
     {
       "name": "specmock",
       "source": "specmock",
-      "description": "Generate a lightweight mock server stub from OpenAPI — offline, then run it. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Generate a lightweight mock server stub from OpenAPI \u2014 offline, then run it. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "transactionleakban",
@@ -1225,7 +1225,7 @@
     {
       "name": "corsaudit",
       "source": "corsaudit",
-      "description": "Lint CORS config for overly permissive origins — catch `origin: '*'` with `credentials: true`, `null` origins, and reflect-all patterns in Express, Next, and JS Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Lint CORS config for overly permissive origins \u2014 catch `origin: '*'` with `credentials: true`, `null` origins, and reflect-all patterns in Express, Next, and JS Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "corscredentialsstarban",
@@ -1235,22 +1235,22 @@
     {
       "name": "crashtriage",
       "source": "crashtriage",
-      "description": "Paste a stack trace / crash log → normalized triage brief. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Paste a stack trace / crash log \u2192 normalized triage brief. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "cspaudit",
       "source": "cspaudit",
-      "description": "Lint Content-Security-Policy for unsafe-inline / unsafe-eval / wildcards — catch `'unsafe-inline'`, `'unsafe-eval'`, host `*`, and scheme wildcards (`https:`, ` Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Lint Content-Security-Policy for unsafe-inline / unsafe-eval / wildcards \u2014 catch `'unsafe-inline'`, `'unsafe-eval'`, host `*`, and scheme wildcards (`https:`, ` Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "csvguard",
       "source": "csvguard",
-      "description": "CSV schema / column drift checker — with a CI gate for data & platform teams. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "CSV schema / column drift checker \u2014 with a CI gate for data & platform teams. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "deaddep",
       "source": "deaddep",
-      "description": "Find unused npm dependencies — import / require / dynamic-import scan vs `package.json`. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Find unused npm dependencies \u2014 import / require / dynamic-import scan vs `package.json`. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "dependabotignoreallban",
@@ -1290,7 +1290,7 @@
     {
       "name": "examplesync",
       "source": "examplesync",
-      "description": "Generate safe `.env.example` from live env contracts. Placeholders only — never copy real secret values into examples. Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Generate safe `.env.example` from live env contracts. Placeholders only \u2014 never copy real secret values into examples. Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "fetchcredsban",
@@ -1315,7 +1315,7 @@
     {
       "name": "ghaudit",
       "source": "ghaudit",
-      "description": "Lint GitHub Actions workflow YAML for common footguns — unpinned actions (`@main`/`@master`), `pull_request_target` + checkout, secrets in `echo`, and missing ` Free Cursor plugin funnel. Pro outside marketplace."
+      "description": "Lint GitHub Actions workflow YAML for common footguns \u2014 unpinned actions (`@main`/`@master`), `pull_request_target` + checkout, secrets in `echo`, and missing ` Free Cursor plugin funnel. Pro outside marketplace."
     },
     {
       "name": "graphqlinjectban",
@@ -1390,7 +1390,7 @@
     {
       "name": "flux-lab",
       "source": "flux-lab",
-      "description": "Flux GitOps sources/kustomizations/helmreleases parse + lite lint — free marketplace funnel."
+      "description": "Flux GitOps sources/kustomizations/helmreleases parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "ldapinjectban",
@@ -1480,7 +1480,7 @@
     {
       "name": "ownermap",
       "source": "ownermap",
-      "description": "CODEOWNERS coverage gaps — find unowned paths before they merge without a pager. Free forever in Cursor."
+      "description": "CODEOWNERS coverage gaps \u2014 find unowned paths before they merge without a pager. Free forever in Cursor."
     },
     {
       "name": "passwordinurlban",
@@ -1505,7 +1505,7 @@
     {
       "name": "pinpolicy",
       "source": "pinpolicy",
-      "description": "Require pinned versions vs ranges in package.json — catch `^`, `~`, `*`, `latest`, and open bounds before they float. Pairs with [RangeRisk](https://rangerisk.dev) (range *risk* vs pin *policy*). Free forever in Cursor."
+      "description": "Require pinned versions vs ranges in package.json \u2014 catch `^`, `~`, `*`, `latest`, and open bounds before they float. Pairs with [RangeRisk](https://rangerisk.dev) (range *risk* vs pin *policy*). Free forever in Cursor."
     },
     {
       "name": "pointerlab",
@@ -1545,7 +1545,7 @@
     {
       "name": "rangerisk",
       "source": "rangerisk",
-      "description": "npm semver range risk auditor — caret/tilde traps, wildcards, and duplicate majors. Free forever in Cursor."
+      "description": "npm semver range risk auditor \u2014 caret/tilde traps, wildcards, and duplicate majors. Free forever in Cursor."
     },
     {
       "name": "readonlyrootfsmissban",
@@ -1735,7 +1735,7 @@
     {
       "name": "changelock",
       "source": "changelock",
-      "description": "Require CHANGELOG entries for version bumps — lock `package.json` version to a CHANGELOG heading before the tag ships. Free forever in Cursor."
+      "description": "Require CHANGELOG entries for version bumps \u2014 lock `package.json` version to a CHANGELOG heading before the tag ships. Free forever in Cursor."
     },
     {
       "name": "clearsitedataban",
@@ -1855,7 +1855,7 @@
     {
       "name": "engineguard",
       "source": "engineguard",
-      "description": "Enforce `package.json` `engines.node` vs `.nvmrc` / CI — catch Node version drift before “works on my machine” hits CI. Free forever in Cursor."
+      "description": "Enforce `package.json` `engines.node` vs `.nvmrc` / CI \u2014 catch Node version drift before \u201cworks on my machine\u201d hits CI. Free forever in Cursor."
     },
     {
       "name": "envexampledrift",
@@ -1885,7 +1885,7 @@
     {
       "name": "frameguard",
       "source": "frameguard",
-      "description": "Lint X-Frame-Options / CSP frame-ancestors — catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `frame-ancestors *` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor."
+      "description": "Lint X-Frame-Options / CSP frame-ancestors \u2014 catch missing framing protection, `ALLOWALL`, obsolete `ALLOW-FROM`, and `frame-ancestors *` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor."
     },
     {
       "name": "gitignoreaudit",
@@ -1895,7 +1895,7 @@
     {
       "name": "hstsaudit",
       "source": "hstsaudit",
-      "description": "Lint Strict-Transport-Security headers — catch missing `max-age`, too-short `max-age` (&lt; 1 year), and missing `includeSubDomains` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor."
+      "description": "Lint Strict-Transport-Security headers \u2014 catch missing `max-age`, too-short `max-age` (&lt; 1 year), and missing `includeSubDomains` in raw headers, nginx `add_header`, and Express / helmet configs. Free forever in Cursor."
     },
     {
       "name": "hstsgate",
@@ -1995,7 +1995,7 @@
     {
       "name": "referreraudit",
       "source": "referreraudit",
-      "description": "Lint Referrer-Policy for overly leaky values — catch `unsafe-url` and `no-referrer-when-downgrade` in raw headers, nginx `add_header`, Express / helmet configs, and `<meta name=\"referrer\">`. Free forever in Cursor."
+      "description": "Lint Referrer-Policy for overly leaky values \u2014 catch `unsafe-url` and `no-referrer-when-downgrade` in raw headers, nginx `add_header`, Express / helmet configs, and `<meta name=\"referrer\">`. Free forever in Cursor."
     },
     {
       "name": "referrerpolicyban",
@@ -2045,7 +2045,7 @@
     {
       "name": "strictts",
       "source": "strictts",
-      "description": "Audit `tsconfig.json` for missing `strict` / `noImplicit*` flags — catch loose TypeScript configs before they ship. Free forever in Cursor."
+      "description": "Audit `tsconfig.json` for missing `strict` / `noImplicit*` flags \u2014 catch loose TypeScript configs before they ship. Free forever in Cursor."
     },
     {
       "name": "targetblankban",
@@ -2115,112 +2115,125 @@
     {
       "name": "pulumi-lab",
       "source": "pulumi-lab",
-      "description": "Pulumi.yaml/ts stacks/resources/config parse + lite lint — free marketplace funnel."
+      "description": "Pulumi.yaml/ts stacks/resources/config parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "cdk8s-lab",
       "source": "cdk8s-lab",
-      "description": "cdk8s charts/imports/resources parse + lite lint — free marketplace funnel."
+      "description": "cdk8s charts/imports/resources parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "crossplane-lab",
       "source": "crossplane-lab",
-      "description": "Crossplane XRD/Composition/providers parse + lite lint — free marketplace funnel."
+      "description": "Crossplane XRD/Composition/providers parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "terraform-cdk-lab",
       "source": "terraform-cdk-lab",
-      "description": "cdktf.json/ts stacks/providers/resources parse + lite lint — free marketplace funnel."
+      "description": "cdktf.json/ts stacks/providers/resources parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "serverless-lab",
       "source": "serverless-lab",
-      "description": "serverless.yml functions/events/resources parse + lite lint — free marketplace funnel."
+      "description": "serverless.yml functions/events/resources parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "cloudformation-lab",
       "source": "cloudformation-lab",
-      "description": "CloudFormation resources/parameters/outputs parse + lite lint — free marketplace funnel."
+      "description": "CloudFormation resources/parameters/outputs parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "sam-lab",
       "source": "sam-lab",
-      "description": "AWS SAM template.yaml functions/events/globals parse + lite lint — free marketplace funnel."
+      "description": "AWS SAM template.yaml functions/events/globals parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "arm-template-lab",
       "source": "arm-template-lab",
-      "description": "Azure ARM template resources/parameters/outputs parse + lite lint — free marketplace funnel."
+      "description": "Azure ARM template resources/parameters/outputs parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "bicep-lab",
       "source": "bicep-lab",
-      "description": "Bicep params/resources/modules parse + lite lint — free marketplace funnel."
+      "description": "Bicep params/resources/modules parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "ansible-lab",
       "source": "ansible-lab",
-      "description": "Ansible playbook/role/vars parse + lite lint — free marketplace funnel."
+      "description": "Ansible playbook/role/vars parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "pulumi-policy-lab",
       "source": "pulumi-policy-lab",
-      "description": "Pulumi Policy as Code policies/rules/packs parse + lite lint — free marketplace funnel."
+      "description": "Pulumi Policy as Code policies/rules/packs parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "chef-lab",
       "source": "chef-lab",
-      "description": "Chef cookbooks/recipes/attrs parse + lite lint — free marketplace funnel."
+      "description": "Chef cookbooks/recipes/attrs parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "opa-lab",
       "source": "opa-lab",
-      "description": "OPA Rego packages/rules/tests parse + lite lint — free marketplace funnel."
+      "description": "OPA Rego packages/rules/tests parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "puppet-lab",
       "source": "puppet-lab",
-      "description": "Puppet classes/modules/params parse + lite lint — free marketplace funnel."
+      "description": "Puppet classes/modules/params parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "sentinel-lab",
       "source": "sentinel-lab",
-      "description": "HashiCorp Sentinel policies/imports/params parse + lite lint — free marketplace funnel."
+      "description": "HashiCorp Sentinel policies/imports/params parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "salt-lab",
       "source": "salt-lab",
-      "description": "Salt states/pillars/grains parse + lite lint — free marketplace funnel."
+      "description": "Salt states/pillars/grains parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "packer-lab",
       "source": "packer-lab",
-      "description": "Packer builds/sources/provisioners parse + lite lint — free marketplace funnel."
+      "description": "Packer builds/sources/provisioners parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "vagrant-lab",
       "source": "vagrant-lab",
-      "description": "Vagrantfile boxes/providers/provisions parse + lite lint — free marketplace funnel."
+      "description": "Vagrantfile boxes/providers/provisions parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "conftest-lab",
       "source": "conftest-lab",
-      "description": "Conftest/Rego policies/namespaces/inputs parse + lite lint — free marketplace funnel."
+      "description": "Conftest/Rego policies/namespaces/inputs parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "nomad-lab",
       "source": "nomad-lab",
-      "description": "Nomad job HCL jobs/groups/tasks parse + lite lint — free marketplace funnel."
+      "description": "Nomad job HCL jobs/groups/tasks parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "checkov-lab",
       "source": "checkov-lab",
-      "description": "Checkov checks/frameworks/skips parse + lite lint — free marketplace funnel."
+      "description": "Checkov checks/frameworks/skips parse + lite lint \u2014 free marketplace funnel."
     },
     {
       "name": "consul-lab",
       "source": "consul-lab",
-      "description": "Consul services/checks/intentions parse + lite lint — free marketplace funnel."
+      "description": "Consul services/checks/intentions parse + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "tfsec-lab",
+      "source": "tfsec-lab",
+      "description": "tfsec checks/ignores/severity parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "tfsec",
+        "terraform",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
