@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Artillery Lab logo">
+  <rect width="256" height="256" rx="48" fill="#1A0B20"/>
+  <path d="M48 176 L128 48 L208 176 Z" fill="none" stroke="#F472B6" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M88 176 L128 100 L168 176 Z" fill="#DB2777"/>
+  <circle cx="128" cy="192" r="12" fill="#FBCFE8"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#FBCFE8">ART</text>
+</svg>

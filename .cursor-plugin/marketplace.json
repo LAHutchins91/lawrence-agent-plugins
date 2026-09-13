@@ -1851,6 +1851,19 @@
         "performance",
         "devtools"
       ]
+    },
+    {
+      "name": "artillery-lab",
+      "source": "artillery-lab",
+      "description": "Artillery scenarios/phases/plugins parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "artillery",
+        "load-testing",
+        "performance",
+        "devtools"
+      ]
     }
   ]
 }
