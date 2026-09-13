@@ -1385,6 +1385,19 @@
         "sql",
         "devtools"
       ]
+    },
+    {
+      "name": "zod-schema-lab",
+      "source": "zod-schema-lab",
+      "description": "Zod schemas/fields/refine parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "zod",
+        "validation",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }
