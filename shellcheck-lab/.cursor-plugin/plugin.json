@@ -1,0 +1,15 @@
+{
+  "name": "shellcheck-lab",
+  "displayName": "ShellCheck Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for ShellCheck shell lint heuristics — SC#### rule ids, disable= / enable= / # shellcheck disable / exclude= counts, .shellcheckrc / --severity / --shell / --format / external-sources / source-path config hints, and lite lint — pasted source only, never runs shellcheck CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "shellcheck", "shell", "bash", "lint", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "shellcheck", "shell", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

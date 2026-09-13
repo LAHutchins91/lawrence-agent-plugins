@@ -2482,6 +2482,19 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "shellcheck-lab",
+      "source": "shellcheck-lab",
+      "description": "ShellCheck rules/disables/config heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "shellcheck",
+        "shell",
+        "lint",
+        "devtools"
+      ]
     }
   ]
 }
