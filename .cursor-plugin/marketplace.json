@@ -500,6 +500,18 @@
         "yaml",
         "devtools"
       ]
+    },
+    {
+      "name": "gitignore-lab",
+      "source": "gitignore-lab",
+      "description": "Parse/match/explain/merge gitignore patterns (string-only) \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "gitignore",
+        "git",
+        "devtools"
+      ]
     }
   ]
 }
