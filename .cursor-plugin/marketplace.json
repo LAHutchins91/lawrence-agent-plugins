@@ -989,6 +989,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "playwright-config-lab",
+      "source": "playwright-config-lab",
+      "description": "Playwright projects/browsers/webServer parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "playwright",
+        "testing",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }
