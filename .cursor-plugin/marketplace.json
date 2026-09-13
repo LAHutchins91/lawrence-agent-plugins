@@ -940,6 +940,18 @@
         "python",
         "devtools"
       ]
+    },
+    {
+      "name": "swift-package-lab",
+      "source": "swift-package-lab",
+      "description": "Swift Package.swift products/targets/deps + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "swift",
+        "spm",
+        "devtools"
+      ]
     }
   ]
 }

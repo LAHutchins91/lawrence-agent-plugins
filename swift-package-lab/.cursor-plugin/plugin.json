@@ -1,0 +1,15 @@
+{
+  "name": "swift-package-lab",
+  "displayName": "Swift Package Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Package.swift text — products, targets, dependencies, and lite lint — pasted SwiftPM only, no swift/xcode, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "swift", "swiftpm", "Package.swift", "spm", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "swift", "swiftpm", "Package.swift", "spm", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
