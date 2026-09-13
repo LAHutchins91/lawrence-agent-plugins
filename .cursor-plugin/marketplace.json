@@ -298,6 +298,17 @@
         "git",
         "code-review"
       ]
+    },
+    {
+      "name": "querystring-lab",
+      "source": "querystring-lab",
+      "description": "Query string parse/stringify/merge/diff \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "querystring",
+        "url"
+      ]
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "querystring-lab",
+  "displayName": "Querystring Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for query-string parse, stringify, merge, and diff — URLSearchParams / hand-rolled, no SaaS.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "querystring", "url", "parse", "merge", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "querystring", "url", "parse", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
