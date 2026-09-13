@@ -646,6 +646,18 @@
         "cache",
         "devtools"
       ]
+    },
+    {
+      "name": "robots-txt-lab",
+      "source": "robots-txt-lab",
+      "description": "Parse robots.txt, allow checks, sitemap list, lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "robots",
+        "seo",
+        "devtools"
+      ]
     }
   ]
 }
