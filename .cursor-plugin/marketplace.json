@@ -5331,6 +5331,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "sam-lab",
+      "source": "sam-lab",
+      "description": "AWS SAM template.yaml functions/events/globals parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "sam",
+        "aws",
+        "lambda",
+        "devtools"
+      ]
     }
   ]
 }
