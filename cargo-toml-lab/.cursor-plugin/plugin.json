@@ -1,0 +1,15 @@
+{
+  "name": "cargo-toml-lab",
+  "displayName": "Cargo TOML Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Cargo.toml text — list deps/features/bins and lite lint — pasted TOML only, no cargo CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "cargo", "toml", "rust", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "cargo", "toml", "rust", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

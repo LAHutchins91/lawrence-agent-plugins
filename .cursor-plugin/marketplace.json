@@ -768,6 +768,19 @@
         "package-json",
         "devtools"
       ]
+    },
+    {
+      "name": "cargo-toml-lab",
+      "source": "cargo-toml-lab",
+      "description": "Cargo.toml deps/features/bin targets + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "rust",
+        "cargo",
+        "toml",
+        "devtools"
+      ]
     }
   ]
 }
