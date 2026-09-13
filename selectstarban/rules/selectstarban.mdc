@@ -1,0 +1,12 @@
+---
+description: Fail CI on SQL SELECT * and empty ORM projections.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# SelectStarBan
+
+Fail CI on SQL SELECT * and empty ORM projections.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

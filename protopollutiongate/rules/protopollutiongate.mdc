@@ -1,0 +1,12 @@
+---
+description: Fail CI on __proto__ / constructor.prototype pollution patterns.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ProtoPollutionGate
+
+Fail CI on __proto__ / constructor.prototype pollution patterns.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

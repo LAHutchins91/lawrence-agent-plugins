@@ -1,0 +1,12 @@
+---
+description: Fail CI when Postgres connection strings disable SSL.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PostgresNoSslBan
+
+Fail CI when Postgres connection strings disable SSL.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

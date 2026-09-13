@@ -1,0 +1,12 @@
+---
+description: Require pinned versions vs ranges in package.json — catch `^`, `~`, `*`, `latest`, and open bounds before they float. Pa
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PinPolicy
+
+Require pinned versions vs ranges in package.json — catch `^`, `~`, `*`, `latest`, and open bounds before they float. Pairs with [RangeRisk](https://rangerisk.dev) (range *risk* vs pin *policy*).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

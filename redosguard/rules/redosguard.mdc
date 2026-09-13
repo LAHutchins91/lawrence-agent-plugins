@@ -1,0 +1,12 @@
+---
+description: Fail CI on catastrophic regex (nested quantifiers) applied to user input.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ReDoSGuard
+
+Fail CI on catastrophic regex (nested quantifiers) applied to user input.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

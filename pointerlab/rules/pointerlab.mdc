@@ -1,0 +1,12 @@
+---
+description: JSON Pointer get/assert for API payloads. Pull fields from response fixtures with RFC 6901 pointers and gate CI on asser
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PointerLab
+
+JSON Pointer get/assert for API payloads. Pull fields from response fixtures with RFC 6901 pointers and gate CI on assert suites so contract drift never ships silently.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

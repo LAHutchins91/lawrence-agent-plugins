@@ -1,0 +1,12 @@
+---
+description: Scan Next.js for NEXT_PUBLIC_* secret leaks.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# NextPublicLeak
+
+Scan Next.js for NEXT_PUBLIC_* secret leaks.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

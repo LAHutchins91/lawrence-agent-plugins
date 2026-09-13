@@ -1,0 +1,15 @@
+{
+  "name": "pinnedactionmissban",
+  "version": "0.1.0",
+  "description": "Fail CI when GitHub Actions use unpinned tags. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "pinnedactionmissban",
+    "free"
+  ]
+}

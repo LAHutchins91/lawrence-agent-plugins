@@ -1,0 +1,12 @@
+---
+description: Fail CI on postMessage('*') and message listeners without origin checks.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PostMessageOriginBan
+
+Fail CI on postMessage('*') and message listeners without origin checks.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

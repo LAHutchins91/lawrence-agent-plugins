@@ -1,0 +1,12 @@
+---
+description: Fail CI when license compliance is missing or skipped.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# LicenseComplianceMissBan
+
+Fail CI when license compliance is missing or skipped.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

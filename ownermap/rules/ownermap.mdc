@@ -1,0 +1,12 @@
+---
+description: CODEOWNERS coverage gaps — find unowned paths before they merge without a pager.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# OwnerMap
+
+CODEOWNERS coverage gaps — find unowned paths before they merge without a pager.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

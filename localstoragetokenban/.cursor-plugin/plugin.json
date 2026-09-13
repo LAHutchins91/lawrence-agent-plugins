@@ -1,0 +1,15 @@
+{
+  "name": "localstoragetokenban",
+  "version": "0.1.0",
+  "description": "Fail CI when auth tokens are stored in localStorage/sessionStorage. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "localstoragetokenban",
+    "free"
+  ]
+}

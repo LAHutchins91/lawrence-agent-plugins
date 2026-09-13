@@ -3528,6 +3528,486 @@
         "kubernetes",
         "devtools"
       ]
+    },
+    {
+      "name": "ldapinjectban",
+      "source": "ldapinjectban",
+      "description": "Fail CI on LDAP filter/search/bind DN concat with user input. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "ldapinjectban",
+        "free"
+      ]
+    },
+    {
+      "name": "licensecompliancemissban",
+      "source": "licensecompliancemissban",
+      "description": "Fail CI when license compliance is missing or skipped. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "licensecompliancemissban",
+        "free"
+      ]
+    },
+    {
+      "name": "localstoragetokenban",
+      "source": "localstoragetokenban",
+      "description": "Fail CI when auth tokens are stored in localStorage/sessionStorage. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "localstoragetokenban",
+        "free"
+      ]
+    },
+    {
+      "name": "massassignban",
+      "source": "massassignban",
+      "description": "Fail CI on ORM mass assignment of unsanitized req.body. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "massassignban",
+        "free"
+      ]
+    },
+    {
+      "name": "memcachednoauthban",
+      "source": "memcachednoauthban",
+      "description": "Fail CI when Memcached clients connect without SASL to non-localhost. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "memcachednoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "missingawaitban",
+      "source": "missingawaitban",
+      "description": "Fail CI on floating fetch/prisma/fs.promises/.then without await. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "missingawaitban",
+        "free"
+      ]
+    },
+    {
+      "name": "mongonoauthban",
+      "source": "mongonoauthban",
+      "description": "Fail CI when MongoDB connects without auth credentials. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "mongonoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "mysqlnosslban",
+      "source": "mysqlnosslban",
+      "description": "Fail CI when MySQL/MariaDB connections disable TLS. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "mysqlnosslban",
+        "free"
+      ]
+    },
+    {
+      "name": "neo4jnoauthban",
+      "source": "neo4jnoauthban",
+      "description": "Fail CI when Neo4j drivers connect without auth. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "neo4jnoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "nextpublicleak",
+      "source": "nextpublicleak",
+      "description": "Scan Next.js for NEXT_PUBLIC_* secret leaks. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "nextpublicleak",
+        "free"
+      ]
+    },
+    {
+      "name": "noevalgate",
+      "source": "noevalgate",
+      "description": "Fail CI on eval / new Function / setTimeout(string). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "noevalgate",
+        "free"
+      ]
+    },
+    {
+      "name": "nosqlinjectban",
+      "source": "nosqlinjectban",
+      "description": "Fail CI on Mongo/Mongoose NoSQL injection (req-spread, $where, operator merge). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "nosqlinjectban",
+        "free"
+      ]
+    },
+    {
+      "name": "npmauditcifailmissban",
+      "source": "npmauditcifailmissban",
+      "description": "Fail CI when package-manager audit gates are skipped. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "npmauditcifailmissban",
+        "free"
+      ]
+    },
+    {
+      "name": "npmauditgate",
+      "source": "npmauditgate",
+      "description": "Markdown brief + CI severity gate for npm audit JSON. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "npmauditgate",
+        "free"
+      ]
+    },
+    {
+      "name": "npmscriptdangerban",
+      "source": "npmscriptdangerban",
+      "description": "Fail CI on dangerous package.json scripts. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "npmscriptdangerban",
+        "free"
+      ]
+    },
+    {
+      "name": "openredirectban",
+      "source": "openredirectban",
+      "description": "Fail CI on open redirects from unsanitized query/body into redirect/Location. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "openredirectban",
+        "free"
+      ]
+    },
+    {
+      "name": "openredirectqueryban",
+      "source": "openredirectqueryban",
+      "description": "Fail CI on res.redirect(req.query.*) / Location from query. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "openredirectqueryban",
+        "free"
+      ]
+    },
+    {
+      "name": "ownermap",
+      "source": "ownermap",
+      "description": "CODEOWNERS coverage gaps \u2014 find unowned paths before they merge without a pager. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "ownermap",
+        "free"
+      ]
+    },
+    {
+      "name": "passwordinurlban",
+      "source": "passwordinurlban",
+      "description": "Fail CI on passwords/tokens/secrets in URL query strings. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "passwordinurlban",
+        "free"
+      ]
+    },
+    {
+      "name": "pathtraversalban",
+      "source": "pathtraversalban",
+      "description": "Fail CI on path.join/fs with user-controlled segments. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "pathtraversalban",
+        "free"
+      ]
+    },
+    {
+      "name": "piilogban",
+      "source": "piilogban",
+      "description": "Fail CI when logs leak email/SSN/card/phone/password PII. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "piilogban",
+        "free"
+      ]
+    },
+    {
+      "name": "pinnedactionmissban",
+      "source": "pinnedactionmissban",
+      "description": "Fail CI when GitHub Actions use unpinned tags. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "pinnedactionmissban",
+        "free"
+      ]
+    },
+    {
+      "name": "pinpolicy",
+      "source": "pinpolicy",
+      "description": "Require pinned versions vs ranges in package.json \u2014 catch `^`, `~`, `*`, `latest`, and open bounds before they float. Pairs with [RangeRisk](https://rangerisk.dev) (range *risk* vs pin *policy*). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "pinpolicy",
+        "free"
+      ]
+    },
+    {
+      "name": "pointerlab",
+      "source": "pointerlab",
+      "description": "JSON Pointer get/assert for API payloads. Pull fields from response fixtures with RFC 6901 pointers and gate CI on assert suites so contract drift never ships silently. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "pointerlab",
+        "free"
+      ]
+    },
+    {
+      "name": "postgresnosslban",
+      "source": "postgresnosslban",
+      "description": "Fail CI when Postgres connection strings disable SSL. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "postgresnosslban",
+        "free"
+      ]
+    },
+    {
+      "name": "postmessageban",
+      "source": "postmessageban",
+      "description": "Fail CI on postMessage without origin check / targetOrigin '*'. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "postmessageban",
+        "free"
+      ]
+    },
+    {
+      "name": "postmessageoriginban",
+      "source": "postmessageoriginban",
+      "description": "Fail CI on postMessage('*') and message listeners without origin checks. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "postmessageoriginban",
+        "free"
+      ]
+    },
+    {
+      "name": "protopollutiongate",
+      "source": "protopollutiongate",
+      "description": "Fail CI on __proto__ / constructor.prototype pollution patterns. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "protopollutiongate",
+        "free"
+      ]
+    },
+    {
+      "name": "prototypemergeban",
+      "source": "prototypemergeban",
+      "description": "Fail CI on Object.assign / lodash.merge / deep-merge prototype pollution. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "prototypemergeban",
+        "free"
+      ]
+    },
+    {
+      "name": "rabbitmqnoauthban",
+      "source": "rabbitmqnoauthban",
+      "description": "Ban unauthenticated RabbitMQ / amqplib connections. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "rabbitmqnoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "rangerisk",
+      "source": "rangerisk",
+      "description": "npm semver range risk auditor \u2014 caret/tilde traps, wildcards, and duplicate majors. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "rangerisk",
+        "free"
+      ]
+    },
+    {
+      "name": "readonlyrootfsmissban",
+      "source": "readonlyrootfsmissban",
+      "description": "Fail CI when containers lack readOnlyRootFilesystem. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "readonlyrootfsmissban",
+        "free"
+      ]
+    },
+    {
+      "name": "redisnoauthban",
+      "source": "redisnoauthban",
+      "description": "Fail CI when Redis createClient/ioredis connects without password. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "redisnoauthban",
+        "free"
+      ]
+    },
+    {
+      "name": "redosguard",
+      "source": "redosguard",
+      "description": "Fail CI on catastrophic regex (nested quantifiers) applied to user input. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "redosguard",
+        "free"
+      ]
+    },
+    {
+      "name": "regexdosinputban",
+      "source": "regexdosinputban",
+      "description": "Fail CI on new RegExp(userInput) / match with attacker-controlled patterns. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "regexdosinputban",
+        "free"
+      ]
+    },
+    {
+      "name": "releasenotesforge",
+      "source": "releasenotesforge",
+      "description": "AI-assisted changelog / release notes from commits + PRs. Built for eng managers and release owners Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "releasenotesforge",
+        "free"
+      ]
+    },
+    {
+      "name": "sbomsmissingban",
+      "source": "sbomsmissingban",
+      "description": "Fail CI when SBOM generation/attestation is missing. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sbomsmissingban",
+        "free"
+      ]
+    },
+    {
+      "name": "seccompunconfinedban",
+      "source": "seccompunconfinedban",
+      "description": "Fail CI when seccomp/AppArmor is unconfined. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "seccompunconfinedban",
+        "free"
+      ]
+    },
+    {
+      "name": "secretsincommentsban",
+      "source": "secretsincommentsban",
+      "description": "Fail CI when secrets appear in code comments (sk_live, AKIA, JWT, conn strings). Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "secretsincommentsban",
+        "free"
+      ]
+    },
+    {
+      "name": "selectstarban",
+      "source": "selectstarban",
+      "description": "Fail CI on SQL SELECT * and empty ORM projections. Free forever in Cursor.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "selectstarban",
+        "free"
+      ]
     }
   ]
 }

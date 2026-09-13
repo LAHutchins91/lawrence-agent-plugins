@@ -1,0 +1,15 @@
+{
+  "name": "protopollutiongate",
+  "version": "0.1.0",
+  "description": "Fail CI on __proto__ / constructor.prototype pollution patterns. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "protopollutiongate",
+    "free"
+  ]
+}

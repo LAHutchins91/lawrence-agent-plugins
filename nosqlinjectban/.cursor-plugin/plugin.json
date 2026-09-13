@@ -1,0 +1,15 @@
+{
+  "name": "nosqlinjectban",
+  "version": "0.1.0",
+  "description": "Fail CI on Mongo/Mongoose NoSQL injection (req-spread, $where, operator merge). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "nosqlinjectban",
+    "free"
+  ]
+}

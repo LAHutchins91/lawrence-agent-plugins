@@ -1,0 +1,12 @@
+---
+description: Fail CI when GitHub Actions use unpinned tags.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PinnedActionMissBan
+
+Fail CI when GitHub Actions use unpinned tags.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

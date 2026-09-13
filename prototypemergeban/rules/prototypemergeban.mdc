@@ -1,0 +1,12 @@
+---
+description: Fail CI on Object.assign / lodash.merge / deep-merge prototype pollution.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PrototypeMergeBan
+
+Fail CI on Object.assign / lodash.merge / deep-merge prototype pollution.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

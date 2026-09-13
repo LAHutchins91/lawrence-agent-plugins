@@ -1,0 +1,12 @@
+---
+description: Fail CI when Memcached clients connect without SASL to non-localhost.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# MemcachedNoAuthBan
+
+Fail CI when Memcached clients connect without SASL to non-localhost.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

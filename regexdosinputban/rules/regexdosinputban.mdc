@@ -1,0 +1,12 @@
+---
+description: Fail CI on new RegExp(userInput) / match with attacker-controlled patterns.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# RegexDosInputBan
+
+Fail CI on new RegExp(userInput) / match with attacker-controlled patterns.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

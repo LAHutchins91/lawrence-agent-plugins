@@ -1,0 +1,15 @@
+{
+  "name": "noevalgate",
+  "version": "0.1.0",
+  "description": "Fail CI on eval / new Function / setTimeout(string). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "noevalgate",
+    "free"
+  ]
+}

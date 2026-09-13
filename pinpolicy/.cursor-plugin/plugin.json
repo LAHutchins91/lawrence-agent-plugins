@@ -1,0 +1,15 @@
+{
+  "name": "pinpolicy",
+  "version": "0.1.0",
+  "description": "Require pinned versions vs ranges in package.json \u2014 catch `^`, `~`, `*`, `latest`, and open bounds before they float. Pairs with [RangeRisk](https://rangerisk.dev) (range *risk* vs pin *policy*). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "pinpolicy",
+    "free"
+  ]
+}

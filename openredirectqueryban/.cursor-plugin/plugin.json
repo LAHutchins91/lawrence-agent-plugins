@@ -1,0 +1,15 @@
+{
+  "name": "openredirectqueryban",
+  "version": "0.1.0",
+  "description": "Fail CI on res.redirect(req.query.*) / Location from query. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "openredirectqueryban",
+    "free"
+  ]
+}

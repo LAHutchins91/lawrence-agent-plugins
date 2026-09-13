@@ -1,0 +1,12 @@
+---
+description: Fail CI on floating fetch/prisma/fs.promises/.then without await.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# MissingAwaitBan
+
+Fail CI on floating fetch/prisma/fs.promises/.then without await.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

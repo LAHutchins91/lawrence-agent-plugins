@@ -1,0 +1,15 @@
+{
+  "name": "rangerisk",
+  "version": "0.1.0",
+  "description": "npm semver range risk auditor \u2014 caret/tilde traps, wildcards, and duplicate majors. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "rangerisk",
+    "free"
+  ]
+}

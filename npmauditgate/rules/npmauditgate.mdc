@@ -1,0 +1,12 @@
+---
+description: Markdown brief + CI severity gate for npm audit JSON.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# NpmAuditGate
+
+Markdown brief + CI severity gate for npm audit JSON.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

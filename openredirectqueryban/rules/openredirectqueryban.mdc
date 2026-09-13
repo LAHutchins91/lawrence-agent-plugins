@@ -1,0 +1,12 @@
+---
+description: Fail CI on res.redirect(req.query.*) / Location from query.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# OpenRedirectQueryBan
+
+Fail CI on res.redirect(req.query.*) / Location from query.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

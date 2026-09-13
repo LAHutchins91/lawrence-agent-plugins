@@ -1,0 +1,12 @@
+---
+description: Fail CI on Mongo/Mongoose NoSQL injection (req-spread, $where, operator merge).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# NoSqlInjectBan
+
+Fail CI on Mongo/Mongoose NoSQL injection (req-spread, $where, operator merge).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

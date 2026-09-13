@@ -1,0 +1,12 @@
+---
+description: Fail CI on path.join/fs with user-controlled segments.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# PathTraversalBan
+
+Fail CI on path.join/fs with user-controlled segments.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

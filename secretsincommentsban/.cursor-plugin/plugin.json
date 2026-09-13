@@ -1,0 +1,15 @@
+{
+  "name": "secretsincommentsban",
+  "version": "0.1.0",
+  "description": "Fail CI when secrets appear in code comments (sk_live, AKIA, JWT, conn strings). Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "secretsincommentsban",
+    "free"
+  ]
+}

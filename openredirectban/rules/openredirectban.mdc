@@ -1,0 +1,12 @@
+---
+description: Fail CI on open redirects from unsanitized query/body into redirect/Location.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# OpenRedirectBan
+
+Fail CI on open redirects from unsanitized query/body into redirect/Location.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

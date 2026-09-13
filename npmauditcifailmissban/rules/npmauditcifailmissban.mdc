@@ -1,0 +1,12 @@
+---
+description: Fail CI when package-manager audit gates are skipped.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# NpmAuditCiFailMissBan
+
+Fail CI when package-manager audit gates are skipped.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

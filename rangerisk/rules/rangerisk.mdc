@@ -1,0 +1,12 @@
+---
+description: npm semver range risk auditor — caret/tilde traps, wildcards, and duplicate majors.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# RangeRisk
+
+npm semver range risk auditor — caret/tilde traps, wildcards, and duplicate majors.
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro

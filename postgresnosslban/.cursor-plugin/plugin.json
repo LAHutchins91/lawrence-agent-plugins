@@ -1,0 +1,15 @@
+{
+  "name": "postgresnosslban",
+  "version": "0.1.0",
+  "description": "Fail CI when Postgres connection strings disable SSL. Free forever in Cursor.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "postgresnosslban",
+    "free"
+  ]
+}

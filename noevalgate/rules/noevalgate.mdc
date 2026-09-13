@@ -1,0 +1,12 @@
+---
+description: Fail CI on eval / new Function / setTimeout(string).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# NoEvalGate
+
+Fail CI on eval / new Function / setTimeout(string).
+
+Report findings with paths and remediation. Do not invent findings.
+Marketplace plugin is free forever; Pro CI at https://plugins.lawrence.dev/pro
