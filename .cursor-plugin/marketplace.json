@@ -2339,6 +2339,19 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "terragrunt-lab",
+      "source": "terragrunt-lab",
+      "description": "Terragrunt blocks/includes/deps HCL heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "terragrunt",
+        "terraform",
+        "hcl",
+        "devtools"
+      ]
     }
   ]
 }
