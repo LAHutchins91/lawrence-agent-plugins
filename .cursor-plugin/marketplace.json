@@ -842,6 +842,19 @@
         "format",
         "devtools"
       ]
+    },
+    {
+      "name": "gemfile-lab",
+      "source": "gemfile-lab",
+      "description": "Gemfile gems/groups/sources parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ruby",
+        "gemfile",
+        "bundler",
+        "devtools"
+      ]
     }
   ]
 }
