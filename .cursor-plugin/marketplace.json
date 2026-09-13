@@ -109,6 +109,19 @@
         "churn",
         "code-review"
       ]
+    },
+    {
+      "name": "dockerfile-lint-lite",
+      "source": "dockerfile-lint-lite",
+      "description": "Heuristic Dockerfile and compose risk scans \u2014 local, zero-auth, free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "docker",
+        "dockerfile",
+        "compose",
+        "security"
+      ]
     }
   ]
 }
