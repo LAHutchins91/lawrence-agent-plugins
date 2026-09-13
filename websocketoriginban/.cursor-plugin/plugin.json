@@ -1,15 +1,25 @@
 {
   "name": "websocketoriginban",
+  "displayName": "Web Socket Origin Ban",
   "version": "0.1.0",
-  "description": "Fail CI on new WebSocket to untrusted hosts / ws:. Free forever in Cursor.",
+  "description": "Fail CI on new WebSocket to untrusted hosts / ws:.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "websocketoriginban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

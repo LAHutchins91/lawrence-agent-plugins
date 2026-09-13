@@ -1,16 +1,27 @@
-# SeccompUnconfinedBan
+# Seccomp Unconfined Ban
 
 Fail CI when seccomp/AppArmor is unconfined.
 
-## Pricing
+## What it catches
 
-- **Cursor Marketplace:** FREE forever (no paywalls)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://seccompunconfinedban.dev
+Fail CI when seccomp/AppArmor is unconfined — surfaced as editor guidance so you can fix issues before they merge.
 
----
+## Who it's for
 
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
+Security-minded teams who want issues caught in the editor before CI.
 
+## Install
+
+Install **Seccomp Unconfined Ban** from the Cursor marketplace, or open this folder as a local plugin.
+
+## Free forever
+
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

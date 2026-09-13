@@ -1,12 +1,27 @@
-# ContractLock (Cursor plugin) — FREE forever
+# ContractLock
 
 Env contract freeze + drift CI for teams. Turn `.env.example` into a frozen JSON lockfile, then fail CI when live env files drift. Companion product that pairs with the EnvDrift funnel.
 
+## What it catches
+
+Env contract freeze + drift CI for teams. Turn `.env.example` into a frozen JSON lockfile, then fail CI when live env files drift. Companion product that pairs with the EnvDrift funnel — surfaced as editor guidance so you can fix issues before they merge.
+
+## Who it's for
+
+API and platform teams guarding contracts across PRs.
+
 ## Install
-Install from Cursor marketplace / this repo. Plugin stays **free forever**.
 
-## Upgrade for CI fail
-Pro available · https://plugins.lawrence.dev/pro
+Install **ContractLock** from the Cursor marketplace, or open this folder as a local plugin.
 
-## What it does
-Runs `contractlock` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).
+## Free forever
+
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

@@ -1,22 +1,27 @@
-# GitSecretHistoryBan
+# Git Secret History Ban
 
-GitSecretHistoryBan helps you spot secret-like material tied to history/scan workflows before it becomes an incident. Free tier: local report, non-blocking.
+Fail CI when secrets appear in working-tree files.
 
-Marketplace plugin = **FREE forever**. Multi-file CI exit 1, SARIF, and allowlists via **Lawrence Plugins Pro** (Stripe) — not inside the plugin.
+## What it catches
 
-## Pricing
+Fail CI when secrets appear in working-tree files — surfaced as editor guidance so you can fix issues before they merge.
 
-- **Cursor Marketplace:** FREE forever (no paywalls in this plugin)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://gitsecrethistoryban.dev
+## Who it's for
 
-### CTA
+Security-minded teams who want issues caught in the editor before CI.
 
-- Get Pro — $19/mo → https://plugins.lawrence.dev/pro
+## Install
 
----
+Install **Git Secret History Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
+## Free forever
 
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

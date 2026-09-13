@@ -1,16 +1,26 @@
 {
   "name": "sqlmigrationguard",
+  "displayName": "SqlMigrationGuard",
   "version": "0.1.0",
-  "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering \u2014 before they ship. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering \u2014 before they ship.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "sqlmigrationguard",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "lint"
+  ],
+  "logo": "assets/logo.svg"
 }

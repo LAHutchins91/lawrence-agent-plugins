@@ -1,11 +1,14 @@
 {
   "name": "unsignedreleaseban",
+  "displayName": "Unsigned Release Ban",
   "version": "0.1.0",
-  "description": "Catch releases missing cosign/attestations/provenance. Free report funnel; Pro CI outside Cursor.",
+  "description": "Fail CI when releases lack signing/attestation.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "cosign",
     "sigstore",
@@ -14,5 +17,12 @@
     "supply-chain",
     "mcp",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

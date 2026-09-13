@@ -1,16 +1,26 @@
 {
   "name": "sbomdiff",
+  "displayName": "SbomDiff",
   "version": "0.1.0",
-  "description": "Compare two CycloneDX or SPDX JSON SBOMs. See added, removed, and upgraded packages. Paste the markdown report into a PR. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Compare two CycloneDX or SPDX JSON SBOMs. See added, removed, and upgraded packages. Paste the markdown report into a PR.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "sbomdiff",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

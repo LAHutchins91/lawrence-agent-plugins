@@ -1,16 +1,26 @@
 {
   "name": "examplesync",
+  "displayName": "ExampleSync",
   "version": "0.1.0",
-  "description": "Generate safe `.env.example` from live env contracts. Placeholders only \u2014 never copy real secret values into examples. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Generate safe `.env.example` from live env contracts. Placeholders only \u2014 never copy real secret values into examples.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "examplesync",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

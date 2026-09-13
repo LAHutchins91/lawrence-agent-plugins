@@ -1,12 +1,27 @@
-# DeadDep (Cursor plugin) — FREE forever
+# DeadDep
 
 Find unused npm dependencies — import / require / dynamic-import scan vs `package.json`.
 
+## What it catches
+
+Find unused npm dependencies — import / require / dynamic-import scan vs `package.json` — surfaced as editor guidance so you can fix issues before they merge.
+
+## Who it's for
+
+Engineers who want a fast, local guardrail in Cursor — no account required.
+
 ## Install
-Install from Cursor marketplace / this repo. Plugin stays **free forever**.
 
-## Upgrade for CI fail
-Pro available · https://plugins.lawrence.dev/pro
+Install **DeadDep** from the Cursor marketplace, or open this folder as a local plugin.
 
-## What it does
-Runs `deaddep` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).
+## Free forever
+
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

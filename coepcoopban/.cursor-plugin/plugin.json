@@ -1,15 +1,25 @@
 {
   "name": "coepcoopban",
+  "displayName": "Coep Coop Ban",
   "version": "0.1.0",
-  "description": "Fail CI on isolation apps missing COOP/COEP headers. Free forever in Cursor.",
+  "description": "Fail CI on isolation apps missing COOP/COEP headers.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "coepcoopban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

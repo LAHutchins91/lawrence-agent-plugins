@@ -1,15 +1,25 @@
 {
   "name": "xpoweredbyban",
+  "displayName": "X Powered By Ban",
   "version": "0.1.0",
-  "description": "Fail CI on Express/Next leaking X-Powered-By. Free forever in Cursor.",
+  "description": "Fail CI on Express/Next leaking X-Powered-By.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "xpoweredbyban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

@@ -1,15 +1,25 @@
 {
   "name": "postgresnosslban",
+  "displayName": "Postgres No Ssl Ban",
   "version": "0.1.0",
-  "description": "Fail CI when Postgres connection strings disable SSL. Free forever in Cursor.",
+  "description": "Fail CI when Postgres connection strings disable SSL.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "postgresnosslban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

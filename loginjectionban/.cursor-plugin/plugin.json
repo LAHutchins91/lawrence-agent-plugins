@@ -1,15 +1,25 @@
 {
   "name": "loginjectionban",
+  "displayName": "Log Injection Ban",
   "version": "0.1.0",
-  "description": "Fail CI on log injection via unsanitized request data in console/winston/pino. Free forever in Cursor.",
+  "description": "Fail CI on log injection via unsanitized request data in console/winston/pino.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "loginjectionban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

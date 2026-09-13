@@ -1,16 +1,26 @@
 {
   "name": "missingawaitban",
+  "displayName": "Missing Await Ban",
   "version": "0.1.0",
-  "description": "Fail CI on floating promises / missing await. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI on floating fetch/prisma/fs.promises/.then without await.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "developer-tools",
     "javascript",
     "ci",
     "missingawaitban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

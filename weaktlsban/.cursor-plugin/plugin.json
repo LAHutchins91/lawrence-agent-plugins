@@ -1,15 +1,25 @@
 {
   "name": "weaktlsban",
+  "displayName": "Weak Tls Ban",
   "version": "0.1.0",
-  "description": "Fail CI on TLS misconfig (rejectUnauthorized false, SSLv3/TLSv1, weak ciphers). Free forever in Cursor.",
+  "description": "Fail CI on TLS misconfig (rejectUnauthorized false, SSLv3/TLSv1, weak ciphers).",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "weaktlsban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

@@ -1,15 +1,25 @@
 {
   "name": "targetblankban",
+  "displayName": "Target Blank Ban",
   "version": "0.1.0",
-  "description": "Fail CI on target=_blank without rel=noopener noreferrer. Free forever in Cursor.",
+  "description": "Fail CI on target=_blank without rel=noopener noreferrer.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "targetblankban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

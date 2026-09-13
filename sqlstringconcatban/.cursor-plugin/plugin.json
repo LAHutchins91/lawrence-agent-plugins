@@ -1,15 +1,25 @@
 {
   "name": "sqlstringconcatban",
+  "displayName": "Sql String Concat Ban",
   "version": "0.1.0",
-  "description": "Fail CI on SQL string concat / template query building. Free forever in Cursor.",
+  "description": "Fail CI on SQL string concat / template query building.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sqlstringconcatban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

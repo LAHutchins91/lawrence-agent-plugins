@@ -1,15 +1,25 @@
 {
   "name": "readonlyrootfsmissban",
+  "displayName": "Read Only Root Fs Miss Ban",
   "version": "0.1.0",
-  "description": "Fail CI when containers lack readOnlyRootFilesystem. Free forever in Cursor.",
+  "description": "Fail CI when containers lack readOnlyRootFilesystem.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "readonlyrootfsmissban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

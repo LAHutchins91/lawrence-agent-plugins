@@ -1,15 +1,25 @@
 {
   "name": "zipslipban",
+  "displayName": "Zip Slip Ban",
   "version": "0.1.0",
-  "description": "Fail CI on zip-slip / path traversal in archive extract. Free forever in Cursor.",
+  "description": "Fail CI on zip-slip / path traversal in archive extract.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "zipslipban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

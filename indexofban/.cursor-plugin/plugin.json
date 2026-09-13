@@ -1,15 +1,25 @@
 {
   "name": "indexofban",
+  "displayName": "Index Of Ban",
   "version": "0.1.0",
-  "description": "Ban indexOf-for-membership; prefer includes/Set. Free forever in Cursor.",
+  "description": "Ban indexOf-for-membership; prefer includes/Set.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "indexofban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

@@ -1,22 +1,27 @@
-# TerraformStateSecretsBan
+# Terraform State Secrets Ban
 
-TerraformStateSecretsBan heuristically flags dangerous secret material associated with Terraform state and related configs so teams catch leaks early.
+Fail CI when Terraform risks secret leakage in state.
 
-Cursor Marketplace copy stays **free forever**. Multi-file CI, SARIF, and allowlist are sold via **Lawrence Plugins Pro** — never paywalled in the plugin.
+## What it catches
 
-## Pricing
+Fail CI when Terraform risks secret leakage in state — surfaced as editor guidance so you can fix issues before they merge.
 
-- **Cursor Marketplace:** FREE forever (no paywalls in this plugin)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://terraformstatesecretsban.dev
+## Who it's for
 
-### CTA
+Security-minded teams who want issues caught in the editor before CI.
 
-- Get Pro — $19/mo → https://plugins.lawrence.dev/pro
+## Install
 
----
+Install **Terraform State Secrets Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
+## Free forever
 
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

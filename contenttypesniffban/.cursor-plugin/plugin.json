@@ -1,15 +1,25 @@
 {
   "name": "contenttypesniffban",
+  "displayName": "Content Type Sniff Ban",
   "version": "0.1.0",
-  "description": "Fail CI on missing X-Content-Type-Options: nosniff. Free forever in Cursor.",
+  "description": "Fail CI on missing X-Content-Type-Options: nosniff.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "contenttypesniffban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

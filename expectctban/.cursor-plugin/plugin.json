@@ -1,15 +1,25 @@
 {
   "name": "expectctban",
+  "displayName": "Expect Ct Ban",
   "version": "0.1.0",
-  "description": "Fail CI on obsolete Expect-CT header (prefer CT monitoring). Free forever in Cursor.",
+  "description": "Fail CI on obsolete Expect-CT header (prefer CT monitoring).",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "expectctban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

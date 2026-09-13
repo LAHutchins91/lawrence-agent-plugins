@@ -1,16 +1,26 @@
 {
   "name": "licensescan",
+  "displayName": "LicenseScan",
   "version": "0.1.0",
-  "description": "Scan package.json / lockfile-ish inventory for license risk \u2014 GPL/AGPL flags, copyleft, proprietary. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Scan package.json / lockfile-ish inventory for license risk \u2014 GPL/AGPL flags, copyleft, proprietary.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "developer-tools",
     "licensing",
     "ci",
     "licensescan",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

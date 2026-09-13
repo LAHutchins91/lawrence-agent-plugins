@@ -1,15 +1,25 @@
 {
   "name": "clearsitedataban",
+  "displayName": "Clear Site Data Ban",
   "version": "0.1.0",
-  "description": "Fail CI on logout without Clear-Site-Data cookies/storage. Free forever in Cursor.",
+  "description": "Fail CI on logout without Clear-Site-Data cookies/storage.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "clearsitedataban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

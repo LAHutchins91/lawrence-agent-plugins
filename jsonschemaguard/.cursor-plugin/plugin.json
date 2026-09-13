@@ -1,16 +1,26 @@
 {
   "name": "jsonschemaguard",
+  "displayName": "JsonSchemaGuard",
   "version": "0.1.0",
-  "description": "Validate JSON/YAML payloads against JSON Schema \u2014 with a CI gate for API/platform teams. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Validate JSON/YAML payloads against JSON Schema \u2014 with a CI gate for API/platform teams.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "developer-tools",
     "schema",
     "ci",
     "jsonschemaguard",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "lint"
+  ],
+  "logo": "assets/logo.svg"
 }

@@ -1,15 +1,25 @@
 {
   "name": "rabbitmqnoauthban",
+  "displayName": "Rabbit Mq No Auth Ban",
   "version": "0.1.0",
-  "description": "Ban unauthenticated RabbitMQ / amqplib connections. Free forever in Cursor.",
+  "description": "Ban unauthenticated RabbitMQ / amqplib connections.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "rabbitmqnoauthban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

@@ -1,16 +1,26 @@
 {
   "name": "headerinjectban",
+  "displayName": "Header Inject Ban",
   "version": "0.1.0",
-  "description": "Fail CI on HTTP header injection / CRLF from unsanitized user input. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI on HTTP header injection / CRLF from unsanitized user input.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "headerinjectban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

@@ -1,16 +1,26 @@
 {
   "name": "hardiff",
+  "displayName": "HarDiff",
   "version": "0.1.0",
-  "description": "Compare HAR captures / triage slow or failing HTTP traffic. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Compare HAR captures / triage slow or failing HTTP traffic.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "developer-tools",
     "performance",
     "ci",
     "hardiff",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

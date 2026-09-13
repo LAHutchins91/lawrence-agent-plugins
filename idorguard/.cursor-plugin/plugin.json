@@ -1,16 +1,26 @@
 {
   "name": "idorguard",
+  "displayName": "IdorGuard",
   "version": "0.1.0",
-  "description": "Fail CI on IDOR footguns: findById/update/delete by params id without ownership. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI on IDOR footguns: findById/update/delete by params id without ownership.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "idorguard",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "lint"
+  ],
+  "logo": "assets/logo.svg"
 }

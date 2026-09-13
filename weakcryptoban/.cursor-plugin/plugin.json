@@ -1,15 +1,25 @@
 {
   "name": "weakcryptoban",
+  "displayName": "Weak Crypto Ban",
   "version": "0.1.0",
-  "description": "Fail CI on md5/sha1, Math.random tokens, createCipher. Free forever in Cursor.",
+  "description": "Fail CI on md5/sha1, Math.random tokens, createCipher.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "weakcryptoban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

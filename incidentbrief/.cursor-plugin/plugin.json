@@ -1,11 +1,14 @@
 {
   "name": "incidentbrief",
+  "displayName": "IncidentBrief",
   "version": "0.1.0",
-  "description": "Noisy logs \u2192 spike detection and error-shape triage for on-call. Free forever in Cursor.",
+  "description": "Noisy logs \u2192 spike detection, error shapes, owner handoff brief.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "incident",
     "on-call",
@@ -14,5 +17,12 @@
     "sre",
     "mcp",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

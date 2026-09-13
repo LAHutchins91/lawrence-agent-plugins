@@ -1,16 +1,26 @@
 {
   "name": "floatingpromise",
+  "displayName": "FloatingPromise",
   "version": "0.1.0",
-  "description": "Detect floating promises / missing await. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Detect floating promises / missing await.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "floatingpromise",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

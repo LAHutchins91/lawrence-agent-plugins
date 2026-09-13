@@ -1,16 +1,26 @@
 {
   "name": "npmauditcifailmissban",
+  "displayName": "Npm Audit Ci Fail Miss Ban",
   "version": "0.1.0",
-  "description": "Fail CI when package managers skip audit gates. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI when package-manager audit gates are skipped.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "npmauditcifailmissban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

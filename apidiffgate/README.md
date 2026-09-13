@@ -1,22 +1,27 @@
 # ApiDiffGate
 
-ApiDiffGate helps you review OpenAPI/Swagger diffs locally: removed endpoints, required-field additions, type shrinks, and auth changes. Get a clear local report without leaving your editor workflow.
+OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipping to production.
 
-This Cursor plugin is a **free forever funnel**. It does not gate features or collect payment. For CI fail-on-breaking, SARIF, baselines, ignore rules, and the GitHub Action, use **Lawrence Plugins Pro** outside Cursor.
+## What it catches
 
-## Pricing
+OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipping to production — surfaced as editor guidance so you can fix issues before they merge.
 
-- **Cursor Marketplace:** FREE forever (no paywalls in this plugin)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://apidiffgate.dev
+## Who it's for
 
-### CTA
+API and platform teams guarding contracts across PRs.
 
-- Get Pro — $19/mo → https://plugins.lawrence.dev/pro
+## Install
 
----
+Install **ApiDiffGate** from the Cursor marketplace, or open this folder as a local plugin.
 
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
+## Free forever
 
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

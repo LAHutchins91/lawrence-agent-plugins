@@ -1,16 +1,26 @@
 {
   "name": "htmlsanitizermissban",
+  "displayName": "Html Sanitizer Miss Ban",
   "version": "0.1.0",
-  "description": "Fail CI when user HTML is rendered without DOMPurify/sanitize-html. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI when user HTML is rendered without DOMPurify/sanitize-html.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "htmlsanitizermissban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

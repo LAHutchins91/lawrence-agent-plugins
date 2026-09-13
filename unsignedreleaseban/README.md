@@ -1,22 +1,27 @@
-# UnsignedReleaseBan
+# Unsigned Release Ban
 
-UnsignedReleaseBan looks for unsigned or unattested release paths: missing cosign/sigstore, attestations, Docker `--provenance`/`--sbom`, npm provenance, and checksum-less GitHub releases.
+Fail CI when releases lack signing/attestation.
 
-Plugin is **FREE forever**. CI exit 1, SARIF, and allowlist via **Lawrence Plugins Pro** at https://plugins.lawrence.dev/pro.
+## What it catches
 
-## Pricing
+Fail CI when releases lack signing/attestation — surfaced as editor guidance so you can fix issues before they merge.
 
-- **Cursor Marketplace:** FREE forever (no paywalls in this plugin)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://unsignedreleaseban.dev
+## Who it's for
 
-### CTA
+Security-minded teams who want issues caught in the editor before CI.
 
-- Get Pro — $19/mo → https://plugins.lawrence.dev/pro
+## Install
 
----
+Install **Unsigned Release Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
+## Free forever
 
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

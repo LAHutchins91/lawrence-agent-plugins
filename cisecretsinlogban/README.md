@@ -1,22 +1,27 @@
-# CiSecretsInLogBan
+# Ci Secrets In Log Ban
 
-CiSecretsInLogBan scans CI/CD configs for log-leak patterns: `echo $SECRET`, `printenv`, `set -x` with secrets, debug dumps, Authorization headers in curl logs, and missing `add-mask`.
+Fail CI when workflows leak secrets into logs.
 
-This plugin stays **FREE forever**. Multi-file CI exit 1, SARIF, and allowlist via **Lawrence Plugins Pro** — not inside Marketplace.
+## What it catches
 
-## Pricing
+Fail CI when workflows leak secrets into logs — surfaced as editor guidance so you can fix issues before they merge.
 
-- **Cursor Marketplace:** FREE forever (no paywalls in this plugin)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://cisecretsinlogban.dev
+## Who it's for
 
-### CTA
+Security-minded teams who want issues caught in the editor before CI.
 
-- Get Pro — $19/mo → https://plugins.lawrence.dev/pro
+## Install
 
----
+Install **Ci Secrets In Log Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
+## Free forever
 
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

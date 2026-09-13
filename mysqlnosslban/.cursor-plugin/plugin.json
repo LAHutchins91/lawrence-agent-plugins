@@ -1,16 +1,26 @@
 {
   "name": "mysqlnosslban",
+  "displayName": "My Sql No Ssl Ban",
   "version": "0.1.0",
-  "description": "Fail CI when MySQL/MariaDB connections disable TLS. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI when MySQL/MariaDB connections disable TLS.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "mysqlnosslban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

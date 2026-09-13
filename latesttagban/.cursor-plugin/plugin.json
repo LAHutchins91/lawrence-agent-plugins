@@ -1,16 +1,26 @@
 {
   "name": "latesttagban",
+  "displayName": "Latest Tag Ban",
   "version": "0.1.0",
-  "description": "Ban floating image tags (:latest) in Dockerfile, compose, k8s. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Ban floating image tags (:latest) in Dockerfile, compose, k8s.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "latesttagban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

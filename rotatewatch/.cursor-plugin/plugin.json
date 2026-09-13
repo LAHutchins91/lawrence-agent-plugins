@@ -1,16 +1,26 @@
 {
   "name": "rotatewatch",
+  "displayName": "RotateWatch",
   "version": "0.1.0",
-  "description": "Secret age / rotation reminder from a vault-export CSV or a `.env` mtime inventory. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Secret age / rotation reminder from a vault-export CSV or a `.env` mtime inventory.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "rotatewatch",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

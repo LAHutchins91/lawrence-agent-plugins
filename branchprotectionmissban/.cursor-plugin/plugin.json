@@ -1,11 +1,14 @@
 {
   "name": "branchprotectionmissban",
+  "displayName": "Branch Protection Miss Ban",
   "version": "0.1.0",
-  "description": "Spot weak branch-protection patterns in workflows and docs. Free forever in Cursor.",
+  "description": "Fail CI on weak branch protection patterns.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "branch-protection",
     "codeowners",
@@ -13,5 +16,12 @@
     "security",
     "mcp",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

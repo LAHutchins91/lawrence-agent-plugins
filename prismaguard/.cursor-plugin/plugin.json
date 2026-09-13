@@ -1,16 +1,26 @@
 {
   "name": "prismaguard",
+  "displayName": "PrismaGuard",
   "version": "0.1.0",
-  "description": "Lint Prisma schema & migrations for destructive DROP/delete risks \u2014 before they ship. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Lint Prisma schema & migrations for destructive DROP/delete risks \u2014 before they ship.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "prismaguard",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "lint"
+  ],
+  "logo": "assets/logo.svg"
 }

@@ -1,16 +1,26 @@
 {
   "name": "csrfguard",
+  "displayName": "CsrfGuard",
   "version": "0.1.0",
-  "description": "Fail CI on missing CSRF for session apps and SameSite=None cookies. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI on missing CSRF for session apps and SameSite=None cookies.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "csrfguard",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "lint"
+  ],
+  "logo": "assets/logo.svg"
 }

@@ -1,22 +1,27 @@
 # EnvDrift
 
-EnvDrift compares env contracts and flags high-confidence secret patterns in local files. Use it when staging and production configs diverge, or when a new key shows up without documentation.
+Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship.
 
-Marketplace install is **free forever** with no paywall. CI exit codes, SARIF, history depth, baselines, and team policy YAML are available via **Lawrence Plugins Pro** outside Cursor.
+## What it catches
 
-## Pricing
+Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship — surfaced as editor guidance so you can fix issues before they merge.
 
-- **Cursor Marketplace:** FREE forever (no paywalls in this plugin)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://envdrift.dev
+## Who it's for
 
-### CTA
+Security-minded teams who want issues caught in the editor before CI.
 
-- Get Pro — $19/mo → https://plugins.lawrence.dev/pro
+## Install
 
----
+Install **EnvDrift** from the Cursor marketplace, or open this folder as a local plugin.
 
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
+## Free forever
 
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

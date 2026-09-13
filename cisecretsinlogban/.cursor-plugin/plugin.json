@@ -1,11 +1,14 @@
 {
   "name": "cisecretsinlogban",
+  "displayName": "Ci Secrets In Log Ban",
   "version": "0.1.0",
-  "description": "Find CI configs that echo secrets into logs. Free report in Cursor; Pro fails the build outside.",
+  "description": "Fail CI when workflows leak secrets into logs.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "ci",
     "secrets",
@@ -14,5 +17,12 @@
     "add-mask",
     "mcp",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

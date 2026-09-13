@@ -1,16 +1,26 @@
 {
   "name": "dockguard",
+  "displayName": "DockGuard",
   "version": "0.1.0",
-  "description": "Dockerfile lint for secrets, root user, unpinned tags, and large layers. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Dockerfile lint for secrets, root user, unpinned tags, and large layers.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "dockguard",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "lint"
+  ],
+  "logo": "assets/logo.svg"
 }

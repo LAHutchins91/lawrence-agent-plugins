@@ -1,16 +1,26 @@
 {
   "name": "digestpin",
+  "displayName": "DigestPin",
   "version": "0.1.0",
-  "description": "Require digest-pinned container images in compose/k8s YAML \u2014 catch `:latest`, floating tags, and untagged images before they drift. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Require digest-pinned container images in compose/k8s YAML \u2014 catch `:latest`, floating tags, and untagged images before they drift.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "digestpin",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

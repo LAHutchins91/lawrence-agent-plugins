@@ -1,16 +1,26 @@
 {
   "name": "corscredentialsstarban",
+  "displayName": "Cors Credentials Star Ban",
   "version": "0.1.0",
-  "description": "Ban ACAO * / reflect-origin with credentials:true. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Ban ACAO * / reflect-origin with credentials:true.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "corscredentialsstarban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

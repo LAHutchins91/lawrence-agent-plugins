@@ -1,12 +1,27 @@
-# PublicEnv (`publicenv`) (Cursor plugin) — FREE forever
+# PublicEnv
 
 Flag `NEXT_PUBLIC_` / `VITE_` secrets that look private — scan `.env*` for public-prefix keys whose names (or value shapes) scream secret.
 
+## What it catches
+
+Flag `NEXT_PUBLIC_` / `VITE_` secrets that look private — scan `.env*` for public-prefix keys whose names (or value shapes) scream secret — surfaced as editor guidance so you can fix issues before they merge.
+
+## Who it's for
+
+Security-minded teams who want issues caught in the editor before CI.
+
 ## Install
-Install from Cursor marketplace / this repo. Plugin stays **free forever**.
 
-## Upgrade for CI fail
-Pro available · https://plugins.lawrence.dev/pro
+Install **PublicEnv** from the Cursor marketplace, or open this folder as a local plugin.
 
-## What it does
-Runs `publicenv` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).
+## Free forever
+
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

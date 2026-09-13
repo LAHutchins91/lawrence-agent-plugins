@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Open Redirect Ban">
+  <rect width="128" height="128" rx="24" fill="#301547"/>
+  <rect x="10" y="10" width="108" height="108" rx="20" fill="none" stroke="#492e60" stroke-width="2" opacity="0.7"/>
+  <text x="64" y="76" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="36" font-weight="700" fill="#f5f3f6">ORB</text>
+  <path d="M96 18l12 20H84z" fill="#df3a81" opacity="0.95"/>
+</svg>

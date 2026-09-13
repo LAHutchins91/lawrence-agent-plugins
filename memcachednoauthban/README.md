@@ -1,12 +1,27 @@
-# MemcachedNoAuthBan (Cursor plugin) — FREE forever
+# Memcached No Auth Ban
 
-Fail CI when Memcached clients connect without SASL/auth to non-localhost
+Fail CI when Memcached clients connect without SASL to non-localhost.
+
+## What it catches
+
+Fail CI when Memcached clients connect without SASL to non-localhost — surfaced as editor guidance so you can fix issues before they merge.
+
+## Who it's for
+
+Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
-Install from Cursor marketplace / this repo. Plugin stays **free forever**.
 
-## Upgrade for CI fail
-Pro available · https://plugins.lawrence.dev/pro
+Install **Memcached No Auth Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
-## What it does
-Runs `memcachednoauthban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).
+## Free forever
+
+This Cursor plugin stays **free forever**. No paywall in the plugin.
+
+Want the full multi-file CI gate, SARIF, and team workflows? That’s **Pro** (outside Cursor):
+
+→ https://plugins.lawrence.dev/pro
+
+## License
+
+MIT — see `LICENSE`.

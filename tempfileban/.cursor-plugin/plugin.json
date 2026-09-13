@@ -1,15 +1,25 @@
 {
   "name": "tempfileban",
+  "displayName": "Temp File Ban",
   "version": "0.1.0",
-  "description": "Fail CI on insecure /tmp writes, predictable tmpdir names, mktemp without XXXXXX. Free forever in Cursor.",
+  "description": "Fail CI on insecure /tmp writes, predictable tmpdir names, mktemp without XXXXXX.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "tempfileban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

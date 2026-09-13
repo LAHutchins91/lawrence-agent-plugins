@@ -1,16 +1,26 @@
 {
   "name": "blametrail",
+  "displayName": "BlameTrail",
   "version": "0.1.0",
-  "description": "Git archaeology brief \u2014 who touched a path, churn, hot files. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Git archaeology brief \u2014 who touched a path, churn, hot files.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "blametrail",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

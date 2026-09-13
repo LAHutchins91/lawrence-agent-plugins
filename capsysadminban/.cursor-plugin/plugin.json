@@ -1,16 +1,26 @@
 {
   "name": "capsysadminban",
+  "displayName": "Cap Sys Admin Ban",
   "version": "0.1.0",
-  "description": "Fail CI when containers add SYS_ADMIN/NET_ADMIN/ALL. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Fail CI when containers add SYS_ADMIN/NET_ADMIN/ALL.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "capsysadminban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }

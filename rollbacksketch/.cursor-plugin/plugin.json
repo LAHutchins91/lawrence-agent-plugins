@@ -1,16 +1,26 @@
 {
   "name": "rollbacksketch",
+  "displayName": "RollbackSketch",
   "version": "0.1.0",
-  "description": "Best-effort rollback sketches for SQL migrations \u2014 confidence labels, risk notes, and heavy warnings when a DROP cannot be reversed. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Best-effort rollback sketches for SQL migrations \u2014 confidence labels, risk notes, and heavy warnings when a DROP cannot be reversed.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "sast",
     "rollbacksketch",
     "free"
-  ]
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "free",
+    "cursor",
+    "devtools"
+  ],
+  "logo": "assets/logo.svg"
 }

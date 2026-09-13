@@ -1,15 +1,25 @@
 {
   "name": "deepequalban",
+  "displayName": "Deep Equal Ban",
   "version": "0.1.0",
-  "description": "Fail CI when lodash.isEqual / deep-equal / JSON.stringify compare patterns appear in hot paths or exceed count. Free forever in Cursor.",
+  "description": "Fail CI when lodash.isEqual / deep-equal / JSON.stringify compare patterns appear in hot paths or exceed count.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
+  "homepage": "https://plugins.lawrence.dev/pro",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "deepequalban",
     "free"
-  ]
+  ],
+  "category": "security",
+  "tags": [
+    "free",
+    "cursor",
+    "security-ban"
+  ],
+  "logo": "assets/logo.svg"
 }
