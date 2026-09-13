@@ -1,0 +1,15 @@
+{
+  "name": "grype-lab",
+  "displayName": "Grype Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Grype config/ignore heuristics — scan listings, ignore/severity hints, and lite lint — pasted source only, never runs grype CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "grype", "container", "security", "vulnerability", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "grype", "security", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

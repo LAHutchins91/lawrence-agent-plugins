@@ -2287,6 +2287,19 @@
         "deploy",
         "devtools"
       ]
+    },
+    {
+      "name": "grype-lab",
+      "source": "grype-lab",
+      "description": "Grype scans/ignores/severity parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "grype",
+        "security",
+        "vulnerabilities",
+        "devtools"
+      ]
     }
   ]
 }
