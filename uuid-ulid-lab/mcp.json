@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uuid-ulid-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}
