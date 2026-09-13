@@ -1,0 +1,15 @@
+{
+  "name": "maestro-lab",
+  "displayName": "Maestro Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Maestro YAML flow text — flows list, command frequency, selectors, and lite lint — no Maestro/device runtime or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "maestro", "yaml", "flows", "selectors", "commands", "mobile", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "maestro", "yaml", "flows", "selectors", "commands", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

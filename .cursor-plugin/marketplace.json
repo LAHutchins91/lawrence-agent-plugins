@@ -1786,6 +1786,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "maestro-lab",
+      "source": "maestro-lab",
+      "description": "Maestro YAML flows/commands/selectors parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "maestro",
+        "mobile",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }
