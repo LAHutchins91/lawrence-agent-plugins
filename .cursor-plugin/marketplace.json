@@ -452,6 +452,18 @@
         "text",
         "devtools"
       ]
+    },
+    {
+      "name": "bytes-size-lab",
+      "source": "bytes-size-lab",
+      "description": "Parse/format byte sizes, compare, unit convert (KiB/MiB/\u2026) \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "bytes",
+        "filesize",
+        "devtools"
+      ]
     }
   ]
 }

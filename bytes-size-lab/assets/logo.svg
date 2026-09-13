@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="bytes-size-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="28" y="36" width="72" height="56" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+  <text x="64" y="72" text-anchor="middle" font-family="ui-monospace, monospace" font-size="20" font-weight="700" fill="#22c55e">1GiB</text>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="700" fill="#94a3b8">bytes-size</text>
+</svg>
