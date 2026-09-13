@@ -1307,6 +1307,19 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "prisma-schema-lab",
+      "source": "prisma-schema-lab",
+      "description": "schema.prisma models/datasources/relations parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "prisma",
+        "schema",
+        "orm",
+        "devtools"
+      ]
     }
   ]
 }
