@@ -1656,6 +1656,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "vitest-mock-lab",
+      "source": "vitest-mock-lab",
+      "description": "Vitest vi.mock mocks/spies/hoist parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "vitest",
+        "mock",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }
