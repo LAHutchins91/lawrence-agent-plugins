@@ -2376,6 +2376,11 @@
       "name": "gatekeeper-lab",
       "source": "gatekeeper-lab",
       "description": "OPA Gatekeeper constraints/templates/violations heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "eslint-lab",
+      "source": "eslint-lab",
+      "description": "ESLint rules/extends/overrides heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }

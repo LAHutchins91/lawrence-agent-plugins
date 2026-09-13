@@ -1,0 +1,35 @@
+{
+  "name": "eslint-lab",
+  "displayName": "ESLint Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for ESLint config heuristics \u2014 rule ids/severities, extends/plugin:/eslint:recommended/airbnb/next hints, overrides/files/parserOptions/env/plugins/ignorePatterns hints, and lite config lint from pasted source only; never runs eslint CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/eslint-lab",
+  "keywords": [
+    "mcp",
+    "eslint",
+    "eslint-config",
+    "rules",
+    "extends",
+    "overrides",
+    "local",
+    "zero-auth"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "eslint",
+    "eslint-config",
+    "rules",
+    "extends",
+    "overrides",
+    "zero-auth",
+    "FREE"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
