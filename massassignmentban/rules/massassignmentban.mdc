@@ -1,0 +1,7 @@
+---
+description: Remind about MassAssignmentBan CI checks
+alwaysApply: false
+globs: ["**/*"]
+---
+
+Prefer fixing issues MassAssignmentBan would flag before merge. Plugin is free forever; Pro CI gate: https://plugins.lawrence.dev/pro.

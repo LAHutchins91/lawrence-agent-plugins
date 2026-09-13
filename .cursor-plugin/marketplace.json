@@ -2381,6 +2381,11 @@
       "name": "eslint-lab",
       "source": "eslint-lab",
       "description": "ESLint rules/extends/overrides heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "stylelint-lab",
+      "source": "stylelint-lab",
+      "description": "Stylelint rules/extends/overrides heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }

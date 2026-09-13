@@ -1,0 +1,35 @@
+{
+  "name": "stylelint-lab",
+  "displayName": "Stylelint Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Stylelint config heuristics \u2014 rule ids/severities, extends/stylelint-config-/standard/prettier/recommended hints, overrides/files/customSyntax/plugins/ignoreFiles/defaultSeverity hints, and lite config lint from pasted source only; never runs stylelint CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/stylelint-lab",
+  "keywords": [
+    "mcp",
+    "stylelint",
+    "stylelint-config",
+    "rules",
+    "extends",
+    "overrides",
+    "local",
+    "zero-auth"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "stylelint",
+    "stylelint-config",
+    "rules",
+    "extends",
+    "overrides",
+    "zero-auth",
+    "FREE"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
