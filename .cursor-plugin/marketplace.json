@@ -1955,6 +1955,19 @@
         "http",
         "devtools"
       ]
+    },
+    {
+      "name": "bombardier-lab",
+      "source": "bombardier-lab",
+      "description": "bombardier targets/options/latency parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "bombardier",
+        "load-testing",
+        "http",
+        "devtools"
+      ]
     }
   ]
 }

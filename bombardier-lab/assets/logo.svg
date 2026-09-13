@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="bombardier-lab">
+  <rect width="128" height="128" rx="24" fill="#7c2d12"/>
+  <path d="M28 74 L40 42 L52 66 L64 34 L76 66 L88 42 L100 74" fill="none" stroke="#fb923c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="96" cy="36" r="8" fill="#fdba74"/>
+  <path d="M92 30 L88 22 M100 30 L106 22 M96 28 L96 18" stroke="#fed7aa" stroke-width="2" stroke-linecap="round"/>
+  <rect x="30" y="80" width="68" height="10" rx="3" fill="#9a3412"/>
+  <rect x="36" y="82" width="20" height="6" rx="2" fill="#fdba74"/>
+  <rect x="60" y="82" width="12" height="6" rx="2" fill="#fed7aa"/>
+  <rect x="76" y="82" width="16" height="6" rx="2" fill="#ffedd5"/>
+  <text x="64" y="112" text-anchor="middle" font-family="ui-monospace, monospace" font-size="6" font-weight="700" fill="#fdba74">bombardier-lab</text>
+</svg>
