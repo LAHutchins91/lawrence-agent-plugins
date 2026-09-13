@@ -2300,6 +2300,32 @@
         "vulnerabilities",
         "devtools"
       ]
+    },
+    {
+      "name": "terraform-lab",
+      "source": "terraform-lab",
+      "description": "Terraform HCL blocks/providers/modules heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "terraform",
+        "hcl",
+        "iac",
+        "devtools"
+      ]
+    },
+    {
+      "name": "syft-lab",
+      "source": "syft-lab",
+      "description": "Syft SBOM scans/formats/scope heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "syft",
+        "sbom",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
