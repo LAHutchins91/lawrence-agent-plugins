@@ -1398,6 +1398,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "yup-schema-lab",
+      "source": "yup-schema-lab",
+      "description": "Yup schemas/fields/tests parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "yup",
+        "validation",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }

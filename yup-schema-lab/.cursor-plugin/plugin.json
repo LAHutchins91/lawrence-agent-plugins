@@ -1,0 +1,15 @@
+{
+  "name": "yup-schema-lab",
+  "displayName": "Yup Schema Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Yup schema JS/TS heuristics — schemas list, field hints, test-method counts, and lite lint — pasted source only, no Yup runtime validate, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "yup", "schema", "validation", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "yup", "schema", "validation", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
