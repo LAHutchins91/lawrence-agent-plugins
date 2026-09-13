@@ -1062,6 +1062,18 @@
         "transpiler",
         "devtools"
       ]
+    },
+    {
+      "name": "tailwind-config-lab",
+      "source": "tailwind-config-lab",
+      "description": "Tailwind content/theme/plugins parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "tailwind",
+        "css",
+        "devtools"
+      ]
     }
   ]
 }

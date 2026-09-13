@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-config-lab",
+  "displayName": "Tailwind Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for tailwind.config.* text — content globs, theme.extend keys, plugins list, and lite lint — pasted config only, no Tailwind binary, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "tailwind", "tailwindcss", "tailwind-config", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "tailwind", "tailwindcss", "tailwind-config", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
