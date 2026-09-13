@@ -1146,6 +1146,18 @@
         "react",
         "devtools"
       ]
+    },
+    {
+      "name": "expo-config-lab",
+      "source": "expo-config-lab",
+      "description": "Expo app.json slug/plugins/schemes parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "expo",
+        "react-native",
+        "devtools"
+      ]
     }
   ]
 }

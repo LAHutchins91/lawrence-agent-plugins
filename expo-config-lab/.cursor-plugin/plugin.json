@@ -1,0 +1,15 @@
+{
+  "name": "expo-config-lab",
+  "displayName": "Expo Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Expo app.json / app.config text — slug/name, plugins, schemes/bundle ids, and lite lint — no expo binary or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "expo", "app.json", "app.config", "react-native", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "expo", "app.json", "app.config", "react-native", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
