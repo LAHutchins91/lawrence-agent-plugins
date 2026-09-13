@@ -2261,6 +2261,19 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "trivy-lab",
+      "source": "trivy-lab",
+      "description": "Trivy scans/ignores/severity parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "trivy",
+        "security",
+        "container",
+        "devtools"
+      ]
     }
   ]
 }

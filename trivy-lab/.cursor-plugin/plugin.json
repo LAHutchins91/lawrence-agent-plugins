@@ -1,0 +1,15 @@
+{
+  "name": "trivy-lab",
+  "displayName": "Trivy Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Trivy config/ignore heuristics — scan listings, ignore/severity hints, and lite lint — pasted source only, never runs trivy CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "trivy", "container", "security", "vulnerability", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "trivy", "security", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
