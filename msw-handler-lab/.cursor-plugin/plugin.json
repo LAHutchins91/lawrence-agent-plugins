@@ -1,0 +1,15 @@
+{
+  "name": "msw-handler-lab",
+  "displayName": "MSW Handler Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for MSW handler JS/TS text — handlers, methods, fixtures, and lite lint — no msw runtime or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "msw", "mock-service-worker", "handlers", "typescript", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "msw", "mock-service-worker", "handlers", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

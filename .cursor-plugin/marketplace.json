@@ -1578,6 +1578,19 @@
         "validation",
         "devtools"
       ]
+    },
+    {
+      "name": "msw-handler-lab",
+      "source": "msw-handler-lab",
+      "description": "MSW handlers/methods/fixtures parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "msw",
+        "mocking",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }
