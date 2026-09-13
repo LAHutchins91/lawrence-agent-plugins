@@ -1968,6 +1968,19 @@
         "http",
         "devtools"
       ]
+    },
+    {
+      "name": "ab-lab",
+      "source": "ab-lab",
+      "description": "ApacheBench targets/options/concurrency parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ab",
+        "apachebench",
+        "load-testing",
+        "devtools"
+      ]
     }
   ]
 }
