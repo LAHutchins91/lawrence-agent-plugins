@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="railway-json-lab">
+  <rect width="128" height="128" rx="24" fill="#0b1220"/>
+  <rect x="24" y="36" width="80" height="48" rx="10" fill="#111827"/>
+  <path d="M36 60h56M44 48v24M84 48v24" stroke="#a78bfa" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="64" cy="60" r="8" fill="#c4b5fd"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="6" font-weight="700" fill="#94a3b8">railway-json-lab</text>
+</svg>

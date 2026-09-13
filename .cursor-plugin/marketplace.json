@@ -1257,6 +1257,18 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "railway-json-lab",
+      "source": "railway-json-lab",
+      "description": "railway.json/toml services/env/deploy parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "railway",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
