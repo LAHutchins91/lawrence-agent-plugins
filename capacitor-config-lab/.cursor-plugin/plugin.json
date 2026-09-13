@@ -1,0 +1,15 @@
+{
+  "name": "capacitor-config-lab",
+  "displayName": "Capacitor Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for capacitor.config text — appId/appName/webDir, plugins, server/schemes, and lite lint — no capacitor binary or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "capacitor", "capacitor.config", "ionic", "appId", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "capacitor", "capacitor.config", "ionic", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

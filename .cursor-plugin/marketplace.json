@@ -1170,6 +1170,18 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "capacitor-config-lab",
+      "source": "capacitor-config-lab",
+      "description": "Capacitor appId/plugins/server URL parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "capacitor",
+        "mobile",
+        "devtools"
+      ]
     }
   ]
 }
