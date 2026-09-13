@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "k6-script-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

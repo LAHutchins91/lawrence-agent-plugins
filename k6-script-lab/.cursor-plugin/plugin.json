@@ -1,0 +1,15 @@
+{
+  "name": "k6-script-lab",
+  "displayName": "k6 Script Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for k6 script heuristics — scenario/executor definitions, check/group/http counts, thresholds, and lite lint — pasted source only, never runs k6 or load tests, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "k6", "load-testing", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "k6", "load-testing", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

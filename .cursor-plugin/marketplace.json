@@ -1838,6 +1838,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "k6-script-lab",
+      "source": "k6-script-lab",
+      "description": "k6 scenarios/checks/thresholds parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "k6",
+        "load-testing",
+        "performance",
+        "devtools"
+      ]
     }
   ]
 }
