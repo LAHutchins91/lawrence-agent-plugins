@@ -1,0 +1,15 @@
+{
+  "name": "vercel-json-lab",
+  "displayName": "Vercel JSON Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for vercel.json text — rewrites, redirects, headers, and lite lint — no vercel CLI or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "vercel", "vercel.json", "rewrites", "redirects", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "vercel", "vercel.json", "rewrites", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

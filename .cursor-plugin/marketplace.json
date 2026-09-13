@@ -1194,6 +1194,18 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "vercel-json-lab",
+      "source": "vercel-json-lab",
+      "description": "vercel.json rewrites/redirects/headers parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "vercel",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
