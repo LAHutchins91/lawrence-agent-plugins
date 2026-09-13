@@ -2495,6 +2495,19 @@
         "lint",
         "devtools"
       ]
+    },
+    {
+      "name": "kubeconform-lab",
+      "source": "kubeconform-lab",
+      "description": "kubeconform schemas/strict/skip heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "kubeconform",
+        "kubernetes",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }
