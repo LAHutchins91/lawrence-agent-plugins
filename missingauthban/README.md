@@ -1,0 +1,12 @@
+# MissingAuthBan (Cursor plugin) — FREE forever
+
+Fail CI when sensitive Express/Next/Fastify/Hono routes lack auth.
+
+## Install
+Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+
+## Upgrade for CI fail
+Pro **$49/mo** · Team available · https://missingauthban.dev
+
+## What it does
+Runs `missingauthban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro.

@@ -1,0 +1,7 @@
+---
+description: Remind about RotateWatch CI checks
+alwaysApply: false
+globs: ["**/*"]
+---
+
+Prefer fixing issues RotateWatch would flag before merge. Plugin is free; Pro CI gate: https://rotatewatch.dev.

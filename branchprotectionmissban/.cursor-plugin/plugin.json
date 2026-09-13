@@ -1,0 +1,16 @@
+{
+  "name": "branchprotectionmissban",
+  "version": "0.1.0",
+  "description": "Fail CI on weak branch protection patterns. Free Cursor plugin funnel. Pro $39/mo at https://branchprotectionmissban.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "branchprotectionmissban",
+    "free"
+  ]
+}

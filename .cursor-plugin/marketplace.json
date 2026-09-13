@@ -2201,6 +2201,198 @@
         "devops",
         "devtools"
       ]
+    },
+    {
+      "name": "apidiffgate",
+      "source": "apidiffgate",
+      "description": "OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipping to production \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "envdrift",
+      "source": "envdrift",
+      "description": "Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "incidentbrief",
+      "source": "incidentbrief",
+      "description": "Noisy logs \u2192 spike detection, error shapes, owner handoff brief \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "gitsecrethistoryban",
+      "source": "gitsecrethistoryban",
+      "description": "Fail CI when secrets appear in working-tree files \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "terraformstatesecretsban",
+      "source": "terraformstatesecretsban",
+      "description": "Fail CI when Terraform risks secret leakage in state \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "adminrouteban",
+      "source": "adminrouteban",
+      "description": "Fail CI when /admin routes lack requireAdmin / isAdmin / role checks \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "hardcodedapikeyban",
+      "source": "hardcodedapikeyban",
+      "description": "Fail CI on hardcoded API keys in string literals (sk_, AKIA, ghp_, xoxb_, JWT) \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "missingauthban",
+      "source": "missingauthban",
+      "description": "Fail CI when sensitive Express/Next/Fastify/Hono routes lack auth \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "errorbudget",
+      "source": "errorbudget",
+      "description": "Error-rate / error-budget brief for a time window from CSV/JSON metrics \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "prismaguard",
+      "source": "prismaguard",
+      "description": "Lint Prisma schema & migrations for destructive DROP/delete risks \u2014 before they ship \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "rotatewatch",
+      "source": "rotatewatch",
+      "description": "Secret age / rotation reminder from a vault-export CSV or a `.env` mtime inventory \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "sbomdiff",
+      "source": "sbomdiff",
+      "description": "Compare two CycloneDX or SPDX JSON SBOMs. See added, removed, and upgraded packages. Paste the markdown report into a PR \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "sqlmigrationguard",
+      "source": "sqlmigrationguard",
+      "description": "Review SQL migrations for destructive ops, lock hazards, and unsafe ordering \u2014 before they ship \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "ansiblevaultmissban",
+      "source": "ansiblevaultmissban",
+      "description": "Fail CI when Ansible secrets aren't vaulted \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "branchprotectionmissban",
+      "source": "branchprotectionmissban",
+      "description": "Fail CI on weak branch protection patterns \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
+    },
+    {
+      "name": "cisecretsinlogban",
+      "source": "cisecretsinlogban",
+      "description": "Fail CI when workflows leak secrets into logs \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "security",
+        "devtools",
+        "free"
+      ]
     }
   ]
 }

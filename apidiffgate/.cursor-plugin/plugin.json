@@ -1,0 +1,16 @@
+{
+  "name": "apidiffgate",
+  "version": "0.1.0",
+  "description": "OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipping to production. Free Cursor plugin funnel. Pro $59/mo at https://apidiffgate.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "apidiffgate",
+    "free"
+  ]
+}

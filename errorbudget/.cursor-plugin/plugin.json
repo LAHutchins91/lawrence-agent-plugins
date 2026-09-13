@@ -1,0 +1,16 @@
+{
+  "name": "errorbudget",
+  "version": "0.1.0",
+  "description": "Error-rate / error-budget brief for a time window from CSV/JSON metrics. Free Cursor plugin funnel. Pro $49/mo at https://errorbudget.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "errorbudget",
+    "free"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "hardcodedapikeyban",
+  "version": "0.1.0",
+  "description": "Fail CI on hardcoded API keys in string literals (sk_, AKIA, ghp_, xoxb_, JWT). Free Cursor plugin funnel. Pro $49/mo at https://hardcodedapikeyban.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "hardcodedapikeyban",
+    "free"
+  ]
+}

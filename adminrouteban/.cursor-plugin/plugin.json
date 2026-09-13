@@ -1,0 +1,16 @@
+{
+  "name": "adminrouteban",
+  "version": "0.1.0",
+  "description": "Fail CI when /admin routes lack requireAdmin / isAdmin / role checks. Free Cursor plugin funnel. Pro $49/mo at https://adminrouteban.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "adminrouteban",
+    "free"
+  ]
+}

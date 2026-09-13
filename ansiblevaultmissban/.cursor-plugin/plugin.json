@@ -1,0 +1,16 @@
+{
+  "name": "ansiblevaultmissban",
+  "version": "0.1.0",
+  "description": "Fail CI when Ansible secrets aren't vaulted. Free Cursor plugin funnel. Pro $39/mo at https://ansiblevaultmissban.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "ansiblevaultmissban",
+    "free"
+  ]
+}

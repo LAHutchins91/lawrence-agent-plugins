@@ -1,0 +1,16 @@
+{
+  "name": "missingauthban",
+  "version": "0.1.0",
+  "description": "Fail CI when sensitive Express/Next/Fastify/Hono routes lack auth. Free Cursor plugin funnel. Pro $49/mo at https://missingauthban.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "missingauthban",
+    "free"
+  ]
+}

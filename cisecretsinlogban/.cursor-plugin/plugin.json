@@ -1,0 +1,16 @@
+{
+  "name": "cisecretsinlogban",
+  "version": "0.1.0",
+  "description": "Fail CI when workflows leak secrets into logs. Free Cursor plugin funnel. Pro $39/mo at https://cisecretsinlogban.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "cisecretsinlogban",
+    "free"
+  ]
+}
