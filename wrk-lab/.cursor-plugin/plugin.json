@@ -1,0 +1,15 @@
+{
+  "name": "wrk-lab",
+  "displayName": "Wrk Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for wrk / wrk2 Lua script + CLI text — hooks, wrk.* APIs, CLI options, and lite lint — no wrk runtime or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "wrk", "wrk2", "lua", "load-test", "benchmark", "cli", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "wrk", "wrk2", "lua", "load-test", "benchmark", "cli", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

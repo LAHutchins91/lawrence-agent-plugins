@@ -1,0 +1,42 @@
+{
+  "name": "wrk-lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for wrk / wrk2 Lua script + CLI text — hooks, wrk.* APIs, CLI options, and lite lint — no wrk runtime or network",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "wrk-lab": "dist/bundle.js"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node dist/bundle.js",
+    "dev": "npx tsx src/index.ts",
+    "test": "node scripts/smoke.mjs",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "wrk",
+    "wrk2",
+    "lua",
+    "load-test",
+    "benchmark",
+    "developer-tools",
+    "cursor"
+  ],
+  "author": "Lawrence Hutchins",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "esbuild": "^0.28.2",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}

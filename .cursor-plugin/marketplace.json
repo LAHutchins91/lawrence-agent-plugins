@@ -1929,6 +1929,19 @@
         "performance",
         "devtools"
       ]
+    },
+    {
+      "name": "wrk-lab",
+      "source": "wrk-lab",
+      "description": "wrk/wrk2 scripts/lua/options parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "wrk",
+        "load-testing",
+        "performance",
+        "devtools"
+      ]
     }
   ]
 }
