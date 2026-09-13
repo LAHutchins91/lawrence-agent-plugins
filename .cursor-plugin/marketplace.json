@@ -1206,6 +1206,18 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "netlify-toml-lab",
+      "source": "netlify-toml-lab",
+      "description": "netlify.toml redirects/headers/build parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "netlify",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }

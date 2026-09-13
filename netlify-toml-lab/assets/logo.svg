@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Netlify TOML Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0B1F1A"/>
+  <path d="M128 48 L196 88 L196 168 L128 208 L60 168 L60 88 Z" fill="none" stroke="#32E6B0" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M128 78 L172 104 L172 156 L128 182 L84 156 L84 104 Z" fill="#32E6B0" opacity="0.85"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#D1FAE5">NETLIFY TOML</text>
+</svg>
