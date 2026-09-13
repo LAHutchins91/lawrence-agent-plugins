@@ -2032,6 +2032,19 @@
         "grpc",
         "devtools"
       ]
+    },
+    {
+      "name": "buf-lab",
+      "source": "buf-lab",
+      "description": "buf.yaml modules/deps/lint config parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "buf",
+        "protobuf",
+        "grpc",
+        "devtools"
+      ]
     }
   ]
 }
