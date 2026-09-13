@@ -1708,6 +1708,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "cypress-commands-lab",
+      "source": "cypress-commands-lab",
+      "description": "Cypress custom commands/aliases/intercepts parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cypress",
+        "e2e",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }

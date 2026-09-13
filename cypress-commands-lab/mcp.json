@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cypress-commands-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

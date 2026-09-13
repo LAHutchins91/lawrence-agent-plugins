@@ -1,0 +1,15 @@
+{
+  "name": "cypress-commands-lab",
+  "displayName": "Cypress Commands Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Cypress support/commands JS/TS text — custom commands, aliases, intercepts, and lite lint — no Cypress/browser runtime or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "cypress", "custom-commands", "aliases", "intercept", "typescript", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "cypress", "commands", "aliases", "intercept", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

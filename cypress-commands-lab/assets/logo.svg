@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="cypress-commands-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <circle cx="64" cy="52" r="28" fill="none" stroke="#22d3ee" stroke-width="5"/>
+  <path d="M48 52 h32 M64 36 v32" stroke="#67e8f9" stroke-width="4" stroke-linecap="round"/>
+  <rect x="38" y="84" width="52" height="14" rx="4" fill="#0891b2"/>
+  <text x="64" y="95" text-anchor="middle" font-family="ui-monospace, monospace" font-size="7" font-weight="700" fill="#ecfeff">cy.cmd</text>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="5.5" font-weight="700" fill="#94a3b8">cypress-commands-lab</text>
+</svg>
