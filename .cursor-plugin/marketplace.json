@@ -1502,6 +1502,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "arktype-lab",
+      "source": "arktype-lab",
+      "description": "ArkType types/props/narrow parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "arktype",
+        "validation",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }
