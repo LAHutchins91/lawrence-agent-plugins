@@ -1721,6 +1721,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "playwright-pom-lab",
+      "source": "playwright-pom-lab",
+      "description": "Playwright POM pages/locators/fixtures parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "playwright",
+        "pom",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }

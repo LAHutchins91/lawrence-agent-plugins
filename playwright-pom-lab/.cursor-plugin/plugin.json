@@ -1,0 +1,15 @@
+{
+  "name": "playwright-pom-lab",
+  "displayName": "Playwright POM Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Playwright POM JS/TS heuristics — page listings, locator counts, fixture counts, and lite lint — pasted source only, never runs Playwright or a browser, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "playwright", "pom", "page-object", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "playwright", "pom", "page-object", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
