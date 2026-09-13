@@ -1,0 +1,13 @@
+---
+description: Ban privileged containers and dangerous securityContext flags.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# privilegedcontainerban
+
+When reviewing code or CI for this project, apply privilegedcontainerban checks:
+
+Ban privileged containers and dangerous securityContext flags.
+
+Report findings with file paths and concrete remediation. Do not invent findings.

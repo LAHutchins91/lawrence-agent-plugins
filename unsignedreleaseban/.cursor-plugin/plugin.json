@@ -1,0 +1,16 @@
+{
+  "name": "unsignedreleaseban",
+  "version": "0.1.0",
+  "description": "Flag unsigned release artifacts and missing sigstore/cosign evidence in CI. Free Cursor plugin funnel. Pro outside marketplace.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "unsignedreleaseban",
+    "free"
+  ]
+}

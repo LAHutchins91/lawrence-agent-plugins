@@ -1,0 +1,13 @@
+---
+description: Ban hostPath volume mounts in Kubernetes manifests.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# hostpathmountban
+
+When reviewing code or CI for this project, apply hostpathmountban checks:
+
+Ban hostPath volume mounts in Kubernetes manifests.
+
+Report findings with file paths and concrete remediation. Do not invent findings.

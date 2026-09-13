@@ -1,0 +1,13 @@
+---
+description: Flag releases missing SLSA provenance attestations.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# provenancemissban
+
+When reviewing code or CI for this project, apply provenancemissban checks:
+
+Flag releases missing SLSA provenance attestations.
+
+Report findings with file paths and concrete remediation. Do not invent findings.

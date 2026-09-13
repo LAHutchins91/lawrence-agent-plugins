@@ -1,0 +1,13 @@
+---
+description: Heuristics to flag SSRF-prone server-side fetch patterns.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# ssrffetchban
+
+When reviewing code or CI for this project, apply ssrffetchban checks:
+
+Heuristics to flag SSRF-prone server-side fetch patterns.
+
+Report findings with file paths and concrete remediation. Do not invent findings.

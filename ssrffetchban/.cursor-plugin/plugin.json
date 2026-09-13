@@ -1,0 +1,16 @@
+{
+  "name": "ssrffetchban",
+  "version": "0.1.0",
+  "description": "Heuristics to flag SSRF-prone server-side fetch patterns. Free Cursor plugin funnel. Pro outside marketplace.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "ssrffetchban",
+    "free"
+  ]
+}

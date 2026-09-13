@@ -1,0 +1,13 @@
+---
+description: Flag unsigned release artifacts and missing sigstore/cosign evidence in CI.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# unsignedreleaseban
+
+When reviewing code or CI for this project, apply unsignedreleaseban checks:
+
+Flag unsigned release artifacts and missing sigstore/cosign evidence in CI.
+
+Report findings with file paths and concrete remediation. Do not invent findings.

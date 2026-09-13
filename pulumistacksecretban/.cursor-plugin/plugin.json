@@ -1,0 +1,16 @@
+{
+  "name": "pulumistacksecretban",
+  "version": "0.1.0",
+  "description": "Flag Pulumi stack configs that may leak secrets in plaintext. Free Cursor plugin funnel. Pro outside marketplace.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "pulumistacksecretban",
+    "free"
+  ]
+}

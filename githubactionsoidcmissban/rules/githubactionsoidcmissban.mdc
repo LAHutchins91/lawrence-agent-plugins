@@ -1,0 +1,13 @@
+---
+description: Flag GitHub Actions cloud deploys missing OIDC/federated credentials.
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# githubactionsoidcmissban
+
+When reviewing code or CI for this project, apply githubactionsoidcmissban checks:
+
+Flag GitHub Actions cloud deploys missing OIDC/federated credentials.
+
+Report findings with file paths and concrete remediation. Do not invent findings.

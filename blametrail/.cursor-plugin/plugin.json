@@ -1,0 +1,16 @@
+{
+  "name": "blametrail",
+  "version": "0.1.0",
+  "description": "Git archaeology brief \u2014 who touched a path, churn, hot files. Free Cursor plugin funnel. Pro $39/mo at https://blametrail.dev",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "blametrail",
+    "free"
+  ]
+}

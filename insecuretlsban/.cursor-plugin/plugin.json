@@ -1,0 +1,16 @@
+{
+  "name": "insecuretlsban",
+  "version": "0.1.0",
+  "description": "Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0). Free Cursor plugin funnel. Pro outside marketplace.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "insecuretlsban",
+    "free"
+  ]
+}

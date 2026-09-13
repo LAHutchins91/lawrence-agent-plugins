@@ -1,0 +1,16 @@
+{
+  "name": "hostpathmountban",
+  "version": "0.1.0",
+  "description": "Ban hostPath volume mounts in Kubernetes manifests. Free Cursor plugin funnel. Pro outside marketplace.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "hostpathmountban",
+    "free"
+  ]
+}

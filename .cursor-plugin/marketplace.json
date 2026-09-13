@@ -2393,6 +2393,188 @@
         "devtools",
         "free"
       ]
+    },
+    {
+      "name": "blametrail",
+      "source": "blametrail",
+      "description": "Git archaeology brief \u2014 who touched a path, churn, hot files. Free Cursor plugin funnel. Pro $39/mo at https://blametrail.dev",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "blametrail",
+        "free"
+      ]
+    },
+    {
+      "name": "bundlebudget",
+      "source": "bundlebudget",
+      "description": "Assert JS bundle size budgets from stats JSON/CSV \u2014 with a CI gate for frontend & platform teams. Free Cursor plugin funnel. Pro $39/mo at https://bundlebudget.dev",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "bundlebudget",
+        "free"
+      ]
+    },
+    {
+      "name": "childprocessshellban",
+      "source": "childprocessshellban",
+      "description": "Fail CI on exec(`${req.`) / spawn shell:true / execFile misuse. Free Cursor plugin funnel. Pro $39/mo at https://childprocessshellban.dev",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "childprocessshellban",
+        "free"
+      ]
+    },
+    {
+      "name": "contractlock",
+      "source": "contractlock",
+      "description": "Env contract freeze + drift CI for teams. Turn `.env.example` into a frozen JSON lockfile, then fail CI when live env files drift. Companion product that pairs with the EnvDrift funnel. Free Cursor plugin funnel. Pro $39/mo at https://contr",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "contractlock",
+        "free"
+      ]
+    },
+    {
+      "name": "unsignedreleaseban",
+      "source": "unsignedreleaseban",
+      "description": "Flag unsigned release artifacts and missing sigstore/cosign evidence in CI. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "unsignedreleaseban",
+        "free"
+      ]
+    },
+    {
+      "name": "provenancemissban",
+      "source": "provenancemissban",
+      "description": "Flag releases missing SLSA provenance attestations. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "provenancemissban",
+        "free"
+      ]
+    },
+    {
+      "name": "secretscanskipban",
+      "source": "secretscanskipban",
+      "description": "Detect CI workflows that skip or disable secret scanning. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "secretscanskipban",
+        "free"
+      ]
+    },
+    {
+      "name": "githubactionsoidcmissban",
+      "source": "githubactionsoidcmissban",
+      "description": "Flag GitHub Actions cloud deploys missing OIDC/federated credentials. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "githubactionsoidcmissban",
+        "free"
+      ]
+    },
+    {
+      "name": "sastskipciban",
+      "source": "sastskipciban",
+      "description": "Detect CI pipelines that skip SAST or security scan jobs. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "sastskipciban",
+        "free"
+      ]
+    },
+    {
+      "name": "hostpathmountban",
+      "source": "hostpathmountban",
+      "description": "Ban hostPath volume mounts in Kubernetes manifests. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "hostpathmountban",
+        "free"
+      ]
+    },
+    {
+      "name": "privilegedcontainerban",
+      "source": "privilegedcontainerban",
+      "description": "Ban privileged containers and dangerous securityContext flags. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "privilegedcontainerban",
+        "free"
+      ]
+    },
+    {
+      "name": "ssrffetchban",
+      "source": "ssrffetchban",
+      "description": "Heuristics to flag SSRF-prone server-side fetch patterns. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "ssrffetchban",
+        "free"
+      ]
+    },
+    {
+      "name": "insecuretlsban",
+      "source": "insecuretlsban",
+      "description": "Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0). Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "insecuretlsban",
+        "free"
+      ]
+    },
+    {
+      "name": "pulumistacksecretban",
+      "source": "pulumistacksecretban",
+      "description": "Flag Pulumi stack configs that may leak secrets in plaintext. Free Cursor plugin funnel. Pro outside marketplace.",
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "ci",
+        "sast",
+        "pulumistacksecretban",
+        "free"
+      ]
     }
   ]
 }

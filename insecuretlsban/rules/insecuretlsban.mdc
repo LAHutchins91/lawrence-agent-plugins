@@ -1,0 +1,13 @@
+---
+description: Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0).
+globs:
+  - "**/*"
+alwaysApply: false
+---
+# insecuretlsban
+
+When reviewing code or CI for this project, apply insecuretlsban checks:
+
+Flag insecure TLS (verify=False, NODE_TLS_REJECT_UNAUTHORIZED=0).
+
+Report findings with file paths and concrete remediation. Do not invent findings.

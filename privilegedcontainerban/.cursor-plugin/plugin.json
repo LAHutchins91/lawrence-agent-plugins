@@ -1,0 +1,16 @@
+{
+  "name": "privilegedcontainerban",
+  "version": "0.1.0",
+  "description": "Ban privileged containers and dangerous securityContext flags. Free Cursor plugin funnel. Pro outside marketplace.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ci",
+    "sast",
+    "privilegedcontainerban",
+    "free"
+  ]
+}
