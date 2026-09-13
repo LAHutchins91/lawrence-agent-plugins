@@ -1,0 +1,15 @@
+{
+  "name": "json-pretty-lab",
+  "displayName": "JSON Pretty Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for JSON formatting, minification, key sorting, and structural statistics — no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "json", "pretty", "minify", "sort", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "json", "format", "stats", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

@@ -536,6 +536,18 @@
         "scripts",
         "devtools"
       ]
+    },
+    {
+      "name": "json-pretty-lab",
+      "source": "json-pretty-lab",
+      "description": "Pretty/minify JSON, sort keys, and inspect structural stats \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "json",
+        "format",
+        "devtools"
+      ]
     }
   ]
 }

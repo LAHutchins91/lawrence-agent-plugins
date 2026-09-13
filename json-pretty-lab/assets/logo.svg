@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="JSON Pretty Lab logo">
+  <rect width="256" height="256" rx="48" fill="#171923"/>
+  <path d="M92 50c-21 0-30 13-30 35v24c0 13-6 19-18 19 12 0 18 6 18 19v24c0 22 9 35 30 35M164 50c21 0 30 13 30 35v24c0 13 6 19 18 19-12 0-18 6-18 19v24c0 22-9 35-30 35" fill="none" stroke="#7dd3fc" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="128" cy="96" r="9" fill="#fbbf24"/><circle cx="128" cy="128" r="9" fill="#fbbf24"/><circle cx="128" cy="160" r="9" fill="#fbbf24"/>
+</svg>
