@@ -1134,6 +1134,18 @@
         "sveltekit",
         "devtools"
       ]
+    },
+    {
+      "name": "remix-config-lab",
+      "source": "remix-config-lab",
+      "description": "Remix routes/serverBuild/future flags parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "remix",
+        "react",
+        "devtools"
+      ]
     }
   ]
 }

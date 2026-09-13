@@ -1,0 +1,15 @@
+{
+  "name": "remix-config-lab",
+  "displayName": "Remix Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for remix.config / vite remix() plugin text — routes hint, server build, future flags, and lite lint — no remix binary or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "remix", "remix-config", "vite", "routes", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "remix", "remix-config", "vite", "routes", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

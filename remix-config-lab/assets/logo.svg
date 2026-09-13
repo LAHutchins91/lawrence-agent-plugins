@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="remix-config-lab">
+  <rect width="128" height="128" rx="24" fill="#0b1220"/>
+  <rect x="28" y="28" width="72" height="56" rx="10" fill="#3992FF"/>
+  <text x="64" y="64" text-anchor="middle" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#f0f9ff">RX</text>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="7" font-weight="700" fill="#94a3b8">remix-config-lab</text>
+</svg>
