@@ -2378,6 +2378,19 @@
         "lint",
         "devtools"
       ]
+    },
+    {
+      "name": "age-lab",
+      "source": "age-lab",
+      "description": "age recipients/identities/rules heuristics + lite lint \u2014 free marketplace funnel (no private keys).",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "age",
+        "encryption",
+        "secrets",
+        "devtools"
+      ]
     }
   ]
 }
