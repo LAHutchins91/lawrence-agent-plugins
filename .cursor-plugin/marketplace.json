@@ -1269,6 +1269,19 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "heroku-app-json-lab",
+      "source": "heroku-app-json-lab",
+      "description": "Heroku app.json addons/env/formation parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "heroku",
+        "app.json",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }

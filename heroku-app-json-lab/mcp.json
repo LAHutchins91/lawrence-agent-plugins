@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "heroku-app-json-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}
