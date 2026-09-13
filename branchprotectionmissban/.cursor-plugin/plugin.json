@@ -1,16 +1,17 @@
 {
   "name": "branchprotectionmissban",
   "version": "0.1.0",
-  "description": "Fail CI on weak branch protection patterns. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Spot weak branch-protection patterns in workflows and docs. Free forever in Cursor.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
+    "branch-protection",
+    "codeowners",
+    "github-actions",
     "security",
-    "ci",
-    "sast",
-    "branchprotectionmissban",
+    "mcp",
     "free"
   ]
 }

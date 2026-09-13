@@ -1,16 +1,18 @@
 {
   "name": "unsignedreleaseban",
   "version": "0.1.0",
-  "description": "Fail CI when releases lack signing/attestation. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Catch releases missing cosign/attestations/provenance. Free report funnel; Pro CI outside Cursor.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
-    "security",
-    "ci",
-    "sast",
-    "unsignedreleaseban",
+    "cosign",
+    "sigstore",
+    "attestations",
+    "sbom",
+    "supply-chain",
+    "mcp",
     "free"
   ]
 }

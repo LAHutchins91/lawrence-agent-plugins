@@ -1,12 +1,22 @@
-# BranchProtectionMissBan (Cursor plugin) — FREE forever
+# BranchProtectionMissBan
 
-Fail CI on weak branch protection patterns.
+BranchProtectionMissBan flags risky patterns: pushes to main without required checks, `if: always()` bypasses, missing CODEOWNERS, force-push scripts, and dangerous `pull_request_target` checkouts.
 
-## Install
-Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+Marketplace = **free forever funnel**. CI, SARIF, and allowlist live outside via **Lawrence Plugins Pro**.
 
-## Upgrade for CI fail
-Pro available · https://plugins.lawrence.dev/pro
+## Pricing
 
-## What it does
-Runs `branchprotectionmissban` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).
+- **Cursor Marketplace:** FREE forever (no paywalls in this plugin)
+- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
+- Soft product site: https://branchprotectionmissban.dev
+
+### CTA
+
+- Get Pro — $19/mo → https://plugins.lawrence.dev/pro
+
+---
+
+Cursor Marketplace plugin: FREE forever (lead-gen funnel).
+Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
+Never paywall inside this plugin.
+

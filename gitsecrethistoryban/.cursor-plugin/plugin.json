@@ -1,16 +1,17 @@
 {
   "name": "gitsecrethistoryban",
   "version": "0.1.0",
-  "description": "Fail CI when secrets appear in working-tree files. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Scan for secrets in git history patterns \u2014 report locally free; gate CI with Pro outside Cursor.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
+    "git",
+    "secrets",
+    "history",
     "security",
-    "ci",
-    "sast",
-    "gitsecrethistoryban",
+    "mcp",
     "free"
   ]
 }

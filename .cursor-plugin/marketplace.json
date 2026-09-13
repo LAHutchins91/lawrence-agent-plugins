@@ -2205,65 +2205,74 @@
     {
       "name": "apidiffgate",
       "source": "apidiffgate",
-      "description": "OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipping to production. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "OpenAPI/Swagger contract diff for PRs \u2014 catch breaking API changes before they hit production. Free forever in Cursor.",
       "category": "developer-tools",
       "keywords": [
-        "security",
-        "ci",
-        "sast",
-        "apidiffgate",
+        "openapi",
+        "swagger",
+        "api-diff",
+        "breaking-change",
+        "contract-testing",
+        "mcp",
         "free"
       ]
     },
     {
       "name": "envdrift",
       "source": "envdrift",
-      "description": "Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Env drift + lite secrets check \u2014 catch missing keys and leaked secrets before they ship. Free forever in Cursor.",
       "category": "developer-tools",
       "keywords": [
-        "security",
-        "ci",
-        "sast",
-        "envdrift",
+        "env",
+        "dotenv",
+        "secrets",
+        "drift",
+        "compliance",
+        "mcp",
         "free"
       ]
     },
     {
       "name": "incidentbrief",
       "source": "incidentbrief",
-      "description": "Noisy logs \u2192 spike detection, error shapes, owner handoff brief. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Noisy logs \u2192 spike detection and error-shape triage for on-call. Free forever in Cursor.",
       "category": "developer-tools",
       "keywords": [
-        "security",
-        "ci",
-        "sast",
-        "incidentbrief",
+        "incident",
+        "on-call",
+        "logs",
+        "mttr",
+        "sre",
+        "mcp",
         "free"
       ]
     },
     {
       "name": "gitsecrethistoryban",
       "source": "gitsecrethistoryban",
-      "description": "Fail CI when secrets appear in working-tree files. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Scan for secrets in git history patterns \u2014 report locally free; gate CI with Pro outside Cursor.",
       "category": "developer-tools",
       "keywords": [
+        "git",
+        "secrets",
+        "history",
         "security",
-        "ci",
-        "sast",
-        "gitsecrethistoryban",
+        "mcp",
         "free"
       ]
     },
     {
       "name": "terraformstatesecretsban",
       "source": "terraformstatesecretsban",
-      "description": "Fail CI when Terraform risks secret leakage in state. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Flag secret-like values in Terraform state / IaC scan paths. Free reports in Cursor; Pro CI outside.",
       "category": "developer-tools",
       "keywords": [
+        "terraform",
+        "state",
+        "secrets",
+        "iac",
         "security",
-        "ci",
-        "sast",
-        "terraformstatesecretsban",
+        "mcp",
         "free"
       ]
     },
@@ -2387,26 +2396,29 @@
     {
       "name": "branchprotectionmissban",
       "source": "branchprotectionmissban",
-      "description": "Fail CI on weak branch protection patterns. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Spot weak branch-protection patterns in workflows and docs. Free forever in Cursor.",
       "category": "developer-tools",
       "keywords": [
+        "branch-protection",
+        "codeowners",
+        "github-actions",
         "security",
-        "ci",
-        "sast",
-        "branchprotectionmissban",
+        "mcp",
         "free"
       ]
     },
     {
       "name": "cisecretsinlogban",
       "source": "cisecretsinlogban",
-      "description": "Fail CI when workflows leak secrets into logs. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Find CI configs that echo secrets into logs. Free report in Cursor; Pro fails the build outside.",
       "category": "developer-tools",
       "keywords": [
-        "security",
         "ci",
-        "sast",
-        "cisecretsinlogban",
+        "secrets",
+        "github-actions",
+        "logs",
+        "add-mask",
+        "mcp",
         "free"
       ]
     },
@@ -2465,13 +2477,15 @@
     {
       "name": "unsignedreleaseban",
       "source": "unsignedreleaseban",
-      "description": "Fail CI when releases lack signing/attestation. Free Cursor plugin funnel. Pro outside marketplace.",
+      "description": "Catch releases missing cosign/attestations/provenance. Free report funnel; Pro CI outside Cursor.",
       "category": "developer-tools",
       "keywords": [
-        "security",
-        "ci",
-        "sast",
-        "unsignedreleaseban",
+        "cosign",
+        "sigstore",
+        "attestations",
+        "sbom",
+        "supply-chain",
+        "mcp",
         "free"
       ]
     },
@@ -3500,6 +3514,19 @@
         "sast",
         "latesttagban",
         "free"
+      ]
+    },
+    {
+      "name": "flux-lab",
+      "source": "flux-lab",
+      "description": "Flux GitOps sources/kustomizations/helmreleases parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "flux",
+        "gitops",
+        "kubernetes",
+        "devtools"
       ]
     }
   ]

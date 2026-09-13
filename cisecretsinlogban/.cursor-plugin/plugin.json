@@ -1,16 +1,18 @@
 {
   "name": "cisecretsinlogban",
   "version": "0.1.0",
-  "description": "Fail CI when workflows leak secrets into logs. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Find CI configs that echo secrets into logs. Free report in Cursor; Pro fails the build outside.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
-    "security",
     "ci",
-    "sast",
-    "cisecretsinlogban",
+    "secrets",
+    "github-actions",
+    "logs",
+    "add-mask",
+    "mcp",
     "free"
   ]
 }

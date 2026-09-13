@@ -1,12 +1,22 @@
-# EnvDrift Pro (Cursor plugin) — FREE forever
+# EnvDrift
 
-Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship.
+EnvDrift compares env contracts and flags high-confidence secret patterns in local files. Use it when staging and production configs diverge, or when a new key shows up without documentation.
 
-## Install
-Install from Cursor marketplace / this repo. Plugin stays **free forever**.
+Marketplace install is **free forever** with no paywall. CI exit codes, SARIF, history depth, baselines, and team policy YAML are available via **Lawrence Plugins Pro** outside Cursor.
 
-## Upgrade for CI fail
-Pro available · https://plugins.lawrence.dev/pro
+## Pricing
 
-## What it does
-Runs `envdrift` patterns as guidance in the IDE. Full multi-file CI gate + SARIF is Pro (outside marketplace — no paywall in this plugin).
+- **Cursor Marketplace:** FREE forever (no paywalls in this plugin)
+- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
+- Soft product site: https://envdrift.dev
+
+### CTA
+
+- Get Pro — $19/mo → https://plugins.lawrence.dev/pro
+
+---
+
+Cursor Marketplace plugin: FREE forever (lead-gen funnel).
+Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
+Never paywall inside this plugin.
+

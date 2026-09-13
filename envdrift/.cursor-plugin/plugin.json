@@ -1,16 +1,18 @@
 {
   "name": "envdrift",
   "version": "0.1.0",
-  "description": "Env drift + secrets auditor. Catch missing/unexpected env keys and high-confidence leaked secrets before they ship. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Env drift + lite secrets check \u2014 catch missing keys and leaked secrets before they ship. Free forever in Cursor.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
-    "security",
-    "ci",
-    "sast",
-    "envdrift",
+    "env",
+    "dotenv",
+    "secrets",
+    "drift",
+    "compliance",
+    "mcp",
     "free"
   ]
 }

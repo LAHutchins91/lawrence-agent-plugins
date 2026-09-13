@@ -1,16 +1,18 @@
 {
   "name": "terraformstatesecretsban",
   "version": "0.1.0",
-  "description": "Fail CI when Terraform risks secret leakage in state. Free Cursor plugin funnel. Pro at https://plugins.lawrence.dev/pro",
+  "description": "Flag secret-like values in Terraform state / IaC scan paths. Free reports in Cursor; Pro CI outside.",
   "author": {
     "name": "Lawrence Hutchins"
   },
   "license": "MIT",
   "keywords": [
+    "terraform",
+    "state",
+    "secrets",
+    "iac",
     "security",
-    "ci",
-    "sast",
-    "terraformstatesecretsban",
+    "mcp",
     "free"
   ]
 }

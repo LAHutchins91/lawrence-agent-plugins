@@ -7,9 +7,9 @@
   },
   "license": "MIT",
   "keywords": [
-    "security",
+    "developer-tools",
+    "schema",
     "ci",
-    "sast",
     "jsonschemaguard",
     "free"
   ]
