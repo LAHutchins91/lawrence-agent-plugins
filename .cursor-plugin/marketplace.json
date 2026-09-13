@@ -1994,6 +1994,19 @@
         "performance",
         "devtools"
       ]
+    },
+    {
+      "name": "siege-lab",
+      "source": "siege-lab",
+      "description": "Siege URLs/options/concurrency parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "siege",
+        "load-testing",
+        "http",
+        "devtools"
+      ]
     }
   ]
 }

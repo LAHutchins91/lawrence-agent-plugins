@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="siege-lab">
+  <rect width="128" height="128" rx="24" fill="#1e3a5f"/>
+  <path d="M34 78 L48 40 L64 70 L80 36 L94 78" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="34" cy="78" r="5" fill="#7dd3fc"/>
+  <circle cx="48" cy="40" r="5" fill="#7dd3fc"/>
+  <circle cx="64" cy="70" r="5" fill="#bae6fd"/>
+  <circle cx="80" cy="36" r="5" fill="#7dd3fc"/>
+  <circle cx="94" cy="78" r="5" fill="#7dd3fc"/>
+  <rect x="28" y="86" width="72" height="12" rx="3" fill="#0c4a6e"/>
+  <rect x="34" y="89" width="18" height="6" rx="2" fill="#38bdf8"/>
+  <rect x="56" y="89" width="14" height="6" rx="2" fill="#7dd3fc"/>
+  <rect x="74" y="89" width="20" height="6" rx="2" fill="#bae6fd"/>
+  <text x="64" y="114" text-anchor="middle" font-family="ui-monospace, monospace" font-size="7" font-weight="700" fill="#7dd3fc">siege-lab</text>
+</svg>
