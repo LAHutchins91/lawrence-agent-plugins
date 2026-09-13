@@ -1,14 +1,13 @@
 {
   "name": "corsaudit",
-  "displayName": "CorsAudit",
+  "displayName": "CORS Audit",
   "version": "0.1.0",
   "description": "Lint CORS config for overly permissive origins \u2014 catch `origin: '*'` with `credentials: true`, `null` origins, and reflect-all patterns in Express, Next, and JSON.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/corsaudit",
   "license": "MIT",
-  "homepage": "https://plugins.lawrence.dev/pro",
-  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
@@ -16,11 +15,12 @@
     "corsaudit",
     "free"
   ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "category": "security",
   "tags": [
     "free",
     "cursor",
     "lint"
-  ],
-  "logo": "assets/logo.svg"
+  ]
 }

@@ -1,14 +1,13 @@
 {
   "name": "blametrail",
-  "displayName": "BlameTrail",
+  "displayName": "Blame Trail",
   "version": "0.1.0",
   "description": "Git archaeology brief \u2014 who touched a path, churn, hot files.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/blametrail",
   "license": "MIT",
-  "homepage": "https://plugins.lawrence.dev/pro",
-  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
@@ -16,11 +15,12 @@
     "blametrail",
     "free"
   ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "category": "developer-tools",
   "tags": [
     "free",
     "cursor",
     "devtools"
-  ],
-  "logo": "assets/logo.svg"
+  ]
 }

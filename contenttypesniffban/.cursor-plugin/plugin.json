@@ -6,20 +6,20 @@
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/contenttypesniffban",
   "license": "MIT",
-  "homepage": "https://plugins.lawrence.dev/pro",
-  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
     "contenttypesniffban",
     "free"
   ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "category": "security",
   "tags": [
     "free",
     "cursor",
     "security-ban"
-  ],
-  "logo": "assets/logo.svg"
+  ]
 }

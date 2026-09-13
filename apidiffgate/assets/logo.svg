@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="ApiDiffGate logo">
-  <rect width="128" height="128" rx="24" fill="#481a51"/>
-  <rect x="10" y="10" width="108" height="108" rx="20" fill="none" stroke="#582e60" stroke-width="2" opacity="0.7"/>
-  <text x="64" y="76" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="36" font-weight="700" fill="#f6f3f6">ADG</text>
-  <circle cx="100" cy="28" r="10" fill="#df3a8c" opacity="0.95"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Api Diff Gate logo">
+  <rect width="256" height="256" rx="48" fill="#0E2F08"/>
+  <path d="M128 52 L208 188 H48 Z" fill="none" stroke="#4AEE29" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M128 100 V140" stroke="#AFDEBB" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="128" cy="164" r="10" fill="#AFDEBB"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#D4E6D0">APIDIFFGATE</text>
 </svg>

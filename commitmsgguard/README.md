@@ -1,16 +1,9 @@
-# CommitMsgGuard
+# Commit Msg Guard
 
 Conventional commit / commit message lint for CI.
 
-## Pricing
+Marketplace install is **free forever** — no paywall in this plugin. Optional Pro CI gates: [plugins.lawrence.dev/pro](https://plugins.lawrence.dev/pro).
 
-- **Cursor Marketplace:** FREE forever (no paywalls)
-- **Pro:** [Lawrence Plugins Pro — $19/mo](https://plugins.lawrence.dev/pro)
-- Soft product site: https://commitmsgguard.dev
+## License
 
----
-
-Cursor Marketplace plugin: FREE forever (lead-gen funnel).
-Pro CI gates & licenses: https://plugins.lawrence.dev/pro — Lawrence Plugins Pro $19/mo (Stripe).
-Never paywall inside this plugin.
-
+MIT

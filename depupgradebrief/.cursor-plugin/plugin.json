@@ -1,14 +1,13 @@
 {
   "name": "depupgradebrief",
-  "displayName": "DepUpgradeBrief",
+  "displayName": "Dep Upgrade Brief",
   "version": "0.1.0",
   "description": "Changelog + semver risk brief when bumping npm packages.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/depupgradebrief",
   "license": "MIT",
-  "homepage": "https://plugins.lawrence.dev/pro",
-  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
@@ -16,11 +15,12 @@
     "depupgradebrief",
     "free"
   ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "category": "developer-tools",
   "tags": [
     "free",
     "cursor",
     "devtools"
-  ],
-  "logo": "assets/logo.svg"
+  ]
 }

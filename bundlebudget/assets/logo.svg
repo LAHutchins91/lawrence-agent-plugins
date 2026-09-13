@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="BundleBudget logo">
-  <rect width="128" height="128" rx="24" fill="#6d671d"/>
-  <rect x="10" y="10" width="108" height="108" rx="20" fill="none" stroke="#605d2e" stroke-width="2" opacity="0.7"/>
-  <text x="64" y="76" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="44" font-weight="700" fill="#f6f6f3">BB</text>
-  <rect x="88" y="18" width="22" height="22" rx="6" fill="#6bdf3a" opacity="0.95"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Bundle Budget logo">
+  <rect width="256" height="256" rx="48" fill="#092E2B"/>
+  <path d="M64 88 H192 L128 52 Z" fill="none" stroke="#2EEADA" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M64 128 H192 L128 92 Z" fill="none" stroke="#AFCEDE" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M64 168 H192 L128 132 Z" fill="none" stroke="#2EEADA" stroke-width="10" stroke-linejoin="round"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#D0E6E4">BUNDLEBUDGET</text>
 </svg>

@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="ContractLock logo">
-  <rect width="128" height="128" rx="24" fill="#4b2574"/>
-  <rect x="10" y="10" width="108" height="108" rx="20" fill="none" stroke="#472e60" stroke-width="2" opacity="0.7"/>
-  <text x="64" y="76" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="44" font-weight="700" fill="#f5f3f6">CL</text>
-  <rect x="90" y="20" width="20" height="20" rx="10" fill="#df3a92"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Contract Lock logo">
+  <rect width="256" height="256" rx="48" fill="#323105"/>
+  <path d="M128 48 L196 84 V156 L128 192 L60 156 V84 Z" fill="none" stroke="#F9F11F" stroke-width="12" stroke-linejoin="round"/>
+  <circle cx="128" cy="120" r="28" fill="none" stroke="#CCDEAF" stroke-width="10"/>
+  <circle cx="128" cy="120" r="10" fill="#F9F11F"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#E6E5D0">CONTRACTLOCK</text>
 </svg>

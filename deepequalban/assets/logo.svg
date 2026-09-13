@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Deep Equal Ban logo">
-  <rect width="128" height="128" rx="24" fill="#541730"/>
-  <rect x="10" y="10" width="108" height="108" rx="20" fill="none" stroke="#602e43" stroke-width="2" opacity="0.7"/>
-  <text x="64" y="76" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="36" font-weight="700" fill="#f6f3f5">DEB</text>
-  <circle cx="100" cy="28" r="10" fill="#df713a" opacity="0.95"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Deep Equal Ban logo">
+  <rect width="256" height="256" rx="48" fill="#31062B"/>
+  <circle cx="128" cy="120" r="64" fill="none" stroke="#F621D6" stroke-width="12"/>
+  <circle cx="128" cy="120" r="32" fill="none" stroke="#DEAFC3" stroke-width="10"/>
+  <path d="M128 48 V72 M128 168 V192 M48 120 H72 M184 120 H208" stroke="#F621D6" stroke-width="10" stroke-linecap="round"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#E6D0E2">DEEPEQUALBAN</text>
 </svg>

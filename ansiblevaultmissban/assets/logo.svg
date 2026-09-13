@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Ansible Vault Miss Ban logo">
-  <rect width="128" height="128" rx="24" fill="#3c3216"/>
-  <rect x="10" y="10" width="108" height="108" rx="20" fill="none" stroke="#60542e" stroke-width="2" opacity="0.7"/>
-  <text x="64" y="76" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="36" font-weight="700" fill="#f6f6f3">AVM</text>
-  <circle cx="100" cy="28" r="10" fill="#a8df3a" opacity="0.95"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Ansible Vault Miss Ban logo">
+  <rect width="256" height="256" rx="48" fill="#18082F"/>
+  <path d="M128 44 L200 72 V140 C200 180 128 208 128 208 C128 208 56 180 56 140 V72 Z" fill="none" stroke="#7829EE" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M96 120 L118 142 L164 96" fill="none" stroke="#D5AFDE" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#D9D0E6">ANSIBLEVAULT</text>
 </svg>

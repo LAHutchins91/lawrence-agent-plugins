@@ -1,14 +1,13 @@
 {
   "name": "apidiffgate",
-  "displayName": "ApiDiffGate",
+  "displayName": "Api Diff Gate",
   "version": "0.1.0",
   "description": "OpenAPI/Swagger contract diff gate for PRs. Stop breaking API changes from shipping to production.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/apidiffgate",
   "license": "MIT",
-  "homepage": "https://plugins.lawrence.dev/pro",
-  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "openapi",
     "swagger",
@@ -18,11 +17,12 @@
     "mcp",
     "free"
   ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "category": "developer-tools",
   "tags": [
     "free",
     "cursor",
     "devtools"
-  ],
-  "logo": "assets/logo.svg"
+  ]
 }

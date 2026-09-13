@@ -1,14 +1,13 @@
 {
   "name": "crashtriage",
-  "displayName": "CrashTriage",
+  "displayName": "Crash Triage",
   "version": "0.1.0",
   "description": "Paste a stack trace / crash log \u2192 normalized triage brief.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/crashtriage",
   "license": "MIT",
-  "homepage": "https://plugins.lawrence.dev/pro",
-  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
@@ -16,11 +15,12 @@
     "crashtriage",
     "free"
   ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "category": "developer-tools",
   "tags": [
     "free",
     "cursor",
     "devtools"
-  ],
-  "logo": "assets/logo.svg"
+  ]
 }

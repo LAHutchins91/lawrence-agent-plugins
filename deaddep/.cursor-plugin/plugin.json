@@ -1,14 +1,13 @@
 {
   "name": "deaddep",
-  "displayName": "DeadDep",
+  "displayName": "Dead Dep",
   "version": "0.1.0",
   "description": "Find unused npm dependencies \u2014 import / require / dynamic-import scan vs `package.json`.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/deaddep",
   "license": "MIT",
-  "homepage": "https://plugins.lawrence.dev/pro",
-  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "keywords": [
     "security",
     "ci",
@@ -16,11 +15,12 @@
     "deaddep",
     "free"
   ],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/LAHutchins91/lawrence-agent-plugins",
   "category": "developer-tools",
   "tags": [
     "free",
     "cursor",
     "devtools"
-  ],
-  "logo": "assets/logo.svg"
+  ]
 }
