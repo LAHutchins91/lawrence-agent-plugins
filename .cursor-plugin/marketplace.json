@@ -818,6 +818,18 @@
         "lint",
         "devtools"
       ]
+    },
+    {
+      "name": "go-mod-lab",
+      "source": "go-mod-lab",
+      "description": "go.mod module/require/replace parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "go",
+        "gomod",
+        "devtools"
+      ]
     }
   ]
 }
