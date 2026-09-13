@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="digitalocean-app-spec-lab">
+  <rect width="128" height="128" rx="24" fill="#031b4e"/>
+  <circle cx="54" cy="58" r="22" fill="#0080ff"/>
+  <path d="M72 70c8-2 18 4 22 14 2 6-2 12-8 14-10 4-20-2-24-10" fill="none" stroke="#0069ff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="78" cy="88" r="6" fill="#31a3ff"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="5" font-weight="700" fill="#7dd3fc">digitalocean-app-spec-lab</text>
+</svg>

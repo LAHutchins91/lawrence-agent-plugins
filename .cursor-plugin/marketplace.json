@@ -1282,6 +1282,19 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "digitalocean-app-spec-lab",
+      "source": "digitalocean-app-spec-lab",
+      "description": ".do/app.yaml services/env/routes parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "digitalocean",
+        "app-spec",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
