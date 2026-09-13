@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Firebase JSON Lab logo">
+  <rect width="256" height="256" rx="48" fill="#1C1917"/>
+  <path d="M78 186 L88 70 L128 148 L168 86 L178 186 Z" fill="none" stroke="#FFA000" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M98 186 L128 78 L158 186 Z" fill="#FFCA28"/>
+  <path d="M78 186 H178 L168 204 H88 Z" fill="#FFA000"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#E7E5E4">FIREBASE JSON</text>
+</svg>

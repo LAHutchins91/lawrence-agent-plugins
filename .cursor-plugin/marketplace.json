@@ -1182,6 +1182,18 @@
         "mobile",
         "devtools"
       ]
+    },
+    {
+      "name": "firebase-json-lab",
+      "source": "firebase-json-lab",
+      "description": "firebase.json hosting/firestore/functions parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "firebase",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
