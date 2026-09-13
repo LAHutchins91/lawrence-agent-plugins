@@ -1,0 +1,15 @@
+{
+  "name": "jwt-claims-lab",
+  "displayName": "JWT Claims Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for JWT decode, claims explain, exp/nbf check, and alg warnings — decode only, never verify or mint tokens.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "jwt", "claims", "decode", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "jwt", "claims", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

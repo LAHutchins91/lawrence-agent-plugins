@@ -379,6 +379,18 @@
         "emoji",
         "devtools"
       ]
+    },
+    {
+      "name": "jwt-claims-lab",
+      "source": "jwt-claims-lab",
+      "description": "Decode-only JWT header/payload, claim explain, exp/nbf check, alg warnings \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "jwt",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
