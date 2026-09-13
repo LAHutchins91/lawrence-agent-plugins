@@ -1,0 +1,15 @@
+{
+  "name": "jsonl-lab",
+  "displayName": "JSONL Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for JSON Lines validate, count, slice, and to-array — pure TS, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "jsonl", "json-lines", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "jsonl", "json-lines", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

@@ -476,6 +476,17 @@
         "datetime",
         "devtools"
       ]
+    },
+    {
+      "name": "jsonl-lab",
+      "source": "jsonl-lab",
+      "description": "Validate/count/slice JSONL and convert small payloads to arrays \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "jsonl",
+        "devtools"
+      ]
     }
   ]
 }
