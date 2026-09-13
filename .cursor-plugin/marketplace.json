@@ -2365,6 +2365,19 @@
         "encryption",
         "devtools"
       ]
+    },
+    {
+      "name": "tflint-lab",
+      "source": "tflint-lab",
+      "description": "TFLint rules/plugins/config heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "tflint",
+        "terraform",
+        "lint",
+        "devtools"
+      ]
     }
   ]
 }
