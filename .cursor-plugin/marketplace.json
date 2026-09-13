@@ -2020,6 +2020,18 @@
         "load-testing",
         "devtools"
       ]
+    },
+    {
+      "name": "grpcurl-lab",
+      "source": "grpcurl-lab",
+      "description": "grpcurl services/methods/metadata parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "grpcurl",
+        "grpc",
+        "devtools"
+      ]
     }
   ]
 }
