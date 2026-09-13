@@ -262,6 +262,18 @@
         "time",
         "iso8601"
       ]
+    },
+    {
+      "name": "slugify-case",
+      "source": "slugify-case",
+      "description": "Slugify, case convert/detect, filename sanitize \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "slugify",
+        "case",
+        "filenames"
+      ]
     }
   ]
 }

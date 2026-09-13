@@ -1,0 +1,15 @@
+{
+  "name": "slugify-case",
+  "displayName": "Slugify / Case",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for slugify, case convert/detect, and filename sanitize — pure string utils, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "slugify", "case", "filename", "sanitize", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "slugify", "case", "filename", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
