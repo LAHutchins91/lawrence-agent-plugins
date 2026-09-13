@@ -1799,6 +1799,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "detox-lab",
+      "source": "detox-lab",
+      "description": "Detox matchers/actions/sync parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "detox",
+        "react-native",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }
