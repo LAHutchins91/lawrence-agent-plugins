@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "port-service-lab": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

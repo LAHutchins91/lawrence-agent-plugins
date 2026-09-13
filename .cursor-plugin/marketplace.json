@@ -332,6 +332,17 @@
         "toml",
         "config"
       ]
+    },
+    {
+      "name": "port-service-lab",
+      "source": "port-service-lab",
+      "description": "Common port\u2194service lookup, range class, listen hints \u2014 free marketplace funnel (no scanning).",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ports",
+        "networking"
+      ]
     }
   ]
 }
