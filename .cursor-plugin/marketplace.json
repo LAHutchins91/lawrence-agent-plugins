@@ -596,6 +596,18 @@
         "http",
         "devtools"
       ]
+    },
+    {
+      "name": "dotenv-merge-lab",
+      "source": "dotenv-merge-lab",
+      "description": "Parse/merge/diff/redact .env text \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "dotenv",
+        "env",
+        "devtools"
+      ]
     }
   ]
 }

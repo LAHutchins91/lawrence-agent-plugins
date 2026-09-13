@@ -1,0 +1,15 @@
+{
+  "name": "dotenv-merge-lab",
+  "displayName": "Dotenv Merge Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for .env parse, merge, key-diff, and redact — string-level analysis only, no secret-file or network I/O.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "dotenv", "env", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "dotenv", "env", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
