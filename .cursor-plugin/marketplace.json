@@ -756,6 +756,18 @@
         "hcl",
         "devtools"
       ]
+    },
+    {
+      "name": "package-json-lab",
+      "source": "package-json-lab",
+      "description": "package.json scripts/deps buckets/engines + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "npm",
+        "package-json",
+        "devtools"
+      ]
     }
   ]
 }
