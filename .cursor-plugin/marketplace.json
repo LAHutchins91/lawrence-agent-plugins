@@ -1463,6 +1463,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "openapi-zod-lab",
+      "source": "openapi-zod-lab",
+      "description": "OpenAPI\u2192Zod paths/schemas/ops mapping parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "openapi",
+        "zod",
+        "codegen",
+        "devtools"
+      ]
     }
   ]
 }
