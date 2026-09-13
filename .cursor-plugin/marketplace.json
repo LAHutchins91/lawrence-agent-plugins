@@ -250,6 +250,18 @@
         "ulid",
         "ids"
       ]
+    },
+    {
+      "name": "duration-parse",
+      "source": "duration-parse",
+      "description": "Parse/format durations, deadlines from now, compare \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "duration",
+        "time",
+        "iso8601"
+      ]
     }
   ]
 }

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="duration-parse">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <circle cx="64" cy="58" r="28" fill="none" stroke="#38bdf8" stroke-width="4"/>
+  <circle cx="64" cy="58" r="3" fill="#22c55e"/>
+  <path d="M64 58 L64 40" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M64 58 L78 58" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+  <text x="64" y="108" text-anchor="middle" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="#94a3b8">1h30m</text>
+</svg>
