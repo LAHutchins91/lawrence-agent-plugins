@@ -487,6 +487,19 @@
         "jsonl",
         "devtools"
       ]
+    },
+    {
+      "name": "frontmatter-lab",
+      "source": "frontmatter-lab",
+      "description": "YAML frontmatter extract/merge/validate/strip \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "frontmatter",
+        "markdown",
+        "yaml",
+        "devtools"
+      ]
     }
   ]
 }

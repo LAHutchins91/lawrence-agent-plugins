@@ -1,0 +1,15 @@
+{
+  "name": "frontmatter-lab",
+  "displayName": "Frontmatter Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Markdown YAML frontmatter extract, merge, validate keys, and strip — pasted text only, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "frontmatter", "yaml", "markdown", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "frontmatter", "yaml", "markdown", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
