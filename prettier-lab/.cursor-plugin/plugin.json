@@ -1,0 +1,33 @@
+{
+  "name": "prettier-lab",
+  "displayName": "Prettier Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Prettier config heuristics \u2014 .prettierrc / prettier.config.* option keys, overrides/files/options nested hints, ignore-pattern hints, and lite config lint from pasted source only; never runs prettier CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/prettier-lab",
+  "keywords": [
+    "mcp",
+    "prettier",
+    "prettierrc",
+    "formatting",
+    "overrides",
+    "local",
+    "zero-auth"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "prettier",
+    "prettierrc",
+    "formatting",
+    "overrides",
+    "zero-auth",
+    "FREE"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

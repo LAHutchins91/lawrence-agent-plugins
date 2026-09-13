@@ -2366,6 +2366,11 @@
       "name": "kyverno-lab",
       "source": "kyverno-lab",
       "description": "Kyverno policies validate/mutate heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "prettier-lab",
+      "source": "prettier-lab",
+      "description": "Prettier options/overrides/ignores heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }
