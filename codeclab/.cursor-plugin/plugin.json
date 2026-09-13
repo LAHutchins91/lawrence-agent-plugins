@@ -1,15 +1,18 @@
 {
   "name": "codeclab",
+  "displayName": "Codec Lab",
   "version": "0.1.0",
   "description": "Base64 / Base64URL / JWT-segment encode-decode with secret redaction. Free forever in Cursor.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/codeclab",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "codeclab",
     "free"
-  ]
+  ],
+  "logo": "assets/logo.svg"
 }

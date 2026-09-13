@@ -1,4 +1,4 @@
-# Weak Tls Ban
+# Weak TLS Ban
 
 Fail CI on TLS misconfig (rejectUnauthorized false, SSLv3/TLSv1, weak ciphers).
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Weak Tls Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Weak TLS Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

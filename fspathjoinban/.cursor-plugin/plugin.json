@@ -1,6 +1,6 @@
 {
   "name": "fspathjoinban",
-  "displayName": "Fs Path Join Ban",
+  "displayName": "FS Path Join Ban",
   "version": "0.1.0",
   "description": "Fail CI on path.join/fs with user-controlled path segments.",
   "author": {

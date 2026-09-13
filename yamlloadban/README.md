@@ -1,4 +1,4 @@
-# Yaml Load Ban
+# YAML Load Ban
 
 Fail CI on unsafe yaml.load / js-yaml load without JSON_SCHEMA.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Yaml Load Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **YAML Load Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

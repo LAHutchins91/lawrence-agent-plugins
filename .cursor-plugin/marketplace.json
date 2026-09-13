@@ -2346,6 +2346,11 @@
       "name": "polaris-lab",
       "source": "polaris-lab",
       "description": "Polaris Kubernetes checks/exemptions/severity heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "jsonlint-lab",
+      "source": "jsonlint-lab",
+      "description": "JSON lint modes/options/sort heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }

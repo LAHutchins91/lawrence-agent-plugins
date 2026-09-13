@@ -1,6 +1,6 @@
 {
   "name": "corsreflectban",
-  "displayName": "Cors Reflect Ban",
+  "displayName": "CORS Reflect Ban",
   "version": "0.1.0",
   "description": "Fail CI when CORS reflects Origin / origin:true with credentials.",
   "author": {

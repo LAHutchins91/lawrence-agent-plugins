@@ -1,15 +1,18 @@
 {
   "name": "commitmsgguard",
+  "displayName": "Commit Msg Guard",
   "version": "0.1.0",
   "description": "Conventional commit / commit message lint for CI. Free forever in Cursor.",
   "author": {
     "name": "Lawrence Hutchins"
   },
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/commitmsgguard",
   "license": "MIT",
   "keywords": [
     "security",
     "ci",
     "commitmsgguard",
     "free"
-  ]
+  ],
+  "logo": "assets/logo.svg"
 }

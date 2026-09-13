@@ -1,4 +1,4 @@
-# Npm Audit Ci Fail Miss Ban
+# NPM Audit CI Fail Miss Ban
 
 Fail CI when package-manager audit gates are skipped.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Npm Audit Ci Fail Miss Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **NPM Audit CI Fail Miss Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

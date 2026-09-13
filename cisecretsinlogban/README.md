@@ -1,4 +1,4 @@
-# Ci Secrets In Log Ban
+# CI Secrets In Log Ban
 
 Fail CI when workflows leak secrets into logs.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Ci Secrets In Log Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **CI Secrets In Log Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

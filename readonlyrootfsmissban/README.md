@@ -1,4 +1,4 @@
-# Read Only Root Fs Miss Ban
+# Read Only Root FS Miss Ban
 
 Fail CI when containers lack readOnlyRootFilesystem.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Read Only Root Fs Miss Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Read Only Root FS Miss Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

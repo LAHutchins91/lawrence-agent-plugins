@@ -1,6 +1,6 @@
 {
   "name": "xpoweredbyban",
-  "displayName": "X Powered By Ban",
+  "displayName": "Powered By Ban",
   "version": "0.1.0",
   "description": "Fail CI on Express/Next leaking X-Powered-By.",
   "author": {

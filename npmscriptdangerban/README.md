@@ -1,4 +1,4 @@
-# Npm Script Danger Ban
+# NPM Script Danger Ban
 
 Fail CI on dangerous package.json scripts.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Npm Script Danger Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **NPM Script Danger Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

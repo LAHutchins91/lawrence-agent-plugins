@@ -1,4 +1,4 @@
-# Sql Identifier Ban
+# SQL Identifier Ban
 
 Fail CI on FROM/ORDER BY identifier interpolation from user input.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Sql Identifier Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **SQL Identifier Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

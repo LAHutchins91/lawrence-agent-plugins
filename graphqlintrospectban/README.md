@@ -1,4 +1,4 @@
-# Graphql Introspect Ban
+# Graph QL Introspect Ban
 
 Fail CI when GraphQL introspection/playground/GraphiQL ships in prod.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Graphql Introspect Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Graph QL Introspect Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

@@ -1,6 +1,6 @@
 {
   "name": "postgresnosslban",
-  "displayName": "Postgres No Ssl Ban",
+  "displayName": "Postgres No SSL Ban",
   "version": "0.1.0",
   "description": "Fail CI when Postgres connection strings disable SSL.",
   "author": {

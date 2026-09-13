@@ -1,4 +1,4 @@
-# Cors Credentials Star Ban
+# CORS Credentials Star Ban
 
 Ban ACAO * / reflect-origin with credentials:true.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Cors Credentials Star Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **CORS Credentials Star Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

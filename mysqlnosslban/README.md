@@ -1,4 +1,4 @@
-# My Sql No Ssl Ban
+# My SQL No SSL Ban
 
 Fail CI when MySQL/MariaDB connections disable TLS.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **My Sql No Ssl Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **My SQL No SSL Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

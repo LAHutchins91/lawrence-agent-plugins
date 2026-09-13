@@ -1,0 +1,30 @@
+{
+  "name": "jsonlint-lab",
+  "displayName": "JSON Lint Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for JSON lint heuristics \u2014 modes (compact / pretty / validate / quiet) from pasted CLI/config, option counts (--compact / --in-place / --quiet / --indent / --validate / -c / -i / -q), sort-key hints (--sort-keys / sortKeys / sorted / key order), and lite lint \u2014 pasted source only, never runs jsonlint CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/jsonlint-lab",
+  "keywords": [
+    "mcp",
+    "jsonlint",
+    "json",
+    "lint",
+    "local",
+    "zero-auth"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "mcp",
+    "local",
+    "jsonlint",
+    "json",
+    "zero-auth",
+    "FREE"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

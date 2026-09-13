@@ -1,4 +1,4 @@
-# Cors Wildcard Ban
+# CORS Wildcard Ban
 
 Ban ACAO * + credentials / cors({origin:true}) + credentials.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Cors Wildcard Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **CORS Wildcard Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

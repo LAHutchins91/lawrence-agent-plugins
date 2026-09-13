@@ -1,6 +1,6 @@
 {
   "name": "xpathinjectban",
-  "displayName": "X Path Inject Ban",
+  "displayName": "Path Inject Ban",
   "version": "0.1.0",
   "description": "Fail CI on XPath query concatenation with user input.",
   "author": {

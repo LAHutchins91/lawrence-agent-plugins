@@ -1,4 +1,4 @@
-# Password In Url Ban
+# Password In URL Ban
 
 Fail CI on passwords/tokens/secrets in URL query strings.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Password In Url Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Password In URL Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

@@ -1,6 +1,6 @@
 {
   "name": "httpparampollutionban",
-  "displayName": "Http Param Pollution Ban",
+  "displayName": "HTTP Param Pollution Ban",
   "version": "0.1.0",
   "description": "Fail CI on qs allowPrototypes / HPP without hpp middleware.",
   "author": {

@@ -1,4 +1,4 @@
-# Xss Sink Ban
+# XSS Sink Ban
 
 Fail CI on classic XSS sinks (innerHTML, document.write, dangerouslySetInnerHTML).
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Xss Sink Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **XSS Sink Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

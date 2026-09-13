@@ -1,4 +1,4 @@
-# Ssrf Url Ban
+# Ssrf URL Ban
 
 Fail CI on fetch/axios/request to user-controlled URLs or private IPs.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Ssrf Url Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Ssrf URL Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

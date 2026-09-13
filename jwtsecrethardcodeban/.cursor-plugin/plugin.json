@@ -1,6 +1,6 @@
 {
   "name": "jwtsecrethardcodeban",
-  "displayName": "Jwt Secret Hardcode Ban",
+  "displayName": "JWT Secret Hardcode Ban",
   "version": "0.1.0",
   "description": "Fail CI on jwt.sign/jose with hardcoded string secrets.",
   "author": {

@@ -1,4 +1,4 @@
-# Jwt Expiry Ban
+# JWT Expiry Ban
 
 Fail CI on jwt.sign without expiry / ignoreExpiration / long TTL.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Jwt Expiry Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **JWT Expiry Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

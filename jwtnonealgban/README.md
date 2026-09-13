@@ -1,4 +1,4 @@
-# Jwt None Alg Ban
+# JWT None Alg Ban
 
 Fail CI on JWT verify with alg none or missing algorithms.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Jwt None Alg Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **JWT None Alg Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

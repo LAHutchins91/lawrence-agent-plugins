@@ -1,6 +1,6 @@
 {
   "name": "weaktlsban",
-  "displayName": "Weak Tls Ban",
+  "displayName": "Weak TLS Ban",
   "version": "0.1.0",
   "description": "Fail CI on TLS misconfig (rejectUnauthorized false, SSLv3/TLSv1, weak ciphers).",
   "author": {

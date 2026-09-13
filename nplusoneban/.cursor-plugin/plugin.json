@@ -1,6 +1,6 @@
 {
   "name": "nplusoneban",
-  "displayName": "N Plus One Ban",
+  "displayName": "Plus One Ban",
   "version": "0.1.0",
   "description": "Fail CI on ORM/DB calls inside loops (N+1).",
   "author": {

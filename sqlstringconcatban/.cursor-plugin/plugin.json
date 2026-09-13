@@ -1,6 +1,6 @@
 {
   "name": "sqlstringconcatban",
-  "displayName": "Sql String Concat Ban",
+  "displayName": "SQL String Concat Ban",
   "version": "0.1.0",
   "description": "Fail CI on SQL string concat / template query building.",
   "author": {

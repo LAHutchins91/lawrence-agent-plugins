@@ -1,6 +1,6 @@
 {
   "name": "graphqlintrospectban",
-  "displayName": "Graphql Introspect Ban",
+  "displayName": "Graph QL Introspect Ban",
   "version": "0.1.0",
   "description": "Fail CI when GraphQL introspection/playground/GraphiQL ships in prod.",
   "author": {

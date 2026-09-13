@@ -1,4 +1,4 @@
-# Http To Https Miss Ban
+# HTTP To HTTPS Miss Ban
 
 Fail CI when production configs use plain HTTP.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Http To Https Miss Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **HTTP To HTTPS Miss Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

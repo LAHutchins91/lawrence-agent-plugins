@@ -1,6 +1,6 @@
 {
   "name": "readonlyrootfsmissban",
-  "displayName": "Read Only Root Fs Miss Ban",
+  "displayName": "Read Only Root FS Miss Ban",
   "version": "0.1.0",
   "description": "Fail CI when containers lack readOnlyRootFilesystem.",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "corswildcardban",
-  "displayName": "Cors Wildcard Ban",
+  "displayName": "CORS Wildcard Ban",
   "version": "0.1.0",
   "description": "Ban ACAO * + credentials / cors({origin:true}) + credentials.",
   "author": {

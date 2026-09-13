@@ -1,4 +1,4 @@
-# Deprecated Api Ban
+# Deprecated API Ban
 
 Fail CI on url.parse / new Buffer / createCipher / etc.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Deprecated Api Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Deprecated API Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

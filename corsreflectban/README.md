@@ -1,4 +1,4 @@
-# Cors Reflect Ban
+# CORS Reflect Ban
 
 Fail CI when CORS reflects Origin / origin:true with credentials.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Cors Reflect Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **CORS Reflect Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

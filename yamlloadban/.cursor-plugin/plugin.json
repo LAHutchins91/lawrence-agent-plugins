@@ -1,6 +1,6 @@
 {
   "name": "yamlloadban",
-  "displayName": "Yaml Load Ban",
+  "displayName": "YAML Load Ban",
   "version": "0.1.0",
   "description": "Fail CI on unsafe yaml.load / js-yaml load without JSON_SCHEMA.",
   "author": {

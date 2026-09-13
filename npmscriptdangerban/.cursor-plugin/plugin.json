@@ -1,6 +1,6 @@
 {
   "name": "npmscriptdangerban",
-  "displayName": "Npm Script Danger Ban",
+  "displayName": "NPM Script Danger Ban",
   "version": "0.1.0",
   "description": "Fail CI on dangerous package.json scripts.",
   "author": {

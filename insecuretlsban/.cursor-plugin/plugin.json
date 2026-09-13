@@ -1,6 +1,6 @@
 {
   "name": "insecuretlsban",
-  "displayName": "Insecure Tls Ban",
+  "displayName": "Insecure TLS Ban",
   "version": "0.1.0",
   "description": "Fail CI when TLS verification is disabled.",
   "author": {

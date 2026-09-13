@@ -1,4 +1,4 @@
-# Hardcoded Api Key Ban
+# Hardcoded API Key Ban
 
 Fail CI on hardcoded API keys in string literals (sk_, AKIA, ghp_, xoxb_, JWT).
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Hardcoded Api Key Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Hardcoded API Key Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

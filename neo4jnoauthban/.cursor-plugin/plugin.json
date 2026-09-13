@@ -1,6 +1,6 @@
 {
   "name": "neo4jnoauthban",
-  "displayName": "Neo 4 J No Auth Ban",
+  "displayName": "Neo 4 No Auth Ban",
   "version": "0.1.0",
   "description": "Fail CI when Neo4j drivers connect without auth.",
   "author": {

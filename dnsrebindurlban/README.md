@@ -1,4 +1,4 @@
-# Dns Rebind Url Ban
+# DNS Rebind URL Ban
 
 Fail CI when fetch URLs are built from user-controlled hostnames.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Dns Rebind Url Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **DNS Rebind URL Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

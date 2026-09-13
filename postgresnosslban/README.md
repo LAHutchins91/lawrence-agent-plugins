@@ -1,4 +1,4 @@
-# Postgres No Ssl Ban
+# Postgres No SSL Ban
 
 Fail CI when Postgres connection strings disable SSL.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Postgres No Ssl Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Postgres No SSL Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

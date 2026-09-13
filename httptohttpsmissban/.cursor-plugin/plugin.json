@@ -1,6 +1,6 @@
 {
   "name": "httptohttpsmissban",
-  "displayName": "Http To Https Miss Ban",
+  "displayName": "HTTP To HTTPS Miss Ban",
   "version": "0.1.0",
   "description": "Fail CI when production configs use plain HTTP.",
   "author": {

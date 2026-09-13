@@ -1,6 +1,6 @@
 {
   "name": "httponlycookieban",
-  "displayName": "Http Only Cookie Ban",
+  "displayName": "HTTP Only Cookie Ban",
   "version": "0.1.0",
   "description": "Fail CI on session/auth/jwt cookies missing httpOnly.",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "cisecretsinlogban",
-  "displayName": "Ci Secrets In Log Ban",
+  "displayName": "CI Secrets In Log Ban",
   "version": "0.1.0",
   "description": "Fail CI when workflows leak secrets into logs.",
   "author": {

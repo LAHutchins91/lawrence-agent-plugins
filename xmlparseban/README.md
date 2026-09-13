@@ -1,4 +1,4 @@
-# Xml Parse Ban
+# XML Parse Ban
 
 Fail CI on unsafe libxmljs/xml2js/fast-xml-parser / DOMParser XXE risks.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Xml Parse Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **XML Parse Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

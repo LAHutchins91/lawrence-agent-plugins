@@ -1,4 +1,4 @@
-# Fs Path Join Ban
+# FS Path Join Ban
 
 Fail CI on path.join/fs with user-controlled path segments.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Fs Path Join Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **FS Path Join Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

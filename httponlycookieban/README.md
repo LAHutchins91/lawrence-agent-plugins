@@ -1,4 +1,4 @@
-# Http Only Cookie Ban
+# HTTP Only Cookie Ban
 
 Fail CI on session/auth/jwt cookies missing httpOnly.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Http Only Cookie Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **HTTP Only Cookie Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

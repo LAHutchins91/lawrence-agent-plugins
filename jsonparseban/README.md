@@ -1,4 +1,4 @@
-# Json Parse Ban
+# JSON Parse Ban
 
 Fail CI on unsafe JSON.parse of req.body / event.data / readFile without validation.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Json Parse Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **JSON Parse Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

@@ -1,6 +1,6 @@
 {
   "name": "sastskipciban",
-  "displayName": "Sast Skip Ci Ban",
+  "displayName": "Sast Skip CI Ban",
   "version": "0.1.0",
   "description": "Fail CI when SAST scanners are skipped.",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "deprecatedapiban",
-  "displayName": "Deprecated Api Ban",
+  "displayName": "Deprecated API Ban",
   "version": "0.1.0",
   "description": "Fail CI on url.parse / new Buffer / createCipher / etc.",
   "author": {

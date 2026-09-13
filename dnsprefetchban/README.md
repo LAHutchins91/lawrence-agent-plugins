@@ -1,4 +1,4 @@
-# Dns Prefetch Ban
+# DNS Prefetch Ban
 
 Fail CI on missing X-DNS-Prefetch-Control: off.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Dns Prefetch Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **DNS Prefetch Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

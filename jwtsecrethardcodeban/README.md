@@ -1,4 +1,4 @@
-# Jwt Secret Hardcode Ban
+# JWT Secret Hardcode Ban
 
 Fail CI on jwt.sign/jose with hardcoded string secrets.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Jwt Secret Hardcode Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **JWT Secret Hardcode Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

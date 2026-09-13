@@ -1,6 +1,6 @@
 {
   "name": "sqlidentifierban",
-  "displayName": "Sql Identifier Ban",
+  "displayName": "SQL Identifier Ban",
   "version": "0.1.0",
   "description": "Fail CI on FROM/ORDER BY identifier interpolation from user input.",
   "author": {

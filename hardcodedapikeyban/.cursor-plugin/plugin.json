@@ -1,6 +1,6 @@
 {
   "name": "hardcodedapikeyban",
-  "displayName": "Hardcoded Api Key Ban",
+  "displayName": "Hardcoded API Key Ban",
   "version": "0.1.0",
   "description": "Fail CI on hardcoded API keys in string literals (sk_, AKIA, ghp_, xoxb_, JWT).",
   "author": {

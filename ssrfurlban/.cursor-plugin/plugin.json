@@ -1,6 +1,6 @@
 {
   "name": "ssrfurlban",
-  "displayName": "Ssrf Url Ban",
+  "displayName": "Ssrf URL Ban",
   "version": "0.1.0",
   "description": "Fail CI on fetch/axios/request to user-controlled URLs or private IPs.",
   "author": {

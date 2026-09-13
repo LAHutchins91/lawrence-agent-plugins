@@ -1,6 +1,6 @@
 {
   "name": "jwtnonealgban",
-  "displayName": "Jwt None Alg Ban",
+  "displayName": "JWT None Alg Ban",
   "version": "0.1.0",
   "description": "Fail CI on JWT verify with alg none or missing algorithms.",
   "author": {

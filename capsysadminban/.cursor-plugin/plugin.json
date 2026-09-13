@@ -1,6 +1,6 @@
 {
   "name": "capsysadminban",
-  "displayName": "Cap Sys Admin Ban",
+  "displayName": "Cap Sysadmin Ban",
   "version": "0.1.0",
   "description": "Fail CI when containers add SYS_ADMIN/NET_ADMIN/ALL.",
   "author": {

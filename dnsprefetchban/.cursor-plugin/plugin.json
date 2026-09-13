@@ -1,6 +1,6 @@
 {
   "name": "dnsprefetchban",
-  "displayName": "Dns Prefetch Ban",
+  "displayName": "DNS Prefetch Ban",
   "version": "0.1.0",
   "description": "Fail CI on missing X-DNS-Prefetch-Control: off.",
   "author": {

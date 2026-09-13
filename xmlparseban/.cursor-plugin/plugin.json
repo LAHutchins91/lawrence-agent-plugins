@@ -1,6 +1,6 @@
 {
   "name": "xmlparseban",
-  "displayName": "Xml Parse Ban",
+  "displayName": "XML Parse Ban",
   "version": "0.1.0",
   "description": "Fail CI on unsafe libxmljs/xml2js/fast-xml-parser / DOMParser XXE risks.",
   "author": {

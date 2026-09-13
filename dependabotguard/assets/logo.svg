@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Dependabot Guard logo">
+  <rect width="256" height="256" rx="48" fill="#182F0D"/>
+  <path d="M64 96 H192 V176 H64 Z" fill="none" stroke="#71DC3B" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M88 128 L112 152 L168 96" fill="none" stroke="#ADE0B5" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="136" text-anchor="middle" dominant-baseline="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="42" font-weight="800" fill="#DCEBD5">DG</text>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#DCEBD5">DEPENDABOT</text>
+</svg>

@@ -1,4 +1,4 @@
-# Http Param Pollution Ban
+# HTTP Param Pollution Ban
 
 Fail CI on qs allowPrototypes / HPP without hpp middleware.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Http Param Pollution Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **HTTP Param Pollution Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

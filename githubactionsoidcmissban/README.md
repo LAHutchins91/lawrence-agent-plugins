@@ -1,4 +1,4 @@
-# Github Actions Oidc Miss Ban
+# Git Hub Actions OIDC Miss Ban
 
 Fail CI when GitHub Actions use long-lived cloud keys instead of OIDC.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Github Actions Oidc Miss Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Git Hub Actions OIDC Miss Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

@@ -1,6 +1,6 @@
 {
   "name": "jsonparseban",
-  "displayName": "Json Parse Ban",
+  "displayName": "JSON Parse Ban",
   "version": "0.1.0",
   "description": "Fail CI on unsafe JSON.parse of req.body / event.data / readFile without validation.",
   "author": {

@@ -1,4 +1,4 @@
-# X Powered By Ban
+# Powered By Ban
 
 Fail CI on Express/Next leaking X-Powered-By.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **X Powered By Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Powered By Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

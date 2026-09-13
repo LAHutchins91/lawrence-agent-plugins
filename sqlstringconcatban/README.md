@@ -1,4 +1,4 @@
-# Sql String Concat Ban
+# SQL String Concat Ban
 
 Fail CI on SQL string concat / template query building.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Sql String Concat Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **SQL String Concat Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

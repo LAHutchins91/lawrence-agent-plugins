@@ -1,4 +1,4 @@
-# No Sql Inject Ban
+# No SQL Inject Ban
 
 Fail CI on Mongo/Mongoose NoSQL injection (req-spread, $where, operator merge).
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **No Sql Inject Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **No SQL Inject Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

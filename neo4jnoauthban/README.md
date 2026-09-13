@@ -1,4 +1,4 @@
-# Neo 4 J No Auth Ban
+# Neo 4 No Auth Ban
 
 Fail CI when Neo4j drivers connect without auth.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Neo 4 J No Auth Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Neo 4 No Auth Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

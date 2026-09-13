@@ -1,4 +1,4 @@
-# N Plus One Ban
+# Plus One Ban
 
 Fail CI on ORM/DB calls inside loops (N+1).
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **N Plus One Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Plus One Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

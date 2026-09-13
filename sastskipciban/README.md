@@ -1,4 +1,4 @@
-# Sast Skip Ci Ban
+# Sast Skip CI Ban
 
 Fail CI when SAST scanners are skipped.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Sast Skip Ci Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Sast Skip CI Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

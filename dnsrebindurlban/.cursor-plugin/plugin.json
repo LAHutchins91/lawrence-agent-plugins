@@ -1,6 +1,6 @@
 {
   "name": "dnsrebindurlban",
-  "displayName": "Dns Rebind Url Ban",
+  "displayName": "DNS Rebind URL Ban",
   "version": "0.1.0",
   "description": "Fail CI when fetch URLs are built from user-controlled hostnames.",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "npmauditcifailmissban",
-  "displayName": "Npm Audit Ci Fail Miss Ban",
+  "displayName": "NPM Audit CI Fail Miss Ban",
   "version": "0.1.0",
   "description": "Fail CI when package-manager audit gates are skipped.",
   "author": {

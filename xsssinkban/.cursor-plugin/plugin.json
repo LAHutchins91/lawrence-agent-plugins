@@ -1,6 +1,6 @@
 {
   "name": "xsssinkban",
-  "displayName": "Xss Sink Ban",
+  "displayName": "XSS Sink Ban",
   "version": "0.1.0",
   "description": "Fail CI on classic XSS sinks (innerHTML, document.write, dangerouslySetInnerHTML).",
   "author": {

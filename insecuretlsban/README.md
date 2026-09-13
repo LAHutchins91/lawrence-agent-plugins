@@ -1,4 +1,4 @@
-# Insecure Tls Ban
+# Insecure TLS Ban
 
 Fail CI when TLS verification is disabled.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **Insecure Tls Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Insecure TLS Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 

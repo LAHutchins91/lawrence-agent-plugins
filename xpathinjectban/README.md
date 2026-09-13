@@ -1,4 +1,4 @@
-# X Path Inject Ban
+# Path Inject Ban
 
 Fail CI on XPath query concatenation with user input.
 
@@ -12,7 +12,7 @@ Security-minded teams who want issues caught in the editor before CI.
 
 ## Install
 
-Install **X Path Inject Ban** from the Cursor marketplace, or open this folder as a local plugin.
+Install **Path Inject Ban** from the Cursor marketplace, or open this folder as a local plugin.
 
 ## Free forever
 
