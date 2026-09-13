@@ -621,6 +621,18 @@
         "accept-language",
         "devtools"
       ]
+    },
+    {
+      "name": "nginx-conf-lab",
+      "source": "nginx-conf-lab",
+      "description": "Lite nginx conf parse, listen ports, upstreams, lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "nginx",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
