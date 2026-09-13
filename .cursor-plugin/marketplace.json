@@ -1050,6 +1050,18 @@
         "bundler",
         "devtools"
       ]
+    },
+    {
+      "name": "babel-config-lab",
+      "source": "babel-config-lab",
+      "description": "Babel presets/plugins/targets parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "babel",
+        "transpiler",
+        "devtools"
+      ]
     }
   ]
 }
