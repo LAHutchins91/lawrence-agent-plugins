@@ -572,6 +572,18 @@
         "license",
         "devtools"
       ]
+    },
+    {
+      "name": "ssh-config-lab",
+      "source": "ssh-config-lab",
+      "description": "Parse/resolve/lint/redact SSH config text \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ssh",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
