@@ -2007,6 +2007,19 @@
         "http",
         "devtools"
       ]
+    },
+    {
+      "name": "ghz-lab",
+      "source": "ghz-lab",
+      "description": "ghz gRPC load targets/proto/concurrency parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ghz",
+        "grpc",
+        "load-testing",
+        "devtools"
+      ]
     }
   ]
 }

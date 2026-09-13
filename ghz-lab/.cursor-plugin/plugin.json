@@ -1,0 +1,15 @@
+{
+  "name": "ghz-lab",
+  "displayName": "ghz Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for ghz gRPC load heuristics — host/call target listings, proto/concurrency counts, and lite lint — pasted source only, never runs ghz or load tests, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "ghz", "grpc", "load-testing", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "ghz", "grpc", "load-testing", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
