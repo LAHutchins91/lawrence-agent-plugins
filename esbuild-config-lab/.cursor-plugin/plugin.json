@@ -1,0 +1,15 @@
+{
+  "name": "esbuild-config-lab",
+  "displayName": "Esbuild Config Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for esbuild build options / config text — entryPoints, loader, external, and lite lint — pasted config only, no esbuild binary, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "esbuild", "esbuild-config", "bundler", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "esbuild", "esbuild-config", "bundler", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

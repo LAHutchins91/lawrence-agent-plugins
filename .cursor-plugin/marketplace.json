@@ -1038,6 +1038,18 @@
         "bundler",
         "devtools"
       ]
+    },
+    {
+      "name": "esbuild-config-lab",
+      "source": "esbuild-config-lab",
+      "description": "esbuild entry/loaders/external parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "esbuild",
+        "bundler",
+        "devtools"
+      ]
     }
   ]
 }
