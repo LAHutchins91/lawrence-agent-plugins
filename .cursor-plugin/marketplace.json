@@ -695,6 +695,18 @@
         "sdl",
         "devtools"
       ]
+    },
+    {
+      "name": "docker-compose-lab",
+      "source": "docker-compose-lab",
+      "description": "Compose YAML services/ports/env keys + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "docker",
+        "compose",
+        "devtools"
+      ]
     }
   ]
 }
