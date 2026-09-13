@@ -1,0 +1,15 @@
+{
+  "name": "class-validator-lab",
+  "displayName": "Class Validator Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for class-validator / class-transformer TS decorator text — DTOs, decorators, nested, and lite lint — no runtime or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "class-validator", "class-transformer", "dto", "validation", "typescript", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "class-validator", "dto", "validation", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

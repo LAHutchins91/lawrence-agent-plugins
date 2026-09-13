@@ -1424,6 +1424,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "class-validator-lab",
+      "source": "class-validator-lab",
+      "description": "class-validator DTOs/decorators/nested parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "class-validator",
+        "dto",
+        "validation",
+        "devtools"
+      ]
     }
   ]
 }

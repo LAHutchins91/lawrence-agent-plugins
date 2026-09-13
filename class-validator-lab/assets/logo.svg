@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="class-validator-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="28" y="32" width="72" height="56" rx="8" fill="none" stroke="#a78bfa" stroke-width="6"/>
+  <path d="M40 48 H76 M40 60 H68 M40 72 H60" stroke="#c4b5fd" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="88" cy="88" r="14" fill="#7c3aed"/>
+  <path d="M82 88 L86 92 L96 80" fill="none" stroke="#ede9fe" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="5.5" font-weight="700" fill="#94a3b8">class-validator-lab</text>
+</svg>
