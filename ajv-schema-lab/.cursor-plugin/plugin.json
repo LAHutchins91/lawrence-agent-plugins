@@ -1,0 +1,15 @@
+{
+  "name": "ajv-schema-lab",
+  "displayName": "AJV Schema Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for JSON Schema / AJV schema text heuristics — schemas list, keyword counts, $ref hints, and lite lint — JSON.parse preferred, no AJV compile/validate, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "ajv", "json-schema", "schema", "validation", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "ajv", "json-schema", "schema", "validation", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

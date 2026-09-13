@@ -1437,6 +1437,19 @@
         "validation",
         "devtools"
       ]
+    },
+    {
+      "name": "ajv-schema-lab",
+      "source": "ajv-schema-lab",
+      "description": "AJV/JSON Schema schemas/keywords/refs parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ajv",
+        "json-schema",
+        "validation",
+        "devtools"
+      ]
     }
   ]
 }
