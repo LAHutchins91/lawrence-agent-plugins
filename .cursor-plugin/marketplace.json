@@ -180,6 +180,17 @@
         "git",
         "conventional-commits"
       ]
+    },
+    {
+      "name": "http-status-atlas",
+      "source": "http-status-atlas",
+      "description": "HTTP status explain/classify, retry advice, cache hints \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "http",
+        "status-codes"
+      ]
     }
   ]
 }

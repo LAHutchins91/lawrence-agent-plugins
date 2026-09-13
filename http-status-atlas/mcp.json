@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "http-status-atlas": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}
