@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Cosign Lab logo">
+  <rect width="256" height="256" rx="48" fill="#1E1B4B"/>
+  <rect x="48" y="72" width="160" height="112" rx="14" fill="none" stroke="#A78BFA" stroke-width="12"/>
+  <path d="M88 128 L112 152 L168 96" fill="none" stroke="#C4B5FD" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="184" cy="88" r="10" fill="#A78BFA"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" fill="#EDE9FE">COSIGN</text>
+</svg>

@@ -2326,6 +2326,19 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "cosign-lab",
+      "source": "cosign-lab",
+      "description": "Cosign sign/verify/attest heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cosign",
+        "signing",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
