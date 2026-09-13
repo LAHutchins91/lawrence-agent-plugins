@@ -1295,6 +1295,18 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "supabase-config-lab",
+      "source": "supabase-config-lab",
+      "description": "Supabase config.toml project/db/auth parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "supabase",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }
