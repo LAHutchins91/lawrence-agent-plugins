@@ -71,6 +71,19 @@
         "regression",
         "performance"
       ]
+    },
+    {
+      "name": "release-notes-forge",
+      "source": "release-notes-forge",
+      "description": "Turn conventional commits into release notes, flag breakings, suggest semver \u2014 local, zero-auth, free.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "release-notes",
+        "semver",
+        "changelog",
+        "conventional-commits"
+      ]
     }
   ]
 }

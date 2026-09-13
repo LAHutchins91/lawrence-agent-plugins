@@ -1,0 +1,15 @@
+{
+  "name": "release-notes-forge",
+  "displayName": "Release Notes Forge",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP that turns conventional-commit / changelog text into Keep-a-Changelog release notes, breaking-change scans, and semver bump suggestions — no SaaS.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "conventional-commits", "changelog", "release-notes", "semver", "keep-a-changelog"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "changelog", "semver", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
