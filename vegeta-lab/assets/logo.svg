@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Vegeta Lab logo">
+  <rect width="256" height="256" rx="48" fill="#0B1220"/>
+  <path d="M48 168 L128 56 L208 168 Z" fill="none" stroke="#A78BFA" stroke-width="14" stroke-linejoin="round"/>
+  <circle cx="128" cy="128" r="28" fill="#8B5CF6"/>
+  <path d="M72 188 H184" stroke="#C4B5FD" stroke-width="10" stroke-linecap="round"/>
+  <path d="M96 208 H160" stroke="#DDD6FE" stroke-width="8" stroke-linecap="round"/>
+  <text x="128" y="236" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#DDD6FE">VG</text>
+</svg>

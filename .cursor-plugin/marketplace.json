@@ -1916,6 +1916,19 @@
         "http",
         "devtools"
       ]
+    },
+    {
+      "name": "vegeta-lab",
+      "source": "vegeta-lab",
+      "description": "Vegeta targets/rates/reports parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "vegeta",
+        "load-testing",
+        "performance",
+        "devtools"
+      ]
     }
   ]
 }
