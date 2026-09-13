@@ -1,0 +1,15 @@
+{
+  "name": "commit-msg-guard",
+  "displayName": "Commit Msg Guard",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Conventional Commits parse, lint, breaking-change scan, and trailer checks — pasted text only.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "commit", "conventional-commits", "lint", "breaking-change", "trailers", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "commit", "conventional-commits", "lint", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

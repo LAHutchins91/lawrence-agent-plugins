@@ -169,6 +169,17 @@
         "npm",
         "dependencies"
       ]
+    },
+    {
+      "name": "commit-msg-guard",
+      "source": "commit-msg-guard",
+      "description": "Conventional commit parse/lint, breaking-change and trailer checks \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "git",
+        "conventional-commits"
+      ]
     }
   ]
 }

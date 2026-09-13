@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="commit-msg-guard">
+  <rect width="128" height="128" rx="24" fill="#0c1220"/>
+  <rect x="24" y="30" width="80" height="68" rx="8" fill="#1e3a5f" opacity="0.95"/>
+  <path d="M36 48h56M36 62h40M36 76h48" stroke="#38bdf8" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+  <circle cx="98" cy="96" r="18" fill="#0284c7"/>
+  <path d="M90 96l5 5 11-12" fill="none" stroke="#e0f2fe" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
