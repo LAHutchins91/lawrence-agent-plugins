@@ -2234,6 +2234,20 @@
         "security",
         "devtools"
       ]
+    },
+    {
+      "name": "vault-lab",
+      "source": "vault-lab",
+      "description": "Vault HCL policy/auth/secrets-path heuristics + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "vault",
+        "hashicorp",
+        "policy",
+        "security",
+        "devtools"
+      ]
     }
   ]
 }
