@@ -1333,6 +1333,19 @@
         "schema",
         "devtools"
       ]
+    },
+    {
+      "name": "typeorm-entity-lab",
+      "source": "typeorm-entity-lab",
+      "description": "TypeORM entities/relations/columns parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "typeorm",
+        "orm",
+        "entities",
+        "devtools"
+      ]
     }
   ]
 }
