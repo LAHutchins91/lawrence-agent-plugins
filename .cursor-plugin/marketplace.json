@@ -84,6 +84,18 @@
         "changelog",
         "conventional-commits"
       ]
+    },
+    {
+      "name": "json-schema-fixtures",
+      "source": "json-schema-fixtures",
+      "description": "Validate JSON against schemas, generate fixtures, diff schemas \u2014 local, zero-auth, free.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "json-schema",
+        "fixtures",
+        "testing"
+      ]
     }
   ]
 }

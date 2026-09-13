@@ -1,0 +1,15 @@
+{
+  "name": "json-schema-fixtures",
+  "displayName": "JSON Schema Fixtures",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for JSON Schema validation, seeded fixture generation, and structural schema diffs — no SaaS product.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "json-schema", "fixtures", "validation", "diff", "ajv"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "json-schema", "fixtures", "zero-auth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
