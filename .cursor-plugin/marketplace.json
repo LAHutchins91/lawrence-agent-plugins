@@ -633,6 +633,19 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "etag-cache-lab",
+      "source": "etag-cache-lab",
+      "description": "ETag normalize/compare, If-None-Match check, cache freshness hints \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "http",
+        "etag",
+        "cache",
+        "devtools"
+      ]
     }
   ]
 }
