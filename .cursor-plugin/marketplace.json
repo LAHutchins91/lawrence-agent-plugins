@@ -5344,6 +5344,19 @@
         "lambda",
         "devtools"
       ]
+    },
+    {
+      "name": "arm-template-lab",
+      "source": "arm-template-lab",
+      "description": "Azure ARM template resources/parameters/outputs parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "arm",
+        "azure",
+        "iac",
+        "devtools"
+      ]
     }
   ]
 }

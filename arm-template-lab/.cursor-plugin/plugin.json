@@ -1,0 +1,15 @@
+{
+  "name": "arm-template-lab",
+  "displayName": "ARM Template Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Azure ARM template JSON heuristics — no az CLI, deploy, or network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "azure", "arm", "arm-template", "bicep", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["FREE", "zero-auth", "arm", "azure", "mcp", "local"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
