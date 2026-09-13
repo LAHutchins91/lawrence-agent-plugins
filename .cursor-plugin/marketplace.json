@@ -830,6 +830,18 @@
         "gomod",
         "devtools"
       ]
+    },
+    {
+      "name": "prettier-config-lab",
+      "source": "prettier-config-lab",
+      "description": "Prettier config options/overrides/plugins + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "prettier",
+        "format",
+        "devtools"
+      ]
     }
   ]
 }
