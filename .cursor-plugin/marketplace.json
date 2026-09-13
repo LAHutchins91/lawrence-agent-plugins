@@ -1669,6 +1669,19 @@
         "testing",
         "devtools"
       ]
+    },
+    {
+      "name": "jest-mock-lab",
+      "source": "jest-mock-lab",
+      "description": "Jest jest.mock mocks/spies/timers parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "jest",
+        "mock",
+        "testing",
+        "devtools"
+      ]
     }
   ]
 }
