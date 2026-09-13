@@ -1,0 +1,15 @@
+{
+  "name": "markdown-toc-lint",
+  "displayName": "Markdown TOC Lint",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Markdown TOC generate/check, heading lint, and link scan — no SaaS product.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "markdown", "toc", "headings", "lint", "links"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "markdown", "toc", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
