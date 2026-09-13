@@ -415,6 +415,18 @@
         "url",
         "devtools"
       ]
+    },
+    {
+      "name": "html-entity-lab",
+      "source": "html-entity-lab",
+      "description": "HTML escape/unescape, entity lookup, naive strip_tags \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "html",
+        "entities",
+        "devtools"
+      ]
     }
   ]
 }
