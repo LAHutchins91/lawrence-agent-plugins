@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="popeye-lab">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0c4a6e"/>
+      <stop offset="100%" stop-color="#082f49"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#sea)"/>
+  <!-- sailor hat brim -->
+  <ellipse cx="64" cy="42" rx="38" ry="10" fill="#e0f2fe"/>
+  <rect x="38" y="22" width="52" height="22" rx="6" fill="#38bdf8"/>
+  <rect x="52" y="18" width="24" height="10" rx="3" fill="#7dd3fc"/>
+  <!-- eye / peephole -->
+  <circle cx="64" cy="72" r="26" fill="#0ea5e9" opacity="0.35"/>
+  <circle cx="64" cy="72" r="18" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+  <circle cx="64" cy="72" r="8" fill="#f0f9ff"/>
+  <circle cx="66" cy="70" r="3" fill="#0c4a6e"/>
+  <!-- spinach leaf accent -->
+  <path d="M20 96 C28 84, 40 88, 44 98 C36 100, 26 104, 20 96Z" fill="#4ade80"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="10" font-weight="700" fill="#bae6fd">POPEYE</text>
+</svg>

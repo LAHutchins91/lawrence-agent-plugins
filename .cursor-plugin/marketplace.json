@@ -2351,6 +2351,11 @@
       "name": "jsonlint-lab",
       "source": "jsonlint-lab",
       "description": "JSON lint modes/options/sort heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "popeye-lab",
+      "source": "popeye-lab",
+      "description": "Popeye Kubernetes scans/sanitizers/excludes heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }
