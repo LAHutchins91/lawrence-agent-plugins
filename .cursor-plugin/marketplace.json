@@ -1320,6 +1320,19 @@
         "orm",
         "devtools"
       ]
+    },
+    {
+      "name": "drizzle-schema-lab",
+      "source": "drizzle-schema-lab",
+      "description": "Drizzle schema tables/relations/migrations parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "drizzle",
+        "orm",
+        "schema",
+        "devtools"
+      ]
     }
   ]
 }
