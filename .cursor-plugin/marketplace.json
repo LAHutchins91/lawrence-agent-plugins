@@ -2352,6 +2352,19 @@
         "hcl",
         "devtools"
       ]
+    },
+    {
+      "name": "sops-lab",
+      "source": "sops-lab",
+      "description": "SOPS files/keys/rules heuristics + lite lint \u2014 free marketplace funnel (no secret values).",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "sops",
+        "secrets",
+        "encryption",
+        "devtools"
+      ]
     }
   ]
 }
