@@ -1760,6 +1760,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "appium-lab",
+      "source": "appium-lab",
+      "description": "Appium capabilities/locators/gestures parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "appium",
+        "mobile",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }

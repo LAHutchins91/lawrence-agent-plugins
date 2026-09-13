@@ -1,0 +1,15 @@
+{
+  "name": "appium-lab",
+  "displayName": "Appium Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Appium JS/TS/JSON-ish heuristics — capability keys, locator counts, gesture counts, and lite lint — pasted source only, never runs Appium or a device/emulator/WebDriver, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "appium", "mobile", "webdriver", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "appium", "mobile", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
