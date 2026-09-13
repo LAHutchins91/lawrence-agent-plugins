@@ -5435,6 +5435,19 @@
         "iac",
         "devtools"
       ]
+    },
+    {
+      "name": "sentinel-lab",
+      "source": "sentinel-lab",
+      "description": "HashiCorp Sentinel policies/imports/params parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "sentinel",
+        "hashicorp",
+        "policy",
+        "devtools"
+      ]
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "sentinel-lab",
+  "displayName": "Sentinel Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for HashiCorp Sentinel policy heuristics — policy listings, import/param hints, and lite lint — pasted source only, never runs Sentinel CLI, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "sentinel", "hashicorp", "policy", "policy-as-code", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "sentinel", "hashicorp", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
