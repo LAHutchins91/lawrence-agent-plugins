@@ -1554,6 +1554,18 @@
         "validation",
         "devtools"
       ]
+    },
+    {
+      "name": "fast-check-lab",
+      "source": "fast-check-lab",
+      "description": "fast-check arbitraries/props/constraints parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "fast-check",
+        "property-testing",
+        "devtools"
+      ]
     }
   ]
 }
