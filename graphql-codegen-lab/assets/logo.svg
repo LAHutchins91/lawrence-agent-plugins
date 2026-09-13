@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="graphql-codegen-lab">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <polygon points="64,28 96,46 96,82 64,100 32,82 32,46" fill="none" stroke="#e879f9" stroke-width="4"/>
+  <circle cx="64" cy="28" r="5" fill="#f0abfc"/>
+  <circle cx="96" cy="46" r="5" fill="#f0abfc"/>
+  <circle cx="96" cy="82" r="5" fill="#f0abfc"/>
+  <circle cx="64" cy="100" r="5" fill="#f0abfc"/>
+  <circle cx="32" cy="82" r="5" fill="#f0abfc"/>
+  <circle cx="32" cy="46" r="5" fill="#f0abfc"/>
+  <path d="M48 58 H80 M48 70 H68" stroke="#c084fc" stroke-width="3" stroke-linecap="round"/>
+  <text x="64" y="122" text-anchor="middle" font-family="ui-monospace, monospace" font-size="6" font-weight="700" fill="#e879f9">graphql-codegen-lab</text>
+</svg>

@@ -2097,6 +2097,19 @@
         "codegen",
         "devtools"
       ]
+    },
+    {
+      "name": "graphql-codegen-lab",
+      "source": "graphql-codegen-lab",
+      "description": "GraphQL Code Generator plugins/documents/scalars parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "graphql-codegen",
+        "graphql",
+        "codegen",
+        "devtools"
+      ]
     }
   ]
 }
