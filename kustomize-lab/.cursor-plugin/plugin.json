@@ -1,0 +1,15 @@
+{
+  "name": "kustomize-lab",
+  "displayName": "Kustomize Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for kustomization.yaml heuristics — resources/bases/components listings, overlay counts, patches hints, and lite lint — pasted source only, never runs kustomize or kubectl, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "kustomize", "kubernetes", "yaml", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "kustomize", "kubernetes", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

@@ -2162,6 +2162,19 @@
         "devops",
         "devtools"
       ]
+    },
+    {
+      "name": "kustomize-lab",
+      "source": "kustomize-lab",
+      "description": "kustomization.yaml resources/overlays/patches parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "kustomize",
+        "kubernetes",
+        "gitops",
+        "devtools"
+      ]
     }
   ]
 }
