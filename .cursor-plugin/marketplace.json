@@ -1231,6 +1231,19 @@
         "config",
         "devtools"
       ]
+    },
+    {
+      "name": "cloudflare-wrangler-lab",
+      "source": "cloudflare-wrangler-lab",
+      "description": "wrangler.toml name/routes/bindings parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "cloudflare",
+        "wrangler",
+        "config",
+        "devtools"
+      ]
     }
   ]
 }

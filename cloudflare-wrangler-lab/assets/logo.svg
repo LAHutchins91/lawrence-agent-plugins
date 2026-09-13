@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="cloudflare-wrangler-lab">
+  <rect width="128" height="128" rx="24" fill="#1a1208"/>
+  <ellipse cx="52" cy="58" rx="22" ry="14" fill="#f38020"/>
+  <ellipse cx="74" cy="62" rx="26" ry="16" fill="#f5a623"/>
+  <ellipse cx="64" cy="52" rx="18" ry="12" fill="#faad3f"/>
+  <text x="64" y="92" text-anchor="middle" font-family="ui-monospace, monospace" font-size="22" font-weight="700" fill="#fff7ed">W</text>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="5.5" font-weight="700" fill="#fdba74">cloudflare-wrangler-lab</text>
+</svg>
