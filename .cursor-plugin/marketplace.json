@@ -320,6 +320,18 @@
         "mime",
         "content-type"
       ]
+    },
+    {
+      "name": "ini-toml-lite",
+      "source": "ini-toml-lite",
+      "description": "INI/TOML-lite parse, config key diff, secret redact \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "ini",
+        "toml",
+        "config"
+      ]
     }
   ]
 }

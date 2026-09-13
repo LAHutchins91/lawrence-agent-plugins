@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="ini-toml-lite">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="20" y="26" width="88" height="76" rx="8" fill="#1e3a5f" opacity="0.95"/>
+  <text x="64" y="56" text-anchor="middle" font-family="ui-monospace,monospace" font-size="16" font-weight="700" fill="#38bdf8">[ini]</text>
+  <text x="64" y="80" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" font-weight="700" fill="#a78bfa">toml</text>
+  <text x="64" y="96" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" font-weight="600" fill="#94a3b8">lite</text>
+</svg>

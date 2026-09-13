@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ini-toml-lite": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}

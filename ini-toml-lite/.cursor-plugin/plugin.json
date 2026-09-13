@@ -1,0 +1,15 @@
+{
+  "name": "ini-toml-lite",
+  "displayName": "INI TOML Lite",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for INI/TOML-lite parse, flat config key diff, and secret-key redaction — paste text only, no network.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "ini", "toml", "config", "redact", "local", "zero-auth"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "ini", "toml", "config", "redact", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
