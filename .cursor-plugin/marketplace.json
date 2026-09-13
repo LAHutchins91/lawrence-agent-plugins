@@ -464,6 +464,18 @@
         "filesize",
         "devtools"
       ]
+    },
+    {
+      "name": "timezone-lab",
+      "source": "timezone-lab",
+      "description": "IANA timezone convert/offset, common TZ list, ISO Z normalize \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "timezone",
+        "datetime",
+        "devtools"
+      ]
     }
   ]
 }
