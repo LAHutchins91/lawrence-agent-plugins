@@ -1773,6 +1773,19 @@
         "e2e",
         "devtools"
       ]
+    },
+    {
+      "name": "webdriverio-lab",
+      "source": "webdriverio-lab",
+      "description": "WebdriverIO specs/selectors/commands parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "webdriverio",
+        "wdio",
+        "e2e",
+        "devtools"
+      ]
     }
   ]
 }
