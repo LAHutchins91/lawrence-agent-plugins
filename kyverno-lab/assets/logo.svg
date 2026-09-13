@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="kyverno-lab">
+  <defs>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="100%" stop-color="#022c22"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#shield)"/>
+  <!-- policy shield -->
+  <path d="M64 18 L98 32 L98 62 C98 86 80 104 64 112 C48 104 30 86 30 62 L30 32 Z" fill="#10b981" opacity="0.9"/>
+  <path d="M64 28 L88 38 L88 60 C88 78 74 92 64 98 C54 92 40 78 40 60 L40 38 Z" fill="#d1fae5"/>
+  <!-- checkmark (policy validated) -->
+  <path d="M52 62 L60 70 L76 50" fill="none" stroke="#065f46" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="122" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="9" font-weight="700" fill="#a7f3d0">KYVERNO</text>
+</svg>

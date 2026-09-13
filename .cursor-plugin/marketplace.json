@@ -2361,6 +2361,11 @@
       "name": "markdownlint-lab",
       "source": "markdownlint-lab",
       "description": "markdownlint rules/extends/ignores heuristics + lite lint \u2014 free marketplace funnel."
+    },
+    {
+      "name": "kyverno-lab",
+      "source": "kyverno-lab",
+      "description": "Kyverno policies validate/mutate heuristics + lite lint \u2014 free marketplace funnel."
     }
   ]
 }

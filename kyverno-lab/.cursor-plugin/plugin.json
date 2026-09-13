@@ -1,0 +1,30 @@
+{
+  "name": "kyverno-lab",
+  "displayName": "Kyverno Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Kyverno ClusterPolicy/Policy YAML heuristics (policies, validate, mutate) \u2014 no kyverno CLI, network, or filesystem follow.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/LAHutchins91/lawrence-agent-plugins/tree/main/kyverno-lab",
+  "keywords": [
+    "mcp",
+    "kyverno",
+    "kubernetes",
+    "k8s",
+    "policy",
+    "developer-tools"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "FREE",
+    "zero-auth",
+    "kyverno",
+    "k8s",
+    "mcp",
+    "local"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
