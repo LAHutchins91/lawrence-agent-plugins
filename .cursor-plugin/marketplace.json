@@ -781,6 +781,18 @@
         "toml",
         "devtools"
       ]
+    },
+    {
+      "name": "tsconfig-lab",
+      "source": "tsconfig-lab",
+      "description": "tsconfig compilerOptions/paths/extends + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "typescript",
+        "tsconfig",
+        "devtools"
+      ]
     }
   ]
 }
