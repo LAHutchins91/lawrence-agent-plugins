@@ -1,0 +1,15 @@
+{
+  "name": "tox-ini-lab",
+  "displayName": "Tox INI Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for tox.ini text — envlist, commands map, deps list, and lite lint — no tox binary, no network, no venv.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "tox", "tox.ini", "python", "envlist", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "tox", "tox.ini", "python", "envlist", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}

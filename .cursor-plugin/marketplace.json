@@ -928,6 +928,18 @@
         "heroku",
         "devtools"
       ]
+    },
+    {
+      "name": "tox-ini-lab",
+      "source": "tox-ini-lab",
+      "description": "tox.ini envlist/commands/deps + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "tox",
+        "python",
+        "devtools"
+      ]
     }
   ]
 }
