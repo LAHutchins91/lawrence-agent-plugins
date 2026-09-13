@@ -8,6 +8,7 @@ Marketplace bundle of zero-auth local MCP plugins for coding agents.
 | [log-fingerprint](./log-fingerprint) | Log clustering, spikes, error-budget briefs |
 | [env-contract](./env-contract) | Env schema infer, drift checks, safe `.env.example` |
 | [sql-migration-guard](./sql-migration-guard) | SQL migration risk, locks, order, rollback sketches |
+| [har-diff](./har-diff) | HAR capture summary, before/after diff, failing triage, cookie scan |
 
 ## Local test
 

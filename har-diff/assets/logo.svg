@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="har-diff">
+  <rect width="128" height="128" rx="24" fill="#0f172a"/>
+  <rect x="18" y="28" width="40" height="52" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+  <rect x="70" y="28" width="40" height="52" rx="6" fill="#1e293b" stroke="#a78bfa" stroke-width="3"/>
+  <path d="M28 42h20M28 52h14M28 62h18" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80 42h20M80 52h14M80 62h18" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M58 54h12" stroke="#f472b6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M66 48l8 6-8 6" fill="none" stroke="#f472b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="64" cy="100" r="16" fill="#0ea5e9"/>
+  <path d="M56 100h16M64 92v16" fill="none" stroke="#ecfeff" stroke-width="3" stroke-linecap="round"/>
+</svg>

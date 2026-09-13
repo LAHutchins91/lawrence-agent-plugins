@@ -4,7 +4,7 @@
     "name": "Lawrence Hutchins"
   },
   "metadata": {
-    "description": "Zero-auth local MCP plugins for coding agents: Dev Microtools, Log Fingerprint, Env Contract, SQL Migration Guard."
+    "description": "Zero-auth free local MCP plugins for coding agents (Cursor marketplace). Paid Pro is a separate product outside this repo."
   },
   "plugins": [
     {
@@ -56,6 +56,20 @@
         "migrations",
         "postgres",
         "mysql"
+      ]
+    },
+    {
+      "name": "har-diff",
+      "source": "har-diff",
+      "description": "Compare HTTP Archive (HAR) captures for status/timing/size regressions, list failing requests, scan cookie names/flags \u2014 local, zero-auth.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "har",
+        "http-archive",
+        "diff",
+        "regression",
+        "performance"
       ]
     }
   ]

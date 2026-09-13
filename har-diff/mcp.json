@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "har-diff": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/dist/bundle.js"]
+    }
+  }
+}
