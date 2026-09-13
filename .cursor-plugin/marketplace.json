@@ -916,6 +916,18 @@
         "c++",
         "devtools"
       ]
+    },
+    {
+      "name": "procfile-lab",
+      "source": "procfile-lab",
+      "description": "Procfile parse/process list/env refs + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "procfile",
+        "heroku",
+        "devtools"
+      ]
     }
   ]
 }

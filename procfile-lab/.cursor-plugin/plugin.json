@@ -1,0 +1,15 @@
+{
+  "name": "procfile-lab",
+  "displayName": "Procfile Lab",
+  "version": "1.0.0",
+  "description": "Local zero-auth MCP for Procfile text — parse entries, list process types, env $VAR refs, and lite lint — no network, no process spawn.",
+  "author": {
+    "name": "Lawrence Hutchins"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "procfile", "heroku", "foreman", "env", "developer-tools"],
+  "category": "developer-tools",
+  "tags": ["mcp", "local", "procfile", "heroku", "foreman", "env", "zero-auth", "FREE"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
