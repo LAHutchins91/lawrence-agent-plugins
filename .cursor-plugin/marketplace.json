@@ -5500,6 +5500,19 @@
         "policy",
         "devtools"
       ]
+    },
+    {
+      "name": "nomad-lab",
+      "source": "nomad-lab",
+      "description": "Nomad job HCL jobs/groups/tasks parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "nomad",
+        "hashicorp",
+        "devops",
+        "devtools"
+      ]
     }
   ]
 }
