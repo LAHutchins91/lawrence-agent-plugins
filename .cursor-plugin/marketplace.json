@@ -2123,6 +2123,19 @@
         "codegen",
         "devtools"
       ]
+    },
+    {
+      "name": "kiwi-lab",
+      "source": "kiwi-lab",
+      "description": "Kiwi OpenAPI client schemas/hooks parse + lite lint \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "kiwi",
+        "openapi",
+        "codegen",
+        "devtools"
+      ]
     }
   ]
 }
