@@ -524,6 +524,18 @@
         "delimiter",
         "devtools"
       ]
+    },
+    {
+      "name": "shebang-lab",
+      "source": "shebang-lab",
+      "description": "Parse, detect, normalize, and warn on shebangs \u2014 free marketplace funnel.",
+      "category": "developer-tools",
+      "keywords": [
+        "mcp",
+        "shebang",
+        "scripts",
+        "devtools"
+      ]
     }
   ]
 }
